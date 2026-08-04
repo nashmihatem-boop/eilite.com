@@ -267,6 +267,21 @@ import { contractorBatch2Articles } from "@/lib/articles/data/contractor-batch-2
 import { contractorBatch3Articles } from "@/lib/articles/data/contractor-batch-3";
 import { contractorBatch4Articles } from "@/lib/articles/data/contractor-batch-4";
 import { contractorBatch5Articles } from "@/lib/articles/data/contractor-batch-5";
+import { contractorBatch6Articles } from "@/lib/articles/data/contractor-batch-6";
+import { contractorBatch7Articles } from "@/lib/articles/data/contractor-batch-7";
+import { contractorBatch8Articles } from "@/lib/articles/data/contractor-batch-8";
+import { contractorBatch9Articles } from "@/lib/articles/data/contractor-batch-9";
+import { contractorBatch10Articles } from "@/lib/articles/data/contractor-batch-10";
+import { contractorBatch11Articles } from "@/lib/articles/data/contractor-batch-11";
+import { contractorBatch12Articles } from "@/lib/articles/data/contractor-batch-12";
+import { contractorBatch13Articles } from "@/lib/articles/data/contractor-batch-13";
+import { contractorBatch14Articles } from "@/lib/articles/data/contractor-batch-14";
+import { contractorBatch15Articles } from "@/lib/articles/data/contractor-batch-15";
+import { contractorBatch16Articles } from "@/lib/articles/data/contractor-batch-16";
+import { contractorBatch17Articles } from "@/lib/articles/data/contractor-batch-17";
+import { contractorBatch18Articles } from "@/lib/articles/data/contractor-batch-18";
+import { contractorBatch19Articles } from "@/lib/articles/data/contractor-batch-19";
+import { contractorBatch20Articles } from "@/lib/articles/data/contractor-batch-20";
 import { leadgenPillar1Articles } from "@/lib/articles/data/leadgen-pillar-1";
 import { leadgenPillar2Articles } from "@/lib/articles/data/leadgen-pillar-2";
 import { leadgenPillar3Articles } from "@/lib/articles/data/leadgen-pillar-3";
@@ -568,6 +583,21 @@ export const articles: Article[] = [
   ...contractorBatch3Articles,
   ...contractorBatch4Articles,
   ...contractorBatch5Articles,
+  ...contractorBatch6Articles,
+  ...contractorBatch7Articles,
+  ...contractorBatch8Articles,
+  ...contractorBatch9Articles,
+  ...contractorBatch10Articles,
+  ...contractorBatch11Articles,
+  ...contractorBatch12Articles,
+  ...contractorBatch13Articles,
+  ...contractorBatch14Articles,
+  ...contractorBatch15Articles,
+  ...contractorBatch16Articles,
+  ...contractorBatch17Articles,
+  ...contractorBatch18Articles,
+  ...contractorBatch19Articles,
+  ...contractorBatch20Articles,
   ...leadgenPillar1Articles,
   ...leadgenPillar2Articles,
   ...leadgenPillar3Articles,
