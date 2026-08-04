@@ -40,9 +40,9 @@ export function CoverageSolutionCards({ industryLabel }: { industryLabel: string
             <Link
               key={item.title}
               href={item.href}
-              className="group rounded-2xl border border-[var(--color-line)] bg-white p-6 shadow-sm transition-colors hover:border-[var(--color-brand)]/40"
+              className="group rounded-2xl border border-[var(--color-line)] bg-white p-6 text-center shadow-sm transition-colors hover:border-[var(--color-brand)]/40"
             >
-              <span className="flex h-11 w-11 items-center justify-center rounded-full bg-[var(--color-surface-tint)]">
+              <span className="mx-auto flex h-11 w-11 items-center justify-center rounded-full bg-[var(--color-surface-tint)]">
                 <item.icon className="h-5 w-5 text-[var(--color-brand)]" strokeWidth={2} />
               </span>
               <h3 className="mt-4 font-heading text-lg font-bold text-[var(--color-ink)]">

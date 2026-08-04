@@ -45,24 +45,27 @@ export function LearningCenterBrowser({ articles, categories }: { articles: Arti
         </span>
       </div>
 
-      <div className="mt-5 flex flex-wrap gap-2">
-        {["All", ...categories].map((category) => (
-          <button
-            key={category}
-            type="button"
-            onClick={() => {
-              setActiveCategory(category);
-              setVisibleCount(PAGE_SIZE);
-            }}
-            className={`rounded-full border px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.08em] transition-colors ${
-              activeCategory === category
-                ? "border-[var(--color-brand)] bg-[var(--color-brand)] text-white"
-                : "border-[var(--color-line)] bg-white text-[var(--color-ink-soft)] hover:border-[var(--color-brand)]/50"
-            }`}
-          >
-            {category}
-          </button>
-        ))}
+      <div className="relative mt-5">
+        <div className="flex gap-2.5 overflow-x-auto pb-1 [-ms-overflow-style:none] [scrollbar-width:none] sm:flex-wrap sm:gap-3 sm:overflow-visible sm:pb-0 [&::-webkit-scrollbar]:hidden">
+          {["All", ...categories].map((category) => (
+            <button
+              key={category}
+              type="button"
+              onClick={() => {
+                setActiveCategory(category);
+                setVisibleCount(PAGE_SIZE);
+              }}
+              className={`shrink-0 rounded-full border px-4 py-2 text-xs font-semibold uppercase tracking-[0.08em] transition-colors ${
+                activeCategory === category
+                  ? "border-[var(--color-brand)] bg-[var(--color-brand)] text-white"
+                  : "border-[var(--color-line)] bg-white text-[var(--color-ink-soft)] hover:border-[var(--color-brand)]/50"
+              }`}
+            >
+              {category}
+            </button>
+          ))}
+        </div>
+        <div className="pointer-events-none absolute right-0 top-0 h-full w-10 bg-gradient-to-l from-white to-transparent sm:hidden" />
       </div>
 
       {visible.length === 0 ? (
