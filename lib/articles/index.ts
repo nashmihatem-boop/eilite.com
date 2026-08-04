@@ -275,6 +275,7 @@ import { leadgenPillar5Articles } from "@/lib/articles/data/leadgen-pillar-5";
 import { leadgenPillar6Articles } from "@/lib/articles/data/leadgen-pillar-6";
 import { leadgenPillar7Articles } from "@/lib/articles/data/leadgen-pillar-7";
 import { leadgenPillar8Articles } from "@/lib/articles/data/leadgen-pillar-8";
+import { leadgenPillar9Articles } from "@/lib/articles/data/leadgen-pillar-9";
 
 export type { Article, ArticleBlock } from "@/lib/articles/types";
 
@@ -555,6 +556,7 @@ export const articles: Article[] = [
   ...leadgenPillar6Articles,
   ...leadgenPillar7Articles,
   ...leadgenPillar8Articles,
+  ...leadgenPillar9Articles,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
