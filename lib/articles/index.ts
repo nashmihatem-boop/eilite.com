@@ -287,6 +287,11 @@ import { competitorMatch07Articles } from "@/lib/articles/data/competitor-match-
 import { competitorMatch08Articles } from "@/lib/articles/data/competitor-match-08";
 import { competitorMatch09Articles } from "@/lib/articles/data/competitor-match-09";
 import { competitorMatch10Articles } from "@/lib/articles/data/competitor-match-10";
+import { competitorMatch11Articles } from "@/lib/articles/data/competitor-match-11";
+import { competitorMatch12Articles } from "@/lib/articles/data/competitor-match-12";
+import { competitorMatch13Articles } from "@/lib/articles/data/competitor-match-13";
+import { competitorMatch14Articles } from "@/lib/articles/data/competitor-match-14";
+import { competitorMatch15Articles } from "@/lib/articles/data/competitor-match-15";
 
 export type { Article, ArticleBlock } from "@/lib/articles/types";
 
@@ -579,6 +584,11 @@ export const articles: Article[] = [
   ...competitorMatch08Articles,
   ...competitorMatch09Articles,
   ...competitorMatch10Articles,
+  ...competitorMatch11Articles,
+  ...competitorMatch12Articles,
+  ...competitorMatch13Articles,
+  ...competitorMatch14Articles,
+  ...competitorMatch15Articles,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
