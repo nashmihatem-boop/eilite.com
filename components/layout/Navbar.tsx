@@ -1,4 +1,8 @@
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
+import { Menu, X } from "lucide-react";
 import { Logomark } from "@/components/graphics/Logomark";
 import { DemoTriggerButton } from "@/components/ui/DemoTriggerButton";
 import { NavDropdown } from "@/components/layout/NavDropdown";
@@ -17,10 +21,12 @@ const publisherLinks = [
 ];
 
 export function Navbar() {
+  const [mobileOpen, setMobileOpen] = useState(false);
+
   return (
     <header className="sticky top-0 z-50 border-b border-[var(--color-line)] bg-white/90 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
-        <Link href="/" className="flex items-center gap-2">
+        <Link href="/" className="flex items-center gap-2" onClick={() => setMobileOpen(false)}>
           <Logomark className="h-8 w-8" />
           <span className="font-heading text-xl font-bold tracking-tight text-[var(--color-ink)]">Eilite</span>
         </Link>
@@ -51,7 +57,7 @@ export function Navbar() {
           </DemoTriggerButton>
         </nav>
 
-        <div className="hidden items-center gap-3 md:flex">
+        <div className="hidden items-center gap-3 md:flex lg:flex">
           <a
             href="tel:+13022447240"
             className="text-sm font-semibold text-[var(--color-ink)] transition-colors hover:text-[var(--color-brand)]"
@@ -62,7 +68,89 @@ export function Navbar() {
             Book a Demo Call
           </DemoTriggerButton>
         </div>
+
+        <button
+          type="button"
+          onClick={() => setMobileOpen((o) => !o)}
+          aria-label={mobileOpen ? "Close menu" : "Open menu"}
+          aria-expanded={mobileOpen}
+          className="flex h-10 w-10 items-center justify-center rounded-lg text-[var(--color-ink)] lg:hidden"
+        >
+          {mobileOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+        </button>
       </div>
+
+      {mobileOpen && (
+        <nav className="border-t border-[var(--color-line)] bg-white px-6 py-4 lg:hidden">
+          <div className="flex flex-col gap-1">
+            <Link
+              href="/"
+              onClick={() => setMobileOpen(false)}
+              className="rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
+            >
+              Home
+            </Link>
+
+            <div className="px-3 pt-3 pb-1 text-xs font-semibold uppercase tracking-[0.1em] text-[var(--color-muted)]">
+              Advertisers
+            </div>
+            {advertiserLinks.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                onClick={() => setMobileOpen(false)}
+                className="rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
+              >
+                {item.label}
+              </Link>
+            ))}
+
+            <div className="px-3 pt-3 pb-1 text-xs font-semibold uppercase tracking-[0.1em] text-[var(--color-muted)]">
+              Publishers
+            </div>
+            {publisherLinks.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                onClick={() => setMobileOpen(false)}
+                className="rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
+              >
+                {item.label}
+              </Link>
+            ))}
+
+            <Link
+              href="/coverage"
+              onClick={() => setMobileOpen(false)}
+              className="mt-3 rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
+            >
+              Coverage
+            </Link>
+            <Link
+              href="/learning-center"
+              onClick={() => setMobileOpen(false)}
+              className="rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
+            >
+              Learning Center
+            </Link>
+            <DemoTriggerButton className="rounded-lg px-3 py-2.5 text-left text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]">
+              Contact Us
+            </DemoTriggerButton>
+          </div>
+
+          <div className="mt-4 flex flex-col gap-3 border-t border-[var(--color-line)] pt-4">
+            <a
+              href="tel:+13022447240"
+              className="text-sm font-semibold text-[var(--color-ink)] transition-colors hover:text-[var(--color-brand)]"
+            >
+              (302) 244-7240
+            </a>
+            <DemoTriggerButton className="w-full rounded-full bg-[var(--color-brand)] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-dark)]">
+              Book a Demo Call
+            </DemoTriggerButton>
+          </div>
+        </nav>
+      )}
     </header>
   );
 }

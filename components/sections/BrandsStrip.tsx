@@ -17,7 +17,7 @@ export function BrandsStrip() {
           Dedicated brands powering growth across law, finance, home services, and insurance.
         </p>
 
-        <div className="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-4">
+        <div className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-4">
           {brands.map((brand) => (
             <a
               key={brand.name}
@@ -26,7 +26,7 @@ export function BrandsStrip() {
               rel="noopener noreferrer"
               className="rounded-2xl border border-[var(--color-line)] bg-white px-4 py-8 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:border-[var(--color-brand)]/50 hover:shadow-md"
             >
-              <div className="font-heading text-lg font-bold text-[var(--color-ink)]">{brand.name}</div>
+              <div className="break-words font-heading text-lg font-bold text-[var(--color-ink)]">{brand.name}</div>
               <div className="mt-1 text-xs font-semibold uppercase tracking-[0.14em] text-[var(--color-brand)]">
                 {brand.tag}
               </div>

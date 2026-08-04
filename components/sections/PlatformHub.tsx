@@ -90,9 +90,9 @@ export function PlatformHub() {
               {spokes.map((spoke) => (
                 <div
                   key={spoke.label}
-                  className="flex items-center gap-1.5 rounded-full border border-[var(--color-line)] bg-white px-3 py-2 shadow-sm"
+                  className="flex items-start gap-1.5 rounded-2xl border border-[var(--color-line)] bg-white px-3 py-2 shadow-sm"
                 >
-                  <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-[var(--color-brand)]" />
+                  <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-[var(--color-brand)]" />
                   <span className="text-xs font-semibold text-[var(--color-ink)]">{spoke.label}</span>
                 </div>
               ))}

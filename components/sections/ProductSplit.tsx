@@ -82,7 +82,7 @@ export function ProductSplit() {
                 <p className="mt-2 text-sm font-semibold text-[var(--color-brand)]">{product.highlight}</p>
                 <p className="mt-3 text-[var(--color-ink-soft)]">{product.description}</p>
 
-                <div className="mt-6 grid grid-cols-3 gap-3">
+                <div className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-3">
                   {product.tiers.map((tier) => (
                     <div key={tier.name} className="rounded-xl border border-[var(--color-line)] bg-white p-3">
                       <div className="text-sm font-bold text-[var(--color-ink)]">{tier.name}</div>
