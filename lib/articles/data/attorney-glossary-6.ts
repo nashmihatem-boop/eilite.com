@@ -59,6 +59,7 @@ export const attorneyGlossary6Articles: Article[] = [
     metaTitle: "Choosing Attorney Lead Generation Services",
     excerpt:
       "A practical checklist for choosing among the many available attorney lead generation service providers.",
+    metaDescription: "Attorney lead generation providers vary widely in exclusivity, pricing, and actual case quality delivered. A practical checklist for choosing a provider.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-03",

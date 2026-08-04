@@ -11,6 +11,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Texas",
     excerpt:
       "A statewide view of Texas personal injury lead generation, covering the 51% bar across the state's major metros.",
+    metaDescription: "Texas requires a 51% comparative fault bar that shapes case viability statewide — this guide covers personal injury lead generation across major metros.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-30",
@@ -63,6 +64,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "Generating Same-Sex Divorce Attorney Leads",
     excerpt:
       "Marketing considerations specific to same-sex divorce, a growing sub-niche within family law.",
+    metaDescription: "Same-sex divorce is a growing sub-niche within family law with its own marketing considerations — this strategic guide covers generating leads for that segment.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-30",
@@ -115,6 +117,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "Google Ads for Law Firms Guide",
     excerpt:
       "A practical guide to running Google Ads campaigns that actually produce signed clients for law firms.",
+    metaDescription: "Most law firms waste significant Google Ads budget on the wrong keywords — this practical guide covers running campaigns that actually produce signed clients.",
     category: "Marketing Channels",
     readTime: "7 min read",
     publishedDate: "2026-09-30",
@@ -168,6 +171,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "High-Asset Divorce Client Leads Strategies",
     excerpt:
       "Proven strategies for attracting and converting high-asset divorce clients specifically.",
+    metaDescription: "High-asset divorce clients require a different marketing approach than typical family law cases — these proven strategies cover attracting and converting them.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-30",
@@ -221,6 +225,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "High-Conversion Legal Leads Guide",
     excerpt:
       "The specific factors that make a legal lead convert at a high rate, beyond just source or price.",
+    metaDescription: "Source and price alone don't explain why some legal leads convert far better than others — this guide covers the factors that actually drive conversion.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-09-30",
@@ -274,6 +279,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "High-Intent Legal Leads Guide",
     excerpt:
       "Why high-intent leads specifically — not just high volume — drive the most sustainable law firm growth.",
+    metaDescription: "Chasing lead volume alone can stall law firm growth — learn why high-intent leads specifically, not just more leads, drive the most sustainable results.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-09-30",
@@ -327,6 +333,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "High-Quality Legal Lead Trends 2026",
     excerpt:
       "A current look at what's actually working in high-quality legal lead generation as of 2026.",
+    metaDescription: "Legal lead generation tactics that worked two years ago are losing effectiveness fast — here's a current look at what's actually working in 2026.",
     category: "Industry Trends",
     readTime: "6 min read",
     publishedDate: "2026-09-30",
@@ -380,6 +387,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "High-Quality Personal Injury Leads Guide",
     excerpt:
       "The specific factors that separate genuinely high-quality personal injury leads from average ones.",
+    metaDescription: "Not all personal injury leads are created equal — this guide covers the specific factors that separate genuinely high-quality leads from average ones.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-30",
@@ -433,6 +441,7 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "Houston PI Attorney Leads: Smarter Acquisition",
     excerpt:
       "A current look at smarter, more efficient personal injury lead acquisition strategies for Houston firms.",
+    metaDescription: "Houston's personal injury market keeps getting more competitive and expensive — here's a look at smarter, more efficient lead acquisition strategies for 2026.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-30",

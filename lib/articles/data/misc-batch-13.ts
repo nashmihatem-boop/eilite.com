@@ -7,6 +7,7 @@ export const miscBatch13Articles: Article[] = [
     metaTitle: "Client Acquisition Software for Law Firms",
     excerpt:
       "A category overview of the software genuinely supporting modern law firm client acquisition, avoiding tool sprawl.",
+    metaDescription: "A category overview of the software genuinely supporting modern law firm client acquisition, lead capture, CRM, call tracking, and how to invest without tool sprawl.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-20",
@@ -60,6 +61,7 @@ export const miscBatch13Articles: Article[] = [
     metaTitle: "Client Pipeline Strategies for Steady Intake",
     excerpt:
       "Building a steady, predictable client pipeline requires specific strategies beyond simply generating more leads.",
+    metaDescription: "Building a steady, predictable client pipeline takes specific strategies beyond simply generating more leads, covering intake design and referral cultivation.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-20",

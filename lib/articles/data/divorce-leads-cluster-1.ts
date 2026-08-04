@@ -13,6 +13,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Strategic Guide to Divorce Attorney Leads",
     excerpt:
       "A strategic overview of how family law firms should evaluate, source, and act on divorce attorney leads.",
+    metaDescription: "Divorce lead quality varies enormously between sources and case types. This strategic overview covers how family law firms should evaluate, source, and act on leads.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-25",
@@ -66,6 +67,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Acquiring and Converting Exclusive Divorce Leads",
     excerpt:
       "How to source exclusive divorce attorney leads and convert them effectively once they reach your intake team.",
+    metaDescription: "Exclusive divorce leads convert better than shared ones but cost more to source. Learn how to acquire them and convert them once your intake team gets them.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -172,6 +174,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Acquiring Quality Divorce Leads Guide",
     excerpt:
       "What separates a genuinely quality divorce lead from a low-value inquiry, and how to source more of the former.",
+    metaDescription: "Not every divorce inquiry is worth pursuing. Learn what separates a genuinely quality divorce lead from a low-value one, and how to source more of the former.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -225,6 +228,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Spousal Support Divorce Lead Acquisition",
     excerpt:
       "Spousal support and alimony disputes represent a distinct divorce sub-niche worth targeting deliberately.",
+    metaDescription: "Spousal support and alimony disputes form a distinct divorce sub-niche worth targeting deliberately. Learn how to acquire leads specifically for this practice area.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -278,6 +282,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Analyzing Divorce Lead Value",
     excerpt:
       "A framework for analyzing what a divorce lead is actually worth to your firm before you decide what to pay for it.",
+    metaDescription: "Before you decide what to pay for a divorce lead, you need to know what it's actually worth. This framework helps firms analyze real lead value accurately.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -331,6 +336,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Calculating Divorce Lead ROI",
     excerpt:
       "A step-by-step approach to calculating the actual return on investment of your divorce lead spending.",
+    metaDescription: "Divorce lead spending should be measured against actual returns, not gut feel. This step-by-step approach covers how to calculate the real ROI of your lead budget.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -383,6 +389,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Collaborative Divorce Lead Generation Strategies",
     excerpt:
       "Proven strategies for generating leads specifically for a collaborative divorce practice.",
+    metaDescription: "Collaborative divorce clients seek a specific, less adversarial process. These proven strategies cover generating leads tailored to this distinct niche.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -436,6 +443,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Contested Divorce Leads Strategic Guide",
     excerpt:
       "Contested divorces require a different marketing and intake approach than uncontested or collaborative cases.",
+    metaDescription: "Contested divorces demand a different marketing and intake approach than uncontested or collaborative cases. This strategic guide covers how firms should adapt.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-25",
@@ -489,6 +497,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Atlanta, GA",
     excerpt:
       "A local guide to divorce attorney lead generation in the Atlanta metro market, and what makes it distinct.",
+    metaDescription: "Atlanta's divorce attorney market has its own competitive dynamics and client expectations. This local guide covers what makes lead generation distinct here.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-25",

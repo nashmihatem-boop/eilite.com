@@ -11,6 +11,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Capture High-Intent Legal Leads",
     excerpt:
       "Practical tactics for identifying and capturing high-intent prospects before they contact a competitor.",
+    metaDescription: "Practical tactics for identifying and capturing high-intent legal prospects before they contact a competitor, covering response speed and intake scripting.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -64,6 +65,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Auto Accident Leads for Attorneys",
     excerpt:
       "A conversion-focused guide for attorneys already generating auto accident leads but seeking better results.",
+    metaDescription: "A conversion-focused guide for attorneys already generating auto accident leads but seeking better results, covering scripting and follow-up cadence.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -117,6 +119,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Divorce Attorney Leads in Houston, TX",
     excerpt:
       "Local conversion tactics for Houston-area divorce attorneys, accounting for Texas's specific procedures.",
+    metaDescription: "Local conversion tactics for Houston-area divorce attorneys, accounting for Texas's community property rules and Harris County family court procedures.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -169,6 +172,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Highway Accident Leads Into Cases",
     excerpt:
       "Highway accidents often involve higher speeds and more severe injuries, worth reflecting in conversion strategy.",
+    metaDescription: "Highway accidents often involve higher speeds and more severe injuries, a distinction worth reflecting in intake questions, case valuation, and conversion strategy.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -221,6 +225,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Intersection Accident Leads Into Clients",
     excerpt:
       "Intersection accidents often involve clearer liability, which conversion strategy should take advantage of.",
+    metaDescription: "Intersection accidents often involve clearer liability than other collisions, an advantage conversion strategy should highlight early in intake calls.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -273,6 +278,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert More Divorce Leads for Lawyers",
     excerpt:
       "Practical, actionable tactics for lawyers looking to improve their overall divorce lead conversion rate.",
+    metaDescription: "Practical, actionable tactics for family lawyers looking to improve their divorce lead conversion rate, from consultation scripting to retainer follow-up.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -326,6 +332,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Personal Injury Inbound Call Leads",
     excerpt:
       "Specific tactics for converting inbound calls, which already carry higher intent than form-based leads.",
+    metaDescription: "Specific tactics for converting inbound personal injury calls, which carry higher intent than form leads, into signed clients on the first conversation.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -378,6 +385,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Personal Injury Leads Into Signed Cases",
     excerpt:
       "A comprehensive framework for converting personal injury leads at every stage from first contact to signature.",
+    metaDescription: "A comprehensive framework for converting personal injury leads at every stage, from first contact through consultation to a signed retainer agreement.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-08",
@@ -430,6 +438,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Evaluate and Convert Car Accident Lawyer Leads",
     excerpt:
       "An evaluation-first framework for assessing car accident leads before investing conversion effort.",
+    metaDescription: "An evaluation-first framework for assessing car accident leads before investing conversion effort, covering liability, injury severity, and coverage checks.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-08",
@@ -483,6 +492,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Find Divorce Attorney Leads in Denver, CO",
     excerpt:
       "A local guide to finding divorce attorney leads in the Denver metro market, and Colorado's legal framework.",
+    metaDescription: "A local guide to finding divorce attorney leads in the Denver metro market, covering Colorado's legal framework and where local search demand concentrates.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-08",

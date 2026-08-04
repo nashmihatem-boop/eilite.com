@@ -11,6 +11,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Generate Quality Divorce Attorney Leads in Texas",
     excerpt:
       "A quality-focused, statewide guide to Texas divorce lead generation across its major metros.",
+    metaDescription: "A quality-focused, statewide guide to Texas divorce lead generation across its major metros, covering local demand patterns and vetted lead source options.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-15",
@@ -63,6 +64,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Generate Quality Legal Leads for Law Firms",
     excerpt:
       "A general, cross-practice-area framework for generating genuinely quality legal leads.",
+    metaDescription: "A general, cross-practice-area framework for generating genuinely quality legal leads, covering vetting criteria, delivery formats, and pricing benchmarks.",
     category: "Lead Generation Basics",
     readTime: "7 min read",
     publishedDate: "2026-10-15",
@@ -116,6 +118,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Quality Personal Injury Leads in New York",
     excerpt:
       "A statewide, quality-focused guide to New York personal injury lead generation and its no-fault system.",
+    metaDescription: "A statewide, quality-focused guide to New York personal injury lead generation, covering how the state's no-fault system shapes case value and screening.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-10-15",
@@ -168,6 +171,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Generate Rear-End Accident Attorney Leads",
     excerpt:
       "A generation-focused guide to this typically clearer-liability car accident sub-category.",
+    metaDescription: "A generation-focused guide to rear-end accident leads, a typically clearer-liability car accident sub-category firms often prioritize for faster settlements.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-15",
@@ -220,6 +224,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Generate Serious Injury Attorney Leads That Convert",
     excerpt:
       "A conversion-focused approach to generating leads specifically for serious, high-value injury cases.",
+    metaDescription: "A conversion-focused approach to generating leads for serious, high-value injury cases, covering screening criteria and intake tactics that convert well.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-15",
@@ -272,6 +277,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Get Car Accident Attorney Leads in Phoenix, AZ",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire Phoenix-area car accident leads.",
+    metaDescription: "Practical, action-oriented tactics for firms specifically looking to acquire Phoenix-area car accident leads, covering local demand and regional targeting.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-15",
@@ -325,6 +331,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "How to Get Clients for a Law Firm",
     excerpt:
       "A complete, practice-area-agnostic guide to getting new clients for any law firm.",
+    metaDescription: "A complete, practice-area-agnostic guide to getting new clients for any law firm, covering referral networks, digital marketing, and purchased lead strategies.",
     category: "Lead Generation Basics",
     readTime: "8 min read",
     publishedDate: "2026-10-15",
@@ -377,6 +384,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Get Divorce Attorney Leads in Atlanta, GA",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire Atlanta-area divorce leads.",
+    metaDescription: "Practical, action-oriented tactics for firms specifically looking to acquire Atlanta-area divorce leads, covering local demand patterns and targeting options.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-15",
@@ -430,6 +438,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Get Divorce Attorney Leads in California",
     excerpt:
       "A statewide guide to acquiring divorce leads across California's many large, distinct metro markets.",
+    metaDescription: "A statewide guide to acquiring divorce leads across California's many large, distinct metro markets, covering regional demand differences and targeting tactics.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-10-15",
@@ -482,6 +491,7 @@ export const howToGetCluster1Articles: Article[] = [
     metaTitle: "Get Divorce Attorney Leads in Fort Lauderdale",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire Fort Lauderdale divorce leads.",
+    metaDescription: "Practical tactics for firms specifically looking to acquire Fort Lauderdale divorce leads, covering local demand patterns and regional targeting options.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-15",

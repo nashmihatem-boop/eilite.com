@@ -7,6 +7,7 @@ export const miscBatch16Articles: Article[] = [
     metaTitle: "Digital Marketing Growth Framework for PI Lawyers",
     excerpt:
       "A structured framework connecting SEO, PPC, content, and purchased leads specifically for personal injury growth.",
+    metaDescription: "Personal injury advertising costs are uniquely high and competitive — this framework connects SEO, PPC, content, and purchased leads into one growth system.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-22",

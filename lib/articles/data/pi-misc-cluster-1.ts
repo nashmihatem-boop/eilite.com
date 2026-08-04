@@ -60,6 +60,7 @@ export const piMiscCluster1Articles: Article[] = [
     metaTitle: "Proven Accident Lead Generation Strategies",
     excerpt:
       "Moving beyond theory to specific, executable tactics that consistently produce results for accident-focused practices.",
+    metaDescription: "Moving beyond theory to specific, executable tactics that consistently produce results for accident-focused practices, covering channel mix and follow-up.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-08-28",

@@ -11,6 +11,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Find Divorce Attorney Leads in Philadelphia, PA",
     excerpt:
       "A local guide to finding divorce attorney leads in Philadelphia and Pennsylvania's equitable distribution framework.",
+    metaDescription: "Pennsylvania's equitable distribution framework shapes how Philadelphia divorce cases play out. This local guide covers finding divorce attorney leads there.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-09",
@@ -63,6 +64,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Find Divorce Attorney Leads in Seattle, WA",
     excerpt:
       "A local guide to finding divorce attorney leads in Seattle and Washington's community property framework.",
+    metaDescription: "Washington's community property framework shapes how Seattle divorce cases are handled. This local guide covers where and how to find divorce attorney leads there.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-09",
@@ -115,6 +117,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate Alimony Case Attorney Leads That Convert",
     excerpt:
       "A conversion-focused approach to generating alimony case leads, prioritizing quality targeting over raw volume.",
+    metaDescription: "Alimony cases require precise targeting to reach prospects who actually qualify. This conversion-focused approach prioritizes quality targeting over raw lead volume.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-09",
@@ -167,6 +170,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Alimony Case Attorney Leads",
     excerpt:
       "A complete, step-by-step process covering both generation and conversion for alimony case leads.",
+    metaDescription: "Generating an alimony lead is only step one. This complete, step-by-step process covers both the generation and conversion sides of alimony case lead acquisition.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-10-09",
@@ -219,6 +223,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Auto Accident Attorney Leads",
     excerpt:
       "A complete process for generating and converting auto accident attorney leads efficiently.",
+    metaDescription: "Auto accident leads move fast, and slow follow-up loses cases to competitors. This complete process covers how to generate and convert these leads efficiently.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-09",
@@ -272,6 +277,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Car Accident Attorney Leads",
     excerpt:
       "A practical, connected process specifically for car accident attorney lead generation and conversion.",
+    metaDescription: "Car accident leads reward firms that respond within minutes, not hours. This practical process covers generation and conversion for this specific niche.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-09",
@@ -324,6 +330,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Car Accident Injury Leads",
     excerpt:
       "A severity-focused process for generating and converting car accident leads with genuine injury.",
+    metaDescription: "Not every car accident lead involves a real injury worth pursuing. This severity-focused process covers generating and converting leads with genuine injury claims.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-09",
@@ -376,6 +383,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Catastrophic Injury Leads",
     excerpt:
       "Catastrophic injury cases require specialized generation and conversion approaches given their complexity and value.",
+    metaDescription: "Catastrophic injury cases carry higher value and complexity than typical claims. This guide covers the specialized generation and conversion approach they require.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-09",
@@ -428,6 +436,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Child Custody Divorce Leads",
     excerpt:
       "A complete process for generating and converting child custody leads with appropriate sensitivity and speed.",
+    metaDescription: "Child custody cases demand both sensitivity and speed from intake teams. This process covers generating and converting these leads appropriately and quickly.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-10-09",
@@ -480,6 +489,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Collaborative Divorce Leads",
     excerpt:
       "A complete process for generating and converting leads specifically for a collaborative divorce practice.",
+    metaDescription: "Collaborative divorce clients are looking for a specific, less adversarial process. This guide covers generating and converting leads for this distinct practice.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-09",

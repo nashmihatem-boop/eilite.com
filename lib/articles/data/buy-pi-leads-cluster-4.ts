@@ -62,6 +62,7 @@ export const buyPiLeadsCluster4Articles: Article[] = [
     metaTitle: "Buying PI Leads That Convert to Clients",
     excerpt:
       "Focusing specifically on the client-conversion outcome, not just lead delivery, when making purchasing decisions.",
+    metaDescription: "Focusing on the client-conversion outcome, not just lead delivery, when making personal injury lead purchasing decisions, covering the metrics that matter.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",
@@ -115,6 +116,7 @@ export const buyPiLeadsCluster4Articles: Article[] = [
     metaTitle: "Buying Verified PI Leads for Your Firm",
     excerpt:
       "A step-by-step process for confirming genuine verification before committing budget to a personal injury lead provider.",
+    metaDescription: "A step-by-step process for confirming genuine verification before committing budget to a personal injury lead provider and the documentation to request.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",

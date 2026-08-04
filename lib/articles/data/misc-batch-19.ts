@@ -7,6 +7,7 @@ export const miscBatch19Articles: Article[] = [
     metaTitle: "Effective PI Leads for Illinois Firms",
     excerpt:
       "Building an effective lead strategy specifically for Illinois's fault-based, 51%-bar comparative negligence framework.",
+    metaDescription: "Building an effective lead strategy for Illinois's fault-based, 51%-bar comparative negligence framework, covering how the rule shapes case screening.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-23",
@@ -59,6 +60,7 @@ export const miscBatch19Articles: Article[] = [
     metaTitle: "Effective Car Accident Attorney Lead Strategies",
     excerpt:
       "A practical roundup of strategies proven effective specifically for car accident lead generation across markets.",
+    metaDescription: "A practical roundup of strategies proven effective for car accident lead generation across markets, covering channel mix and conversion habits.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-23",

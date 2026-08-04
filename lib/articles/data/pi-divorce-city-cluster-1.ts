@@ -9,6 +9,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Generating Leads for Lawyers: Complete Overview",
     excerpt:
       "A complete, practice-area-agnostic overview of how lawyers generate leads across organic, paid, and referral channels.",
+    metaDescription: "Lawyers generate leads through organic search, paid advertising, and referral networks, each requiring a different approach by practice area. Here's an overview.",
     category: "Lead Generation Basics",
     readTime: "7 min read",
     publishedDate: "2026-09-28",
@@ -114,6 +115,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Child Custody Case Leads",
     excerpt:
       "How to generate leads specifically for child custody cases, a distinct sub-niche within family law.",
+    metaDescription: "Child custody cases require more sensitive marketing and screening than general family law leads, given the stakes involved. This guide covers this sub-niche.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -167,6 +169,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Atlanta",
     excerpt:
       "Lead generation tactics tailored to Atlanta's family law market and Fulton County's court procedures.",
+    metaDescription: "Atlanta's family law market moves through Fulton County's court procedures, which shapes how divorce leads should be sourced. This guide covers local tactics.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -219,6 +222,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Austin",
     excerpt:
       "How Texas's community property rules and Austin's tech-driven economy shape divorce lead generation locally.",
+    metaDescription: "Texas's community property rules combine with Austin's tech-driven economy to create a distinct local divorce lead market. This guide covers those factors.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -271,6 +275,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Boston",
     excerpt:
       "How Massachusetts's equitable distribution rules and Boston's court system shape local divorce lead generation.",
+    metaDescription: "Massachusetts's equitable distribution rules and Boston's court system create local dynamics that generic divorce marketing misses. This guide covers both factors.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -323,6 +328,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Chicago",
     excerpt:
       "How Illinois's equitable distribution framework and Cook County's court system shape Chicago divorce lead generation.",
+    metaDescription: "Illinois's equitable distribution framework and Cook County's court system shape how divorce leads perform in Chicago specifically. This guide covers local tactics.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -375,6 +381,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Dallas",
     excerpt:
       "How Dallas's corporate executive population shapes divorce lead generation differently than other Texas markets.",
+    metaDescription: "Dallas's corporate executive population shifts divorce lead generation toward higher-asset cases, unlike other Texas markets. Here's what that means for firms.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -427,6 +434,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Florida",
     excerpt:
       "A statewide strategic guide to Florida divorce lead generation, including the state's 2023 alimony reform.",
+    metaDescription: "Florida's 2023 alimony reform changed how divorce cases are argued and marketed across the state. This guide covers generating leads under the updated rules.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-28",
@@ -479,6 +487,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Jacksonville",
     excerpt:
       "How Jacksonville's military population and Duval County courts shape local divorce lead generation.",
+    metaDescription: "Jacksonville's sizable military population and Duval County's court system create local dynamics that shape divorce lead generation. This guide covers both factors.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",

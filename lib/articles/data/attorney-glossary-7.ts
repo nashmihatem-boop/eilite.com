@@ -7,6 +7,7 @@ export const attorneyGlossary7Articles: Article[] = [
     metaTitle: "Attorney Lead ROI Optimization Strategies",
     excerpt:
       "Specific, actionable strategies for improving return on investment across your attorney lead generation spend.",
+    metaDescription: "Specific, actionable strategies for improving return on investment across your attorney lead generation spend, from filtering to follow-up speed.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-09-03",

@@ -10,6 +10,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Divorce Attorney Leads in Miami, FL",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire Miami-area divorce leads.",
+    metaDescription: "Action-oriented tactics for firms specifically looking to acquire Miami-area divorce leads, covering local SEO, bilingual outreach, and court procedures.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -63,6 +64,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Divorce Attorney Leads in San Jose, CA",
     excerpt:
       "Practical tactics for firms looking to acquire divorce leads in Silicon Valley's tech-driven market.",
+    metaDescription: "Practical tactics for firms acquiring divorce leads in Silicon Valley's tech-driven market, where high asset complexity shapes search intent and case value.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -116,6 +118,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Divorce Attorney Leads in Tampa, FL",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire Tampa-area divorce leads.",
+    metaDescription: "Action-oriented tactics for firms specifically looking to acquire Tampa-area divorce leads, covering local SEO, PPC targeting, and court timelines.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -169,6 +172,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "High-Intent Personal Injury Leads in Dallas, TX",
     excerpt:
       "Tactics specifically for capturing high-intent, ready-to-act personal injury prospects in the Dallas market.",
+    metaDescription: "Tactics for capturing high-intent, ready-to-act personal injury prospects in the Dallas market, where firm competition for the same searches runs high.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -221,6 +225,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get More Car Accident Lawyer Leads That Convert",
     excerpt:
       "A growth-focused guide for firms wanting more car accident leads without sacrificing conversion quality.",
+    metaDescription: "A growth-focused guide for firms wanting more car accident leads without sacrificing conversion quality, balancing volume against intake capacity.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -273,6 +278,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get More Leads for Your Personal Injury Law Firm",
     excerpt:
       "A general, channel-by-channel guide to increasing overall lead volume for a personal injury practice.",
+    metaDescription: "A channel-by-channel guide to increasing overall lead volume for a personal injury practice, covering SEO, paid ads, referrals, and purchased leads.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-16",
@@ -326,6 +332,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Quality Auto Accident Leads",
     excerpt:
       "A quality-focused, practical guide to acquiring auto accident leads that actually convert.",
+    metaDescription: "A quality-focused, practical guide to acquiring auto accident leads that actually convert, covering vetting criteria for serious claimants versus low-value ones.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -379,6 +386,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Quality Divorce Attorney Leads in Chicago",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire quality Chicago divorce leads.",
+    metaDescription: "Action-oriented tactics for firms specifically looking to acquire quality Chicago divorce leads, covering Cook County court procedures and search competition.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -432,6 +440,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Quality Divorce Attorney Leads in LA",
     excerpt:
       "Practical, action-oriented tactics for firms specifically looking to acquire quality Los Angeles divorce leads.",
+    metaDescription: "Action-oriented tactics for firms specifically looking to acquire quality Los Angeles divorce leads, covering high-asset targeting and local SEO competition.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",
@@ -485,6 +494,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Quality Divorce Attorney Leads in San Antonio",
     excerpt:
       "Practical tactics for firms looking to acquire quality divorce leads in the San Antonio market.",
+    metaDescription: "Practical tactics for firms acquiring quality divorce leads in the San Antonio market, covering bilingual outreach and Bexar County court considerations.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-16",

@@ -69,6 +69,7 @@ export const bestXCluster6Articles: Article[] = [
     metaTitle: "Best Personal Injury Lead Providers",
     excerpt:
       "A structured comparison framework for evaluating multiple personal injury lead providers against each other fairly.",
+    metaDescription: "Personal injury lead providers differ sharply in exclusivity, screening rigor, and pricing transparency. A structured framework for comparing options fairly.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-06",

@@ -11,6 +11,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Car Accident Leads: Driving Growth and Revenue",
     excerpt:
       "The connection between consistent car accident lead volume and predictable law firm revenue growth.",
+    metaDescription: "The connection between consistent car accident lead volume and predictable law firm revenue growth, covering how steady intake compounds over case cycles.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -64,6 +65,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Divorce Client Acquisition Services Guide",
     excerpt:
       "How a dedicated client acquisition service contributes to long-term practice growth for divorce attorneys.",
+    metaDescription: "How a dedicated client acquisition service contributes to long-term practice growth for divorce attorneys, covering typical services included and realistic ROI.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -117,6 +119,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Securing High-Asset Divorce Leads Quickly",
     excerpt:
       "Practical, fast-acting tactics divorce attorneys can use to secure high-asset case leads without a long ramp-up.",
+    metaDescription: "Practical, fast-acting tactics divorce attorneys can use to secure high-asset case leads without a long ramp-up, covering targeting criteria and vetted sources.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -170,6 +173,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Exclusive Car Accident Leads: Transforming Practice",
     excerpt:
       "The practical difference exclusive car accident leads make compared to shared alternatives.",
+    metaDescription: "The practical difference exclusive car accident leads make compared to shared alternatives, covering higher contact rates and how that translates to signings.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -222,6 +226,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Exclusive PI Attorney Leads: Driving Growth",
     excerpt:
       "How exclusive lead delivery, specifically, contributes to sustained law firm growth over time.",
+    metaDescription: "How exclusive lead delivery contributes to sustained law firm growth over time, covering the compounding edge of not competing for the same prospect.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -274,6 +279,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Family Law Attorneys: Converting Leads Faster",
     excerpt:
       "Practical tactics family law attorneys can use to shorten the time between lead and signed retainer.",
+    metaDescription: "Practical tactics family law attorneys can use to shorten the time between lead and signed retainer, covering intake scripts and follow-up cadence that convert.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -326,6 +332,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Law Firm Call Center Leads: Boosting Intake",
     excerpt:
       "How call center-sourced leads specifically improve intake efficiency compared to form-based alternatives.",
+    metaDescription: "How call center-sourced leads improve intake efficiency compared to form-based alternatives, covering higher contact rates and faster case qualification.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -378,6 +385,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Lead Scoring Software: Transforming Acquisition",
     excerpt:
       "How lead scoring software helps firms prioritize the highest-value leads within growing volume.",
+    metaDescription: "How lead scoring software helps firms prioritize the highest-value leads within growing volume, covering key scoring criteria and typical platform features.",
     category: "Tools & Technology",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -430,6 +438,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Law Firm Websites: Generating Clients Effectively",
     excerpt:
       "What separates a law firm website that actually generates clients from one that's purely informational.",
+    metaDescription: "What separates a law firm website that actually generates clients from one that's purely informational, covering conversion-focused design and content strategy.",
     category: "Marketing Channels",
     readTime: "6 min read",
     publishedDate: "2026-10-02",
@@ -482,6 +491,7 @@ export const howACluster2Articles: Article[] = [
     metaTitle: "Generate and Convert Quality Legal Leads",
     excerpt:
       "A combined, practical framework connecting both generation and conversion for quality legal leads.",
+    metaDescription: "A combined, practical framework connecting generation and conversion for quality legal leads, covering vetted sourcing options and intake tactics that convert.",
     category: "Lead Generation Basics",
     readTime: "7 min read",
     publishedDate: "2026-10-02",

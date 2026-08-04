@@ -10,6 +10,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Auto Accident Leads",
     excerpt:
       "A foundational, step-by-step process for acquiring and converting auto accident leads.",
+    metaDescription: "A foundational, step-by-step process for acquiring and converting auto accident leads, covering vetted sourcing options and intake tactics that boost signings.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-06",
@@ -63,6 +64,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Car Accident Attorney Leads",
     excerpt:
       "An attorney-focused perspective on sourcing and converting car accident leads efficiently.",
+    metaDescription: "An attorney-focused perspective on sourcing and converting car accident leads, covering vetted lead sources and intake scripts that improve retention rates.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-06",
@@ -115,6 +117,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Car Accident Injury Leads",
     excerpt:
       "A screening-focused approach to acquiring and converting car accident leads based on injury severity.",
+    metaDescription: "A screening-focused approach to acquiring and converting car accident leads based on injury severity, helping firms prioritize the cases worth pursuing.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-06",
@@ -167,6 +170,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Exclusive Car Accident Leads",
     excerpt:
       "The specific process for sourcing genuinely exclusive car accident leads and converting them well.",
+    metaDescription: "The specific process for sourcing genuinely exclusive car accident leads and converting them well, covering vendor vetting and intake tactics that protect ROI.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-06",
@@ -219,6 +223,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Exclusive Divorce Leads",
     excerpt:
       "The specific process for sourcing genuinely exclusive divorce leads and converting them successfully.",
+    metaDescription: "The specific process for sourcing genuinely exclusive divorce leads and converting them successfully, covering vendor vetting and trust-building intake tactics.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-06",
@@ -271,6 +276,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert High-Quality Car Accident Leads",
     excerpt:
       "A quality-focused approach to sourcing and converting car accident leads that actually sign.",
+    metaDescription: "A quality-focused approach to sourcing and converting car accident leads that actually sign, covering screening criteria and follow-up tactics that build trust.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-06",
@@ -323,6 +329,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert High-Quality Divorce Leads",
     excerpt:
       "A quality-focused approach to sourcing and converting divorce leads that actually retain.",
+    metaDescription: "A quality-focused approach to sourcing and converting divorce leads that actually retain, covering screening criteria and trust-building intake tactics.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-06",
@@ -375,6 +382,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Motor Vehicle Accident Leads",
     excerpt:
       "A broader look at motor vehicle accident leads spanning cars, motorcycles, trucks, and pedestrian incidents.",
+    metaDescription: "A broader look at motor vehicle accident leads spanning cars, motorcycles, trucks, and pedestrian incidents, covering sourcing options across each case type.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-06",
@@ -427,6 +435,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Personal Injury Case Leads",
     excerpt:
       "A general framework for acquiring and converting personal injury leads across all case types.",
+    metaDescription: "A general framework for acquiring and converting personal injury leads across all case types, covering vetted sourcing options and intake tactics that convert.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-06",
@@ -479,6 +488,7 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Truck Accident Leads",
     excerpt:
       "Truck accident cases involve federal regulations and commercial insurance that shape both acquisition and conversion.",
+    metaDescription: "Truck accident cases involve federal regulations and commercial insurance that shape both acquisition strategy and how firms should screen leads for merit.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-06",

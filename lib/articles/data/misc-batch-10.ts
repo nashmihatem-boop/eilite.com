@@ -62,6 +62,7 @@ export const miscBatch10Articles: Article[] = [
     metaTitle: "Car Accident Lawyer Leads Strategic Guide",
     excerpt:
       "An attorney-perspective strategic guide connecting individual case judgment to firm-wide car accident lead acquisition.",
+    metaDescription: "Individual case judgment and firm-wide lead acquisition strategy are more connected than most realize. This guide bridges the two for car accident leads.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-15",

@@ -11,6 +11,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Generate and Convert Divorce Attorney Leads in 2026",
     excerpt:
       "A current, 2026-specific look at what's working right now in divorce attorney lead generation and conversion.",
+    metaDescription: "A current, 2026-specific look at what's working in divorce attorney lead generation and conversion, covering search behavior and intake best practices.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-10-10",
@@ -64,6 +65,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Florida",
     excerpt:
       "A statewide process for Florida firms, covering the 2023 alimony reform and multi-metro sourcing.",
+    metaDescription: "A statewide process for Florida divorce firms, covering the 2023 alimony reform, multi-metro sourcing strategy, and how the change shifted client questions.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-10-10",
@@ -116,6 +118,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Florida Divorce Leads: Silver Divorce Focus",
     excerpt:
       "A niche focus within the Florida divorce market: leads from Florida's large retiree and older-adult population.",
+    metaDescription: "A niche focus within Florida's divorce market: leads from the state's large retiree population, covering the distinct concerns driving silver divorce.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-10",
@@ -168,6 +171,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Generate and Convert Divorce Law Firm Leads",
     excerpt:
       "A firm-level, business-focused approach to divorce lead generation and conversion across a full practice.",
+    metaDescription: "A firm-level, business-focused approach to divorce lead generation and conversion, covering channel mix, budget allocation, and intake systems.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-10",
@@ -220,6 +224,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Divorce Law Firm Leads: 2026 Approach",
     excerpt:
       "Current, firm-level best practices for 2026, building on established systems with today's tools and expectations.",
+    metaDescription: "Current, firm-level best practices for divorce lead generation in 2026, building on established systems with today's tools and client expectations.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-10",
@@ -272,6 +277,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Generate and Convert Divorce Lawyer Leads",
     excerpt:
       "An individual practitioner's guide to generating and converting divorce leads without a large firm's resources.",
+    metaDescription: "An individual practitioner's guide to generating and converting divorce leads without a large firm's resources, covering high-leverage tactics on a budget.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-10",
@@ -324,6 +330,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Divorce Lawyer Leads: 2026 Approach",
     excerpt:
       "Current tools and tactics helping individual divorce lawyers compete effectively against larger firms in 2026.",
+    metaDescription: "Current tools and tactics helping individual divorce lawyers compete against larger firms in 2026, covering search visibility and empathetic intake.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-10",
@@ -376,6 +383,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Generate and Convert Domestic Relations Leads",
     excerpt:
       "A process for generating and converting leads across the full domestic relations practice area.",
+    metaDescription: "A process for generating and converting leads across the full domestic relations practice, covering marketing across custody, support, and divorce.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-10",
@@ -428,6 +436,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
     metaTitle: "Generate and Convert Family Court Attorney Leads",
     excerpt:
       "A process focused specifically on leads headed to litigated family court matters, rather than settled cases.",
+    metaDescription: "A process focused on leads headed to litigated family court matters, rather than settled cases, covering how to screen for genuine litigation intent.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-10",

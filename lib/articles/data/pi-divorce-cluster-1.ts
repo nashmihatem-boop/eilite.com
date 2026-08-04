@@ -10,6 +10,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Fresh Personal Injury Leads Guide",
     excerpt:
       "Why lead freshness is one of the most important quality factors in personal injury lead generation.",
+    metaDescription: "Why lead freshness is one of the most important quality factors in personal injury lead generation, and how delayed follow-up quietly kills conversion rates.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-27",
@@ -62,6 +63,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Future of Legal Lead Generation: 2026 Trends",
     excerpt:
       "The trends shaping how law firms will source and evaluate leads through 2026 and beyond.",
+    metaDescription: "The trends shaping how law firms will source and evaluate leads through 2026, covering AI-driven search, screening technology, and buyer expectations.",
     category: "Industry Trends",
     readTime: "7 min read",
     publishedDate: "2026-09-27",
@@ -114,6 +116,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Generating and Converting Divorce Leads",
     excerpt:
       "A combined look at both sides of the divorce lead equation: generation and conversion.",
+    metaDescription: "A combined look at both sides of the divorce lead equation, generation and conversion, covering how firms can improve performance across the full funnel.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-27",
@@ -167,6 +170,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Generating Car Accident Attorney Leads",
     excerpt:
       "A strategic overview of how to approach car accident attorney lead generation across channels.",
+    metaDescription: "A strategic overview of how to approach car accident attorney lead generation across channels, covering paid search, referral, and call-based sourcing options.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-27",
@@ -220,6 +224,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Car Accident Attorney Leads in Phoenix, AZ",
     excerpt:
       "A local look at car accident lead generation in the Phoenix metro market and Arizona's specific legal framework.",
+    metaDescription: "A local look at car accident lead generation in the Phoenix metro market, accounting for Arizona's specific comparative fault legal framework and rules.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-27",
@@ -272,6 +277,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Car Accident Injury Leads: Lawyer's Guide",
     excerpt:
       "A lawyer-focused strategic guide to generating car accident injury leads with an emphasis on injury severity.",
+    metaDescription: "A lawyer-focused strategic guide to generating car accident injury leads with an emphasis on injury severity, helping firms prioritize higher-value cases.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-27",
@@ -324,6 +330,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "Catastrophic Injury Attorney Leads in Houston, TX",
     excerpt:
       "A local guide to generating catastrophic injury leads in Houston's industrial, high-value case environment.",
+    metaDescription: "A local guide to generating catastrophic injury leads in Houston's industrial, high-value case environment, covering channels suited to this specific market.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-27",
@@ -377,6 +384,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "High-Value Divorce Leads Guide",
     excerpt:
       "Strategies specifically for attracting the highest-value divorce cases, typically those involving significant assets.",
+    metaDescription: "Strategies specifically for attracting the highest-value divorce cases, typically those involving significant assets or complex custody disputes.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-27",
@@ -430,6 +438,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "International Divorce Leads Guide",
     excerpt:
       "The specific legal and marketing considerations involved in generating leads for international divorce cases.",
+    metaDescription: "The specific legal and marketing considerations involved in generating leads for international divorce cases, covering jurisdiction and cross-border complexity.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-27",
@@ -483,6 +492,7 @@ export const piDivorceCluster1Articles: Article[] = [
     metaTitle: "International Divorce Leads for Your Practice",
     excerpt:
       "A practice-growth angle on building out an international divorce niche, from positioning through pricing.",
+    metaDescription: "A practice-growth angle on building out an international divorce niche, from positioning and marketing through pricing this specialized service correctly.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-27",

@@ -60,6 +60,7 @@ export const bestXCluster8Articles: Article[] = [
     metaTitle: "High-Intent Personal Injury Lead Services",
     excerpt:
       "A comparison framework specifically for evaluating services claiming to deliver high-intent personal injury leads.",
+    metaDescription: "A comparison framework for evaluating services that claim to deliver high-intent personal injury leads, covering screening criteria and realistic pricing.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-07",

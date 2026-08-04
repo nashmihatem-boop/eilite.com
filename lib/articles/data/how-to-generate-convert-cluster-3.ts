@@ -10,6 +10,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Injury Law Firm Call Leads",
     excerpt:
       "A process focused specifically on inbound call leads for personal injury law firms.",
+    metaDescription: "A process focused specifically on inbound call leads for personal injury law firms, covering how phone-based intake differs from web form submissions.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-11",
@@ -62,6 +63,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Insurance Claim Attorney Leads",
     excerpt:
       "Insurance claim disputes represent a distinct lead category worth targeting alongside standard personal injury.",
+    metaDescription: "Insurance claim disputes represent a distinct lead category worth targeting alongside standard personal injury, covering how to generate and convert this niche.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-11",
@@ -114,6 +116,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Law Firm Call Center Leads",
     excerpt:
       "How to work effectively with a call center-based lead source to generate and convert client volume.",
+    metaDescription: "How to work effectively with a call center-based lead source to generate and convert client volume, covering vetting, screening, and handoff quality.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-11",
@@ -166,6 +169,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Liability Injury Leads",
     excerpt:
       "A liability-first approach to generating and converting personal injury leads more efficiently.",
+    metaDescription: "A liability-first approach to generating and converting personal injury leads more efficiently, covering how case screening improves signed-case rates.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-11",
@@ -218,6 +222,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Motorcycle Accident Leads",
     excerpt:
       "Motorcycle accident cases involve distinct injury severity and bias considerations worth addressing directly.",
+    metaDescription: "Motorcycle accident cases involve distinct injury severity and bias considerations worth addressing directly in lead generation and case intake messaging.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-11",
@@ -270,6 +275,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Personal Injury Attorney Leads",
     excerpt:
       "A comprehensive, foundational process for personal injury attorneys generating and converting leads.",
+    metaDescription: "A comprehensive, foundational process for personal injury attorneys generating and converting leads, covering channel selection through signed retainer.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-11",
@@ -323,6 +329,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Personal Injury Lawyer Leads",
     excerpt:
       "A solo and small-firm practitioner's guide to generating and converting personal injury leads.",
+    metaDescription: "A solo and small-firm practitioner's guide to generating and converting personal injury leads on a leaner budget than larger competing firms typically spend.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-11",
@@ -375,6 +382,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Personal Injury Leads in 2026",
     excerpt:
       "A current look at what's working right now in personal injury lead generation and conversion.",
+    metaDescription: "A current look at what's actually working right now in personal injury lead generation and conversion, covering channels and tactics gaining traction in 2026.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-11",
@@ -428,6 +436,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert PI Leads in NYC",
     excerpt:
       "A local process for NYC personal injury firms, accounting for the no-fault system and dense urban case mix.",
+    metaDescription: "A local process for NYC personal injury firms, accounting for the state's no-fault system and the dense, competitive urban case mix firms operate within.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-10-11",
@@ -480,6 +489,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
     metaTitle: "Generate and Convert Quality Car Accident Leads",
     excerpt:
       "A quality-first process specifically for car accident lawyer leads, prioritizing conversion over raw volume.",
+    metaDescription: "A quality-first process specifically for car accident lawyer leads, prioritizing genuine case conversion over raw lead volume that never actually signs.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-11",

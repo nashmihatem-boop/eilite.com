@@ -10,6 +10,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Get Quality Legal Leads for Attorneys",
     excerpt:
       "A general, practice-area-agnostic guide to getting quality legal leads for any attorney.",
+    metaDescription: "A general, practice-area-agnostic guide to getting quality legal leads for any attorney, covering sourcing channels and the screening steps that matter most.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -62,6 +63,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Get Quality Personal Injury Leads in Miami",
     excerpt:
       "Practical tactics for firms specifically looking to acquire quality personal injury leads in Miami.",
+    metaDescription: "Practical tactics for firms specifically looking to acquire quality personal injury leads in Miami, accounting for the market's competitive dynamics.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -115,6 +117,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Identify and Convert High-Intent PI Leads",
     excerpt:
       "How to recognize timing and urgency signals that indicate a genuinely high-intent personal injury prospect.",
+    metaDescription: "How to recognize timing and urgency signals that indicate a genuinely high-intent personal injury prospect, and how to act on them before they cool.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -168,6 +171,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Identify and Convert High-Quality PI Leads",
     excerpt:
       "How to recognize the overall quality markers — liability, severity, verification — in a personal injury lead.",
+    metaDescription: "How to recognize the overall quality markers, liability, severity, and verification, in a personal injury lead before committing intake resources to it.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -221,6 +225,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Identify and Convert Qualified PI Leads",
     excerpt:
       "How to screen for legal eligibility factors like statute of limitations and jurisdiction fit.",
+    metaDescription: "How to screen for legal eligibility factors like statute of limitations and jurisdiction fit before investing further time in a personal injury lead.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -274,6 +279,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Identify the Best PI Lead Generation Company",
     excerpt:
       "A framework for evaluating and choosing among competing personal injury lead generation providers.",
+    metaDescription: "A framework for evaluating and choosing among competing personal injury lead generation providers, covering quality, pricing, and proven track record.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-17",
@@ -327,6 +333,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Improve Personal Injury Lead Conversion",
     excerpt:
       "Specific, actionable improvements firms can make to increase their existing personal injury conversion rate.",
+    metaDescription: "Specific, actionable improvements firms can make to increase their existing personal injury conversion rate, from response speed to intake scripting.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-17",
@@ -380,6 +387,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Increase Law Firm Consultations: Proven Tactics",
     excerpt:
       "Proven tactics for increasing the number of consultations a firm books, as a precursor to signed cases.",
+    metaDescription: "Proven tactics for increasing the number of consultations a firm books, as a precursor to signed cases, covering outreach cadence and scheduling friction.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -432,6 +440,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "Purchase Personal Injury Lawyer Leads That Convert",
     excerpt:
       "A purchasing-focused guide to selecting personal injury leads specifically for strong conversion potential.",
+    metaDescription: "A purchasing-focused guide to selecting personal injury leads specifically for strong conversion potential, covering vendor vetting and quality signals.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-17",
@@ -485,6 +494,7 @@ export const howToIdentifyCluster1Articles: Article[] = [
     metaTitle: "How to Scale a Law Firm: Growth Blueprint",
     excerpt:
       "A comprehensive blueprint for scaling a law firm across lead generation, conversion, and capacity together.",
+    metaDescription: "A comprehensive blueprint for scaling a law firm across lead generation, conversion, and capacity together, rather than optimizing any one in isolation.",
     category: "Industry Trends",
     readTime: "8 min read",
     publishedDate: "2026-10-17",

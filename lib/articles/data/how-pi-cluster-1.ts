@@ -10,6 +10,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "PI Attorney Leads in Texas: Driving Growth",
     excerpt:
       "How consistent Texas personal injury lead volume translates into measurable law firm growth over time.",
+    metaDescription: "Texas's major metros generate steady lead volume, but only firms with matching intake capacity turn that into growth. How consistent volume drives results.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -62,6 +63,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "PI Attorney Marketing Services: Growing Practice",
     excerpt:
       "What a dedicated personal injury marketing service actually contributes to practice growth.",
+    metaDescription: "A dedicated personal injury marketing service handles more than ad spend, from intake coaching to tracking. What it actually contributes to growth.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -115,6 +117,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "PI Attorneys in LA: Getting Quality Leads",
     excerpt:
       "The specific tactics Los Angeles personal injury attorneys use to source consistently high-quality leads.",
+    metaDescription: "Los Angeles personal injury attorneys compete in one of the country's most saturated legal markets. The tactics top firms use to source quality leads.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -167,6 +170,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "PI Call Transfer Leads: Boosting Your Firm",
     excerpt:
       "How the warm call transfer model specifically improves personal injury intake outcomes.",
+    metaDescription: "Call transfer leads arrive already screened and on the phone, cutting the gap between interest and intake. How this model improves conversion outcomes.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -219,6 +223,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "PI Client Acquisition Services: Growing Your Firm",
     excerpt:
       "How a dedicated client acquisition service contributes to sustained personal injury practice growth.",
+    metaDescription: "A dedicated client acquisition service goes beyond lead delivery into ongoing funnel and conversion support. How this contributes to sustained growth.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -272,6 +277,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "PI Inbound Call Leads: Boosting Your Firm",
     excerpt:
       "Why inbound calls specifically tend to convert better than other personal injury lead formats.",
+    metaDescription: "Inbound calls tend to convert better than web forms because the prospect initiates contact while motivated. Why this format specifically outperforms.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -324,6 +330,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "How Personal Injury Lawyers Get More Leads",
     excerpt:
       "A practical overview of the main channels personal injury lawyers use to increase lead volume.",
+    metaDescription: "Personal injury lawyers looking to grow their caseload have several channels available, each with different cost and quality. A practical overview.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -376,6 +383,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "Real-Time Legal Leads: Boosting Caseloads",
     excerpt:
       "Why real-time delivery specifically, versus delayed batch delivery, meaningfully improves caseload growth.",
+    metaDescription: "Real-time lead delivery reaches prospects while their need is still fresh, unlike delayed batch delivery. Why this speed advantage improves caseloads.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -428,6 +436,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "Real-Time Legal Leads: Transforming Growth",
     excerpt:
       "How real-time lead delivery changes a firm's broader growth trajectory, beyond individual case conversion.",
+    metaDescription: "Real-time leads change more than individual conversion rates; they reshape a firm's entire growth trajectory. How this delivery speed transforms strategy.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-05",
@@ -480,6 +489,7 @@ export const howPiCluster1Articles: Article[] = [
     metaTitle: "Signed PI Case Leads: Transforming Growth",
     excerpt:
       "Why firms should measure and market around signed-case outcomes, not just raw lead volume.",
+    metaDescription: "Raw lead volume looks impressive but doesn't pay the bills the way signed cases do. Why firms should measure and market around signed-case outcomes.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-10-05",

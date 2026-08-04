@@ -10,6 +10,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "Lawyers Generate Cases Online: Proven Tactics",
     excerpt:
       "Proven, tested tactics lawyers use to turn online visibility into actual signed cases.",
+    metaDescription: "Proven, tested tactics lawyers use to turn online visibility into actual signed cases, from local SEO to paid search and intake process optimization.",
     category: "Lead Generation Basics",
     readTime: "7 min read",
     publishedDate: "2026-10-04",
@@ -63,6 +64,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "How Lawyers Get New Clients Online",
     excerpt:
       "A survey of proven strategies lawyers use to consistently acquire new clients through online channels.",
+    metaDescription: "A survey of proven strategies lawyers use to consistently acquire new clients through online channels, from content marketing to purchased leads.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -115,6 +117,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "Managing Case Pipelines for Growth",
     excerpt:
       "How firms manage their case pipeline — from lead to resolution — in a way that supports sustained growth.",
+    metaDescription: "How firms manage their case pipeline from initial lead to final resolution in a way that supports sustained growth without overwhelming intake staff.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -167,6 +170,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "How Lawyers Rank on Google: Complete Guide",
     excerpt:
       "A complete guide to the factors that determine how law firm websites rank in Google search results.",
+    metaDescription: "A complete guide to the factors that determine how law firm websites rank in Google search results, from technical SEO to local citation building.",
     category: "Marketing Channels",
     readTime: "8 min read",
     publishedDate: "2026-10-04",
@@ -219,6 +223,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "Legal Intake Automation: Transforming Acquisition",
     excerpt:
       "How automating parts of the intake process changes a firm's overall client acquisition efficiency.",
+    metaDescription: "How automating parts of the intake process changes a firm's overall client acquisition efficiency, from response speed to real conversion rates seen.",
     category: "Tools & Technology",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -272,6 +277,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "How Legal Lead Generation Works",
     excerpt:
       "A foundational explanation of how legal lead generation actually works, for attorneys new to the concept.",
+    metaDescription: "A foundational explanation of how legal lead generation actually works, for attorneys new to buying leads outside referrals and simple word of mouth.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -324,6 +330,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "How Legal Marketing Agencies Help Lawyers Grow",
     excerpt:
       "What a legal marketing agency actually does, and how to evaluate whether one is right for your firm.",
+    metaDescription: "What a legal marketing agency actually does on a day-to-day basis, and how to evaluate whether hiring one is the right move for your firm right now.",
     category: "Marketing Channels",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -377,6 +384,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "How Legal Marketing Funnels Work",
     excerpt:
       "An explanation of the marketing funnel concept applied specifically to legal client acquisition.",
+    metaDescription: "An explanation of the marketing funnel concept applied specifically to legal client acquisition, from initial awareness through a signed retainer.",
     category: "Marketing Channels",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -429,6 +437,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "Personal Injury Attorney Lead Costs in 2026",
     excerpt:
       "A current look at what personal injury attorney leads typically cost in 2026, and what drives the variation.",
+    metaDescription: "A current look at what personal injury attorney leads typically cost in 2026, and the case-type and geographic factors that drive that variation.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-04",
@@ -482,6 +491,7 @@ export const howLawyersCluster2Articles: Article[] = [
     metaTitle: "Pay-Per-Call Attorney Leads: Boosting Caseload",
     excerpt:
       "How the pay-per-call model specifically contributes to caseload growth compared to other lead types.",
+    metaDescription: "How the pay-per-call model specifically contributes to caseload growth compared to other lead types, thanks to faster, much higher-intent contact.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-04",

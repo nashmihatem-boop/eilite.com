@@ -10,6 +10,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Family Law Marketing Company Guide",
     excerpt:
       "What a specialized family law marketing company actually does to help build a growing practice.",
+    metaDescription: "What a specialized family law marketing company actually does to help build a growing practice, from lead generation to brand and reputation building.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -63,6 +64,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Law Firm Lead Generation: Boosting Caseloads",
     excerpt:
       "The specific mechanisms a lead generation company uses to increase a firm's overall case volume.",
+    metaDescription: "The specific mechanisms a lead generation company uses to increase a firm's overall case volume, from multi-channel sourcing to intake optimization.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -115,6 +117,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Law Firm Lead Generation: Transforming Acquisition",
     excerpt:
       "How a lead generation partner shifts a firm from reactive to proactive, systemized client acquisition.",
+    metaDescription: "How a lead generation partner shifts a firm from reactive to proactive, systemized client acquisition, replacing inconsistent referrals with steady volume.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -167,6 +170,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "PI Law Firm Marketing Company: Driving Cases",
     excerpt:
       "The specific tactics a personal injury-focused marketing company uses to drive signed cases.",
+    metaDescription: "The specific tactics a personal injury-focused marketing company uses to drive signed cases, from targeted campaigns to conversion-focused intake support.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -220,6 +224,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Qualified Legal Leads: Boosting Firm Revenue",
     excerpt:
       "The revenue mechanics behind how a qualified lead provider actually improves a firm's bottom line.",
+    metaDescription: "The revenue mechanics behind how a qualified lead provider actually improves a firm's bottom line, beyond simply increasing raw inquiry volume alone.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -273,6 +278,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Qualified Legal Leads: Transforming Growth",
     excerpt:
       "How working with a genuinely qualified leads provider changes a firm's overall growth trajectory.",
+    metaDescription: "How working with a genuinely qualified leads provider changes a firm's overall growth trajectory, from predictable pipeline to scalable case volume.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -325,6 +331,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Attorney Lead Generation Platform: Boosting Cases",
     excerpt:
       "The specific platform features that translate directly into more signed cases for attorneys.",
+    metaDescription: "The specific platform features that translate directly into more signed cases for attorneys, from real-time delivery to built-in screening and filtering.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -377,6 +384,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "Attorney Lead Generation Platform Guide",
     excerpt:
       "How adopting a dedicated lead generation platform changes a firm's broader growth strategy over time.",
+    metaDescription: "How adopting a dedicated lead generation platform changes a firm's broader growth strategy over time, from ad hoc sourcing to a repeatable pipeline.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -429,6 +437,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "B2B Law Firms: Generating Quality Leads",
     excerpt:
       "A practical, actionable guide for law firms serving business clients to generate high-quality leads.",
+    metaDescription: "A practical, actionable guide for law firms serving business clients to generate high-quality leads, covering channels unique to B2B legal marketing.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",
@@ -482,6 +491,7 @@ export const howACluster1Articles: Article[] = [
     metaTitle: "How B2B Law Firms Generate Quality Leads",
     excerpt:
       "An inside look at the methods successful business-focused law firms actually use to generate leads.",
+    metaDescription: "An inside look at the methods successful business-focused law firms actually use to generate leads, from referral networks to targeted content marketing.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-01",

@@ -10,6 +10,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Generate High-Quality Injury Law Firm Call Leads",
     excerpt:
       "A quality-focused approach to generating inbound call leads specifically for personal injury firms.",
+    metaDescription: "A quality-focused approach to generating inbound call leads for personal injury firms, covering how to screen for case fit before intake takes the call.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -62,6 +63,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "High-Quality PI Attorney Leads in Arizona",
     excerpt:
       "A statewide, quality-focused approach to Arizona personal injury lead generation.",
+    metaDescription: "A statewide, quality-focused approach to Arizona personal injury lead generation, covering comparative fault rules and metro-level demand patterns.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -114,6 +116,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "High-Quality Personal Injury Leads in Florida",
     excerpt:
       "A statewide, quality-focused approach to Florida personal injury lead generation post-2023 fault reform.",
+    metaDescription: "A statewide approach to Florida personal injury lead generation post-2023 fault reform, covering how the new negligence bar changed case screening.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-10-14",
@@ -166,6 +169,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Highway Accident Attorney Leads That Convert",
     excerpt:
       "Highway accidents often involve higher speeds and injury severity, worth reflecting in generation strategy.",
+    metaDescription: "How to generate highway accident attorney leads that convert, covering why higher speeds and injury severity should shape screening and follow-up.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -218,6 +222,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Generate Personal Injury Attorney Leads in Texas",
     excerpt:
       "A general, statewide generation guide for Texas personal injury firms.",
+    metaDescription: "A general, statewide generation guide for Texas personal injury firms, covering the proportionate responsibility rule and case volume concentration.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -270,6 +275,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "How to Generate Personal Injury Leads",
     excerpt:
       "A foundational, channel-by-channel guide to generating personal injury leads for any firm.",
+    metaDescription: "A foundational, channel-by-channel guide to generating personal injury leads for any firm, covering organic, paid, and purchased sources to weigh.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-14",
@@ -322,6 +328,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Generate Personal Injury Leads in 2026",
     excerpt:
       "What's changed in personal injury lead generation heading into 2026, and how to adapt.",
+    metaDescription: "What's changed in personal injury lead generation heading into 2026, covering shifting search behavior and how firms are adapting their channel mix.",
     category: "Industry Trends",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -374,6 +381,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Generate Personal Injury Leads Near Tampa, FL",
     excerpt:
       "A local generation guide for Tampa-area personal injury firms.",
+    metaDescription: "A local generation guide for Tampa-area personal injury firms, covering traffic patterns, competition level, and where local search intent concentrates.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -426,6 +434,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Generate Quality Catastrophic Injury Leads",
     excerpt:
       "A quality-focused approach specifically for catastrophic injury lead generation.",
+    metaDescription: "A quality-focused approach specifically for catastrophic injury lead generation, covering the screening standards that matter most at high case value.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-14",
@@ -478,6 +487,7 @@ export const howToGenerateCluster3Articles: Article[] = [
     metaTitle: "Generate Quality Child Custody Marketing Leads",
     excerpt:
       "A marketing-focused approach to generating quality child custody leads through targeted content and channels.",
+    metaDescription: "A marketing-focused approach to generating quality child custody leads, covering the targeted content that reaches parents facing a custody dispute.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-14",

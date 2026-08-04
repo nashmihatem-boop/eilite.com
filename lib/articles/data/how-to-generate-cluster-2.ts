@@ -11,6 +11,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in Tampa Bay",
     excerpt:
       "A local guide to Tampa Bay divorce lead generation, building on Florida's statewide alimony reform.",
+    metaDescription: "Florida's statewide alimony reform is reshaping divorce case volume — this local guide covers how Tampa Bay attorneys can generate leads in the current climate.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -63,6 +64,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in Virginia",
     excerpt:
       "A statewide guide to Virginia divorce lead generation, covering the state's separation period requirements.",
+    metaDescription: "Virginia's separation period requirements shape how divorce cases move through the system — this statewide guide covers generating attorney leads accordingly.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -115,6 +117,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in Washington",
     excerpt:
       "A statewide guide to Washington divorce lead generation, covering the state's community property framework.",
+    metaDescription: "Washington's community property framework affects how divorce cases are litigated — this statewide guide covers generating attorney leads within that context.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -167,6 +170,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Domestic Relations Client Acquisition Leads",
     excerpt:
       "A generation-focused guide for firms marketing under the broader domestic relations practice umbrella.",
+    metaDescription: "Domestic relations is a broader practice umbrella than divorce alone — this guide helps firms marketing under that wider category generate client leads.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -219,6 +223,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Generate Family Court Attorney Leads That Convert",
     excerpt:
       "A conversion-focused approach to generating leads specifically for litigated family court matters.",
+    metaDescription: "Litigated family court matters require a different lead approach than uncontested cases — this guide covers generating leads that actually convert.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -271,6 +276,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Generate High-Quality Child Custody Leads",
     excerpt:
       "A quality-focused approach to generating child custody leads that genuinely fit your firm's practice.",
+    metaDescription: "Custody cases demand leads that genuinely fit a firm's practice, not just volume — this guide covers generating child custody leads that actually convert.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -323,6 +329,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "High-Quality Divorce Attorney Leads in Florida",
     excerpt:
       "A quality-focused, statewide approach to Florida divorce lead generation post-alimony reform.",
+    metaDescription: "Florida's post-reform alimony landscape has changed how divorce leads should be sourced — this statewide guide covers generating quality leads accordingly.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-10-13",
@@ -375,6 +382,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Florida Divorce Leads: Referral Approach",
     excerpt:
       "A referral-partnership-focused approach to sourcing high-quality Florida divorce leads.",
+    metaDescription: "Referral partnerships remain one of the highest-quality sources for Florida divorce leads — this guide covers how to build that pipeline deliberately.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -427,6 +435,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "High-Quality Divorce Attorney Leads in Illinois",
     excerpt:
       "A quality-focused, statewide approach to Illinois divorce lead generation.",
+    metaDescription: "Illinois divorce cases follow their own procedural timeline and requirements — this statewide guide covers generating quality attorney leads accordingly.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-13",
@@ -479,6 +488,7 @@ export const howToGenerateCluster2Articles: Article[] = [
     metaTitle: "Generate High-Quality Family Law Leads",
     excerpt:
       "A general, quality-focused framework applicable across the full family law practice area.",
+    metaDescription: "This general framework applies across the full family law practice area, covering how firms generate genuinely high-quality leads regardless of case type.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-13",

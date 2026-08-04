@@ -7,6 +7,7 @@ export const miscBatch15Articles: Article[] = [
     metaTitle: "Digital Marketing for Law Firm Client Acquisition",
     excerpt:
       "A comprehensive overview of digital marketing tactics proven to acquire clients across law firm practice areas.",
+    metaDescription: "Digital marketing for law firms spans SEO, paid ads, social, and email, each playing a different role in client acquisition. This overview covers proven tactics.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-21",

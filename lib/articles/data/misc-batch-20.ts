@@ -13,6 +13,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Email Marketing for Lawyers Guide",
     excerpt:
       "How law firms can use email marketing as a genuine client acquisition channel, not just a newsletter afterthought.",
+    metaDescription: "How law firms can use email marketing as a genuine client acquisition channel, not just a newsletter afterthought, from list building to nurture flows.",
     category: "Marketing Channels",
     readTime: "6 min read",
     publishedDate: "2026-09-24",
@@ -66,6 +67,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "PI Lead Management Software Updates",
     excerpt:
       "What personal injury firms should look for when evaluating or updating their lead management and CRM software.",
+    metaDescription: "What personal injury firms should look for when evaluating or updating their lead management and CRM software, from automation to better reporting.",
     category: "Tools & Technology",
     readTime: "6 min read",
     publishedDate: "2026-09-24",
@@ -173,6 +175,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Family Law Client Acquisition Strategies",
     excerpt:
       "Proven growth strategies specifically for family law client acquisition, from SEO through purchased lead programs.",
+    metaDescription: "Proven growth strategies specifically for family law client acquisition, spanning local SEO, referral networks, and purchased lead programs today.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-24",
@@ -226,6 +229,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Family Law Intake Optimization Guide",
     excerpt:
       "How family law firms can optimize intake specifically for the emotional sensitivity and urgency of these cases.",
+    metaDescription: "How family law firms can optimize intake specifically for the emotional sensitivity and urgency these cases demand, without ever losing the prospect.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-24",
@@ -278,6 +282,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Family Law Lead Generation Guide",
     excerpt:
       "A complete overview of lead generation strategies and options specifically for family law practices.",
+    metaDescription: "A complete overview of lead generation strategies and options specifically for family law practices, from SEO and PPC to referral partnerships built.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-24",
@@ -331,6 +336,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Family Law Lead Generation Services",
     excerpt:
       "What to look for when evaluating a third-party family law lead generation service for your practice.",
+    metaDescription: "What to look for when evaluating a third-party family law lead generation service, from exclusivity terms to case-type filtering options available.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-24",
@@ -384,6 +390,7 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Family Law Marketing Guide",
     excerpt:
       "A practical, empathy-first marketing guide for family law firms looking to grow their practice sustainably.",
+    metaDescription: "A practical, empathy-first marketing guide for family law firms looking to grow their practice sustainably without ever feeling exploitative to clients.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-24",

@@ -9,6 +9,7 @@ export const attorneyGlossary5Articles: Article[] = [
     metaTitle: "Attorney Lead Conversion Strategic Framework",
     excerpt:
       "A structured, stage-by-stage framework for thinking about lead conversion as a system rather than a single event.",
+    metaDescription: "Treating lead conversion as a single moment rather than a system leaves real revenue on the table. A stage-by-stage framework for thinking about conversion.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-02",
@@ -70,6 +71,7 @@ export const attorneyGlossary5Articles: Article[] = [
     metaTitle: "Attorney Lead Conversion Optimization",
     excerpt:
       "Specific, tested strategies for improving conversion rate at each stage of the attorney lead funnel.",
+    metaDescription: "Small changes at each stage of the attorney lead funnel compound into meaningfully higher conversion. Specific, tested strategies for every step.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-02",

@@ -7,6 +7,7 @@ export const exclusiveXCluster8Articles: Article[] = [
     metaTitle: "Exclusive Personal Injury Leads Strategic Guide",
     excerpt:
       "A complete, practical guide covering evaluation, testing, and scaling of exclusive personal injury lead acquisition.",
+    metaDescription: "Exclusive personal injury leads cost more upfront but often convert far better. This guide covers evaluation, testing, and scaling your acquisition strategy.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-19",

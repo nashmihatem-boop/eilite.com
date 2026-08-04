@@ -11,6 +11,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Uber Accident Leads",
     excerpt:
       "Uber accident cases involve a specific insurance tier structure worth understanding before marketing to this niche.",
+    metaDescription: "Uber accident cases involve a specific insurance tier tied to the driver's app status at the crash moment. This guide covers acquiring and converting these leads.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -64,6 +65,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Acquire High-Quality Car Accident Injury Leads",
     excerpt:
       "A step-by-step approach to sourcing car accident leads specifically screened for injury quality.",
+    metaDescription: "Not every car accident lead involves a real injury claim worth pursuing. This approach covers sourcing leads specifically screened for genuine injury quality.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -116,6 +118,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Quality Personal Injury Leads Near Tampa, FL",
     excerpt:
       "A local guide to acquiring quality personal injury leads in the greater Tampa Bay area.",
+    metaDescription: "Tampa Bay's personal injury market has its own dynamics shaped by local court procedures and traffic patterns. This local guide covers acquiring quality leads.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -168,6 +171,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "How to Advertise a Law Firm Online",
     excerpt:
       "A practical guide to online law firm advertising built around steady, sustainable growth rather than spikes.",
+    metaDescription: "Chasing quick spikes in law firm advertising often backfires when the pipeline dries up just as fast. This guide covers advertising for sustainable growth.",
     category: "Marketing Channels",
     readTime: "7 min read",
     publishedDate: "2026-10-07",
@@ -220,6 +224,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Buy and Convert Auto Accident Attorney Leads",
     excerpt:
       "A compliance-conscious guide to buying auto accident leads while staying within attorney advertising rules.",
+    metaDescription: "Buying auto accident leads comes with strict attorney advertising rules that vary by state bar and referral arrangement. This guide covers buying them properly.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -272,6 +277,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Buy and Convert Auto Accident Leads",
     excerpt:
       "A step-by-step process for attorneys looking to buy and convert auto accident leads for the first time.",
+    metaDescription: "Attorneys buying auto accident leads for the first time face a learning curve around pricing, exclusivity, and timing. This process covers what to expect.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -324,6 +330,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Buy and Convert Auto Accident Leads for Lawyers",
     excerpt:
       "A beginner-friendly explanation of lead costs and what to expect when buying auto accident leads.",
+    metaDescription: "Lawyers new to buying auto accident leads often underestimate true cost per case once conversion rates factor in. This guide covers realistic expectations.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -376,6 +383,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Buy Liability Injury Attorney Leads That Convert",
     excerpt:
       "How to prioritize clear liability when buying injury attorney leads to maximize conversion.",
+    metaDescription: "Injury cases with clear liability convert into signed clients far more reliably than disputed-fault cases do. This guide covers prioritizing clear liability.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -428,6 +436,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "How to Buy Personal Injury Leads",
     excerpt:
       "A getting-started guide for law firms buying personal injury leads for the first time.",
+    metaDescription: "Law firms buying personal injury leads for the first time face decisions around exclusivity, pricing, and screening standards. This guide covers what to know.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",
@@ -480,6 +489,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Calculate and Maximize Personal Injury Lead ROI",
     excerpt:
       "A step-by-step approach to calculating personal injury lead ROI, and specific ways to improve it.",
+    metaDescription: "Most firms track personal injury lead spend but never calculate true ROI once case value and staff time factor in. This guide covers improving that number.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-07",

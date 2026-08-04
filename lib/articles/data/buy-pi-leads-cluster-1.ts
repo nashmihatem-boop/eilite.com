@@ -62,6 +62,7 @@ export const buyPiLeadsCluster1Articles: Article[] = [
     metaTitle: "How to Buy a Personal Injury Lead",
     excerpt:
       "A straightforward starting guide for firms considering their very first personal injury lead purchase.",
+    metaDescription: "A straightforward starting guide for firms considering their very first personal injury lead purchase, covering pricing, vetting, and key red flags.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",

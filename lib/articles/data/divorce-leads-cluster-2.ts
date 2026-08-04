@@ -10,6 +10,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Divorce Attorney Client Acquisition Services",
     excerpt:
       "What separates client acquisition services that actually deliver signed cases from those that just deliver leads.",
+    metaDescription: "What separates client acquisition services that deliver signed cases from those that just deliver unqualified leads, and how to tell the difference.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -63,6 +64,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Divorce Lead Conversion Optimization",
     excerpt:
       "Proven strategies for improving how many divorce leads your firm actually converts into signed retainers.",
+    metaDescription: "Proven strategies for improving how many divorce leads your firm converts into signed retainers, covering intake speed, consultation quality, and timing.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -116,6 +118,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Divorce Lead Generation for Growing Practices",
     excerpt:
       "Lead generation strategies suited specifically to a family law practice in an active growth phase.",
+    metaDescription: "Lead generation strategies suited specifically to a family law practice in an active growth phase, covering channels that scale without diluting case quality.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -169,6 +172,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Divorce Legal Leads for Quality Acquisition",
     excerpt:
       "Strategies specifically focused on acquiring quality — not just volume — in divorce legal lead generation.",
+    metaDescription: "Strategies specifically focused on acquiring quality, not just volume, in divorce legal lead generation, covering how to screen for genuine retainer potential.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -222,6 +226,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Domestic Relations Attorney Lead Strategies",
     excerpt:
       "Growth strategies for the broader domestic relations practice area, beyond divorce alone.",
+    metaDescription: "Growth strategies for the broader domestic relations practice area beyond divorce alone, covering custody, support, and adoption matters worth targeting.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -274,6 +279,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Effective PI Case Marketing Strategies",
     excerpt:
       "Marketing strategies focused specifically on individual case types within a personal injury practice.",
+    metaDescription: "Marketing strategies focused specifically on individual case types within a personal injury practice, rather than one generic campaign covering every case type.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-26",
@@ -326,6 +332,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Converting Child Custody Divorce Leads",
     excerpt:
       "Conversion strategies specifically for the emotionally charged, urgency-driven nature of child custody leads.",
+    metaDescription: "Conversion strategies specifically for the emotionally charged, urgency-driven nature of child custody leads, covering intake and initial call handling.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -379,6 +386,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Exclusive Divorce Leads Strategic Guide",
     excerpt:
       "How exclusive divorce leads fit into a broader law firm growth strategy, and when they're worth the premium.",
+    metaDescription: "How exclusive divorce leads fit into a broader law firm growth strategy, and when paying the premium price over shared leads is genuinely worth it.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -431,6 +439,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Affordable Personal Injury Leads That Convert",
     excerpt:
       "How firms with limited budgets can find personal injury leads that are both affordable and genuinely convertible.",
+    metaDescription: "How firms with limited budgets can find personal injury leads that are affordable and genuinely convertible, without settling for stale, overworked contacts.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-26",
@@ -484,6 +493,7 @@ export const divorceLeadsCluster2Articles: Article[] = [
     metaTitle: "Free Attorney Leads: What's Really Available",
     excerpt:
       "An honest look at genuinely free attorney lead sources, and where 'free' leads carry hidden costs.",
+    metaDescription: "An honest look at genuinely free attorney lead sources, and where so-called free leads actually carry hidden costs in time, quality, or missed opportunity.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-09-26",

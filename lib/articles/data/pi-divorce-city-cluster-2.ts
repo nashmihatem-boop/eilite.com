@@ -62,6 +62,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Atlanta",
     excerpt:
       "How Georgia's 50% fault bar and Atlanta's trucking corridor shape local personal injury lead generation.",
+    metaDescription: "How Georgia's 50% fault bar and Atlanta's busy trucking corridor shape local personal injury lead generation, from case types to competitive pricing.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",
@@ -114,6 +115,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Dallas",
     excerpt:
       "How Texas's 51% bar and Dallas's freight corridor shape local personal injury lead generation.",
+    metaDescription: "How Texas's 51% comparative fault bar and Dallas's freight corridor shape local personal injury lead generation, from case volume to firm competition.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",
@@ -166,6 +168,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Florida",
     excerpt:
       "How Florida's 2023 shift to modified comparative negligence changed the personal injury lead landscape statewide.",
+    metaDescription: "How Florida's 2023 shift to modified comparative negligence changed the personal injury lead landscape statewide, affecting case viability and pricing.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-29",
@@ -218,6 +221,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Georgia",
     excerpt:
       "A statewide view of Georgia personal injury lead generation, beyond the Atlanta metro alone.",
+    metaDescription: "A statewide view of Georgia personal injury lead generation beyond the Atlanta metro alone, covering regional demand shifts and case-type variation.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",
@@ -322,6 +326,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in New York City",
     excerpt:
       "How New York's no-fault insurance rules and dense urban environment shape personal injury lead generation in NYC.",
+    metaDescription: "How New York's no-fault insurance rules and dense urban environment shape personal injury lead generation in NYC, from case screening to pricing.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-29",
@@ -426,6 +431,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in San Diego",
     excerpt:
       "How San Diego's large military population and border proximity shape local personal injury lead generation.",
+    metaDescription: "How San Diego's large military population and border proximity shape local personal injury lead generation, from unique case types to demand patterns.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",
@@ -478,6 +484,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Tampa",
     excerpt:
       "How Florida's 2023 fault reform and Tampa's tourism-heavy market shape local personal injury lead generation.",
+    metaDescription: "How Florida's 2023 fault reform and Tampa's tourism-heavy market shape local personal injury lead generation, affecting case mix and firm competition.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",

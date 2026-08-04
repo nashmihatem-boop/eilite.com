@@ -7,6 +7,7 @@ export const bestXCluster5Articles: Article[] = [
     metaTitle: "Best Law Firm Marketing Strategies 2026",
     excerpt:
       "A current, dated overview of the marketing strategies producing the strongest results for law firms this year.",
+    metaDescription: "A current, dated overview of the marketing strategies producing the strongest results for law firms this year, covering SEO, paid ads, and referral programs.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-06",
@@ -68,6 +69,7 @@ export const bestXCluster5Articles: Article[] = [
     metaTitle: "Best Law Firm Marketing Tools 2026",
     excerpt:
       "A category-based breakdown of the marketing technology genuinely worth investing in this year, avoiding tool sprawl.",
+    metaDescription: "A category-based breakdown of the marketing technology genuinely worth investing in this year, covering CRM, intake, and analytics tools that avoid tool sprawl.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-06",

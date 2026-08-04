@@ -10,6 +10,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "Securing High-Value Lyft Accident Leads",
     excerpt:
       "Rideshare accident cases involving Lyft carry distinct insurance layers worth understanding before marketing to them.",
+    metaDescription: "Rideshare accident cases involving Lyft carry distinct insurance layers worth understanding before marketing to them, from coverage tiers to liability timing.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -63,6 +64,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "How Law Firms Compete Online in 2026",
     excerpt:
       "Current key strategies law firms are using to compete effectively in an increasingly crowded online market.",
+    metaDescription: "Current key strategies law firms are using to compete effectively in an increasingly crowded online market, from local SEO to AI-driven search visibility.",
     category: "Industry Trends",
     readTime: "7 min read",
     publishedDate: "2026-10-03",
@@ -115,6 +117,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "Law Firms: Generating Leads Online Effectively",
     excerpt:
       "The core online lead generation channels law firms use, and what makes each of them effective.",
+    metaDescription: "The core online lead generation channels law firms use, and what makes each of them effective, from organic search to paid advertising and referrals.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -167,6 +170,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "How Law Firms Grow Their Practice in 2026",
     excerpt:
       "A current look at the practical growth levers law firms are pulling to expand their practice in 2026.",
+    metaDescription: "A current look at the practical growth levers law firms are pulling to expand their practice in 2026, from lead diversification to intake automation.",
     category: "Industry Trends",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -219,6 +223,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "Managing Leads for Maximum Conversion",
     excerpt:
       "The lead management practices that separate firms converting most of their volume from those wasting it.",
+    metaDescription: "The lead management practices that separate firms converting most of their volume from those wasting it, covering routing, follow-up, and tracking.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -271,6 +276,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "How Lawyer Referral Networks Work",
     excerpt:
       "An explanation of how formal and informal attorney referral networks actually function.",
+    metaDescription: "An explanation of how formal and informal attorney referral networks actually function, including how reciprocity and specialization shape referral flow.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -323,6 +329,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "How Lawyers Build Online Authority",
     excerpt:
       "A proven, step-by-step playbook for lawyers looking to build genuine authority and trust online.",
+    metaDescription: "A proven, step-by-step playbook for lawyers looking to build genuine authority and trust online, from content strategy to earned media and reviews.",
     category: "Marketing Channels",
     readTime: "7 min read",
     publishedDate: "2026-10-03",
@@ -375,6 +382,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "Building Referral Networks That Generate Cases",
     excerpt:
       "A practical, action-oriented guide to building attorney referral relationships that produce actual case volume.",
+    metaDescription: "A practical, action-oriented guide to building attorney referral relationships that produce actual case volume, not just occasional courtesy referrals.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -428,6 +436,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "Converting Consultations Into Signed Cases",
     excerpt:
       "The specific consultation practices that most reliably turn an initial meeting into a signed retainer.",
+    metaDescription: "The specific consultation practices that most reliably turn an initial meeting into a signed retainer, from preparation to handling common objections.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-03",
@@ -480,6 +489,7 @@ export const howLawyersCluster1Articles: Article[] = [
     metaTitle: "Following Up With Leads for Success",
     excerpt:
       "A practical framework for following up with leads who don't convert on the first contact.",
+    metaDescription: "A practical framework for following up with leads who don't convert on the first contact, including cadence, messaging, and when to finally let go.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-10-03",

@@ -10,6 +10,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Rear-End Accident Leads",
     excerpt:
       "Rear-end accidents often involve presumed fault, a distinction worth reflecting in generation and screening.",
+    metaDescription: "Rear-end accidents often carry presumed fault, a distinction that changes how firms should generate and screen these leads. A process built on that edge.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-12",
@@ -62,6 +63,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Serious Injury Attorney Leads",
     excerpt:
       "Serious injury cases require specialized generation and conversion approaches given their higher stakes and value.",
+    metaDescription: "Serious injury cases carry higher stakes and settlement value, requiring a more specialized intake approach. Tactics built for these higher-value claims.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-12",
@@ -114,6 +116,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate and Convert Truck Accident Leads",
     excerpt:
       "A complete generation and conversion process addressing trucking's federal regulations and commercial insurance.",
+    metaDescription: "Truck accident claims involve federal trucking regulations and commercial insurance that car accidents don't. A process built around those complexities.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-12",
@@ -166,6 +169,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Child Custody Attorney Leads in Orlando, FL",
     excerpt:
       "A local guide to generating child custody leads in Orlando, accounting for Florida's custody framework.",
+    metaDescription: "Generating child custody leads in Orlando means working within Florida's custody framework and local court practices. A local guide to that landscape.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-12",
@@ -218,6 +222,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate Collaborative Divorce Leads",
     excerpt:
       "Practical, generation-focused tactics for building a collaborative divorce lead pipeline.",
+    metaDescription: "Collaborative divorce attracts a different client than contested litigation, requiring a distinct marketing message. Tactics for building this pipeline.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-10-12",
@@ -270,6 +275,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in New Jersey",
     excerpt:
       "A statewide guide to New Jersey divorce lead generation, covering equitable distribution and residency rules.",
+    metaDescription: "New Jersey divorce leads are shaped by the state's equitable distribution rules and residency requirements. A statewide guide to that legal framework.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-12",
@@ -322,6 +328,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in North Carolina",
     excerpt:
       "A statewide guide to North Carolina divorce lead generation, covering the state's unique one-year separation rule.",
+    metaDescription: "North Carolina divorce leads must account for the state's one-year separation requirement before filing. A statewide guide to that legal framework.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-12",
@@ -374,6 +381,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in Ohio",
     excerpt:
       "A statewide guide to Ohio divorce lead generation, covering the state's dissolution and divorce tracks.",
+    metaDescription: "Ohio offers both dissolution and traditional divorce tracks, each attracting a different type of client. A statewide guide to generating leads on both.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-12",
@@ -426,6 +434,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in Orlando, FL",
     excerpt:
       "A local guide to Orlando divorce lead generation, building on Florida's statewide alimony reform.",
+    metaDescription: "Generating divorce leads in Orlando means building on Florida's statewide alimony reform and local court expectations. A local guide to that landscape.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-12",

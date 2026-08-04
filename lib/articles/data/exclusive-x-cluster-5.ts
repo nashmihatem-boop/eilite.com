@@ -62,6 +62,7 @@ export const exclusiveXCluster5Articles: Article[] = [
     metaTitle: "Exclusive Legal Leads: Smart Growth Strategy",
     excerpt:
       "Positioning exclusive lead acquisition as a deliberate growth strategy decision, not just a lead-buying tactic.",
+    metaDescription: "Exclusive leads cost more upfront but change the economics of client acquisition — this guide positions exclusive lead buying as a deliberate growth strategy.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-18",

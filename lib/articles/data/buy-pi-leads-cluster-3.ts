@@ -9,6 +9,7 @@ export const buyPiLeadsCluster3Articles: Article[] = [
     metaTitle: "Verified Personal Injury Leads for Firms",
     excerpt:
       "What genuine verification should cover when buying personal injury leads specifically, beyond basic contact validation.",
+    metaDescription: "What genuine verification should cover when buying personal injury leads, beyond basic contact validation, including injury documentation and signed consent.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",
@@ -55,6 +56,7 @@ export const buyPiLeadsCluster3Articles: Article[] = [
     metaTitle: "Common Mistakes When Buying PI Leads",
     excerpt:
       "The specific, predictable mistakes firms make when first buying personal injury leads, and how to avoid each one.",
+    metaDescription: "The specific, predictable mistakes firms make when first buying personal injury leads, and how to avoid each one before committing budget to a new vendor.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",
