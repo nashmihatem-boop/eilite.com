@@ -277,6 +277,11 @@ import { leadgenPillar7Articles } from "@/lib/articles/data/leadgen-pillar-7";
 import { leadgenPillar8Articles } from "@/lib/articles/data/leadgen-pillar-8";
 import { leadgenPillar9Articles } from "@/lib/articles/data/leadgen-pillar-9";
 import { leadgenPillar10Articles } from "@/lib/articles/data/leadgen-pillar-10";
+import { competitorMatch01Articles } from "@/lib/articles/data/competitor-match-01";
+import { competitorMatch02Articles } from "@/lib/articles/data/competitor-match-02";
+import { competitorMatch03Articles } from "@/lib/articles/data/competitor-match-03";
+import { competitorMatch04Articles } from "@/lib/articles/data/competitor-match-04";
+import { competitorMatch05Articles } from "@/lib/articles/data/competitor-match-05";
 
 export type { Article, ArticleBlock } from "@/lib/articles/types";
 
@@ -559,6 +564,11 @@ export const articles: Article[] = [
   ...leadgenPillar8Articles,
   ...leadgenPillar9Articles,
   ...leadgenPillar10Articles,
+  ...competitorMatch01Articles,
+  ...competitorMatch02Articles,
+  ...competitorMatch03Articles,
+  ...competitorMatch04Articles,
+  ...competitorMatch05Articles,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
