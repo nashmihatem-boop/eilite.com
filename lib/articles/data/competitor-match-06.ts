@@ -236,7 +236,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "Attracting Commercial Vehicle Clients: FMCSA Compliance Points Attorneys Should Emphasize",
     metaTitle: "FMCSA Compliance Points for Trucking Accident Attorneys",
     metaDescription:
-      "How trucking accident attorneys can use FMCSA compliance violations as evidence of negligence, plus the investigation and marketing angles that attract commercial vehicle clients.",
+      "How trucking accident attorneys use FMCSA violations as evidence of negligence, plus the investigation and marketing angles that attract commercial vehicle clients.",
     excerpt:
       "Federal Motor Carrier Safety Administration regulations create a detailed compliance trail that trucking accident attorneys can turn into both litigation leverage and a marketing differentiator.",
     category: "Personal Injury Marketing",
@@ -460,7 +460,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "Strengthening Client Relationships in Law Firms: Communication and Marketing Best Practices",
     metaTitle: "Strengthening Client Relationships in Law Firms",
     metaDescription:
-      "How law firms can strengthen client relationships through better communication, transparency, and technology, with practical strategies for retention and satisfaction.",
+      "How law firms strengthen client relationships through better communication, transparency, and technology, with practical strategies for retention and satisfaction.",
     excerpt:
       "Client relationship management isn't just a marketing buzzword for law firms — it's the operational discipline that turns satisfied clients into referral sources and repeat business.",
     category: "Law Firm Marketing",
@@ -3977,7 +3977,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "Where Your Law Firm Should Allocate Marketing Spend for Maximum ROI",
     metaTitle: "Law Firm Marketing Budget Allocation for Maximum ROI",
     metaDescription:
-      "A guide to law firm marketing budget allocation across channels, emphasizing cost-per-signed-case measurement and balancing performance spend with compounding assets.",
+      "A guide to law firm marketing budget allocation across channels, emphasizing cost-per-signed-case measurement and balancing paid spend with compounding assets.",
     excerpt:
       "Effective law firm marketing budget allocation isn't about spreading spend evenly across every channel — it's about directing dollars toward what actually produces signed cases.",
     category: "Law Firm Marketing",
@@ -5208,7 +5208,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "The Role of AI in Legal Marketing: Opportunities and Challenges Ahead",
     metaTitle: "The Role of AI in Legal Marketing: Opportunities Ahead",
     metaDescription:
-      "Examining the role of AI in legal marketing, covering content creation, paid advertising, intake optimization, and the compliance and ethics questions firms must address.",
+      "Examining the role of AI in legal marketing, covering content creation, paid ads, intake optimization, and the compliance and ethics questions firms must address.",
     excerpt:
       "AI in legal marketing offers real efficiency and scale advantages, but realizing its benefits requires attorney oversight and careful attention to bar-rule compliance.",
     category: "Industry Trends",

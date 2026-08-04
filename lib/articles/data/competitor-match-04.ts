@@ -414,7 +414,7 @@ export const competitorMatch04Articles: Article[] = [
     slug: "developing-a-niche-practice-niche-legal-marketing-strategies-for-specialized-services",
     title: "Developing a Niche Practice: Niche Legal Marketing Strategies",
     metaTitle: "Niche Legal Marketing Strategies for Specialized Firms",
-    metaDescription: "Niche legal marketing helps attorneys differentiate through specialization, using targeted content, SEO, and community networking to build authority in a specific area.",
+    metaDescription: "Niche legal marketing helps attorneys differentiate through specialization, using targeted content, SEO, and networking to build authority in a specific area.",
     excerpt: "Specializing in a defined niche and marketing around it deliberately helps attorneys stand out in a crowded legal market and build authority that generalist firms struggle to match.",
     category: "Law Firm Marketing",
     readTime: "10 min read",
