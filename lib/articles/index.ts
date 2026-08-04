@@ -612,11 +612,35 @@ export function getArticlesByCategories(categories: string[], limit = 6): Articl
 }
 
 export function getRelatedArticles(article: Article, limit = 3): Article[] {
-  if (article.relatedSlugs?.length) {
-    const resolved = article.relatedSlugs
-      .map((slug) => getArticleBySlug(slug))
-      .filter((a): a is Article => Boolean(a));
-    if (resolved.length) return resolved.slice(0, limit);
+  const explicit = (article.relatedSlugs ?? [])
+    .map((slug) => getArticleBySlug(slug))
+    .filter((a): a is Article => a !== undefined && a.slug !== article.slug);
+
+  // Across this many articles, hand-set relatedSlugs skew heavily toward a small set of hub
+  // pages (a handful of slugs are reused across hundreds of articles), which starves most
+  // articles of any on-site inbound link at all. Always blending in a same-category circular
+  // pick — the next `limit` articles in the category, wrapping around — guarantees every
+  // article larger categories is surfaced as a "related" pick by at least `limit` other
+  // pages, on top of whatever explicit picks are curated.
+  const sameCategory = articles.filter((a) => a.category === article.category);
+  const selfIndex = sameCategory.findIndex((a) => a.slug === article.slug);
+  const circular: Article[] = [];
+  if (selfIndex !== -1 && sameCategory.length > 1) {
+    for (let i = 1; i <= limit && i < sameCategory.length; i++) {
+      circular.push(sameCategory[(selfIndex + i) % sameCategory.length]);
+    }
   }
-  return articles.filter((a) => a.category === article.category && a.slug !== article.slug).slice(0, limit);
+
+  // Circular picks go first so every article's guaranteed inbound link actually survives
+  // the slice below — putting explicit picks first let them crowd out the guarantee
+  // whenever an article already had `limit` resolved relatedSlugs of its own.
+  const seen = new Set<string>();
+  const combined: Article[] = [];
+  for (const a of [...circular, ...explicit]) {
+    if (!seen.has(a.slug)) {
+      seen.add(a.slug);
+      combined.push(a);
+    }
+  }
+  return combined.slice(0, limit);
 }
