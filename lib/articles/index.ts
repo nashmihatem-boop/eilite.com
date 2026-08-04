@@ -267,6 +267,7 @@ import { contractorBatch2Articles } from "@/lib/articles/data/contractor-batch-2
 import { contractorBatch3Articles } from "@/lib/articles/data/contractor-batch-3";
 import { contractorBatch4Articles } from "@/lib/articles/data/contractor-batch-4";
 import { contractorBatch5Articles } from "@/lib/articles/data/contractor-batch-5";
+import { leadgenPillar1Articles } from "@/lib/articles/data/leadgen-pillar-1";
 
 export type { Article, ArticleBlock } from "@/lib/articles/types";
 
@@ -539,6 +540,7 @@ export const articles: Article[] = [
   ...contractorBatch3Articles,
   ...contractorBatch4Articles,
   ...contractorBatch5Articles,
+  ...leadgenPillar1Articles,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

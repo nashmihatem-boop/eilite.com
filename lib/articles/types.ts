@@ -1,7 +1,8 @@
 export type ArticleBlock =
   | { type: "paragraph"; text: string }
   | { type: "heading"; text: string }
-  | { type: "list"; items: string[] };
+  | { type: "list"; items: string[] }
+  | { type: "table"; headers: string[]; rows: string[][] };
 
 export type Article = {
   slug: string;
@@ -15,4 +16,5 @@ export type Article = {
   updatedDate?: string;
   relatedSlugs?: string[];
   content: ArticleBlock[];
+  faqs?: { q: string; a: string }[];
 };

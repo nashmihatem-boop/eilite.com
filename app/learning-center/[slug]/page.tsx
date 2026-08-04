@@ -8,11 +8,12 @@ import { LearningCenterCTA } from "@/components/sections/LearningCenterCTA";
 import { TableOfContents } from "@/components/learning-center/TableOfContents";
 import { RelatedArticles } from "@/components/learning-center/RelatedArticles";
 import { JsonLd } from "@/components/seo/JsonLd";
+import { MarketplaceFAQ } from "@/components/marketplace/MarketplaceFAQ";
 import { articles, getArticleBySlug, getRelatedArticles } from "@/lib/articles";
 import { extractToc } from "@/lib/articles/toc";
 import { renderRichText } from "@/lib/articles/rich-text";
 import { getArticleCta } from "@/lib/articles/cta";
-import { articleJsonLd, breadcrumbJsonLd } from "@/lib/structured-data";
+import { articleJsonLd, breadcrumbJsonLd, faqJsonLd } from "@/lib/structured-data";
 import { siteConfig } from "@/lib/constants";
 
 export function generateStaticParams() {
@@ -67,6 +68,9 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           { name: article.title, url: `${siteConfig.url}/learning-center/${article.slug}` },
         ])}
       />
+      {article.faqs && article.faqs.length > 0 && (
+        <JsonLd data={faqJsonLd(article.faqs.map((f) => ({ q: f.q, a: f.a })))} />
+      )}
       <Navbar />
       <article className="bg-white py-16">
         <div className="mx-auto max-w-2xl px-6 lg:px-8">
@@ -130,6 +134,40 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                   </ul>
                 );
               }
+              if (block.type === "table") {
+                return (
+                  <div key={i} className="overflow-x-auto rounded-xl border border-[var(--color-line)]">
+                    <table className="w-full border-collapse text-sm">
+                      <thead>
+                        <tr className="bg-[var(--color-surface-tint)]">
+                          {block.headers.map((h) => (
+                            <th
+                              key={h}
+                              className="border-b border-[var(--color-line)] px-4 py-3 text-left font-semibold text-[var(--color-ink)]"
+                            >
+                              {h}
+                            </th>
+                          ))}
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {block.rows.map((row, rowIdx) => (
+                          <tr key={rowIdx} className={rowIdx % 2 === 1 ? "bg-[var(--color-surface-alt)]" : undefined}>
+                            {row.map((cell, cellIdx) => (
+                              <td
+                                key={cellIdx}
+                                className="border-b border-[var(--color-line)] px-4 py-3 text-[var(--color-ink-soft)]"
+                              >
+                                {cell}
+                              </td>
+                            ))}
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                );
+              }
               return (
                 <p key={i} className="text-[var(--color-ink-soft)]">
                   {renderRichText(block.text)}
@@ -141,6 +179,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <RelatedArticles articles={related} />
 
           <div className="mt-14">
+            {article.faqs && article.faqs.length > 0 && (
+              <div className="mb-14 -mx-6 lg:-mx-8">
+                <MarketplaceFAQ faqs={article.faqs} />
+              </div>
+            )}
             <LearningCenterCTA
               title={cta.title}
               subtitle={cta.subtitle}
