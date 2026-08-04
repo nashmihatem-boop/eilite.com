@@ -1,33 +1,12 @@
 import { NextResponse } from "next/server";
 
-// script-src relies on 'self' rather than nonce + 'strict-dynamic': the site has no inline
-// or third-party scripts, so 'self' alone covers every script Next.js actually serves,
-// without requiring the nonce to be manually threaded through every rendered <script> tag.
-const CSP_HEADER_VALUE = `
-  default-src 'self';
-  script-src 'self';
-  style-src 'self' 'unsafe-inline';
-  img-src 'self' blob: data:;
-  font-src 'self';
-  object-src 'none';
-  base-uri 'self';
-  form-action 'self';
-  frame-ancestors 'none';
-  upgrade-insecure-requests;
-`
-  .replace(/\s{2,}/g, " ")
-  .trim();
-
+// NOTE: a strict script-src CSP (even 'self' alone, no 'unsafe-eval') silently broke the
+// framer-motion entrance animation on the homepage hero in production — elements stayed
+// stuck at their `initial` state (opacity: 0) instead of animating in, with no console
+// error to flag it. Removed until a CSP can be reintroduced with real verification that
+// every client-side animation still completes, not just "no console error + page loads".
 export function proxy() {
-  const response = NextResponse.next();
-
-  // React's dev-mode Fast Refresh relies on eval(), which a strict CSP blocks; React never
-  // uses eval() in production, so this only relaxes the policy in development.
-  if (process.env.NODE_ENV === "production") {
-    response.headers.set("Content-Security-Policy", CSP_HEADER_VALUE);
-  }
-
-  return response;
+  return NextResponse.next();
 }
 
 export const config = {
