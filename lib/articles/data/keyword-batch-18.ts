@@ -84,6 +84,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Gutter leads span a broader range of interest than any single service alone, including cleaning, repair, replacement, and protective guard installation." },
@@ -155,6 +156,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Gutter replacement leads connect contractors with homeowners specifically seeking full replacement of an aging or damaged gutter system, distinct from repair or cleaning interest." },
@@ -293,6 +295,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Handyman leads connect general repair professionals with homeowners needing small, often varied projects spanning multiple trades within a single visit." },
@@ -368,6 +371,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Financial Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Hard money loan leads connect private lenders with real estate investors seeking fast, asset-based financing, typically for property flips or short-term investment purchases." },
@@ -442,6 +446,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Health insurance leads connect agents with consumers shopping for individual or family medical coverage, spanning ACA marketplace plans and off-exchange alternatives." },
@@ -517,6 +522,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Heating installation leads connect contractors with homeowners specifically seeking new furnace, boiler, or heat pump installation, distinct from broader HVAC service interest." },
@@ -592,6 +598,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Financial Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "HELOC leads connect lenders with homeowners seeking a revolving credit line secured against their home's equity, distinct from a fixed home equity loan or cash-out refinance." },
@@ -739,6 +746,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "High-risk auto insurance leads connect agents with drivers who have difficulty obtaining standard coverage due to accidents, violations, or lapsed coverage history." },
@@ -814,6 +822,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: sellLeadsRel,
     content: [
       { type: "paragraph", text: "High-converting CPL offers share specific characteristics that affiliates can evaluate before committing traffic, rather than guessing based on payout alone." },
@@ -889,6 +898,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "High-intent consumer leads reflect genuine, active shopping behavior rather than passive interest or unrelated prior engagement." },
@@ -964,6 +974,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "High-intent leads reflect genuine, active buying signals, applying broadly across both consumer and business purchasing contexts rather than any single market alone." },
@@ -1039,6 +1050,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Financial Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Home equity leads connect lenders with homeowners seeking to access their home's equity through a HELOC, fixed home equity loan, or cash-out refinance." },
@@ -1182,6 +1194,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Home improvement leads connect contractors with homeowners planning renovation, repair, or upgrade projects across a genuinely broad range of trades and budgets." },
@@ -1257,6 +1270,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Home insurance leads connect agents with homeowners shopping for property coverage, spanning new purchases, renewals, and dissatisfaction with a current carrier." },
@@ -1332,6 +1346,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Home repair services span reactive fixes to existing problems, distinct from proactive home improvement projects driven by upgrade or aesthetic goals." },
@@ -1407,6 +1422,7 @@ export const keywordBatch18Articles: Article[] = [
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: buyLeadsRel,
     content: [
       { type: "paragraph", text: "Home security system leads connect installation companies with homeowners seeking protective monitoring systems, often combining hardware installation with an ongoing monitoring subscription." },
