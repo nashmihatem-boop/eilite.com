@@ -1,4 +1,4 @@
-export type SolutionCategory = "Home Services" | "Insurance" | "Software & B2B";
+export type SolutionCategory = "Legal" | "Healthcare" | "Home Services" | "Insurance" | "Software & B2B";
 
 export type SolutionVertical = {
   slug: string;

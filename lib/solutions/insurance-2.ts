@@ -1,0 +1,100 @@
+import type { SolutionVertical } from "./types";
+
+export const insuranceSolutions2: SolutionVertical[] = [
+  {
+    slug: "health-insurance-lead-generation",
+    label: "Health Insurance",
+    category: "Insurance",
+    keywords: ["health-insurance"],
+    tagline: "Health Insurance Leads",
+    highlight: "Timed to When Buyers Actually Enroll",
+    subheadline:
+      "Connect with individuals and families shopping ACA marketplace and off-exchange health coverage — filtered by subsidy eligibility and enrollment window, and delivered while they're still comparing plans, not after they've picked one.",
+    searchChips: ["health insurance marketplace plans", "affordable health insurance for self employed", "health insurance open enrollment deadline"],
+    demoIndustry: "Health Insurance",
+    overviewEyebrow: "The Problem",
+    overviewHeading: "Health insurance demand spikes hard, then buyers shop five agents at once",
+    overviewParagraphs: [
+      "Health insurance leads behave like almost no other category: volume concentrates violently around open enrollment and special enrollment triggers like job loss or a move, and inside that narrow window a single shopper is often filling out three or four different forms, comparing subsidized marketplace plans against off-exchange options within minutes of each other. A generic lead that doesn't distinguish subsidy-eligible buyers from those shopping full-price coverage wastes a call explaining basics to someone who already knows what they want, or worse, pitching a plan type the prospect doesn't even qualify for.",
+      "Every health insurance lead we deliver is filtered for real enrollment-stage intent — not calculator curiosity — and flagged for subsidy eligibility signals and enrollment window so your team pitches the right plan type from the first call. Each one runs through real-time fraud detection, identity verification, consent certification, and TCPA/DNC compliance screening before it ever reaches you. Never aggregator leftovers, never resold lists.",
+    ],
+    benefitsHeading: "What You Get",
+    benefits: [
+      "Leads split by marketplace versus off-exchange intent, so producers aren't guessing which subsidy conversation applies",
+      "Volume that scales with open enrollment and special enrollment periods, timed to when shoppers are actually deciding",
+      "Exclusive delivery — never resold to a competing agent, agency, or call center working the same enrollment window",
+      "Live warm transfers available for agents who want a shopper already on the line before the window closes",
+    ],
+    faqs: [
+      { q: "What qualification criteria are used for health insurance leads?", a: "Leads are filtered for current shopping intent, household and coverage details relevant to marketplace versus off-exchange fit, and enrollment window timing, so your producers aren't working stale or mismatched prospects." },
+      { q: "Are health insurance leads exclusive to my agency?", a: "Yes. Every lead is sold once, to a single agent or agency — never resold or shared with a competing producer working the same enrollment period." },
+      { q: "Can I target specific states or licensed territories?", a: "Yes. Campaigns are built around the states and marketplaces you're licensed to write in, so every lead delivered is one you can actually enroll." },
+      { q: "How fast are leads delivered, and can I get live transfers?", a: "Web-form leads deliver in real time as shoppers submit. Live warm transfers are also available if you'd rather have a prospect already engaged and ready to enroll before your producer picks up." },
+      { q: "How is lead compliance verified?", a: "Every lead is screened against the TCPA Litigator List and DNC.com before delivery, in addition to identity verification and consent certification, so you're never calling a number that puts your agency at risk." },
+    ],
+  },
+  {
+    slug: "auto-insurance-lead-generation",
+    label: "Auto Insurance",
+    category: "Insurance",
+    keywords: ["auto-insurance"],
+    tagline: "Auto Insurance Leads",
+    highlight: "Reached Before They Pick the Cheapest Quote",
+    subheadline:
+      "Get exclusive auto insurance leads from drivers actively requesting quotes — filtered by vehicle count, driving record, and coverage type, and delivered fast enough to win a category where price and speed decide the sale.",
+    searchChips: ["cheap car insurance quotes near me", "auto insurance quote comparison", "car insurance for high risk drivers"],
+    demoIndustry: "Auto Insurance",
+    overviewEyebrow: "The Problem",
+    overviewHeading: "Auto insurance is the most commoditized, price-driven category in the industry",
+    overviewParagraphs: [
+      "A driver requesting a car insurance quote is almost never talking to just one agent — most auto insurance leads are actively submitting the same request to five or more carriers within the same sitting, which means every minute of delay is a minute a competitor's quote lands first and closes the sale on price alone. Undifferentiated leads that don't separate standard drivers from high-risk, non-standard, or SR-22 cases waste calls quoting coverage your agency can't actually place, and generic traffic that hasn't nailed down vehicle count or renewal timing burns producer time before the pitch even starts.",
+      "Every auto insurance lead we deliver is filtered on the fields that actually predict a bind — vehicle count, driving record, and liability-only versus full coverage intent — and routed fast enough to reach the driver while they're still comparing, not after they've bound elsewhere. Each one runs through real-time fraud detection, identity verification, consent certification, and TCPA/DNC compliance screening before it's ever sent. Never aggregator leftovers, never resold lists.",
+    ],
+    benefitsHeading: "What You Get",
+    benefits: [
+      "Leads filtered by vehicle count, driving record, and liability-only versus full coverage intent",
+      "Standard and non-standard/high-risk driver segments available, so producers aren't quoting outside your carrier appointments",
+      "Exclusive delivery — never resold to a competing agency chasing the same quote request",
+      "Real-time and live warm transfer delivery so your team reaches the driver before a cheaper quote wins the call",
+    ],
+    faqs: [
+      { q: "What qualification criteria are used for auto insurance leads?", a: "Leads are filtered on vehicle and driver count, driving record and claims history, current carrier and renewal timing, and whether the shopper wants liability-only or full coverage, so producers know exactly what they're quoting before they dial." },
+      { q: "Are auto insurance leads exclusive to my agency?", a: "Yes. Every lead is sold once, to a single agency or producer — never resold or shared with a competitor chasing the same driver." },
+      { q: "Can I target specific states or licensed territories?", a: "Yes. Campaigns are built around the states you're licensed and appointed in, including non-standard or high-risk segments if your agency writes them." },
+      { q: "How fast are leads delivered, and can I get live transfers?", a: "Web-form leads deliver in real time as drivers submit — critical in a category where the first agent to call usually wins. Live warm transfers are also available for agencies that want a driver already on the phone." },
+      { q: "How is lead compliance verified?", a: "Every lead is screened against the TCPA Litigator List and DNC.com before delivery, in addition to identity verification and consent certification, so you're never calling a number that puts your agency at risk." },
+    ],
+  },
+  {
+    slug: "home-insurance-lead-generation",
+    label: "Home Insurance",
+    category: "Insurance",
+    keywords: ["home-insurance"],
+    tagline: "Home Insurance Leads",
+    highlight: "Filtered by the Property, Not Just the ZIP Code",
+    subheadline:
+      "Reach homeowners shopping coverage around a mortgage closing, refinance, or a non-renewal notice from their current carrier — filtered by property type, dwelling value, and coverage need before your producers ever pick up the phone.",
+    searchChips: ["homeowners insurance quote", "home insurance after non-renewal", "cheapest home insurance company near me"],
+    demoIndustry: "Home Insurance",
+    overviewEyebrow: "The Problem",
+    overviewHeading: "Home insurance demand tracks mortgage activity and carrier pull-back, not just interest",
+    overviewParagraphs: [
+      "Home insurance leads correlate heavily with events outside the homeowner's control — a mortgage closing, a refinance, or a non-renewal notice from a carrier exiting a high-risk market — which means shopping urgency and placement difficulty swing wildly from lead to lead. A lead that doesn't capture property type, dwelling value, and catastrophe exposure forces producers to discover mid-call that the home sits in a wildfire or flood zone their standard carriers won't touch, wasting time that could have gone to a placeable prospect.",
+      "Every home insurance lead we deliver is filtered on the details that determine both urgency and placement — property type, dwelling coverage need, and the mortgage or non-renewal trigger behind the shop — before it's ever sent. Each one runs through real-time fraud detection, identity verification, consent certification, and TCPA/DNC compliance screening first. Never aggregator leftovers, never resold lists.",
+    ],
+    benefitsHeading: "What You Get",
+    benefits: [
+      "Leads filtered by property type and dwelling coverage need, so producers aren't quoting homes they can't underwrite",
+      "Flagged for mortgage, refinance, or carrier non-renewal triggers, so you can prioritize the most time-sensitive shoppers first",
+      "Exclusive delivery — never resold to a competing agency or carrier quoting the same homeowner",
+      "Live warm transfers available for agents who want a homeowner already on the line, ready to talk coverage",
+    ],
+    faqs: [
+      { q: "What qualification criteria are used for home insurance leads?", a: "Leads are filtered on property type, estimated dwelling value or replacement cost, and the shopping trigger — mortgage closing, refinance, or a carrier non-renewal notice — so producers can prioritize and quote accurately from the first call." },
+      { q: "Are home insurance leads exclusive to my agency?", a: "Yes. Every lead is sold once, to a single agency or producer — never resold or shared with a competitor quoting the same homeowner." },
+      { q: "Can I target specific states or catastrophe-exposed markets?", a: "Yes. Campaigns are built around the states and property types you're licensed and equipped to write, including whether you have excess and surplus lines access for high-risk zones." },
+      { q: "How fast are leads delivered, and can I get live transfers?", a: "Web-form leads deliver in real time as homeowners submit. Live warm transfers are also available if you'd rather have a homeowner already engaged and ready to discuss coverage." },
+      { q: "How is lead compliance verified?", a: "Every lead is screened against the TCPA Litigator List and DNC.com before delivery, in addition to identity verification and consent certification, so you're never calling a number that puts your agency at risk." },
+    ],
+  },
+];
