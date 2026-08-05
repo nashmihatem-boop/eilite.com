@@ -13,11 +13,12 @@ export const socialMediaClusterArticles: Article[] = [
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-05",
+    updatedDate: "2026-08-05",
     relatedSlugs: socialRelated,
     content: [
       {
         type: "paragraph",
-        text: "Social media platforms move fast, and it's easy for a firm's marketing team to post content without stopping to consider whether state bar advertising rules apply the same way they would to a billboard or a TV ad. In most states, they do — social media posts by or on behalf of an attorney are generally treated as attorney advertising, subject to the same rules as any other marketing channel.",
+        text: "Social media platforms move fast, and it's easy for a firm's marketing team to post content without stopping to consider whether state bar advertising rules apply the same way they would to a billboard or a TV ad. In most states, they do — social media posts by or on behalf of an attorney are generally treated as attorney advertising, subject to the same rules as any other marketing channel, including retention requirements in some states that mean every post needs to be archived for a set period after publication.",
       },
       {
         type: "heading",
@@ -54,7 +55,56 @@ export const socialMediaClusterArticles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Firms with multiple attorneys and staff members active on social media benefit from a simple, written social media policy — not to stifle genuine engagement, but to ensure everyone understands where the compliance lines are, particularly around case discussion, client confidentiality, and advertising claims.",
+        text: "Firms with multiple attorneys and staff members active on social media benefit from a simple, written social media policy — not to stifle genuine engagement, but to ensure everyone understands where the compliance lines are, particularly around case discussion, client confidentiality, and advertising claims. This matters even more for associates and paralegals who may not have direct advertising-compliance training but are nonetheless posting content that reflects on the firm.",
+      },
+      {
+        type: "heading",
+        text: "What a Written Policy Should Actually Cover",
+      },
+      {
+        type: "list",
+        items: [
+          "Who is authorized to post on behalf of the firm's official accounts, and what approval step, if any, applies before publishing.",
+          "Clear guidance on discussing pending or past cases, including the line between general legal commentary and anything that could reveal client-confidential information.",
+          "A process for archiving posts to satisfy any state-specific retention requirements for attorney advertising.",
+          "Guidance for personal accounts on how to handle unsolicited direct messages from potential clients, since solicitation rules can apply there too.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "The Cost of Getting This Wrong",
+      },
+      {
+        type: "paragraph",
+        text: "Bar complaints tied to social media content are rarely a firm's biggest compliance risk in isolation, but they carry real costs beyond any formal discipline — the time spent responding to a grievance, the reputational exposure of a public complaint, and the disruption of pulling content and issuing corrections after the fact. A modest upfront investment in a written policy and a basic review habit is inexpensive compared to managing a compliance issue after content has already been public for weeks or months.",
+      },
+      {
+        type: "heading",
+        text: "Handling Third-Party Content and Tags",
+      },
+      {
+        type: "paragraph",
+        text: "Compliance questions don't stop at content a firm posts directly. When a satisfied client tags the firm in a post, shares a review, or posts about their case outcome, most bar guidance treats the firm's response — resharing, commenting, or otherwise amplifying that content — as its own advertising decision subject to the same rules. A firm that reshares a client's enthusiastic but exaggerated case-outcome post without review can inherit the compliance risk of language it didn't originally write.",
+      },
+      {
+        type: "heading",
+        text: "Influencer and Paid Partnership Considerations",
+      },
+      {
+        type: "paragraph",
+        text: "Some firms explore paid partnerships with local influencers or content creators to expand reach. These arrangements typically still qualify as attorney advertising and may also trigger separate disclosure obligations under FTC guidelines requiring clear identification of paid or sponsored content, on top of whatever your state bar requires. Any such arrangement should be reviewed against both sets of rules before launch, not after the content is already live.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating an Outside Marketing Vendor's Compliance Awareness",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly whether the vendor is familiar with your specific state's attorney advertising rules, not just general social media best practices.",
+          "Request examples of how they've handled testimonials, case results, or comparative claims for other legal clients.",
+          "Confirm who reviews content before it's published, and whether that review specifically includes compliance, not just brand tone.",
+        ],
       },
       {
         type: "heading",
@@ -63,6 +113,36 @@ export const socialMediaClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "None of this should discourage a firm from being active on social media — it should simply inform how content gets created and reviewed. For the broader strategy of what makes social media actually effective within these bounds, see our guide to [social media marketing for law firms](/learning-center/social-media-marketing-for-law-firms).",
+      },
+    ],
+    faqs: [
+      {
+        q: "Does every state require an 'attorney advertising' disclaimer on social media posts?",
+        a: "No. Requirements vary significantly by state, and even within states that require it, application to individual social posts versus a bio or profile page can be genuinely unclear. Confirming your specific state bar's current guidance is worth the effort.",
+      },
+      {
+        q: "Are personal attorney accounts held to the same standard as firm accounts?",
+        a: "Often yes, if the content discusses legal services or invites potential clients to reach out. The account type matters less than whether the content functions as attorney advertising under your state's rules.",
+      },
+      {
+        q: "Do client testimonials need a disclaimer on social media?",
+        a: "In many states, yes — client testimonials and case result claims often carry specific disclosure requirements that vary by jurisdiction, and these requirements generally apply regardless of which platform the testimonial appears on.",
+      },
+      {
+        q: "Should every associate's personal social media activity go through firm review?",
+        a: "Most firms don't require review of every personal post, but a written policy clarifying where the compliance lines are — especially around case discussion and advertising claims — helps associates self-police without needing pre-approval for everything.",
+      },
+      {
+        q: "How long should social media advertising content be retained?",
+        a: "This varies by state, with some jurisdictions imposing specific retention periods for attorney advertising materials. Using a tool that archives posts automatically is generally more reliable than depending on manual record-keeping.",
+      },
+      {
+        q: "What happens if a firm receives a bar complaint over a social media post?",
+        a: "Most complaints start with a written inquiry from the bar asking the firm to respond to the specific concern. Having the original post archived, along with a documented review process, makes responding far easier than trying to reconstruct what was posted and why after the fact.",
+      },
+      {
+        q: "Do superiority claims like 'best' or 'top-rated' ever comply with bar rules?",
+        a: "Sometimes, if the claim is objectively verifiable and properly sourced — for example, referencing a specific, named third-party ranking. Unverifiable or vague superiority language is where most states draw the line.",
       },
     ],
   },
@@ -76,11 +156,12 @@ export const socialMediaClusterArticles: Article[] = [
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-05",
+    updatedDate: "2026-08-05",
     relatedSlugs: socialRelated,
     content: [
       {
         type: "paragraph",
-        text: "Trying to maintain an active, high-quality presence across every social platform simultaneously usually produces mediocre results everywhere rather than strong results anywhere. Matching platform choice to practice area and audience is a more efficient use of limited marketing time and budget.",
+        text: "Trying to maintain an active, high-quality presence across every social platform simultaneously usually produces mediocre results everywhere rather than strong results anywhere. Matching platform choice to practice area and audience is a more efficient use of limited marketing time and budget, and the right choice depends as much on your firm's content capacity as it does on where your ideal client technically spends time online.",
       },
       {
         type: "heading",
@@ -120,11 +201,103 @@ export const socialMediaClusterArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Matching Platforms to Practice Area at a Glance",
+      },
+      {
+        type: "table",
+        headers: ["Platform", "Strongest Fit", "Content Investment Needed"],
+        rows: [
+          ["LinkedIn", "Business, employment, estate planning", "Moderate, consistent posting"],
+          ["Facebook", "Personal injury, family law", "Moderate, community engagement"],
+          ["Instagram / short-form video", "Personal branding, PI, family law", "High, frequent production"],
+          ["YouTube", "Complex explainer content, any practice area", "High, longer-form production"],
+        ],
+      },
+      {
+        type: "heading",
+        text: "What Organic Social Media Actually Costs",
+      },
+      {
+        type: "paragraph",
+        text: "Organic social media has no direct media spend, but it isn't free — consistent, quality content requires either staff time or an outside vendor, and the real cost shows up in hours per week rather than a line-item ad budget. Firms considering paid social ads on top of organic presence should budget separately, since platforms like Facebook and Instagram can supplement organic reach but require their own targeting and creative strategy to perform well for legal services specifically.",
+      },
+      {
+        type: "heading",
+        text: "Red Flags When Choosing a Platform Strategy",
+      },
+      {
+        type: "list",
+        items: [
+          "Choosing a platform because a competitor is active there, without confirming it actually reaches your specific target audience.",
+          "Launching on a new platform without a realistic content-production plan, leading to an abandoned profile within a few months.",
+          "Ignoring platform-specific compliance and disclosure norms, particularly on video-heavy platforms where testimonial-style content is common but not always compliant.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How Video Platforms Fit Into the Mix",
+      },
+      {
+        type: "paragraph",
+        text: "YouTube deserves separate consideration from short-form platforms like Instagram or TikTok, since it rewards longer, more substantive explainer content rather than quick, high-frequency posts. A well-produced YouTube library addressing common client questions in depth can function almost like an evergreen FAQ resource, continuing to attract views and inquiries long after a given video was first published, unlike short-form content that typically has a much shorter effective lifespan in a platform's feed.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating a Social Media Management Vendor",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask for examples of past work with other law firms, ideally in a similar practice area, rather than general small-business social media examples.",
+          "Confirm how much input the firm retains over content topics and messaging, since a vendor producing generic, non-specific content rarely differentiates a firm from competitors.",
+          "Clarify who owns the account credentials and content history if the firm switches vendors later.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Measuring Whether a Platform Is Actually Working",
+      },
+      {
+        type: "paragraph",
+        text: "Follower count and likes are the weakest signals of whether a platform is working — direct messages, profile link clicks converting to consultations, and any leads that mention finding the firm through a specific platform are far more meaningful. Firms that only track vanity metrics often continue investing in an underperforming platform simply because engagement numbers look reasonable on the surface.",
+      },
+      {
+        type: "heading",
         text: "Building a Sustainable Platform Strategy",
       },
       {
         type: "paragraph",
         text: "Choosing one or two platforms to genuinely commit to, rather than spreading thin effort across five, tends to produce better results for most firms. For guidance on the compliance considerations that apply across every platform, see our guide to [lawyers and social media ethics](/learning-center/lawyers-and-social-media).",
+      },
+    ],
+    faqs: [
+      {
+        q: "Which social media platform produces the most direct client inquiries for law firms?",
+        a: "It varies by practice area, but Facebook tends to produce the most direct consumer inquiries for personal injury and family law, while LinkedIn rarely produces direct inquiries and instead builds referral relationships over time.",
+      },
+      {
+        q: "Is it worth paying for social media ads as a law firm?",
+        a: "It can be, particularly on Facebook and Instagram for consumer-facing practice areas, but paid social requires its own targeting and creative strategy — simply boosting organic posts rarely performs as well as dedicated ad campaigns.",
+      },
+      {
+        q: "How many platforms should a small firm realistically manage?",
+        a: "Most small firms get better results committing genuinely to one or two platforms that match their practice area and audience, rather than spreading limited time and budget across four or five platforms thinly.",
+      },
+      {
+        q: "Should a firm hire an agency or manage social media in-house?",
+        a: "It depends on internal capacity and expertise. An outside vendor can help firms without dedicated marketing staff, but the firm should retain real input over content and messaging rather than accepting generic, non-specific posts.",
+      },
+      {
+        q: "What metrics actually indicate social media success for a law firm?",
+        a: "Direct messages, profile link clicks converting to consultation requests, and any leads specifically mentioning the platform matter far more than follower count or likes, which are weak indicators of actual business impact.",
+      },
+      {
+        q: "How long does it take to see results from a new social media platform?",
+        a: "Most firms need several months of consistent posting before a platform's actual contribution to inquiries becomes clear, since audience-building and trust take time to compound, unlike paid channels that can show results within days.",
+      },
+      {
+        q: "Should firms use the same content across every platform they're active on?",
+        a: "Not directly. Repurposing a core idea across platforms is efficient, but content should be reformatted to fit each platform's format and audience expectations rather than posted identically everywhere.",
       },
     ],
   },
@@ -138,11 +311,12 @@ export const socialMediaClusterArticles: Article[] = [
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-05",
+    updatedDate: "2026-08-05",
     relatedSlugs: [...socialRelated, "referral-programs"],
     content: [
       {
         type: "paragraph",
-        text: "LinkedIn rarely produces a direct \"call now\" client inquiry the way a well-targeted Google ad might. What it does exceptionally well is build and maintain the kind of professional network — other attorneys, financial advisors, business owners, potential referral partners — that produces a steady stream of introductions and referrals over time.",
+        text: "LinkedIn rarely produces a direct \"call now\" client inquiry the way a well-targeted Google ad might. What it does exceptionally well is build and maintain the kind of professional network — other attorneys, financial advisors, business owners, potential referral partners — that produces a steady stream of introductions and referrals over time, making it a fundamentally different investment than most other legal marketing channels.",
       },
       {
         type: "heading",
@@ -182,11 +356,90 @@ export const socialMediaClusterArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "What LinkedIn Actually Costs",
+      },
+      {
+        type: "paragraph",
+        text: "Organic LinkedIn activity is free beyond staff or attorney time, but a serious referral-building effort still represents a real time investment — realistically, a few hours per week for meaningful posting, commenting, and outreach. LinkedIn also offers paid tools worth understanding: Sales Navigator for more advanced search and outreach tracking, and LinkedIn Ads, which carry a notably higher cost per click than most other platforms and are generally better suited to B2B legal services (business, employment) than consumer-facing practice areas.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating a LinkedIn Ghostwriting or Management Service",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask for writing samples from other attorney clients to judge whether the voice sounds authentic rather than generic and templated.",
+          "Confirm how much attorney input is involved in shaping topics, since the strongest LinkedIn content usually reflects a genuine, specific point of view rather than recycled industry commentary.",
+          "Clarify whether the service includes outreach and connection-building, or only content posting, since posting alone rarely builds referral relationships on its own.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Content Formats Worth Prioritizing",
+      },
+      {
+        type: "list",
+        items: [
+          "Short commentary posts reacting to a recent legal or industry development, published while the topic is still timely and relevant to your professional network.",
+          "Case result summaries, compliantly presented, that demonstrate concrete outcomes rather than vague claims of experience.",
+          "Occasional longer-form articles establishing deeper thought leadership on a topic central to your practice, which tend to have a longer shelf life than short daily posts.",
+          "Genuine engagement with connections' own posts — thoughtful comments, not just likes — which often does more for relationship-building than original posting alone.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes That Undermine LinkedIn Efforts",
+      },
+      {
+        type: "paragraph",
+        text: "The most common mistake is treating LinkedIn like a broadcast channel — posting content and waiting for engagement, without any direct outreach or relationship-nurturing behind it. A close second is inconsistency: posting actively for a few weeks, then going quiet for months, which prevents the platform's compounding relationship effects from ever really taking hold. LinkedIn rewards patience and consistency far more than any single viral post.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Whether LinkedIn Is Actually Paying Off",
+      },
+      {
+        type: "paragraph",
+        text: "Because LinkedIn's ROI shows up as referrals and introductions rather than direct leads, firms need a way to track where new business actually originated — a simple intake question (\"how did you hear about us, and did anyone refer you?\") captures this better than assuming LinkedIn activity and referral volume are connected without verifying it. Firms that don't track this tend to either overestimate or underestimate LinkedIn's actual contribution to growth.",
+      },
+      {
+        type: "heading",
         text: "Where LinkedIn Fits Into a Broader Referral Strategy",
       },
       {
         type: "paragraph",
         text: "LinkedIn works best as one component of a broader, deliberate referral-building effort. For the complete framework, see our guide to [referral programs for law firms](/learning-center/referral-programs).",
+      },
+    ],
+    faqs: [
+      {
+        q: "How much time should an attorney spend on LinkedIn each week?",
+        a: "A few hours per week of genuine posting, commenting, and outreach is generally enough to build momentum, though results compound over months rather than appearing immediately after a short burst of activity.",
+      },
+      {
+        q: "Are LinkedIn ads worth it for law firms?",
+        a: "Generally more so for B2B-facing practice areas like business or employment law than for consumer-facing practice areas, given LinkedIn's notably higher cost per click compared to platforms like Facebook or Google.",
+      },
+      {
+        q: "Should the firm page or individual attorney profiles get more investment?",
+        a: "Individual attorney profiles typically drive more engagement and referral-building potential than a firm's company page alone, since professional relationships form between people, not brands.",
+      },
+      {
+        q: "How can a firm measure LinkedIn's actual return on investment?",
+        a: "Track new business origin directly at intake by asking how a client heard about the firm and whether anyone referred them, rather than assuming a connection between LinkedIn activity and referral volume without verifying it.",
+      },
+      {
+        q: "Is LinkedIn worth it for solo attorneys without a marketing team?",
+        a: "Yes, often more so than for larger firms, since solo attorneys can post and engage authentically without needing internal approval processes, and referral relationships matter disproportionately for solo and small-firm growth.",
+      },
+      {
+        q: "Does LinkedIn activity carry the same bar compliance requirements as other platforms?",
+        a: "Yes. Posts discussing legal services, case results, or inviting potential clients to reach out are still treated as attorney advertising in most states, regardless of LinkedIn's more professional tone compared to consumer platforms.",
+      },
+      {
+        q: "What's a realistic first-90-day goal for LinkedIn?",
+        a: "Rather than expecting inbound referrals immediately, a realistic early goal is a complete, credential-rich profile, a consistent posting cadence, and a growing list of genuine, relevant professional connections — the referral activity typically follows after that foundation is in place.",
       },
     ],
   },
