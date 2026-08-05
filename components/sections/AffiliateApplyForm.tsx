@@ -2,9 +2,9 @@
 
 import { useState, type FormEvent } from "react";
 import { MultiSelect } from "@/components/ui/MultiSelect";
+import { SOLUTIONS, COUNTRIES } from "@/lib/form-options";
 
 const INDUSTRIES = ["Legal", "Financial", "Home Services", "Insurance"];
-const COUNTRIES = ["United States", "Canada", "United Kingdom"];
 
 const inputClass =
   "w-full rounded-lg border border-[var(--color-line)] bg-white px-3.5 py-2.5 text-sm text-[var(--color-ink)] placeholder:text-[var(--color-muted)] focus:border-[var(--color-brand)] focus:outline-none";
@@ -17,11 +17,13 @@ export function AffiliateApplyForm() {
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
-  const [role, setRole] = useState<"Advertiser" | "Publisher" | "Both">("Publisher");
+  const [role, setRole] = useState<"Advertiser" | "Affiliate" | "Both">("Affiliate");
   const [services, setServices] = useState<string[]>([]);
   const [servicesOther, setServicesOther] = useState("");
   const [country, setCountry] = useState("");
-  const [leadType, setLeadType] = useState<"Inbounds" | "Forms" | "Warm Transfers" | "Both">("Both");
+  const [solution, setSolution] = useState<string[]>([]);
+  const [solutionOther, setSolutionOther] = useState("");
+  const [hasEin, setHasEin] = useState<"Yes" | "No" | "">("");
   const [website, setWebsite] = useState(""); // honeypot — real users never see or fill this
   const [mountedAt] = useState(() => Date.now());
 
@@ -41,7 +43,8 @@ export function AffiliateApplyForm() {
           role,
           services: [...services, ...(servicesOther ? [servicesOther] : [])],
           country,
-          leadType,
+          solution: [...solution, ...(solutionOther ? [solutionOther] : [])],
+          hasEin,
           website,
           elapsedMs: Date.now() - mountedAt,
         }),
@@ -95,13 +98,13 @@ export function AffiliateApplyForm() {
 
                 <div>
                   <span className="mb-1.5 block text-xs font-semibold text-[var(--color-ink)]">
-                    Are you an advertiser or a publisher? <span className="text-red-500">*</span>
+                    Are you an advertiser or an affiliate? <span className="text-red-500">*</span>
                   </span>
                   <div className="grid grid-cols-3 gap-3">
                     {(
                       [
                         { value: "Advertiser", detail: "I want to buy leads, transfers, or calls" },
-                        { value: "Publisher", detail: "I want to sell my traffic" },
+                        { value: "Affiliate", detail: "I want to sell my traffic" },
                         { value: "Both", detail: "I want to buy and sell" },
                       ] as const
                     ).map((option) => {
@@ -175,9 +178,10 @@ export function AffiliateApplyForm() {
                     <input
                       required
                       type="tel"
-                      placeholder="+1 (555) 555-5555"
+                      placeholder="e.g. +1 555 555 5555"
                       value={phone}
                       onChange={(e) => setPhone(e.target.value)}
+                      maxLength={30}
                       className={inputClass}
                     />
                   </label>
@@ -205,21 +209,38 @@ export function AffiliateApplyForm() {
                   </select>
                 </label>
 
+                <MultiSelect
+                  label="What solution are you interested in?"
+                  options={SOLUTIONS}
+                  value={solution}
+                  onChange={setSolution}
+                  otherValue={solutionOther}
+                  onOtherChange={setSolutionOther}
+                  placeholder="Select solution"
+                />
+
                 <div>
-                  <span className="mb-1.5 block text-xs font-semibold text-[var(--color-ink)]">Lead type</span>
-                  <div className="grid grid-cols-2 gap-2 rounded-lg border border-[var(--color-line)] bg-white px-3.5 py-2.5 sm:flex sm:flex-nowrap sm:items-center sm:justify-between">
-                    {(["Inbounds", "Forms", "Warm Transfers", "Both"] as const).map((type) => (
-                      <label key={type} className="flex items-center gap-1.5 whitespace-nowrap text-sm text-[var(--color-ink)]">
-                        <input
-                          type="radio"
-                          name="leadType"
-                          checked={leadType === type}
-                          onChange={() => setLeadType(type)}
-                          className="h-3.5 w-3.5 shrink-0 accent-[var(--color-brand)]"
-                        />
-                        {type}
-                      </label>
-                    ))}
+                  <span className="mb-1.5 block text-xs font-semibold text-[var(--color-ink)]">
+                    Do you have an EIN for your company?
+                  </span>
+                  <div className="grid grid-cols-2 gap-3">
+                    {(["Yes", "No"] as const).map((option) => {
+                      const isActive = hasEin === option;
+                      return (
+                        <button
+                          key={option}
+                          type="button"
+                          onClick={() => setHasEin(option)}
+                          className={`rounded-lg border p-3 text-center text-sm font-bold text-[var(--color-ink)] transition-colors ${
+                            isActive
+                              ? "border-[var(--color-brand)] bg-[var(--color-surface-tint)]"
+                              : "border-[var(--color-line)] bg-white hover:border-[var(--color-brand)]/40"
+                          }`}
+                        >
+                          {option}
+                        </button>
+                      );
+                    })}
                   </div>
                 </div>
 

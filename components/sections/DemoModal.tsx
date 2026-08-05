@@ -4,14 +4,13 @@ import { useEffect, useState, type ReactNode, type FormEvent } from "react";
 import { X } from "lucide-react";
 import { useDemoModal } from "@/lib/demo-modal-context";
 import { MultiSelect } from "@/components/ui/MultiSelect";
+import { SOLUTIONS } from "@/lib/form-options";
 
 const INDUSTRIES = ["Legal", "Financial Services", "Home Services", "Insurance"];
-const SOLUTIONS = ["Premium Leads", "Premium Warm Transfers", "Inbound Calls"];
 const ROLES = [
   "Broker",
   "Contractor",
   "Affiliate",
-  "Publisher",
   "Aggregator",
   "Lead Provider",
   "Financial Institution",
@@ -218,9 +217,10 @@ export function DemoModal() {
                   <input
                     required
                     type="tel"
-                    placeholder="+1 (555) 555-5555"
+                    placeholder="e.g. +1 555 555 5555"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
+                    maxLength={30}
                     className={inputClass}
                   />
                 </Field>

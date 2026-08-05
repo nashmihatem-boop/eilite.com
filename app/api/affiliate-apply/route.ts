@@ -22,7 +22,8 @@ export async function POST(request: Request) {
   const role = String(body.role ?? "").trim();
   const services = Array.isArray(body.services) ? body.services.join(", ") : "";
   const country = String(body.country ?? "").trim();
-  const leadType = String(body.leadType ?? "").trim();
+  const solution = Array.isArray(body.solution) ? body.solution.join(", ") : "";
+  const hasEin = String(body.hasEin ?? "").trim();
 
   if (!firstName || !lastName || !email || !phone) {
     return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
@@ -39,10 +40,11 @@ export async function POST(request: Request) {
           "Last name": lastName,
           Email: email,
           Phone: phone,
-          "Advertiser or publisher": role,
+          "Advertiser or affiliate": role,
           Services: services,
           Country: country,
-          "Lead type": leadType,
+          Solution: solution,
+          "Has EIN": hasEin,
         })}
       `,
     });
