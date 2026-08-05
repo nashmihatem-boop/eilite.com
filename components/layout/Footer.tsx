@@ -24,7 +24,7 @@ const columns = [
     ],
   },
   {
-    title: "For Publishers",
+    title: "For Affiliates",
     links: [
       { href: "/sell-leads", label: "Sell Leads" },
       { href: "/sell-warm-transfers", label: "Sell Warm Transfers" },

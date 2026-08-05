@@ -38,7 +38,7 @@ export function Navbar() {
             Home
           </Link>
           <NavDropdown label="Advertisers" items={advertiserLinks} />
-          <NavDropdown label="Publishers" items={publisherLinks} />
+          <NavDropdown label="Affiliates" items={publisherLinks} />
           <Link
             href="/solutions"
             className="text-sm font-medium text-[var(--color-ink-soft)] transition-colors hover:text-[var(--color-brand)]"
@@ -111,7 +111,7 @@ export function Navbar() {
             ))}
 
             <div className="px-3 pt-3 pb-1 text-xs font-semibold uppercase tracking-[0.1em] text-[var(--color-muted)]">
-              Publishers
+              Affiliates
             </div>
             {publisherLinks.map((item) => (
               <Link
