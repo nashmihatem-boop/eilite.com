@@ -74,6 +74,7 @@ export const practiceAreaLeadsArticles: Article[] = [
     category: "Divorce & Family Law",
     readTime: "7 min read",
     publishedDate: "2026-08-01",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["divorce-attorney-leads", "lead-generation-for-lawyers", "exclusive-legal-leads"],
     content: [
       {
@@ -117,6 +118,73 @@ export const practiceAreaLeadsArticles: Article[] = [
         type: "paragraph",
         text: "A vetted, exclusive [pay-per-lead or warm transfer program](/buy-warm-transfers) can add volume in specific sub-practice areas — custody, support, protective orders — without waiting for organic content and referral relationships to mature. The key is matching the lead source's screening and delivery speed to the urgency of the underlying matter: a protective order lead needs real-time delivery and immediate follow-up capability in a way a guardianship inquiry typically doesn't. Our [Buy Leads](/buy-leads) page covers how configurable, exclusive delivery works across family law sub-categories.",
       },
+      {
+        type: "heading",
+        text: "What Drives Pricing for Family Law Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Family law lead pricing varies more by sub-category than almost any other practice area. A high-asset divorce lead or a contested custody matter typically commands a higher price than a routine, uncontested filing, reflecting both the higher potential case value and the greater competition among firms pursuing complex, high-fee matters. Warm transfers, where a screened prospect is connected live to your intake team, generally cost more per unit than form-based leads but tend to convert at a meaningfully higher rate given the sensitivity and trust required in this category.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating a Family Law Lead Provider",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirms real, verified consent for contact, given the heightened privacy sensitivity of family law inquiries.",
+          "Offers configurable delivery by sub-practice area rather than a single undifferentiated 'family law' category.",
+          "Provides exclusivity as standard, not an optional upgrade, given how easily a shared lead can disengage entirely.",
+          "Can speak specifically to how leads are screened for urgency, distinguishing protective order matters from lower-urgency inquiries.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Red Flags to Watch For",
+      },
+      {
+        type: "paragraph",
+        text: "Providers that can't clearly explain how consent was captured, that deliver family law leads with significant delay, or that resell the same inquiry to multiple firms are common sources of disappointment in this category. Given how quickly a family law prospect can disengage after a poor first experience, testing any new provider at modest volume before committing significant budget is especially important here.",
+      },
+      {
+        type: "heading",
+        text: "Thinking About ROI Across Sub-Practice Areas",
+      },
+      {
+        type: "paragraph",
+        text: "Because case value and conversion rates differ so much across family law sub-categories, calculating cost-per-signed-case separately for divorce, custody, and protective order leads — rather than blending them into a single family law average — gives a much clearer picture of where lead spend is actually paying off. A firm might find its custody-lead spend is highly efficient while its general divorce-lead spend needs adjustment, a distinction a blended number would hide entirely.",
+      },
+    ],
+    faqs: [
+      {
+        q: "How is family law lead pricing typically structured?",
+        a: "Pricing usually varies by sub-category and delivery method. Complex or high-asset matters generally cost more than routine filings, and warm transfers cost more per unit than form-based leads but often convert at a higher rate.",
+      },
+      {
+        q: "Should protective order inquiries be handled differently from other family law leads?",
+        a: "Yes. Protective order and domestic violence matters require same-day response capability, unlike most other family law inquiries, so lead sources and internal workflows should be configured to flag and prioritize these separately.",
+      },
+      {
+        q: "How much should I test before committing to a family law lead provider?",
+        a: "A modest, defined batch — commonly 15 to 20 leads — tracked through to consultation and signed retainer gives most firms enough data to judge a provider's real performance before scaling spend.",
+      },
+      {
+        q: "Does exclusivity matter more in family law than other practice areas?",
+        a: "It matters especially here, since family law prospects dealing with a stressful personal situation are more likely to disengage entirely, rather than simply pick a competitor, if they feel overwhelmed by multiple firms calling about the same matter.",
+      },
+      {
+        q: "Can referral relationships replace purchased leads for family law?",
+        a: "They complement rather than replace each other. Referral relationships with therapists, financial advisors, and mediators tend to produce high-trust leads, but purchased leads provide the predictable, on-demand volume referrals alone typically can't guarantee.",
+      },
+      {
+        q: "How should intake staff be trained differently for family law leads?",
+        a: "Family law intake benefits from staff trained specifically in empathetic, low-pressure conversation given the emotional sensitivity involved, along with a clear understanding of how to distinguish urgent matters like protective orders from longer-decision-cycle inquiries like uncontested divorce.",
+      },
+      {
+        q: "What's a reasonable testing period before scaling a family law lead source?",
+        a: "Four to six weeks is typically enough to see a meaningful sample move from initial contact through consultation, giving a firm a reasonably reliable early read on conversion before committing to significantly higher volume.",
+      },
     ],
   },
   {
@@ -129,6 +197,7 @@ export const practiceAreaLeadsArticles: Article[] = [
     category: "Immigration Law",
     readTime: "7 min read",
     publishedDate: "2026-08-01",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["lead-generation-for-lawyers", "exclusive-legal-leads", "buy-verified-legal-leads"],
     content: [
       {
@@ -179,6 +248,69 @@ export const practiceAreaLeadsArticles: Article[] = [
         type: "paragraph",
         text: "Community relationships — with cultural organizations, places of worship, and community centers — often produce the highest-trust referrals in immigration law, and pairing that organic trust-building with a vetted paid channel for volume tends to outperform relying on either alone. For a broader view of how paid and organic channels work together, see our guide to [lead generation for lawyers](/learning-center/lead-generation-for-lawyers).",
       },
+      {
+        type: "heading",
+        text: "Pricing Considerations Specific to Immigration Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Immigration lead pricing tends to reflect case complexity and the corporate versus individual client split more than most other practice areas. Employment-based visa leads involving corporate sponsors often carry higher potential fees and correspondingly higher lead costs, while individual family-based or naturalization inquiries typically price lower but arrive in higher volume. Firms budgeting for immigration lead generation should account for this split rather than expecting a single flat cost-per-lead figure to apply across the whole practice.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating an Immigration Lead Provider",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirms how consent was captured and can document it if a compliance question ever arises.",
+          "Offers language preference filtering so prospects can be routed to the right bilingual or multilingual staff member.",
+          "Segments leads by case type — family-based, employment, deportation defense, asylum — rather than delivering an undifferentiated stream.",
+          "Provides exclusivity, given the significant time investment required to properly serve an immigration client relationship.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Red Flags Specific to Immigration Lead Generation",
+      },
+      {
+        type: "paragraph",
+        text: "Because immigration status and legal history are sensitive personal information, a provider that can't clearly explain how data is stored, secured, and consented to should be treated as a significant risk regardless of lead volume or pricing. Other warning signs include leads with no language preference indicated despite serving a majority non-English-speaking population, and inconsistent or unverifiable case-type categorization that makes it hard to route inquiries to the right staff member.",
+      },
+      {
+        type: "heading",
+        text: "Calculating ROI Across a Long Decision Cycle",
+      },
+      {
+        type: "paragraph",
+        text: "Because immigration matters often involve a longer decision cycle than faster-moving practice areas, cost-per-signed-case calculations need a longer measurement window to be meaningful — judging a source after only a few weeks may understate its true performance if a meaningful share of prospects are still deciding. Tracking consultations booked as an interim indicator, alongside eventual signed-case rate over a longer window, gives a more complete picture of a source's real value.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Why does immigration lead pricing vary so much by case type?",
+        a: "Employment-based cases often involve corporate sponsors and higher potential fees, which typically commands a higher lead price, while family-based and naturalization inquiries usually price lower but arrive in higher volume.",
+      },
+      {
+        q: "How important is language support when buying immigration leads?",
+        a: "Very important. A meaningful share of immigration inquiries come from non-native English speakers, and firms offering intake in a client's preferred language typically see materially better conversion than those that only serve English speakers.",
+      },
+      {
+        q: "How long should I wait before judging an immigration lead source's performance?",
+        a: "Longer than for faster-moving practice areas. Because decision cycles are often extended, tracking consultations booked as an early signal alongside signed-case rate over a longer window gives a more accurate performance picture.",
+      },
+      {
+        q: "What compliance concerns are unique to immigration lead generation?",
+        a: "Given the sensitivity of immigration status and legal history, verified consent and secure data handling matter enormously — a provider unable to clearly explain how consumer data is stored and consented to represents a significant compliance risk.",
+      },
+      {
+        q: "Do referral relationships work well for immigration law specifically?",
+        a: "Yes, often exceptionally well. Community organizations, cultural centers, and places of worship frequently produce high-trust referrals, and pairing that organic channel with a vetted paid lead source for volume tends to outperform relying on either alone.",
+      },
+      {
+        q: "Should exclusivity be non-negotiable for immigration leads?",
+        a: "It's strongly advisable given the significant time investment required to properly evaluate and serve most immigration matters. A shared lead being pursued by several firms wastes that investment more readily than in faster-moving, lower-touch practice areas.",
+      },
     ],
   },
   {
@@ -192,6 +324,7 @@ export const practiceAreaLeadsArticles: Article[] = [
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-01",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["buy-verified-legal-leads", "exclusive-legal-leads", "high-quality-attorney-leads"],
     content: [
       {
@@ -234,6 +367,77 @@ export const practiceAreaLeadsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Every bankruptcy lead delivered through Eilite passes through the same real-time fraud detection, TCPA and DNC screening, and consent certification we apply across every practice area, and it's sold once, to one firm. Our [Buy Leads](/buy-leads) page covers how you can configure delivery by state and general case parameters.",
+      },
+      {
+        type: "heading",
+        text: "What Drives Pricing for Bankruptcy Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Bankruptcy lead pricing is generally more consistent than categories like personal injury, since case value is more predictable and tied to flat or near-flat attorney fee structures in most Chapter 7 and Chapter 13 filings rather than a contingency percentage of a variable settlement. Exclusivity still drives a meaningful price difference, since a shared bankruptcy lead being contacted by several firms while the consumer is already under financial stress converts considerably worse than an exclusive one. Real-time delivery also commands a premium, given how often bankruptcy prospects are shopping several firms the same day a deadline or garnishment triggers their search.",
+      },
+      {
+        type: "heading",
+        text: "Chapter 7 Versus Chapter 13 Considerations",
+      },
+      {
+        type: "paragraph",
+        text: "Chapter 7 and Chapter 13 prospects often have different qualification profiles, income levels, and urgency drivers, so a lead source that lets you specify which chapter a prospect is likely pursuing — or at minimum captures enough income and debt information to make that distinction possible — helps route inquiries to the right intake process rather than treating every bankruptcy inquiry identically.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating a Bankruptcy Lead Provider",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirms consent certification specifically, given the elevated TCPA risk profile of debt-related outbound contact.",
+          "Screens for basic state-of-residence and debt-situation information relevant to chapter eligibility.",
+          "Delivers in real time rather than in batches, given how time-sensitive many bankruptcy inquiries are.",
+          "Offers exclusivity as a standard option, not an expensive add-on, given how much it affects conversion in this category.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Red Flags When Buying Bankruptcy Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Be cautious of providers that can't clearly explain their consent and TCPA compliance process, that deliver leads with a noticeable delay after capture, or that offer pricing significantly below the market range with no credible explanation. Given the regulatory exposure specific to debt-related outbound contact, compliance questions deserve at least as much scrutiny as lead quality and pricing in this category.",
+      },
+      {
+        type: "heading",
+        text: "Calculating Cost-Per-Signed-Case for Bankruptcy Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Because bankruptcy attorney fees tend to be more standardized than in contingency-fee practice areas, calculating cost-per-signed-case is often more straightforward here — total spend on a source divided by the number of retained filings gives a clean, comparable figure across providers. This makes bankruptcy one of the easier categories to test rigorously and scale confidently once a source proves itself.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Why does exclusivity matter so much for bankruptcy leads specifically?",
+        a: "A consumer already dealing with financial stress and possibly active collection activity is more likely to disengage entirely, rather than simply choose a competitor, if contacted by multiple firms about the same inquiry, making exclusivity especially valuable in this category.",
+      },
+      {
+        q: "How does bankruptcy lead pricing compare to other legal practice areas?",
+        a: "Pricing tends to be more predictable than contingency-fee categories like personal injury, since bankruptcy attorney fees are more standardized, though exclusivity and real-time delivery still create meaningful price differences between providers.",
+      },
+      {
+        q: "What compliance issue matters most when buying bankruptcy leads?",
+        a: "TCPA and consent compliance deserve particular attention, since debt-related outbound contact carries elevated regulatory risk. Confirming a provider's consent certification process before buying protects your firm's compliance posture.",
+      },
+      {
+        q: "Should I specify Chapter 7 versus Chapter 13 when sourcing leads?",
+        a: "Where possible, yes. These two case types often have different income profiles and urgency drivers, and a provider that can distinguish between them helps your intake team route inquiries to the appropriate process more efficiently.",
+      },
+      {
+        q: "How quickly should a firm respond to a bankruptcy lead?",
+        a: "As quickly as possible, ideally within minutes. Many bankruptcy prospects are searching under real time pressure from an impending garnishment or foreclosure date and are often contacting multiple firms the same day.",
+      },
+      {
+        q: "Is a lower-cost shared bankruptcy lead ever worth buying?",
+        a: "Occasionally, for firms with very high intake capacity and speed, but most firms find the disengagement risk from a consumer fielding multiple calls during a stressful financial period makes exclusive leads the more reliable investment overall.",
       },
     ],
   },
