@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
-import { Logomark } from "@/components/graphics/Logomark";
+import { Wordmark } from "@/components/graphics/Wordmark";
 import { DemoTriggerButton } from "@/components/ui/DemoTriggerButton";
 import { NavDropdown } from "@/components/layout/NavDropdown";
 
@@ -27,8 +27,7 @@ export function Navbar() {
     <header className="sticky top-0 z-50 border-b border-[var(--color-line)] bg-white/90 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
         <Link href="/" className="flex items-center gap-2" onClick={() => setMobileOpen(false)}>
-          <Logomark className="h-8 w-8" />
-          <span className="font-heading text-xl font-bold tracking-tight text-[var(--color-ink)]">Eilite</span>
+          <Wordmark className="font-heading text-2xl font-semibold text-[var(--color-ink)]" />
         </Link>
 
         <nav className="hidden items-center gap-8 lg:flex">

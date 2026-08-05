@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Logomark } from "@/components/graphics/Logomark";
+import { Wordmark } from "@/components/graphics/Wordmark";
 import { DemoTriggerButton } from "@/components/ui/DemoTriggerButton";
 
 const columns = [
@@ -50,8 +50,7 @@ export function Footer() {
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
           <div>
             <div className="flex items-center gap-2">
-              <Logomark className="h-8 w-8" />
-              <span className="font-heading text-xl font-bold text-white">Eilite</span>
+              <Wordmark className="font-heading text-2xl font-semibold text-white" />
             </div>
             <p className="mt-4 max-w-xs text-sm">
               The hub where buyers, publishers, and providers connect. Premium leads and live warm transfers,
