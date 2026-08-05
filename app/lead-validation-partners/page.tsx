@@ -6,6 +6,8 @@ import { MarketplaceFAQ } from "@/components/marketplace/MarketplaceFAQ";
 import { ValidationPartnersGrid } from "@/components/sections/ValidationPartnersGrid";
 import { PlatformHub } from "@/components/sections/PlatformHub";
 import { FinalCTA } from "@/components/sections/FinalCTA";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { faqJsonLd } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
   title: "Lead Validation Partners",
@@ -40,6 +42,7 @@ const faqs = [
 export default function LeadValidationPartnersPage() {
   return (
     <>
+      <JsonLd data={faqJsonLd(faqs)} />
       <Navbar />
       <MarketplaceHero
         eyebrow="Compliance & Fraud Prevention"

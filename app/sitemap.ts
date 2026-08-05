@@ -10,7 +10,9 @@ const STATIC_PAGES_LAST_UPDATED = new Date("2026-08-03");
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
     "",
+    "/about-us",
     "/affiliates",
+    "/lead-validation-partners",
     "/privacy-policy",
     "/terms-of-use",
     "/learning-center",
