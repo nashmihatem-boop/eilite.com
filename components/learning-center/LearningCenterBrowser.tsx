@@ -7,7 +7,9 @@ import type { Article } from "@/lib/articles/types";
 
 const PAGE_SIZE = 12;
 
-export function LearningCenterBrowser({ articles, categories }: { articles: Article[]; categories: string[] }) {
+export type ArticleSummary = Pick<Article, "slug" | "title" | "excerpt" | "category" | "readTime">;
+
+export function LearningCenterBrowser({ articles, categories }: { articles: ArticleSummary[]; categories: string[] }) {
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string>("All");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);

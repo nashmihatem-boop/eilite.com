@@ -13,6 +13,14 @@ export const metadata: Metadata = {
 };
 
 export default function LearningCenterPage() {
+  const articleSummaries = articles.map(({ slug, title, excerpt, category, readTime }) => ({
+    slug,
+    title,
+    excerpt,
+    category,
+    readTime,
+  }));
+
   return (
     <>
       <Navbar />
@@ -26,7 +34,7 @@ export default function LearningCenterPage() {
 
       <section className="bg-white pb-20 pt-14">
         <div className="mx-auto max-w-5xl px-6 lg:px-8">
-          <LearningCenterBrowser articles={articles} categories={getCategories()} />
+          <LearningCenterBrowser articles={articleSummaries} categories={getCategories()} />
 
           <div className="mt-14 max-w-2xl mx-auto">
             <LearningCenterCTA
