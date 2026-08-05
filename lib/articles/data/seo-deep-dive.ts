@@ -11,6 +11,7 @@ export const seoDeepDiveArticles: Article[] = [
     category: "Law Firm Marketing",
     readTime: "8 min read",
     publishedDate: "2026-08-02",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["seo-for-lawyers", "attorney-seo", "lead-generation-for-lawyers"],
     content: [
       {
@@ -69,11 +70,81 @@ export const seoDeepDiveArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Law Firm SEO Actually Costs",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing for law firm SEO varies enormously because \"SEO\" bundles together very different scopes of work. A technical cleanup and on-page fix for a single-location firm might run a few thousand dollars as a one-time project. Ongoing content and link-building programs for a competitive practice area — personal injury or mass tort in a major metro — routinely run from $3,000 to $15,000 or more per month, and multi-location firms competing in dozens of cities can spend well into six figures annually. The honest answer to \"how much should I budget\" depends less on a rate card and more on how competitive your practice areas and geography are: a family law solo practitioner in a mid-size city and a personal injury firm chasing car accident keywords in Los Angeles are not buying the same product, even if both call it SEO.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating an SEO Vendor: Questions to Ask Before Signing",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask for case studies specific to legal clients, ideally in your practice area — general local-business SEO experience doesn't always translate to the competitive, compliance-sensitive legal vertical.",
+          "Ask how they measure success. Rankings for a handful of vanity keywords are not the same as growth in qualified organic leads or phone calls — a credible vendor should be able to report on both.",
+          "Ask who actually does the work. Many firms sell strategy calls with senior staff, then hand execution to junior contractors or subcontracted content mills; you want to know who is writing your content and building your links.",
+          "Ask about their link-building sources. Legitimate legal directories, earned press, and guest content on relevant sites are defensible; link networks and paid link schemes carry real penalty risk.",
+          "Ask what happens to your content, backlinks, and reporting access if you cancel — some agencies build proprietary systems that make it painful to leave, which is itself a signal worth weighing.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Red Flags That Signal a Provider Will Waste Your Budget",
+      },
+      {
+        type: "list",
+        items: [
+          "Guaranteed rankings for specific keywords by a specific date — no reputable SEO provider controls the search algorithm closely enough to promise this.",
+          "A contract with no visibility into what work is actually being done month to month, or reporting limited to a rankings dashboard with no traffic or lead data.",
+          "Content that reads as obviously templated or thin, published purely to hit a monthly volume quota rather than to answer a real client question.",
+          "Reluctance to explain their link-building methods in plain language — vague answers here often mean the tactics wouldn't survive a straight explanation.",
+          "Pricing dramatically below market rate for the promised scope of work, which usually means either outsourced low-quality execution or a bait-and-switch upsell later.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Measuring ROI: Beyond Rankings",
+      },
+      {
+        type: "paragraph",
+        text: "Rankings are a leading indicator, not the outcome that pays the bills. The metric that matters is cost per acquired case: total SEO spend divided by the number of signed clients that organic search produced, tracked through call tracking numbers and form attribution rather than guesswork. Because organic SEO has a long ramp — meaningful ranking movement for competitive legal terms often takes six to twelve months — firms evaluating a vendor purely on 90-day results are often judging the wrong window. A useful practice is to set expectations at three horizons: technical and on-page fixes should show measurable crawl and indexing improvements within weeks; content and internal linking gains typically show up in impressions and mid-funnel rankings within a quarter or two; and case volume attributable to organic growth is usually a two-quarter-or-longer story. Firms that want faster, more predictable case flow while organic SEO compounds in the background often pair it with a pay-per-lead or pay-per-call channel — [Eilite's buy leads platform](/buy-leads) lets firms buy vetted, exclusive leads in specific practice areas and geographies to keep the pipeline full while the SEO investment matures.",
+      },
+      {
+        type: "heading",
         text: "Putting the Technical Checklist to Work",
       },
       {
         type: "paragraph",
         text: "None of these items alone will make a mediocre site outrank a strong competitor, but neglecting them can cap the performance of an otherwise excellent content and local SEO strategy. For the strategic side of legal SEO — local trust signals, content depth, backlink relevance — see our broader guide to [SEO for lawyers](/learning-center/seo-for-lawyers).",
+      },
+    ],
+    faqs: [
+      {
+        q: "How long does law firm SEO take to show results?",
+        a: "Technical fixes can improve crawlability within weeks, but meaningful ranking movement for competitive practice-area keywords typically takes six to twelve months. Firms in less competitive markets or niche practice areas often see traction faster.",
+      },
+      {
+        q: "Is DIY SEO realistic for a small or solo law firm?",
+        a: "Basic technical hygiene, Google Business Profile optimization, and consistent local content are achievable in-house with time and discipline. Competing for high-value terms in a crowded metro against firms with dedicated agencies is much harder to do without specialized help.",
+      },
+      {
+        q: "How much should a law firm budget for SEO each month?",
+        a: "It depends heavily on competitiveness. A single-location firm in a modest market might see results from a $1,500–$3,000 monthly program, while firms chasing personal injury or mass tort keywords in major metros often need $5,000–$15,000+ per month to compete meaningfully.",
+      },
+      {
+        q: "Can bad SEO work actually hurt a law firm's site?",
+        a: "Yes. Spammy link-building, duplicate location pages built purely for keyword targeting, and thin AI-generated content published at volume can trigger search engine penalties or algorithmic devaluation that takes real time and money to undo.",
+      },
+      {
+        q: "Should we do SEO or buy leads while we wait for SEO to work?",
+        a: "They're not mutually exclusive. Because organic SEO has a long ramp, many firms run a purchased-lead or pay-per-call channel alongside their SEO investment to keep case volume steady while rankings build.",
+      },
+      {
+        q: "What's the single highest-leverage technical fix most law firm sites need?",
+        a: "Mobile page speed. A large share of legal searches happen on mobile phones, often during an urgent situation, and a slow-loading page loses visitors before they ever see your content or call-to-action.",
       },
     ],
   },
