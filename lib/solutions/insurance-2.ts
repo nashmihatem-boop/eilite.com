@@ -1,3 +1,4 @@
+import { UserCheck, Building2, Phone, ShieldCheck, Car, Home } from "lucide-react";
 import type { SolutionVertical } from "./types";
 
 export const insuranceSolutions2: SolutionVertical[] = [
@@ -24,6 +25,22 @@ export const insuranceSolutions2: SolutionVertical[] = [
       "Volume that scales with open enrollment and special enrollment periods, timed to when shoppers are actually deciding",
       "Exclusive delivery — never resold to a competing agent, agency, or call center working the same enrollment window",
       "Live warm transfers available for agents who want a shopper already on the line before the window closes",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect agents and agencies with individuals and families ready to enroll in health coverage — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Health Insurance Customer", detail: "We qualify by household size, subsidy eligibility signals, current coverage status, and marketplace versus off-exchange intent." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for fraud, documented consent, and real enrollment-stage intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with the shopper already on the line, or a routed inbound call — whatever fits your enrollment team." },
+      { title: "Scale With Open Enrollment", detail: "Volume ramps hard around Open Enrollment and Special Enrollment Periods, then pulls back the rest of the year, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Health Insurance Leads",
+    whoBenefitsSubheading: "From independent ACA agents to national enrollment call centers, here's who buys health insurance leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: UserCheck, title: "Independent ACA Marketplace Agents", detail: "Licensed agents enrolling individuals and families in subsidized marketplace plans within their state." },
+      { tag: "Agencies", icon: Building2, title: "Health Insurance Agencies & FFM Brokers", detail: "Multi-agent shops distributing volume across producers by state and plan type." },
+      { tag: "Call Centers", icon: Phone, title: "Licensed Enrollment Call Centers", detail: "High-volume teams built to handle the compressed rush of open enrollment and SEP demand." },
+      { tag: "Off-Exchange Carriers", icon: ShieldCheck, title: "Off-Exchange & Short-Term Plan Providers", detail: "Providers enrolling shoppers who don't qualify for subsidies or want coverage outside the marketplace." },
     ],
     faqs: [
       { q: "What qualification criteria are used for health insurance leads?", a: "Leads are filtered for current shopping intent, household and coverage details relevant to marketplace versus off-exchange fit, and enrollment window timing, so your producers aren't working stale or mismatched prospects." },
@@ -57,6 +74,22 @@ export const insuranceSolutions2: SolutionVertical[] = [
       "Exclusive delivery — never resold to a competing agency chasing the same quote request",
       "Real-time and live warm transfer delivery so your team reaches the driver before a cheaper quote wins the call",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect agencies and producers with drivers actively requesting auto insurance quotes — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Auto Insurance Customer", detail: "We qualify by vehicle and driver count, driving record, current carrier and renewal timing, and liability-only versus full coverage intent." },
+      { title: "Capture & Screen in Real Time", detail: "Every quote request is screened for fraud and real intent the moment it's captured, before it's counted as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with the driver already on the phone, or a routed inbound call — critical in a category where speed wins." },
+      { title: "Scale With Renewal Cycles", detail: "Volume flexes with policy renewal timing and non-standard or high-risk demand spikes, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Auto Insurance Leads",
+    whoBenefitsSubheading: "From independent agents to non-standard specialty writers, here's who buys auto insurance leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: UserCheck, title: "Independent Auto Insurance Agents", detail: "Agents building a book of standard auto business within their licensed states." },
+      { tag: "Agencies", icon: Building2, title: "Multi-Carrier Auto Insurance Agencies", detail: "Brokerages comparing rates across carriers to place drivers with the best fit on price and coverage." },
+      { tag: "Captive Agents", icon: ShieldCheck, title: "Captive Carrier Agents", detail: "Agents appointed to a single carrier filling their pipeline with prospects matched to that carrier's rating." },
+      { tag: "Non-Standard Writers", icon: Car, title: "Non-Standard & High-Risk Specialty Writers", detail: "Agencies and MGAs writing SR-22, high-risk, and non-standard policies that standard carriers decline." },
+    ],
     faqs: [
       { q: "What qualification criteria are used for auto insurance leads?", a: "Leads are filtered on vehicle and driver count, driving record and claims history, current carrier and renewal timing, and whether the shopper wants liability-only or full coverage, so producers know exactly what they're quoting before they dial." },
       { q: "Are auto insurance leads exclusive to my agency?", a: "Yes. Every lead is sold once, to a single agency or producer — never resold or shared with a competitor chasing the same driver." },
@@ -88,6 +121,22 @@ export const insuranceSolutions2: SolutionVertical[] = [
       "Flagged for mortgage, refinance, or carrier non-renewal triggers, so you can prioritize the most time-sensitive shoppers first",
       "Exclusive delivery — never resold to a competing agency or carrier quoting the same homeowner",
       "Live warm transfers available for agents who want a homeowner already on the line, ready to talk coverage",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect agencies and producers with homeowners shopping coverage — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Home Insurance Customer", detail: "We qualify by property type, estimated dwelling value, and the mortgage, refinance, or non-renewal trigger behind the shop." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for fraud, documented consent, and real intent before it's counted as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with the homeowner already on the phone, or a routed inbound call — whatever fits your producers." },
+      { title: "Scale With Non-Renewal Spikes", detail: "Volume flexes with mortgage and refinance activity plus carrier non-renewal or storm-driven surges in high-risk markets." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Home Insurance Leads",
+    whoBenefitsSubheading: "From independent agents to excess-and-surplus specialists, here's who buys home insurance leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: UserCheck, title: "Independent Home Insurance Agents", detail: "Agents building a book of homeowners policies within their licensed states and service areas." },
+      { tag: "Agencies", icon: Building2, title: "Multi-Carrier Home Insurance Agencies", detail: "Brokerages comparing carriers to place homes standard markets are pulling back from." },
+      { tag: "E&S Specialists", icon: ShieldCheck, title: "Excess & Surplus Lines Specialists", detail: "Agencies placing catastrophe-exposed and high-value homes that admitted carriers won't write." },
+      { tag: "Mortgage Partners", icon: Home, title: "Mortgage & Title Partners", detail: "Lenders and title companies connecting homebuyers to coverage at the point of closing." },
     ],
     faqs: [
       { q: "What qualification criteria are used for home insurance leads?", a: "Leads are filtered on property type, estimated dwelling value or replacement cost, and the shopping trigger — mortgage closing, refinance, or a carrier non-renewal notice — so producers can prioritize and quote accurately from the first call." },

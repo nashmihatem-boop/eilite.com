@@ -1,3 +1,4 @@
+import { Scale, Building2, TrendingUp, Handshake, Gem, Landmark, Rocket, Car, Truck, ShieldAlert, Calendar, Gavel } from "lucide-react";
 import type { SolutionVertical } from "./types";
 
 export const legalSolutions: SolutionVertical[] = [
@@ -24,6 +25,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Exclusive delivery — every lead and transfer sold once, never resold to a competing firm bidding the same case",
       "Live warm transfers for firms that want a screened claimant already on the phone, ready to talk to intake",
       "State and jurisdiction targeting so you're only paying for cases that fall inside your firm's practice footprint",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect personal injury firms with claimants actively searching for representation — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Personal Injury Case", detail: "We qualify by injury type, case value threshold, liability clarity, and the states or jurisdictions your firm is licensed and actively taking cases in." },
+      { title: "Capture & Screen in Real Time", detail: "Claimant interest is captured on owned pages or vetted publisher sites, then screened for fraud, real injury details, and genuine intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take standard case inquiries as web-form leads, or take live warm transfers with a screened claimant already on the phone for firms that want to close before the claimant calls a competitor." },
+      { title: "Scale With Your Intake Capacity", detail: "Volume flexes up or down with your firm's intake bandwidth and case-value targets, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Personal Injury Leads",
+    whoBenefitsSubheading: "From solo practices to high-volume contingency firms, here's who buys personal injury leads from Eilite.",
+    whoBenefits: [
+      { tag: "Solo Practices", icon: Scale, title: "Solo & Small PI Firms", detail: "Independent attorneys and small practices filling their caseload with claimants in a defined jurisdiction." },
+      { tag: "Multi-Office Firms", icon: Building2, title: "Multi-Attorney & Multi-Office Firms", detail: "Firms routing case volume across multiple attorneys, offices, or intake teams in different markets." },
+      { tag: "High-Volume Firms", icon: TrendingUp, title: "High-Volume Contingency Firms", detail: "Firms built to intake and sign a high number of cases per month and staffed for rapid follow-up." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route cases outside their own capacity or case-value focus to partner firms." },
     ],
     faqs: [
       { q: "What types of personal injury leads can I buy?", a: "Auto accidents, slip and fall, premises liability, dog bites, and other general injury claims — filtered by injury severity and case type so you're not paying for claims below your firm's minimum case value." },
@@ -57,6 +74,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Live warm transfers for firms that want a prospect already on the phone before intake picks up",
       "State and jurisdiction targeting so cases land inside the counties and courts you actually practice in",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect family law firms with prospects ready to move forward — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Family Law Case", detail: "We qualify by case type — uncontested or contested divorce, custody, or high-asset matters — plus the states and counties you practice in." },
+      { title: "Capture & Screen in Real Time", detail: "Prospect interest is captured on owned pages or vetted publisher sites, then screened for fraud and genuine intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Standard filings deliver as web-form leads, while live warm transfers connect you with a prospect already on the phone — useful in a category where people often call more than one firm at once." },
+      { title: "Scale With Filing Season", detail: "Family law inquiries spike after the holidays and into January; volume flexes with that seasonal pattern without a new contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Divorce & Family Law Leads",
+    whoBenefitsSubheading: "From solo practitioners to high-asset divorce specialists, here's who buys family law leads from Eilite.",
+    whoBenefits: [
+      { tag: "Solo Practices", icon: Scale, title: "Solo & Small Family Law Practices", detail: "Independent attorneys handling a full range of divorce and custody matters in a defined jurisdiction." },
+      { tag: "Multi-Attorney Firms", icon: Building2, title: "Multi-Attorney Family Law Firms", detail: "Firms routing volume across attorneys who specialize in custody, support, or high-asset division." },
+      { tag: "High-Asset Specialists", icon: Gem, title: "High-Asset & Contested Divorce Specialists", detail: "Firms focused on complex property division and litigated custody disputes worth the added intake time." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route contested or out-of-scope matters to partner firms better positioned to handle them." },
+    ],
     faqs: [
       { q: "What types of divorce and family law leads can I buy?", a: "Uncontested and contested divorce, child custody, spousal support, and high-asset divorce leads — filtered by case complexity so you're not paying the same rate for a simple filing and a contested, high-asset matter." },
       { q: "Are divorce leads exclusive to my firm?", a: "Yes. Every lead and warm transfer is sold once, to a single firm — never resold or shared with a competing family law practice in your area." },
@@ -88,6 +121,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Exclusive delivery — never syndicated across multiple firms buying the same docket",
       "Live warm transfers for firms that want a pre-qualified claimant already on the phone, not just a form submission",
       "State and jurisdiction targeting to match your firm's filing venues and licensing footprint",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect mass tort firms with claimants who match your docket's criteria — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Docket's Exact Criteria", detail: "We qualify by specific exposure or product use, diagnosis or injury type, timing window, and the states or filing venues your docket requires." },
+      { title: "Capture & Screen in Real Time", detail: "Claimant interest is captured on docket-specific pages or vetted publisher sites, then screened against your exact criteria before it counts as a lead — not relabeled from a general injury pool." },
+      { title: "Choose Your Delivery", detail: "Because an off-criteria lead is worthless in mass tort, every delivery type — web-form leads or live warm transfers with a pre-qualified claimant — passes the same strict screening first." },
+      { title: "Scale With Docket Volume", detail: "Volume ramps to match filing deadlines, new docket developments, or MDL milestones, and pulls back as a docket matures." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Mass Tort Leads",
+    whoBenefitsSubheading: "From national mass tort firms to firms entering a fresh docket, here's who buys mass tort leads from Eilite.",
+    whoBenefits: [
+      { tag: "National Firms", icon: Landmark, title: "National Mass Tort Firms", detail: "Firms running large-scale dockets that need consistent, criteria-matched claimant volume across multiple states." },
+      { tag: "Regional Firms", icon: Building2, title: "Regional Firms Filing Into National Dockets", detail: "Firms sourcing docket-specific claimants locally before referring or co-counseling into a larger MDL." },
+      { tag: "New Docket Entrants", icon: Rocket, title: "Firms Ramping Up On Emerging Dockets", detail: "Firms moving fast to build volume on a newly certified or fast-moving docket before intake windows tighten." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route qualified claimants to firms with the case inventory or MDL leadership role to handle them." },
     ],
     faqs: [
       { q: "How are mass tort leads qualified against my docket's criteria?", a: "Leads are screened for the specific exposure or product use, diagnosis or injury type, and timing window your docket requires before they're ever delivered, rather than pulled from a general injury or legal-interest pool and relabeled." },
@@ -121,6 +170,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Live warm transfers for firms that want a screened claimant on the phone in the critical hours after a crash",
       "State and jurisdiction targeting to match the venues and comparative-fault rules where you actually practice",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect car accident firms with claimants in the critical hours after a crash — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Car Accident Case", detail: "We qualify by fault clarity, injury severity, case value threshold, and the states you practice in given how much comparative-fault rules vary." },
+      { title: "Capture & Screen in Real Time", detail: "Claimant interest is captured moments after a crash and screened for fraud, fault clarity, and genuine injury before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Because MVA claimants call multiple firms within hours of a crash, live warm transfers connect you while they're still on the phone — standard cases still deliver as real-time web-form leads." },
+      { title: "Scale With Demand", detail: "Volume flexes with seasonal spikes like winter weather and holiday travel, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Car Accident Leads",
+    whoBenefitsSubheading: "From solo practices to firms handling catastrophic crashes, here's who buys car accident leads from Eilite.",
+    whoBenefits: [
+      { tag: "Solo Practices", icon: Car, title: "Solo & Small Auto Accident Firms", detail: "Independent attorneys building a caseload of car accident claims in a defined service area." },
+      { tag: "Multi-Office Firms", icon: Building2, title: "Multi-Attorney & Multi-Office Firms", detail: "Firms routing crash-claim volume across offices or intake teams in different markets." },
+      { tag: "Catastrophic & Commercial Injury Firms", icon: Truck, title: "Catastrophic & Commercial Vehicle Injury Firms", detail: "Firms focused on high-value crashes involving commercial trucks, rideshare vehicles, or severe injury." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route crash claims outside their own capacity or case-value focus to partner firms." },
+    ],
     faqs: [
       { q: "What types of car accident leads can I buy?", a: "Single-vehicle, multi-vehicle, rideshare, and commercial truck collision leads — screened for fault clarity and injury severity so you're not paying the same rate for a minor fender-bender and a clear-liability injury crash." },
       { q: "Are car accident leads exclusive to my firm?", a: "Yes. Every lead and warm transfer is sold once, to a single firm — never resold or shared with a competing firm working the same claimant." },
@@ -152,6 +217,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Exclusive delivery — never resold to a competing firm in your market",
       "Live warm transfers for firms that want an injured worker already on the phone, ready for intake",
       "State and jurisdiction targeting to match the specific states you're licensed and practicing in",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect workers' comp firms with injured workers seeking representation — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Workers' Comp Case", detail: "We qualify by injury type, employer industry, filing timeline, and the state-specific eligibility rules your firm practices under." },
+      { title: "Capture & Screen in Real Time", detail: "Worker interest is captured on owned pages or vetted publisher sites, then screened for fraud, state eligibility, and genuine intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Standard claims deliver as web-form leads; live warm transfers connect an injured worker directly to intake for time-sensitive matters like an approaching filing deadline or retaliation concern." },
+      { title: "Scale With Demand", detail: "Volume flexes with injury patterns in industries like construction and warehousing, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Workers' Compensation Leads",
+    whoBenefitsSubheading: "From solo practices to firms focused on denied claims, here's who buys workers' comp leads from Eilite.",
+    whoBenefits: [
+      { tag: "Solo Practices", icon: Scale, title: "Solo & Small Workers' Comp Practices", detail: "Independent attorneys building a caseload of workplace injury claims in a defined jurisdiction." },
+      { tag: "Multi-Attorney Firms", icon: Building2, title: "Multi-Attorney Firms", detail: "Firms routing injured-worker volume across attorneys or offices handling different industries or claim types." },
+      { tag: "Denied Claims Specialists", icon: ShieldAlert, title: "Denied Claims & Appeals Specialists", detail: "Firms focused on workers whose initial claims were denied and need representation through appeal." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route out-of-state or out-of-scope claims to partner firms licensed to handle them." },
     ],
     faqs: [
       { q: "What types of workers' comp leads can I buy?", a: "Workplace injury, repetitive stress, denied claim, and employer-retaliation-related leads — screened against your state's specific eligibility rules and filing deadlines before delivery." },
@@ -185,6 +266,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Live warm transfers for firms that want a prospect already on the phone and ready for intake",
       "State targeting so means-test and income comparisons reflect the state median your firm actually files under",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect bankruptcy firms with prospects ready to file — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Bankruptcy Case", detail: "We qualify by Chapter 7 versus Chapter 13 fit, debt level, household income against your state's median, and filing timeline." },
+      { title: "Capture & Screen in Real Time", detail: "Prospect interest is captured on owned pages or vetted publisher sites, then screened for fraud and genuine filing intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Standard filings deliver as web-form leads; live warm transfers connect you with a prospect already on the phone for time-sensitive situations like a pending wage garnishment." },
+      { title: "Scale With Demand", detail: "Filing interest often rises after the holidays and during economic downturns; volume flexes with that pattern without a new contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Bankruptcy Leads",
+    whoBenefitsSubheading: "From solo filers' attorneys to Chapter 13 specialists, here's who buys bankruptcy leads from Eilite.",
+    whoBenefits: [
+      { tag: "Solo Practices", icon: Scale, title: "Solo & Small Bankruptcy Practices", detail: "Independent attorneys handling both Chapter 7 and Chapter 13 filings in a defined jurisdiction." },
+      { tag: "Multi-Attorney Firms", icon: Building2, title: "Multi-Attorney Firms", detail: "Firms routing filing volume across attorneys or offices covering different counties or districts." },
+      { tag: "Chapter 13 Specialists", icon: Calendar, title: "Chapter 13 Repayment Plan Specialists", detail: "Firms focused on the longer intake and repayment-plan work Chapter 13 filings require." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route prospects outside their chapter focus or district to partner firms." },
+    ],
     faqs: [
       { q: "What types of bankruptcy leads can I buy?", a: "Chapter 7 and Chapter 13 filing leads, screened for debt level, household income, and genuine filing intent so your team knows which chapter a prospect is likely to qualify for before the first call." },
       { q: "Are bankruptcy leads exclusive to my firm?", a: "Yes. Every lead and warm transfer is sold once, to a single firm — never resold or shared with a competing bankruptcy practice in your area." },
@@ -216,6 +313,22 @@ export const legalSolutions: SolutionVertical[] = [
       "Exclusive delivery — never resold to a competing firm in your market",
       "Live warm transfers for firms that want a screened prospect already on the phone, including urgent deadline-driven matters",
       "Language preference and jurisdiction targeting so leads match your firm's staffing and geographic focus",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect immigration firms with prospects who match your case-type focus — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Immigration Case", detail: "We qualify by case type — family-based, employment-based, asylum, or deportation defense — plus language preference and the jurisdictions you practice in." },
+      { title: "Capture & Screen in Real Time", detail: "Prospect interest is captured on owned pages or vetted publisher sites, then screened for fraud, case type, and genuine intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Standard petitions deliver as web-form leads; live warm transfers connect you with a screened prospect already on the phone for urgent, deadline-driven matters like an active deportation case." },
+      { title: "Scale With Demand", detail: "Volume flexes with policy changes and filing-deadline driven spikes, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Immigration Leads",
+    whoBenefitsSubheading: "From solo practices to deportation defense specialists, here's who buys immigration leads from Eilite.",
+    whoBenefits: [
+      { tag: "Solo Practices", icon: Scale, title: "Solo & Small Immigration Practices", detail: "Independent attorneys handling a range of case types in a defined jurisdiction." },
+      { tag: "Multi-Language Firms", icon: Building2, title: "Multi-Attorney & Multi-Language Firms", detail: "Firms routing volume across attorneys and staff who serve specific language communities." },
+      { tag: "Deportation Defense Specialists", icon: Gavel, title: "Deportation Defense & Removal Specialists", detail: "Firms focused on urgent, deadline-driven removal proceedings before an immigration judge." },
+      { tag: "Referral Networks", icon: Handshake, title: "Referral & Co-Counsel Networks", detail: "Networks that route case types outside their focus — like employment visas or asylum — to partner firms." },
     ],
     faqs: [
       { q: "What types of immigration leads can I buy?", a: "Family-based petitions, employment-based visas, asylum claims, deportation defense, and naturalization leads — filtered by case type so you're only receiving inquiries that match what your firm actually practices." },

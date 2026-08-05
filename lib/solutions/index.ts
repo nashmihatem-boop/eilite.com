@@ -1,4 +1,4 @@
-import type { SolutionVertical, SolutionCategory } from "./types";
+import type { SolutionVertical, SolutionCategory, SolutionHowItWorksStep, SolutionBenefitAudience } from "./types";
 import { homeServices1 } from "./home-services-1";
 import { homeServices2 } from "./home-services-2";
 import { homeServices3 } from "./home-services-3";
@@ -10,7 +10,7 @@ import { softwareSolutions } from "./software";
 import { legalSolutions } from "./legal";
 import { healthcareSolutions } from "./healthcare";
 
-export type { SolutionVertical, SolutionCategory };
+export type { SolutionVertical, SolutionCategory, SolutionHowItWorksStep, SolutionBenefitAudience };
 
 export const solutionVerticals: SolutionVertical[] = [
   ...legalSolutions,

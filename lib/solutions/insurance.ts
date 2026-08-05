@@ -1,3 +1,4 @@
+import { Briefcase, Building2, ShieldCheck, LineChart, UserCheck, Network, HeartHandshake, Stethoscope, PawPrint } from "lucide-react";
 import type { SolutionVertical } from "./types";
 
 export const insuranceSolutions: SolutionVertical[] = [
@@ -24,6 +25,22 @@ export const insuranceSolutions: SolutionVertical[] = [
       "Pre-qualified by industry class, employee count, and revenue band so producers aren't quoting outside your appetite",
       "Exclusive delivery — never resold to a competing agency or carrier writing in the same market",
       "Live warm transfers available for agents who want a business owner already on the line, ready to talk coverage",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect agencies and producers with business owners ready to bind commercial coverage — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Business Insurance Customer", detail: "We qualify by industry class code, employee count, revenue band, and the coverage line requested — general liability, workers' comp, commercial property, or more." },
+      { title: "Capture & Screen in Real Time", detail: "Business owner interest is screened for fraud, verified identity, and documented consent before it ever counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with the business owner already on the phone, or a routed inbound call — whatever fits how your producers close." },
+      { title: "Scale With Renewal Season", detail: "Volume flexes up around policy renewal dates and new-business formation spikes, and down in slower stretches, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Business Insurance Leads",
+    whoBenefitsSubheading: "From independent P&C agents to national carrier programs, here's who buys business insurance leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: Briefcase, title: "Independent P&C Agents", detail: "Solo and small-shop agents filling their book with bindable commercial risk across their licensed states." },
+      { tag: "Agencies", icon: Building2, title: "Commercial Insurance Agencies & Brokerages", detail: "Multi-producer shops routing volume across teams by industry class and coverage line." },
+      { tag: "Carriers", icon: ShieldCheck, title: "Captive & National Carrier Programs", detail: "Carrier-affiliated teams filling appointed territories with leads matched to underwriting appetite." },
+      { tag: "MGAs", icon: LineChart, title: "MGAs Writing Specialty Commercial Lines", detail: "Managing general agents placing niche coverage — cyber, professional liability, E&S — that standard markets won't touch." },
     ],
     faqs: [
       { q: "What business insurance coverage lines can I target?", a: "General liability, workers' compensation, commercial property, commercial auto, professional liability, cyber liability, and BOP packages — filtered by the coverage lines your agency actually writes." },
@@ -57,6 +74,22 @@ export const insuranceSolutions: SolutionVertical[] = [
       "Exclusive delivery, sold once and never resold to a competing agent or IMO",
       "Live warm transfers available for agents who want a prospect already engaged and ready to talk policy details",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect agents and IMOs with life insurance prospects ready for underwriting — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Life Insurance Customer", detail: "We qualify by age, requested coverage amount, product type — term, whole, universal, or final expense — and stated health class." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for fraud, verified identity, and documented consent before it's counted as a lead, not just calculator curiosity." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with the prospect already engaged, or a routed inbound call — whatever fits your sales process." },
+      { title: "Scale With Demand", detail: "Volume flexes with seasonal life-event triggers — new parents, mortgage originations, year-end planning — without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Life Insurance Leads",
+    whoBenefitsSubheading: "From independent producers to national IMOs, here's who buys life insurance leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: UserCheck, title: "Independent Life Insurance Agents", detail: "Solo producers building a book across term, whole, and final expense in their licensed states." },
+      { tag: "IMOs & FMOs", icon: Network, title: "IMOs & FMOs", detail: "Marketing organizations distributing underwriting-ready volume across downline agents." },
+      { tag: "Captive Agents", icon: ShieldCheck, title: "Captive Carrier Agents", detail: "Agents appointed to a single carrier filling their pipeline with prospects matched to that carrier's product mix." },
+      { tag: "Final Expense", icon: HeartHandshake, title: "Final Expense & Senior-Focused Producers", detail: "Agents focused on smaller face-amount policies for older buyers who need simplified-issue underwriting." },
+    ],
     faqs: [
       { q: "What life insurance lead types are available?", a: "Term, whole, universal, and final expense leads, filtered by age, requested coverage amount, and stated health class so you're working prospects that match your appetite." },
       { q: "Are life insurance leads exclusive?", a: "Yes. Every lead is sold once, to a single agent or agency — never resold or shared with a competing producer." },
@@ -89,6 +122,22 @@ export const insuranceSolutions: SolutionVertical[] = [
       "Exclusive delivery — never resold to a competing pet insurance provider or comparison site",
       "Real-time delivery so you can reach the owner while they're still comparing plans, not after they've enrolled",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect pet insurance providers with owners ready to enroll — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Pet Insurance Customer", detail: "We qualify by species, breed, pet age, and any disclosed pre-existing conditions before a lead ever reaches you." },
+      { title: "Capture & Screen in Real Time", detail: "Owner interest is captured close to the moment of decision and screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with the owner already on the phone, or a routed inbound call — whatever fits your enrollment process." },
+      { title: "Scale With Adoption Trends", detail: "Volume flexes with adoption spikes — new-puppy season, post-holiday adoptions, breed-specific health triggers — without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Pet Insurance Leads",
+    whoBenefitsSubheading: "From direct-to-consumer insurers to veterinary-adjacent partners, here's who buys pet insurance leads from Eilite.",
+    whoBenefits: [
+      { tag: "Direct Insurers", icon: ShieldCheck, title: "Direct-to-Consumer Pet Insurers", detail: "Providers enrolling owners straight into a policy without an agent in the middle." },
+      { tag: "Agencies", icon: Building2, title: "Multi-Carrier Pet Insurance Agencies", detail: "Brokers comparing plans across carriers to match the owner's pet, budget, and coverage tier." },
+      { tag: "Vet Partners", icon: Stethoscope, title: "Veterinary Group Partners", detail: "Practice groups offering coverage referrals to pet owners at the point of care." },
+      { tag: "MGAs", icon: PawPrint, title: "MGAs Underwriting Pet Insurance Programs", detail: "Managing general agents building and pricing pet insurance programs on behalf of carrier partners." },
+    ],
     faqs: [
       { q: "What pet details come with each lead?", a: "Species, breed, age, and any disclosed pre-existing conditions — the fields that determine what coverage and pricing you can actually offer." },
       { q: "Are pet insurance leads exclusive to my company?", a: "Yes. Every lead is sold once, to a single provider — never resold or shared with a competing pet insurance company." },
@@ -120,6 +169,22 @@ export const insuranceSolutions: SolutionVertical[] = [
       "Split by need — Medicare Advantage, Medigap, in-home care, or assisted living placement",
       "Exclusive delivery — never resold to a competing agent, agency, or care provider",
       "Live warm transfers available for agents who want a screened senior or family member already on the phone",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect Medicare-focused agents and care organizations with seniors and families ready to enroll — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Senior Care Customer", detail: "We qualify by age, ZIP code or service area, and current coverage status — Medicare Advantage, Medigap, uninsured, or an active care need." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for eligibility, documented consent, and fraud before it counts as a lead — critical in a heavily regulated category." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with a screened senior or family member already on the phone, or a routed inbound call." },
+      { title: "Scale With Enrollment Periods", detail: "Volume flexes hard around the Medicare Annual Enrollment Period, with steady in-home care and placement demand year-round." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Senior Care Leads",
+    whoBenefitsSubheading: "From Medicare-focused agencies to placement and in-home care providers, here's who buys senior care leads from Eilite.",
+    whoBenefits: [
+      { tag: "Medicare Agents", icon: ShieldCheck, title: "Independent Medicare Agents", detail: "Licensed agents enrolling seniors in Medicare Advantage and Medigap plans during and outside AEP." },
+      { tag: "FMOs", icon: Network, title: "Medicare FMOs & Agencies", detail: "Field marketing organizations distributing enrollment-ready volume across downline agents." },
+      { tag: "In-Home Care", icon: HeartHandshake, title: "In-Home Care Providers", detail: "Agencies matching families with caregivers for seniors who want to stay in their own homes." },
+      { tag: "Placement Services", icon: Building2, title: "Assisted Living & Placement Services", detail: "Advisors helping families evaluate and place a loved one in assisted living or memory care." },
     ],
     faqs: [
       { q: "What senior care and Medicare-adjacent lead types are available?", a: "Medicare Advantage, Medigap/Medicare Supplement, in-home care, and assisted living or memory care placement leads — filtered by the specific need your team serves." },

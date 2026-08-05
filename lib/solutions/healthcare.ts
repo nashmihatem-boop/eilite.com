@@ -1,3 +1,4 @@
+import { User, Users, Building, Building2, ShieldCheck, Headset, MapPin, Network, PhoneCall, ClipboardCheck, FileCheck, HeartHandshake } from "lucide-react";
 import type { SolutionVertical } from "./types";
 
 export const healthcareSolutions: SolutionVertical[] = [
@@ -24,6 +25,22 @@ export const healthcareSolutions: SolutionVertical[] = [
       "Exclusive delivery — sold once, never resold to a competing agent or agency",
       "Volume that scales up for Annual Enrollment Period and pulls back the rest of the year",
       "Live warm transfers for agents who want a screened beneficiary already on the phone",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect Medicare agents and agencies with eligible beneficiaries — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Medicare Customer", detail: "We qualify by age (64.5+ for pre-enrollment outreach), ZIP code or county for plan availability, current coverage status, and the states you're licensed to sell in." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for real-time eligibility, documented consent, and fraud before it counts as a lead — with CMS marketing guidelines built into how each campaign is screened." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with a screened beneficiary already on the phone, or a routed inbound call — whatever fits how your team enrolls." },
+      { title: "Scale With Enrollment Periods", detail: "Volume ramps up for Annual Enrollment Period (Oct 15–Dec 7) and other Medicare enrollment windows, then pulls back the rest of the year, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Medicare Leads",
+    whoBenefitsSubheading: "From solo independent agents to national FMOs, here's who buys Medicare leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: User, title: "Independent Medicare Agents", detail: "Licensed agents building their own book of business who need a steady flow of eligible beneficiaries without an aggregator markup." },
+      { tag: "FMOs & Agencies", icon: Building2, title: "FMOs & Medicare Agencies", detail: "Field marketing organizations and agencies distributing exclusive, consented volume across a downline of contracted agents." },
+      { tag: "Captive Agents", icon: ShieldCheck, title: "Captive Carrier Agents", detail: "Agents contracted to a single carrier who need supplemental lead flow confined to the plans and counties they're appointed to sell." },
+      { tag: "Call Centers", icon: Headset, title: "Call Centers & Telesales Teams", detail: "High-volume telesales operations that need consented, dial-ready beneficiaries to keep agents on the phone through AEP." },
     ],
     faqs: [
       { q: "What qualification criteria are used for Medicare leads?", a: "Every lead is screened for age, ZIP code, and current coverage status before delivery, so you're calling beneficiaries who actually match your target enrollment window instead of generic \"just researching\" traffic." },
@@ -57,6 +74,22 @@ export const healthcareSolutions: SolutionVertical[] = [
       "Exclusive delivery — never resold to a competing agent or agency in your market",
       "Live warm transfers for agents who want a screened beneficiary already on the phone, ready to compare plans",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect Medicare Advantage agents and agencies with plan-eligible beneficiaries — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Medicare Advantage Customer", detail: "We qualify by age, the specific county that determines plan availability, current coverage, and the carriers and plans you're actually contracted to sell." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for real-time eligibility, documented consent, and fraud, then matched against county-level plan availability before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with a beneficiary already on the phone comparing plans, or a routed inbound call — whatever fits how your team enrolls." },
+      { title: "Scale With Enrollment Periods", detail: "Volume ramps up for Annual Enrollment Period (Oct 15–Dec 7) and Medicare Advantage Open Enrollment Period (Jan 1–Mar 31), then pulls back between windows." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Medicare Advantage Leads",
+    whoBenefitsSubheading: "From county-focused independents to national telesales floors, here's who buys Medicare Advantage leads from Eilite.",
+    whoBenefits: [
+      { tag: "MA-Focused Agents", icon: MapPin, title: "Independent MA-Focused Agents", detail: "Agents building a book around plan comparisons who need beneficiaries matched to the exact counties they're contracted in." },
+      { tag: "FMOs & IMOs", icon: Network, title: "FMOs & IMOs", detail: "Field and independent marketing organizations routing county-matched volume across a network of contracted downline agents." },
+      { tag: "Captive MA Agents", icon: Building, title: "Captive Medicare Advantage Agents", detail: "Carrier-captive agents who need lead flow confined to the specific plans and counties they're appointed to sell." },
+      { tag: "Telesales Teams", icon: PhoneCall, title: "MA Telesales Teams", detail: "Call center floors built to compare plan options live, working real-time inbound calls and warm-transferred beneficiaries." },
+    ],
     faqs: [
       { q: "What qualification criteria are used for Medicare Advantage leads?", a: "Every lead is screened for age, ZIP code, and current coverage status, then matched to the counties where your contracted plans are actually available, so you're not paying for prospects outside your service area." },
       { q: "Are Medicare Advantage leads exclusive to my agency?", a: "Yes. Every lead and transfer is sold once, to a single agent or agency — never resold or shared with a competitor working the same county." },
@@ -89,6 +122,22 @@ export const healthcareSolutions: SolutionVertical[] = [
       "Volume that scales around guaranteed-issue windows, 65th-birthday timing, and Annual Enrollment Period",
       "Live warm transfers for agents who want a screened beneficiary already on the phone, ready to talk plan letters",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect Medicare Supplement agents and agencies with beneficiaries ready to compare plan letters — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Medigap Customer", detail: "We qualify by age, ZIP code and state (since premiums and carrier participation vary locally), current coverage, and where the beneficiary stands relative to a guaranteed-issue or initial enrollment window." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for real-time eligibility, documented consent, and fraud, and flagged for underwriting timing before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with a beneficiary already on the phone ready to talk plan letters, or a routed inbound call — whatever fits how your team enrolls." },
+      { title: "Scale With Enrollment Periods", detail: "Volume ramps up around Annual Enrollment Period, 65th-birthday Initial Enrollment Periods, and guaranteed-issue windows, then pulls back between them." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Medigap Leads",
+    whoBenefitsSubheading: "From underwriting-savvy independents to national FMOs, here's who buys Medicare Supplement leads from Eilite.",
+    whoBenefits: [
+      { tag: "Medigap Specialists", icon: ClipboardCheck, title: "Independent Medigap Specialists", detail: "Agents focused on Plan G, Plan N, and other lettered plans who need beneficiaries already comparing supplement coverage." },
+      { tag: "FMOs & Agencies", icon: Users, title: "FMOs & Medicare Supplement Agencies", detail: "Agencies distributing underwriting-aware volume across a downline built around Medigap sales." },
+      { tag: "Captive Agents", icon: ShieldCheck, title: "Captive Agents Cross-Selling Medigap", detail: "Carrier-captive agents adding Medigap alongside Medicare Advantage or final expense to round out a beneficiary's coverage." },
+      { tag: "Call Centers", icon: FileCheck, title: "Underwriting-Ready Call Centers", detail: "Telesales teams equipped to walk a beneficiary through guaranteed-issue eligibility and underwriting timing on the first call." },
+    ],
     faqs: [
       { q: "What qualification criteria are used for Medigap leads?", a: "Every lead is screened for age, ZIP code, and current coverage status before delivery, so you're calling beneficiaries who genuinely fit a Medicare Supplement conversation rather than generic Medicare traffic." },
       { q: "Are Medigap leads exclusive to my agency?", a: "Yes. Every lead and transfer is sold once, to a single agent or agency — never resold or shared with a competitor working the same market." },
@@ -120,6 +169,22 @@ export const healthcareSolutions: SolutionVertical[] = [
       "Exclusive delivery — sold once, never resold to a competing agent or agency",
       "Volume that scales up around Annual Enrollment Period and pulls back the rest of the year",
       "Live warm transfers for agents who want a screened prospect already on the phone, ready to talk coverage",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect final expense agents and agencies with eligible seniors — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Final Expense Customer", detail: "We qualify by age, ZIP code or county, current coverage status, and the face-value and underwriting range your carriers actually write." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for real-time eligibility, documented consent, and fraud before it counts as a lead — handled with the same compliant, careful outreach this audience requires." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer with a prospect already on the phone ready to talk coverage, or a routed inbound call — whatever fits how your team closes." },
+      { title: "Scale With Enrollment Periods", detail: "Volume ramps up around Annual Enrollment Period and other high-demand windows, then pulls back the rest of the year, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Final Expense Leads",
+    whoBenefitsSubheading: "From solo independents to high-volume telesales floors, here's who buys final expense leads from Eilite.",
+    whoBenefits: [
+      { tag: "Independent Agents", icon: HeartHandshake, title: "Independent Final Expense Agents", detail: "Agents building a book around fast-closing, lower-face-value policies who need seniors already considering coverage." },
+      { tag: "FMOs & Agencies", icon: Building2, title: "FMOs & Final Expense Agencies", detail: "Agencies distributing exclusive volume across a downline built for quick, high-touch final expense sales." },
+      { tag: "Captive Agents", icon: ShieldCheck, title: "Captive Final Expense Carrier Agents", detail: "Agents contracted to a single carrier who need lead flow confined to the underwriting range and territory they're appointed to sell." },
+      { tag: "Telesales Teams", icon: Headset, title: "High-Volume Telesales Teams", detail: "Call center floors built for fast, respectful outreach and same-call closes across a high volume of screened seniors." },
     ],
     faqs: [
       { q: "What qualification criteria are used for final expense leads?", a: "Every lead is screened for age, ZIP code, and current coverage status before delivery, so you're calling seniors who genuinely fit a final expense conversation rather than unscreened, generic traffic." },

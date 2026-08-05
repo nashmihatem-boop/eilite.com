@@ -1,3 +1,4 @@
+import { Home, Building2, Droplet, Flame, HardHat, Key, Construction, PaintRoller, Blocks, Snowflake, TreePine } from "lucide-react";
 import type { SolutionVertical } from "./types";
 
 export const homeServices5: SolutionVertical[] = [
@@ -24,6 +25,22 @@ export const homeServices5: SolutionVertical[] = [
       "Live warm transfers for active failures, so you're talking to the homeowner while the water's still cold",
       "Exclusive delivery — never resold to another plumbing or water heater company in your market",
       "Filter by tank or tankless interest so your team can lead with the right pitch from the first call",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect water heater specialists with homeowners ready to book — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Water Heater Customer", detail: "We qualify by tank or tankless preference, fuel type, property type, and the ZIP codes or metro areas your crew actually services." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Planned replacement and tankless-upgrade inquiries deliver as web-form leads; active no-hot-water failures route as live warm transfers so you're on the phone while the water's still cold." },
+      { title: "Scale With Demand", detail: "Volume rises with winter cold snaps and aging-unit failure spikes, and holds steady the rest of the year on tankless upgrade interest, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Water Heater Leads",
+    whoBenefitsSubheading: "From single-truck plumbers to multi-branch service companies, here's who buys water heater leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local Plumbing & Water Heater Contractors", detail: "Independent plumbers filling their schedule with repair, replacement, and install work in a defined service radius." },
+      { tag: "Franchises", icon: Building2, title: "Water Heater Franchises & Multi-Branch Companies", detail: "Regional and national brands distributing volume across branches or dispatch zones." },
+      { tag: "Emergency Service", icon: Droplet, title: "24/7 Emergency Water Heater Repair Companies", detail: "Companies built around fast response to no-hot-water failures that need a live transfer, not a form." },
+      { tag: "Tankless Specialists", icon: Flame, title: "Tankless Conversion Specialists", detail: "Businesses focused on higher-ticket tankless upgrade and conversion work alongside standard tank replacements." },
     ],
     faqs: [
       { q: "What types of water heater leads can I buy?", a: "Emergency tank replacement, standard water heater installation, tankless conversions, and routine repair or maintenance calls — filtered so you're not paying full price for a maintenance inquiry when you wanted an emergency replacement lead." },
@@ -57,6 +74,22 @@ export const homeServices5: SolutionVertical[] = [
       "Filter by real estate transaction leads (pre-sale inspection repairs) vs. standard homeowner inquiries",
       "Real-time delivery so your estimator can schedule the inspection while trust and urgency are highest",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect foundation repair contractors with homeowners who have confirmed warning signs — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Foundation Repair Customer", detail: "We qualify by confirmed warning signs, property age, whether the job is tied to a real estate transaction, and the counties or metro areas your crew actually services." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and genuine structural concern before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Standard inquiries deliver as web-form leads; given the high ticket size and trust-sensitive sales cycle, homeowners ready to discuss visible damage can be routed as inbound calls or live warm transfers straight to a specialist." },
+      { title: "Scale With Demand", detail: "Volume shifts with seasonal ground movement from drought-flood or freeze-thaw cycles, and with the spring/summer home-selling season when pre-sale inspection repairs spike." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Foundation Repair Leads",
+    whoBenefitsSubheading: "From local specialty contractors to multi-branch structural repair companies, here's who buys foundation repair leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local Foundation Repair Contractors", detail: "Independent specialists filling their calendar with homeowners showing confirmed structural warning signs in a defined service radius." },
+      { tag: "Franchises", icon: Building2, title: "Foundation Repair Franchises & Multi-Branch Companies", detail: "Regional and national brands distributing estimator volume across branches or territories." },
+      { tag: "Structural Specialists", icon: HardHat, title: "Structural & Pier Specialists", detail: "Companies focused on push piers, helical piers, and slab jacking for the highest-ticket stabilization jobs." },
+      { tag: "Real Estate Transactions", icon: Key, title: "Real Estate & Pre-Sale Inspection Repair Specialists", detail: "Businesses handling repairs tied to home sales, where the timeline is set by closing, not the homeowner." },
+    ],
     faqs: [
       { q: "What types of foundation repair leads can I buy?", a: "Foundation cracking and settling repair, structural stabilization work (push piers, helical piers, slab jacking), and inspection requests tied to a home sale — filtered so you're not fielding generic \"home repair\" leads outside your scope." },
       { q: "Are foundation repair leads exclusive to my company?", a: "Yes. Every foundation repair lead is sold once, to a single contractor — never resold or shared with a competitor bidding in your market." },
@@ -88,6 +121,22 @@ export const homeServices5: SolutionVertical[] = [
       "Exclusive delivery, never resold to another chimney company in your market",
       "Volume that scales up ahead of the fall surge and pulls back in the off-season",
       "Real-time delivery so you can book the appointment while the homeowner is still planning for winter",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect chimney service companies with homeowners ready to book — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Chimney Services Customer", detail: "We qualify by service type, fireplace or appliance type (wood, gas, or pellet), property type, and the ZIP codes or metro areas your crew actually services." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Routine sweeping and inspection requests deliver as web-form leads; urgent repair calls involving visible damage or odor route as live warm transfers straight to your dispatcher." },
+      { title: "Scale With the Fall Season", detail: "Volume ramps up ahead of the fall surge as homeowners prep for the first fire of the season, and pulls back once winter booking calendars fill." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Chimney Services Leads",
+    whoBenefitsSubheading: "From single-crew sweeps to multi-crew masonry companies, here's who buys chimney leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Sweeps", icon: Home, title: "Local Chimney Sweep & Service Companies", detail: "Independent crews filling their fall calendar with sweeping, inspection, and cap or damper work in a defined radius." },
+      { tag: "Franchises", icon: Building2, title: "Chimney Franchises & Multi-Crew Companies", detail: "Regional and national brands distributing appointment volume across crews ahead of the seasonal surge." },
+      { tag: "Masonry & Structural", icon: Construction, title: "Masonry & Structural Repair Specialists", detail: "Companies focused on higher-ticket rebuild, relining, and structural repair work triggered by visible damage." },
+      { tag: "Fireplace & Hearth", icon: Flame, title: "Fireplace & Hearth Retailers & Installers", detail: "Businesses selling and installing wood, gas, and pellet inserts alongside routine chimney service." },
     ],
     faqs: [
       { q: "What types of chimney leads can I buy?", a: "Chimney sweeping and inspection, masonry and structural repair, and home-purchase inspection requests — filtered so a routine seasonal cleaning and a major repair job aren't priced or routed the same way." },
@@ -121,6 +170,22 @@ export const homeServices5: SolutionVertical[] = [
       "Volume that scales up for your peak spring/summer season and pulls back in the off-season",
       "Real-time delivery so you can quote while the homeowner is still comparing bids",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect driveway and paving contractors with homeowners ready to book — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Driveway & Paving Customer", detail: "We qualify by material preference, approximate driveway size, current condition, and the ZIP codes or counties your crew actually services." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Sealcoating and standard resurfacing requests deliver as web-form leads; larger full-replacement or paver jobs can route as live warm transfers or inbound calls for faster follow-up on the highest-value bids." },
+      { title: "Scale With the Paving Season", detail: "Volume ramps up heading into your peak spring/summer install window and pulls back in the off-season, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Driveway & Paving Leads",
+    whoBenefitsSubheading: "From local crews to multi-crew regional companies, here's who buys driveway and paving leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local Paving Contractors", detail: "Independent crews filling their season with driveway installs, replacements, and resurfacing in a defined service radius." },
+      { tag: "Regional Companies", icon: Building2, title: "Paving Franchises & Regional Companies", detail: "Multi-crew operators distributing volume across territories heading into the peak season." },
+      { tag: "Sealcoating & Maintenance", icon: PaintRoller, title: "Sealcoating & Maintenance Specialists", detail: "Businesses focused on recurring, lower-ticket sealcoating and crack-filling work between major installs." },
+      { tag: "Hardscape & Pavers", icon: Blocks, title: "Concrete & Paver Installers", detail: "Companies focused on higher-ticket concrete pours and paver installations over standard asphalt patching." },
+    ],
     faqs: [
       { q: "What types of driveway and paving leads can I buy?", a: "New driveway installation, full replacement, resurfacing/overlay, and sealcoating — filtered by asphalt, concrete, or paver preference so you're not quoting blind on material or scope." },
       { q: "Are driveway and paving leads exclusive to my company?", a: "Yes. Every driveway and paving lead is sold once, to a single company — never resold or shared with a competitor in your market." },
@@ -152,6 +217,22 @@ export const homeServices5: SolutionVertical[] = [
       "Exclusive delivery, never resold to another irrigation contractor in your market",
       "Volume that scales up for your spring and fall service surges",
       "Real-time delivery so you can book while the homeowner is still planning the season",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect sprinkler and irrigation contractors with homeowners ready to book — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Sprinkler & Irrigation Customer", detail: "We qualify by property size, zone count, service type, and the ZIP codes or metro areas your crew actually services." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Seasonal startup and winterization requests deliver as web-form leads; spring burst-pipe emergencies from improper winterization route as live warm transfers straight to your dispatcher." },
+      { title: "Scale With Spring and Fall Surges", detail: "Volume ramps up for the tight spring startup and fall winterization windows and pulls back between them, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Sprinkler & Irrigation Leads",
+    whoBenefitsSubheading: "From local install crews to multi-crew seasonal service companies, here's who buys irrigation leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local Irrigation Contractors", detail: "Independent crews filling their schedule with new installs and repair work in a defined service radius." },
+      { tag: "Franchises", icon: Building2, title: "Irrigation Franchises & Multi-Crew Companies", detail: "Regional and national brands distributing volume across crews during peak surge windows." },
+      { tag: "Landscaping Add-On", icon: TreePine, title: "Landscaping Companies Adding Irrigation", detail: "Outdoor service businesses expanding into irrigation install and repair without building a separate pipeline first." },
+      { tag: "Seasonal Specialists", icon: Snowflake, title: "Seasonal Startup & Winterization Specialists", detail: "Businesses built around the recurring spring startup and fall winterization service window." },
     ],
     faqs: [
       { q: "What types of sprinkler and irrigation leads can I buy?", a: "New irrigation system installation, repair (including spring burst-pipe emergencies from improper winterization), and seasonal startup or winterization service — filtered so you're not paying the same rate for a full install and a routine seasonal visit." },

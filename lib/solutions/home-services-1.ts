@@ -1,3 +1,4 @@
+import { Home, Building2, CloudRain, HardHat, Thermometer, Wrench, Droplet, Sun, TreePine, Sparkles } from "lucide-react";
 import type { SolutionVertical } from "./types";
 
 export const homeServices1: SolutionVertical[] = [
@@ -24,6 +25,22 @@ export const homeServices1: SolutionVertical[] = [
       "Delivered once, exclusively to you — never sold to a competing crew in your market",
       "Real-time delivery so you can call while the homeowner is still comparing quotes",
       "Combine web-form leads with live warm transfers when you need faster-closing volume",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect roofing contractors with homeowners ready to book — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Roofing Customer", detail: "We qualify by job type, roof age, property type, budget, and the ZIP codes or counties you actually service." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take it as a web-form lead, a live warm transfer connected while the homeowner is on the phone, or a routed inbound call — whatever fits how your team closes." },
+      { title: "Scale With the Season", detail: "Volume flexes up for storm season and spring replacement demand, and down in slower months, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Roofing Leads",
+    whoBenefitsSubheading: "From single-crew operators to multi-market restoration companies, here's who buys roofing leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local Roofing Contractors", detail: "Independent crews filling their calendar with homeowners in a defined service radius." },
+      { tag: "Franchises", icon: Building2, title: "Roofing Franchises & Multi-Location Companies", detail: "Regional and national brands routing volume across multiple branches or territories." },
+      { tag: "Storm Restoration", icon: CloudRain, title: "Storm & Hail Restoration Companies", detail: "Crews that ramp fast after severe weather and need verified, insurance-ready leads immediately." },
+      { tag: "General Contractors", icon: HardHat, title: "General Contractors Adding Roofing", detail: "Remodeling and construction companies expanding into roofing without building their own pipeline first." },
     ],
     faqs: [
       { q: "What types of roofing leads can I buy?", a: "Full roof replacements, repairs, storm and hail damage, inspections, and re-roofing projects — filtered by property type, roof age, and job budget so you're not paying for jobs outside your scope." },
@@ -57,6 +74,22 @@ export const homeServices1: SolutionVertical[] = [
       "Exclusive delivery — never resold to another HVAC company in your area",
       "Scale volume up during peak season and dial it back in the off-season",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We route HVAC demand to your team as leads, live warm transfers, or inbound calls — matched to how urgent the job is.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal HVAC Customer", detail: "We qualify by system type, job type, property type, and the service area your crews actually cover." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for fraud and real intent the moment it's captured, before it's counted as a lead." },
+      { title: "Choose Your Delivery", detail: "Standard jobs deliver as web-form leads; no-heat and no-cool emergencies route as live warm transfers so your dispatcher can respond immediately." },
+      { title: "Scale With Demand", detail: "Volume ramps up in peak summer and winter weeks and pulls back in the shoulder seasons, without a new contract each time." },
+    ],
+    whoBenefitsHeading: "Who Benefits From HVAC Leads",
+    whoBenefitsSubheading: "From single-truck operators to multi-branch service companies, here's who buys HVAC leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local HVAC Contractors", detail: "Independent techs and small crews filling their schedule within a defined service radius." },
+      { tag: "Franchises", icon: Building2, title: "HVAC Franchises & Multi-Branch Companies", detail: "Regional and national brands distributing volume across branches or dispatch zones." },
+      { tag: "Emergency Service", icon: Thermometer, title: "24/7 Emergency Service Providers", detail: "Companies built around fast response to no-heat and no-cool calls that need a live transfer, not a form." },
+      { tag: "Maintenance Plans", icon: Wrench, title: "Maintenance Plan & Tune-Up Providers", detail: "Businesses growing recurring service agreements alongside one-time repair and install work." },
+    ],
     faqs: [
       { q: "Do you offer emergency HVAC leads, not just scheduled work?", a: "Yes. We route urgent no-heat and no-cool calls as live warm transfers so your team can respond immediately, alongside standard web-form leads for maintenance and replacement work." },
       { q: "Can I choose residential, commercial, or both?", a: "Yes. Campaigns are configured to your target property type, system type, and service area before any leads are delivered." },
@@ -88,6 +121,22 @@ export const homeServices1: SolutionVertical[] = [
       "Live warm transfers for burst pipes, backups, and no-water emergencies",
       "Exclusive delivery, never resold to another plumbing company in your market",
       "Filter by residential, commercial, or both based on your crew's focus",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We route plumbing demand to your team as leads, live warm transfers, or inbound calls — matched to how urgent the job is.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Plumbing Customer", detail: "We qualify by job type, property type, and the ZIP codes or metro areas your crews actually service." },
+      { title: "Capture & Screen in Real Time", detail: "Every inquiry is screened for fraud and real intent the moment it's captured, before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Scheduled work delivers as web-form leads; burst pipes, backups, and no-water emergencies route as live warm transfers straight to your dispatcher." },
+      { title: "Scale With Demand", detail: "Volume flexes with seasonal spikes like winter freeze events, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Plumbing Leads",
+    whoBenefitsSubheading: "From single-truck operators to multi-branch service companies, here's who buys plumbing leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Contractors", icon: Home, title: "Local Plumbing Contractors", detail: "Independent plumbers and small crews filling their schedule within a defined service radius." },
+      { tag: "Franchises", icon: Building2, title: "Plumbing Franchises & Multi-Branch Companies", detail: "Regional and national brands distributing volume across branches or dispatch zones." },
+      { tag: "Emergency Service", icon: Droplet, title: "24/7 Emergency Plumbers", detail: "Companies built around fast response to burst pipes, backups, and no-water calls that need a live transfer, not a form." },
+      { tag: "Remodel & Install", icon: Wrench, title: "Water Heater & Re-Pipe Specialists", detail: "Businesses focused on higher-ticket install and remodel work alongside routine repair calls." },
     ],
     faqs: [
       { q: "Can I get emergency plumbing calls in real time?", a: "Yes. Emergency calls — burst pipes, backups, no hot water — can be routed as live warm transfers so your dispatcher can respond immediately." },
@@ -121,6 +170,22 @@ export const homeServices1: SolutionVertical[] = [
       "Real-time CRM integration so reps can call while intent is highest",
       "Live warm transfers available for teams that want appointment-set leads",
     ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect solar installers and sales orgs with pre-qualified homeowners — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Solar Customer", detail: "We qualify by homeownership, roof condition, average utility bill, and the states or utility territories you're licensed in." },
+      { title: "Capture & Pre-Qualify", detail: "Interest is captured on owned pages or vetted publisher sites, then filtered against your qualification criteria before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Take raw web-form leads into your CRM, or take live warm transfers with a homeowner already on the phone for teams that want appointment-set volume." },
+      { title: "Refine as You Scale", detail: "We tune targeting and qualification criteria against your close rate as volume grows, so cost per acquisition keeps improving." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Solar Leads",
+    whoBenefitsSubheading: "From regional installers to national sales organizations, here's who buys solar leads from Eilite.",
+    whoBenefits: [
+      { tag: "Installers", icon: Home, title: "Regional Solar Installers", detail: "Installation companies filling their pipeline with pre-qualified homeowners in their licensed territory." },
+      { tag: "National Orgs", icon: Building2, title: "National Solar Sales Organizations", detail: "Multi-state sales orgs distributing appointment-set volume across regional teams." },
+      { tag: "Appointment Setters", icon: Sun, title: "Appointment-Setting Teams", detail: "Teams that want live warm transfers with a pre-qualified homeowner already on the line." },
+      { tag: "Financing Partners", icon: Sparkles, title: "Solar Financing & Leasing Partners", detail: "Partners qualifying homeowners on credit tier alongside roof and utility bill fit." },
+    ],
     faqs: [
       { q: "How are solar leads qualified before delivery?", a: "Leads are filtered on homeownership status, roof condition and orientation, and average monthly utility bill — the factors that determine whether a homeowner is actually a fit for solar." },
       { q: "Are solar leads exclusive?", a: "Yes. Every lead is sold once, to a single installer or sales organization — never resold or shared." },
@@ -152,6 +217,22 @@ export const homeServices1: SolutionVertical[] = [
       "Exclusive delivery, never resold to another landscaping company in your market",
       "Seasonal volume that scales up for spring/summer demand and down in the off-season",
       "Real-time delivery so you can quote while the homeowner is still comparing",
+    ],
+    howItWorksHeading: "How It Works",
+    howItWorksSubheading: "We connect landscaping businesses with homeowners ready to book — as leads, live warm transfers, or inbound calls.",
+    howItWorksSteps: [
+      { title: "Define Your Ideal Landscaping Customer", detail: "We qualify by service type, estimated job size, and the ZIP codes or neighborhoods you actually serve." },
+      { title: "Capture & Screen in Real Time", detail: "Homeowner interest is captured on owned pages or vetted publisher sites, then screened for fraud and real intent before it counts as a lead." },
+      { title: "Choose Your Delivery", detail: "Routine maintenance requests deliver as web-form leads; larger design-and-build inquiries can route as live warm transfers for faster follow-up." },
+      { title: "Scale With the Season", detail: "Volume ramps up for spring cleanup and summer demand and pulls back in the off-season, without renegotiating a contract." },
+    ],
+    whoBenefitsHeading: "Who Benefits From Landscaping Leads",
+    whoBenefitsSubheading: "From single-crew operators to multi-service outdoor companies, here's who buys landscaping leads from Eilite.",
+    whoBenefits: [
+      { tag: "Local Crews", icon: Home, title: "Local Landscaping Crews", detail: "Independent operators filling their schedule with mowing, cleanup, and maintenance work in a defined radius." },
+      { tag: "Design-Build", icon: Sparkles, title: "Design-and-Build Firms", detail: "Companies focused on higher-ticket hardscaping and full outdoor renovation projects." },
+      { tag: "Multi-Service", icon: Building2, title: "Multi-Service Outdoor Companies", detail: "Businesses combining lawn care, irrigation, and hardscaping under one crew or franchise." },
+      { tag: "Irrigation", icon: TreePine, title: "Irrigation & Lawn Care Specialists", detail: "Teams focused on recurring seasonal service agreements alongside one-time projects." },
     ],
     faqs: [
       { q: "Can I get only high-value design-and-build leads, not routine mowing?", a: "Yes. Campaigns can be configured to target specific service types and estimated job sizes, so you're not paying for work below your minimum." },

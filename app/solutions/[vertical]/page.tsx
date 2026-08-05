@@ -4,6 +4,8 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
+import { SolutionWhoBenefits } from "@/components/solutions/SolutionWhoBenefits";
 import { ComplianceStrip } from "@/components/sections/ComplianceStrip";
 import { CoverageArticles } from "@/components/coverage/CoverageArticles";
 import { MarketplaceFAQ } from "@/components/marketplace/MarketplaceFAQ";
@@ -79,6 +81,19 @@ export default async function SolutionVerticalPage({
         paragraphs={vertical.overviewParagraphs}
         benefitsHeading={vertical.benefitsHeading}
         benefits={vertical.benefits}
+      />
+
+      <SolutionHowItWorks
+        heading={vertical.howItWorksHeading}
+        subheading={vertical.howItWorksSubheading}
+        steps={vertical.howItWorksSteps}
+        demoIndustry={vertical.demoIndustry}
+      />
+
+      <SolutionWhoBenefits
+        heading={vertical.whoBenefitsHeading}
+        subheading={vertical.whoBenefitsSubheading}
+        audiences={vertical.whoBenefits}
       />
 
       <ComplianceStrip />
