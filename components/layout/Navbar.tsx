@@ -37,8 +37,8 @@ export function Navbar() {
           >
             Home
           </Link>
-          <NavDropdown label="Advertisers" items={advertiserLinks} />
           <NavDropdown label="Affiliates" items={publisherLinks} />
+          <NavDropdown label="Advertisers" items={advertiserLinks} />
           <Link
             href="/solutions"
             className="text-sm font-medium text-[var(--color-ink-soft)] transition-colors hover:text-[var(--color-brand)]"
@@ -97,9 +97,9 @@ export function Navbar() {
             </Link>
 
             <div className="px-3 pt-3 pb-1 text-xs font-semibold uppercase tracking-[0.1em] text-[var(--color-muted)]">
-              Advertisers
+              Affiliates
             </div>
-            {advertiserLinks.map((item) => (
+            {publisherLinks.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
@@ -111,9 +111,9 @@ export function Navbar() {
             ))}
 
             <div className="px-3 pt-3 pb-1 text-xs font-semibold uppercase tracking-[0.1em] text-[var(--color-muted)]">
-              Affiliates
+              Advertisers
             </div>
-            {publisherLinks.map((item) => (
+            {advertiserLinks.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
