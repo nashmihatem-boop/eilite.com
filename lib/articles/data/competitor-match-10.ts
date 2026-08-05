@@ -10,8 +10,9 @@ export const competitorMatch10Articles: Article[] = [
     excerpt:
       "A quick checklist of the questions law firms should ask before signing with a new motor vehicle accident lead provider.",
     category: "Legal Leads",
-    readTime: "1 min read",
+    readTime: "7 min read",
     publishedDate: "2026-08-14",
+    updatedDate: "2026-08-05",
     relatedSlugs: [
       "looking-to-buy-personal-injury-leads-here-s-some-tips-to-help-you-find-a-good-fit",
       "5-questions-to-ask-before-buying-personal-injury-leads",
@@ -26,6 +27,81 @@ export const competitorMatch10Articles: Article[] = [
         type: "paragraph",
         text: "Firms that vet providers seriously spend less time cleaning up bad lead relationships and more time converting cases that were qualified correctly from the start. For a shortcut past the guesswork, [Eilite's legal lead marketplace](/buy-leads) vets MVA lead sources against these same standards before they ever reach a firm's intake team.",
       },
+      {
+        type: "heading",
+        text: "Start With Pricing Structure, But Don't Stop There",
+      },
+      {
+        type: "paragraph",
+        text: "Ask whether pricing is per lead, based on a monthly minimum commitment, or tied to some hybrid structure, and get specific about how that price shifts with exclusivity, geography, and case qualification criteria. A provider quoting a single flat rate regardless of these variables is either oversimplifying a genuinely more complex pricing structure or offering an undifferentiated product that doesn't account for the real cost differences between, say, a clear-liability MVA case and a disputed-fault fender-bender. Get pricing for at least two or three configurations — a baseline shared lead versus an exclusive, pre-qualified one — so you can compare the actual value being offered, not just the sticker price.",
+      },
+      {
+        type: "heading",
+        text: "Questions About Lead Sourcing and Quality Verification",
+      },
+      {
+        type: "list",
+        items: [
+          "Where does your traffic actually originate — paid search, your own content, partner publisher sites, or co-registration and aggregator networks?",
+          "Which consent certification platform do you use (Jornaya, TrustedForm, or an equivalent), and can you provide a sample compliance record?",
+          "What fraud and bot detection tools screen leads before delivery, and what happens to submissions that fail that screening?",
+          "What basic qualifying questions does the intake form or call script ask before a lead counts as \"qualified\"?",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Questions About Exclusivity",
+      },
+      {
+        type: "paragraph",
+        text: "Ask directly whether leads are exclusive to your firm or shared with others, and if shared, exactly how many firms typically receive the same contact. Get the answer in writing as part of your order confirmation or agreement, not just as a verbal assurance during the sales call — this single point of clarity affects both price and conversion rate more than almost any other variable in the relationship, and it's worth confirming before, not after, you've committed budget to a provider.",
+      },
+      {
+        type: "heading",
+        text: "Questions About Delivery Speed and Format",
+      },
+      {
+        type: "paragraph",
+        text: "Ask for an actual average time-to-delivery figure, not just a claim of \"real-time\" delivery, and clarify whether leads arrive as form submissions requiring your team to make the first call, or as warm transfers connecting a screened, interested consumer directly to your intake line. Since MVA prospects frequently contact multiple firms in a short window, delivery speed is one of the more consequential variables to nail down clearly before signing.",
+      },
+      {
+        type: "heading",
+        text: "Questions About Replacement and Credit Policies",
+      },
+      {
+        type: "paragraph",
+        text: "A credible provider should clearly define what qualifies as a bad lead — a disconnected number, a duplicate submission, a case outside your stated criteria — and how quickly credits or replacements are issued once you report an issue. Ask for this policy in writing, and ask how disputes are typically resolved if you and the provider disagree about whether a specific lead qualifies for a credit.",
+      },
+      {
+        type: "heading",
+        text: "Red Flags That Should End the Conversation",
+      },
+      {
+        type: "list",
+        items: [
+          "Vague, evasive answers about which specific consent certification or fraud screening tools are used.",
+          "Reluctance to put exclusivity terms in writing, even when directly asked.",
+          "Pressure to sign a long-term contract before any small test batch is offered.",
+          "Pricing dramatically below the going market rate with no clear explanation for the gap.",
+          "No documented policy for handling invalid or disputed leads.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How to Structure a Test Before Committing",
+      },
+      {
+        type: "paragraph",
+        text: "Request a small, defined test batch — a fixed number of leads in one geography and case type — before committing to ongoing volume or a long-term contract. Track contact rate, consultation rate, and, where possible, early signals of case quality over that test period, rather than judging a provider off the sales conversation alone. This kind of measured trial reveals far more about actual fit for your firm than any marketing claim or reference list ever could.",
+      },
+      {
+        type: "heading",
+        text: "Framing the Decision Around ROI, Not Just Price",
+      },
+      {
+        type: "paragraph",
+        text: "The cheapest lead isn't necessarily the best value once you account for conversion rate and eventual case value. A firm comparing two providers should calculate cost-per-signed-case for each, not just cost-per-lead, since a pricier exclusive lead converting at a meaningfully higher rate often produces a lower effective acquisition cost than a cheaper shared lead with a weak contact rate. Asking the questions above gives you the information needed to make that calculation with real data instead of guesswork.",
+      },
     ],
     faqs: [
       {
@@ -39,6 +115,18 @@ export const competitorMatch10Articles: Article[] = [
       {
         q: "What is the provider's return or replacement policy?",
         a: "A credible provider clearly defines what qualifies as a bad lead and how quickly credits are issued.",
+      },
+      {
+        q: "How many leads should I request for an initial test batch?",
+        a: "Ten to twenty-five leads in a single geography and case type is usually enough to get a meaningful read on contact and consultation rates before committing to larger ongoing volume or a longer contract term.",
+      },
+      {
+        q: "Should I ask for references from other law firms?",
+        a: "Yes — ask for references from firms similar in size and practice focus to your own, and ask them specifically about response time, exclusivity, and how disputes over lead quality were handled, not just general satisfaction.",
+      },
+      {
+        q: "What's the biggest mistake firms make when choosing an MVA lead provider?",
+        a: "Comparing providers on cost-per-lead alone without factoring in exclusivity, delivery speed, and actual conversion rate — a cheaper lead that converts poorly is often more expensive per signed case than a pricier, better-qualified one.",
       },
     ],
   },

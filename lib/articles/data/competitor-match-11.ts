@@ -230,8 +230,9 @@ export const competitorMatch11Articles: Article[] = [
     metaDescription: "A concise introduction to SEO for law firms, covering how search optimization drives digital marketing for attorneys and when to hire outside help.",
     excerpt: "A short primer on how search engine optimization fits into digital marketing for attorneys, and whether to DIY it or bring in a specialist.",
     category: "Marketing Channels",
-    readTime: "2 min read",
+    readTime: "6 min read",
     publishedDate: "2026-08-14",
+    updatedDate: "2026-08-05",
     relatedSlugs: [
       "how-people-search-for-a-personal-injury-lawyer",
       "how-legal-marketing-firms-can-help-turn-more-of-your-website-visitors-into-leads",
@@ -278,6 +279,73 @@ export const competitorMatch11Articles: Article[] = [
       {
         type: "paragraph",
         text: "SEO is a long-term investment rather than a quick fix, but for firms willing to commit to it, it remains one of the most cost-effective ways to build a steady stream of organic inquiries over time.",
+      },
+      {
+        type: "heading",
+        text: "What SEO Typically Costs and How to Budget for It",
+      },
+      {
+        type: "paragraph",
+        text: "SEO pricing for law firms varies widely depending on market competitiveness, practice area, and scope of work, and firms should be wary of any agency quoting a flat rate without first assessing your specific market and current site condition. A personal injury firm competing in a major metro area generally needs a larger sustained investment than a niche family law practice in a smaller market, given how much more competitive the underlying search terms are. Rather than comparing agency quotes purely on monthly retainer price, ask what specific deliverables are included — technical audits, content volume, link building activity, local citation management — since a lower price with a narrower scope of work may cost more per unit of actual progress than a higher price with comprehensive coverage.",
+      },
+      {
+        type: "heading",
+        text: "How to Evaluate an SEO Agency or Consultant",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask for case studies or references from other law firms, ideally in a comparable practice area and market size.",
+          "Request specifics on reporting cadence and what metrics will actually be tracked — rankings alone don't tell you whether traffic is converting.",
+          "Confirm whether content is written in-house or outsourced, and ask to review samples for quality and legal accuracy.",
+          "Clarify ownership of your website and content if you ever switch providers, since some agencies build on proprietary platforms that complicate a future transition.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Red Flags to Watch For",
+      },
+      {
+        type: "paragraph",
+        text: "Be cautious of any agency guaranteeing a specific ranking position or a fixed timeline to page one, since no reputable SEO provider can honestly promise this given how search algorithms work and how much competition varies by market. Similarly, watch for vague reporting that shows only ranking movement without any connection to actual traffic, calls, or form submissions — rankings are a means to an end, not the end itself, and an agency that can't or won't tie its work to genuine lead volume isn't giving you the full picture of whether the investment is paying off.",
+      },
+      {
+        type: "heading",
+        text: "How SEO Fits Alongside Purchased Leads",
+      },
+      {
+        type: "paragraph",
+        text: "SEO is a long-term channel — meaningful ranking improvements often take several months to a year to materialize, particularly in competitive practice areas and metro markets. Many firms use a [pay-per-lead or warm transfer program](/buy-leads) to maintain steady case volume while their organic presence is still building, then gradually shift budget as SEO begins to produce a reliable, lower-cost-per-lead stream of its own. Treating these as complementary rather than competing channels tends to produce steadier overall growth than betting entirely on one or the other.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Whether SEO Is Actually Working",
+      },
+      {
+        type: "paragraph",
+        text: "Organic traffic and keyword rankings are useful leading indicators, but the metric that actually matters is signed clients attributable to organic search, tracked through call tracking numbers or form-source tagging tied back to organic sessions. Firms should expect a reasonable ramp period — often three to six months before meaningful ranking movement, and longer before that translates into a steady, measurable increase in signed cases — and should set expectations with any agency or internal team accordingly rather than judging the investment after just a few weeks.",
+      },
+    ],
+    faqs: [
+      {
+        q: "How long does it take to see results from law firm SEO?",
+        a: "Meaningful ranking movement often takes three to six months, with a steady increase in signed cases typically following after that. Highly competitive markets and practice areas like personal injury generally take longer than smaller, less contested niches.",
+      },
+      {
+        q: "Is SEO worth it for a small or new law firm?",
+        a: "Yes, but expectations should be realistic — a new firm with no existing site authority generally needs more time and sustained investment before competing for the most contested keywords, and often benefits from starting with more specific, less competitive terms.",
+      },
+      {
+        q: "Should a firm do SEO in-house or hire an agency?",
+        a: "Basic maintenance and listing accuracy can often be handled in-house, but competitive keyword targets, technical fixes, and sustained content production generally benefit from a specialist who works on this full time rather than as a side responsibility.",
+      },
+      {
+        q: "How much should a law firm budget for SEO each month?",
+        a: "This varies significantly by market competitiveness and practice area, which is why a firm should get a scoped proposal based on its specific situation rather than relying on an industry-wide average that may not reflect its actual market.",
+      },
+      {
+        q: "Can SEO replace purchased leads entirely?",
+        a: "For most firms, the two work best as complementary channels rather than a full replacement — SEO builds a lower-cost, long-term traffic base, while purchased leads provide more immediate, controllable volume while that organic presence is still developing.",
       },
     ],
   },

@@ -13,6 +13,7 @@ export const divorceLeadEconomicsArticles: Article[] = [
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: divorceEconRelated,
     content: [
       {
@@ -56,6 +57,79 @@ export const divorceLeadEconomicsArticles: Article[] = [
         type: "paragraph",
         text: "Ask specifically what segmentation, if any, a provider applies to divorce leads, and whether pricing reflects that segmentation or treats every inquiry identically. Our [Buy Leads](/buy-leads) and [Buy Warm Transfers](/buy-warm-transfers) pages detail how delivery and pricing can be configured by case complexity and geography for divorce specifically.",
       },
+      {
+        type: "heading",
+        text: "Table: Rough Pricing Position by Divorce Lead Segment",
+      },
+      {
+        type: "table",
+        headers: ["Lead Segment", "Relative Price Position", "Why"],
+        rows: [
+          ["Uncontested, shared", "Lowest", "Lower average case value, faster resolution, high volume available"],
+          ["Uncontested, exclusive", "Below average", "Same case profile, but exclusivity adds a moderate premium"],
+          ["Contested, shared", "Above average", "Higher case value justifies a premium even in shared delivery"],
+          ["Contested or high-asset, exclusive", "Highest", "Highest case value combined with exclusivity and warm transfer delivery"],
+        ],
+      },
+      {
+        type: "heading",
+        text: "Compliance and Consent Factors That Affect Pricing",
+      },
+      {
+        type: "paragraph",
+        text: "Divorce leads generated through properly documented consent — with clear TCPA-compliant opt-in and consent certification through a platform like Jornaya or TrustedForm — generally cost more than leads without that documentation, and that added cost is usually worth paying. A firm that buys undocumented leads takes on real compliance exposure if a contacted consumer later disputes having agreed to be contacted, and that risk is entirely avoidable by insisting on documented consent as a baseline requirement rather than an optional upgrade.",
+      },
+      {
+        type: "heading",
+        text: "Red Flags in Divorce Lead Pricing",
+      },
+      {
+        type: "list",
+        items: [
+          "Pricing that doesn't move at all regardless of case complexity, exclusivity, or geography — a sign of little real segmentation behind the marketing language.",
+          "Unusually low prices with no explanation of sourcing methodology or consent documentation.",
+          "Reluctance to share even aggregate data on typical conversion rates other buyers have seen for a given segment.",
+          "Long-term contracts required before any short test period is offered, which limits your ability to validate pricing against actual results.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How Delivery Format Affects the Price You Should Expect",
+      },
+      {
+        type: "paragraph",
+        text: "Form-based leads generally cost less per contact but require your intake team to make the first outbound call, while warm transfers cost more upfront but connect your team to a prospect already on the line and expecting your call. For divorce specifically, where the sales cycle is already longer and more deliberate than most legal categories, the immediacy of a warm transfer can meaningfully improve first-contact rates, which is part of why the format commands a real premium rather than simply reflecting higher provider overhead. Firms deciding between the two should weigh their own intake team's speed-to-call capability against the added cost, since a form lead sitting unworked for hours loses much of the advantage a cheaper price point would otherwise offer.",
+      },
+      {
+        type: "heading",
+        text: "Setting an Internal Budget for 2026",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than starting from a target lead volume and working out what it costs, a more sustainable approach starts from your firm's realistic case capacity and target margin, then works backward to a maximum monthly spend across all divorce lead segments combined. This keeps budget decisions grounded in what your firm can actually staff and convert, rather than in whatever volume a provider happens to be pitching that month, and makes it much easier to evaluate whether a proposed price increase or new segment still fits your underlying economics.",
+      },
+    ],
+    faqs: [
+      {
+        q: "What's a reasonable price range for a shared, uncontested divorce lead?",
+        a: "Pricing varies by provider and market, but this segment generally sits at the lower end of legal lead pricing overall, reflecting lower average case value and higher available volume compared to contested or high-asset segments.",
+      },
+      {
+        q: "How much more do exclusive divorce leads typically cost than shared ones?",
+        a: "Exclusive leads generally command a meaningful premium over shared leads, and that gap tends to matter more for divorce than faster-converting categories, given how much of an edge first-contact advantage provides over a multi-week decision cycle.",
+      },
+      {
+        q: "Does warm transfer pricing make sense for divorce leads specifically?",
+        a: "Often yes, particularly for higher-value segments like contested or high-asset divorce, where the higher per-contact cost of a warm transfer is easily justified by the case value and the format's typically stronger conversion rate.",
+      },
+      {
+        q: "Why does geography affect divorce lead pricing so much?",
+        a: "Major metro markets generally have higher average case values and denser attorney competition, both of which push pricing upward relative to smaller markets with lower cost of living and less advertising competition.",
+      },
+      {
+        q: "How can I verify a provider's segmentation claims are real?",
+        a: "Ask for specifics on what intake questions or data points are used to segment leads, and request a small test batch before committing to volume — a provider confident in its segmentation should have no issue with either request.",
+      },
     ],
   },
   {
@@ -68,6 +142,7 @@ export const divorceLeadEconomicsArticles: Article[] = [
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: divorceEconRelated,
     content: [
       {
@@ -118,6 +193,69 @@ export const divorceLeadEconomicsArticles: Article[] = [
         type: "paragraph",
         text: "A properly measured ROI calculation, extended to reflect divorce's actual sales cycle, often reveals that a channel judged \"underperforming\" after 30 days is actually competitive once the full conversion window is accounted for. For a deeper breakdown of the full cost picture beyond sticker price, see our guide to [pay-per-lead pricing](/learning-center/law-firm-pay-per-lead-pricing-a-complete-breakdown).",
       },
+      {
+        type: "heading",
+        text: "A Practical ROI Formula for Divorce Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A workable formula starts with total spend on a given source over a defined period, divided by the number of signed clients that source produced within the extended attribution window, giving a true cost-per-signed-case. Compare that figure against average revenue per case for that segment — factoring in whether the source skews toward uncontested, contested, or high-asset matters — to arrive at a genuine margin-per-lead-dollar figure. Firms that skip the segment-weighting step and simply compare blended cost-per-lead across sources often draw the wrong conclusion, favoring a cheaper source that happens to deliver a disproportionate share of lower-value uncontested cases over a pricier source quietly delivering more high-value contested work.",
+      },
+      {
+        type: "heading",
+        text: "Common Measurement Mistakes to Avoid",
+      },
+      {
+        type: "list",
+        items: [
+          "Judging a new lead source after only a handful of leads, before there's enough sample size to draw a reliable conclusion.",
+          "Comparing raw lead cost across sources without adjusting for differences in case complexity mix.",
+          "Failing to track which specific staff member or process step correlates with higher conversion, which can mask a follow-up problem as a lead-quality problem.",
+          "Applying a shorter attribution window to paid leads than to referrals, simply because paid leads are easier to track precisely from day one.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building a Simple Tracking System",
+      },
+      {
+        type: "paragraph",
+        text: "Most firms don't need sophisticated attribution software to measure divorce lead ROI accurately — a well-maintained spreadsheet or a basic field in your case management system tracking lead source, intake date, case complexity, signed date, and eventual case value covers the essentials. The important discipline is consistency: tagging every lead with its source at the moment of intake, rather than trying to reconstruct that data months later when a case finally converts. Reviewing this data monthly, with a rolling 90-day view rather than a strict calendar-month cutoff, tends to surface trends more reliably than a rigid monthly reporting cycle that arbitrarily splits a single prospect's decision process across two reporting periods.",
+      },
+      {
+        type: "heading",
+        text: "When a Source Genuinely Isn't Working",
+      },
+      {
+        type: "paragraph",
+        text: "Extended attribution windows and value-weighted comparisons are meant to prevent premature judgment, not to excuse a source that's genuinely underperforming even after a fair evaluation period. If a source consistently shows a lower signed-case rate than comparable sources over a full quarter, after accounting for case complexity mix, that's a legitimate signal to reduce or cut spend — the goal of accurate measurement is a fair comparison, not an automatic defense of every channel regardless of actual results.",
+      },
+    ],
+    faqs: [
+      {
+        q: "What attribution window should I use for divorce lead ROI?",
+        a: "At least 60 to 90 days is generally more accurate than a standard 30-day window, given how much of divorce's typical decision cycle falls outside that shorter timeframe.",
+      },
+      {
+        q: "How do I compare ROI across sources with different average case complexity?",
+        a: "Weight conversion results by average case value for each source's typical case mix rather than comparing raw lead cost or raw conversion count alone, since a source skewing toward higher-value contested cases can outperform a cheaper source on total revenue despite a higher cost-per-lead.",
+      },
+      {
+        q: "Should follow-up staff time be included in the ROI calculation?",
+        a: "Yes — divorce leads typically require more follow-up touches than faster-converting practice areas, and excluding that staff time cost from the calculation understates the true cost of acquisition for this category.",
+      },
+      {
+        q: "How many leads do I need before I can trust ROI data from a new source?",
+        a: "There's no universal number, but judging a source after just a handful of leads is generally unreliable given divorce's naturally variable conversion pattern — a full quarter's worth of consistent volume gives a much more dependable read.",
+      },
+      {
+        q: "Is ROI measurement different for warm transfers versus form leads?",
+        a: "The underlying framework is the same, but warm transfers typically show faster initial engagement, which can make short-term metrics look stronger even though the extended attribution window still matters for capturing the full conversion picture accurately.",
+      },
+      {
+        q: "What's a reasonable minimum sample size before trusting ROI data?",
+        a: "There's no fixed number, but a full quarter of consistent volume generally gives a more dependable read than a handful of leads, since divorce conversion naturally varies more month to month than faster-converting categories.",
+      },
     ],
   },
   {
@@ -131,6 +269,7 @@ export const divorceLeadEconomicsArticles: Article[] = [
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-08",
+    updatedDate: "2026-08-05",
     relatedSlugs: divorceEconRelated,
     content: [
       {
@@ -180,6 +319,69 @@ export const divorceLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Divorce leads are worth it for firms genuinely equipped to nurture a longer sales cycle, and a poor fit for firms expecting the fast conversion pace common in more urgent practice areas. For the measurement framework that should inform this decision, see our guide to [measuring divorce lead ROI](/learning-center/measuring-the-roi-of-divorce-leads-for-law-firms).",
+      },
+      {
+        type: "heading",
+        text: "A Practical Checklist Before Committing Budget",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm your intake team can sustain a multi-touch follow-up cadence over several weeks, not just an initial call attempt.",
+          "Calculate a maximum sustainable cost-per-lead based on your actual average case value and target margin, not an assumption borrowed from another practice area.",
+          "Set a minimum test period of at least 60-90 days before judging results, given divorce's naturally longer decision cycle.",
+          "Decide upfront how you'll segment results by case complexity, so a source skewed toward lower-value uncontested leads isn't judged the same as one delivering higher-value contested cases.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How to Evaluate a Provider Before Committing",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond price, the most useful question to ask a prospective provider is how they handle the mismatch between divorce's slow conversion cycle and most firms' instinct to judge a channel quickly. A provider that offers a short initial test batch, transparent segmentation, and realistic guidance on how long results typically take to materialize is generally a better long-term partner than one pushing for a large volume commitment upfront without addressing these questions directly. Our [Buy Leads](/buy-leads) page details how delivery, segmentation, and volume can be configured to match your firm's actual intake capacity for this specific category.",
+      },
+      {
+        type: "heading",
+        text: "Red Flags That Suggest a Poor Fit or a Poor Provider",
+      },
+      {
+        type: "paragraph",
+        text: "If your firm has historically struggled to follow up consistently on any lead source over more than a single call attempt, that's worth addressing internally before adding purchased divorce leads to the mix, since the format won't fix an underlying follow-up discipline problem. On the provider side, be cautious of anyone promising fast, guaranteed conversion for a category that structurally doesn't convert quickly — that kind of promise usually signals either inexperience with this specific practice area or lead sourcing practices that prioritize volume over genuine intent.",
+      },
+    ],
+    faqs: [
+      {
+        q: "How long should a firm test a new divorce lead source before deciding?",
+        a: "At least 60 to 90 days with consistent volume and disciplined follow-up, since divorce's longer decision cycle means shorter tests often produce misleading, prematurely negative conclusions.",
+      },
+      {
+        q: "What intake capacity is needed to make purchased divorce leads work?",
+        a: "A structured, multi-touch follow-up process extending over several weeks — a single call attempt is generally insufficient for this category, where prospects often need repeated, patient contact before deciding.",
+      },
+      {
+        q: "Are referrals always better than purchased leads for divorce cases?",
+        a: "Referrals generally convert at higher trust levels but scale more slowly and unpredictably. Purchased leads add controllable volume on demand but require more follow-up discipline to convert at a comparable rate — most firms benefit from using both.",
+      },
+      {
+        q: "How do I know if my firm's case value justifies this channel?",
+        a: "Calculate your average revenue per signed divorce case, factor in realistic conversion rates and follow-up staff time, and compare that to the provider's quoted cost — if the math doesn't clearly work at a conservative conversion estimate, it's a signal to negotiate pricing or test a smaller volume first.",
+      },
+      {
+        q: "What's the single biggest reason firms give up on this channel too early?",
+        a: "Judging results after a week or two, before divorce's naturally longer decision cycle has had time to play out — extending the evaluation window is usually a bigger factor in perceived success than the lead source itself.",
+      },
+      {
+        q: "Can a solo or small firm realistically make this channel work?",
+        a: "Yes, provided the volume is scaled to match actual intake bandwidth — a smaller, well-managed volume with disciplined follow-up generally outperforms a larger volume the firm can't realistically work through, regardless of firm size.",
+      },
+      {
+        q: "What should a firm do if a test batch underperforms?",
+        a: "Before abandoning the channel, review whether the test ran long enough, whether follow-up was actually consistent, and whether results were weighted by case value rather than judged on raw conversion count alone — a genuine problem with lead quality looks different from a measurement or process gap once these factors are isolated.",
+      },
+      {
+        q: "Does the answer change for a firm just starting a family law practice?",
+        a: "Newer practices often benefit most from purchased leads precisely because they haven't yet built the referral network more established firms rely on, provided they go in with realistic expectations about the follow-up discipline and timeline this category requires.",
       },
     ],
   },

@@ -11,6 +11,7 @@ export const californiaPiPageArticles: Article[] = [
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-08-13",
+    updatedDate: "2026-08-05",
     relatedSlugs: [
       "essential-guide-to-personal-injury-attorney-leads-in-los-angeles",
       "generate-high-quality-personal-injury-leads-in-san-diego",
@@ -60,6 +61,51 @@ export const californiaPiPageArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "California's MICRA Cap and Its Impact on Medical Malpractice-Adjacent Cases",
+      },
+      {
+        type: "paragraph",
+        text: "California's Medical Injury Compensation Reform Act historically capped non-economic damages in medical malpractice cases, though recent legislative changes have adjusted and gradually increased that cap over time. Personal injury cases with a medical malpractice component — a delayed diagnosis following an accident, negligent emergency treatment — require attorneys to evaluate this framework separately from a standard auto or premises liability claim, and leads touching on medical treatment quality issues benefit from being flagged distinctly during screening rather than processed as a routine injury case.",
+      },
+      {
+        type: "heading",
+        text: "How Wildfire and Natural Disaster Liability Adds a Unique Case Category",
+      },
+      {
+        type: "paragraph",
+        text: "California's recurring wildfire seasons have produced a distinct and growing personal injury and property damage case category, often involving utility company liability for equipment failures that ignited fires. These cases typically involve mass tort or class-action dynamics rather than a single-plaintiff claim, require specialized handling given their scale and complexity, and represent a lead category some California-focused firms specifically build expertise and marketing around, separate from standard auto or premises liability practice.",
+      },
+      {
+        type: "heading",
+        text: "Cost Considerations for California PI Leads",
+      },
+      {
+        type: "paragraph",
+        text: "California personal injury lead prices vary enormously by region — Los Angeles and the Bay Area generally command premium pricing given high case values and intense advertising competition, while Central Valley and other inland markets typically offer meaningfully lower cost per lead. Firms should evaluate whether a statewide budget is better spent concentrated in one or two high-value metros or spread across several markets, based on their actual intake capacity and case-acceptance criteria.",
+      },
+      {
+        type: "heading",
+        text: "Rideshare and Gig Economy Accidents Are a Growing California Category",
+      },
+      {
+        type: "paragraph",
+        text: "California's role as home to major rideshare and delivery platform headquarters, combined with its dense urban centers, produces an outsized share of rideshare and gig-economy-related accident cases compared to most other states. Coverage in these cases depends heavily on the driver's status at the moment of the accident — actively transporting a passenger, en route to a pickup, or simply logged into the app — which meaningfully affects which insurance policy responds and how a case should be valued and pursued.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating a California-Specific Lead Provider",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirms whether leads are segmented by specific California metro or region, not delivered as an undifferentiated statewide pool.",
+          "Can distinguish standard auto accident leads from specialized categories like rideshare, commercial trucking, or premises liability given California's case-type diversity.",
+          "Provides transparent data on typical contact and conversion rates specific to California markets, not generic national averages.",
+          "Offers flexible delivery volume that can scale with a firm's actual intake capacity across California's genuinely different regional markets.",
+        ],
+      },
+      {
+        type: "heading",
         text: "What to Look for in a California-Specific Lead Program",
       },
       {
@@ -69,6 +115,28 @@ export const californiaPiPageArticles: Article[] = [
       {
         type: "paragraph",
         text: "This article provides general information about California's legal framework and isn't legal advice — confirm current specifics with a licensed California attorney.",
+      },
+    ],
+    faqs: [
+      {
+        q: "Why does California's pure comparative negligence rule matter for lead quality?",
+        a: "It means injured parties can recover damages even if found mostly at fault, with the award reduced by their percentage of responsibility. This keeps California leads with disputed or unfavorable liability facts viable, unlike in bar-rule states where the same facts might bar recovery entirely.",
+      },
+      {
+        q: "Are wildfire liability cases handled differently from standard personal injury claims?",
+        a: "Yes — these typically involve utility company liability for equipment failures, often unfold as mass tort or coordinated litigation rather than single-plaintiff claims, and require specialized handling given their scale, which sets them apart from standard auto or premises liability cases.",
+      },
+      {
+        q: "Should a firm focus on one California metro or run a statewide campaign?",
+        a: "It depends on intake capacity and budget — concentrating in one or two high-value metros like Los Angeles or the Bay Area often produces better focus and results than spreading a modest budget thin across California's genuinely distinct regional markets.",
+      },
+      {
+        q: "How does California's statute of limitations compare to other major states?",
+        a: "California generally applies a two-year statute of limitations for personal injury claims, consistent with many other major states, though claims against government entities carry much shorter notice deadlines that require prompt action.",
+      },
+      {
+        q: "What's the difference in lead cost between coastal and inland California markets?",
+        a: "Coastal metros like Los Angeles and the Bay Area generally command higher lead prices given higher case values and denser advertising competition, while inland markets like the Central Valley typically offer meaningfully lower cost per lead, though often with lower average case values as well.",
       },
     ],
   },
