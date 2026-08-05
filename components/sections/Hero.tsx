@@ -1,10 +1,32 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { StatStrip } from "@/components/sections/StatStrip";
 import { DemoTriggerButton } from "@/components/ui/DemoTriggerButton";
 
 export function Hero() {
+  const [shouldLoadVideo, setShouldLoadVideo] = useState(false);
+
+  useEffect(() => {
+    const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const saveData = (navigator as Navigator & { connection?: { saveData?: boolean } }).connection?.saveData;
+    if (prefersReducedMotion || saveData) return;
+
+    // The hero video is a large file — keeping it out of the initial server-rendered
+    // HTML means the browser's preload scanner never starts fetching it before JS even
+    // runs, and deferring to idle time means it never competes with critical page
+    // resources (text, fonts, layout) for bandwidth during first paint.
+    const win = window as typeof window & {
+      requestIdleCallback?: (cb: () => void) => number;
+      cancelIdleCallback?: (id: number) => void;
+    };
+    const schedule = win.requestIdleCallback ?? ((cb: () => void) => window.setTimeout(cb, 200));
+    const cancel = win.cancelIdleCallback ?? window.clearTimeout;
+    const id = schedule(() => setShouldLoadVideo(true));
+    return () => cancel(id as number);
+  }, []);
+
   return (
     <section className="bg-white pt-10">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -12,16 +34,18 @@ export function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, ease: "easeOut" }}
-          className="relative overflow-hidden rounded-[2rem] border border-[var(--color-line)]"
+          className="relative overflow-hidden rounded-[2rem] border border-[var(--color-line)] bg-[var(--color-ink)]"
         >
-          <video
-            className="absolute inset-0 h-full w-full object-cover"
-            src="/videos/hero.mp4"
-            autoPlay
-            loop
-            muted
-            playsInline
-          />
+          {shouldLoadVideo && (
+            <video
+              className="absolute inset-0 h-full w-full object-cover"
+              src="/videos/hero.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
+            />
+          )}
 
           <div className="absolute inset-0 bg-linear-to-b from-[var(--color-ink)]/80 via-[var(--color-ink)]/70 to-[var(--color-ink)]/85" />
 
