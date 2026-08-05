@@ -86,7 +86,12 @@ export default async function CoverageIndustryPage({
 
       <MarketplaceFAQ faqs={industry.faqs} />
 
-      <FinalCTA />
+      <FinalCTA
+        heading={`Ready to Grow Your ${industry.label} Pipeline?`}
+        subheading={`Tell us your target states, volume, and delivery preferences — leads, warm transfers, or inbound calls — and our team will confirm current availability for ${industry.label.toLowerCase()}.`}
+        getStartedText={`Nationwide ${industry.label.toLowerCase()} coverage, state by state.`}
+        primaryIndustry={industry.demoIndustry}
+      />
       <Footer />
     </>
   );

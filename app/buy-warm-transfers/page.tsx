@@ -131,7 +131,11 @@ export default function BuyWarmTransfersPage() {
         ]}
       />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Start Taking Live Warm Transfers?"
+        subheading="Tell us your industry, target volume, and call capacity — transfers connect live, pre-qualified, and exclusive to your sales team."
+        getStartedText="Most warm transfer campaigns can launch within days."
+      />
       <Footer />
     </>
   );

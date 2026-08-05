@@ -131,7 +131,11 @@ export default function BuyLeadsPage() {
         ]}
       />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Start Buying Exclusive Leads?"
+        subheading="Tell us your industry, target volume, and states — leads are filtered, verified, and delivered exclusively to you, never resold."
+        getStartedText="Most lead campaigns can launch within days."
+      />
       <Footer />
     </>
   );

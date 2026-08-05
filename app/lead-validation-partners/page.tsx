@@ -54,7 +54,11 @@ export default function LeadValidationPartnersPage() {
       <ValidationPartnersGrid />
       <PlatformHub />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to See Our Validation Stack in Action?"
+        subheading="Tell us your industry and volume — we'll walk through exactly how fraud detection, consent certification, and compliance screening apply to your leads."
+        getStartedText="Most accounts can be reviewing sample data within days."
+      />
       <Footer />
     </>
   );

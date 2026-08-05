@@ -74,7 +74,11 @@ export default function CoveragePage() {
 
       <ComplianceStrip />
 
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Check Coverage in Your Market?"
+        subheading="Tell us your industry, target states, and volume — we'll confirm current availability and delivery options for your area."
+        getStartedText="Nationwide coverage, confirmed state by state."
+      />
       <Footer />
     </>
   );

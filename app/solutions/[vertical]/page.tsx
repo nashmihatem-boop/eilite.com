@@ -102,7 +102,12 @@ export default async function SolutionVerticalPage({
 
       <MarketplaceFAQ faqs={vertical.faqs} />
 
-      <FinalCTA />
+      <FinalCTA
+        heading={`Ready to Grow Your ${vertical.label} Pipeline?`}
+        subheading={`Tell us your target volume and delivery preferences — ${vertical.label.toLowerCase()} leads, live warm transfers, or inbound calls — and our team will follow up to confirm availability.`}
+        getStartedText={`Most ${vertical.label} campaigns can launch within days.`}
+        primaryIndustry={vertical.demoIndustry}
+      />
       <Footer />
     </>
   );

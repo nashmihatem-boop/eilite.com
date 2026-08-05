@@ -41,7 +41,7 @@ export default function SellWarmTransfersPage() {
       <JsonLd data={faqJsonLd(faqs)} />
       <Navbar />
       <MarketplaceHero
-        eyebrow="For Publishers"
+        eyebrow="For Affiliates"
         headline="Sell Warm Transfers,"
         highlight="Get Paid for Real Calls"
         subheadline="Route your qualified, live phone traffic to Eilite and get paid for genuine conversations — not just clicks or form fills."
@@ -52,11 +52,11 @@ export default function SellWarmTransfersPage() {
         eyebrow="Affiliate Program"
         heading="Affiliate Program for Warm Transfer Sellers"
         paragraphs={[
-          "Eilite connects publishers routing live, qualified calls with buyer demand across legal, financial, home services, and insurance — so you get paid for real conversations, not just connected calls.",
+          "Eilite connects affiliates routing live, qualified calls with buyer demand across legal, financial, home services, and insurance — so you get paid for real conversations, not just connected calls.",
           "Our owned call center and buyer network give your live transfers the highest chance of converting, backed by real-time compliance screening on every call.",
-          "We support publishers with onboarding, transfer quality feedback, and ongoing optimization — helping you grow revenue per transfer over time.",
+          "We support affiliates with onboarding, transfer quality feedback, and ongoing optimization — helping you grow revenue per transfer over time.",
         ]}
-        benefitsHeading="Why Publishers Choose Eilite"
+        benefitsHeading="Why Affiliates Choose Eilite"
         benefits={[
           "Get paid for real, engaged conversations",
           "Route to our owned call center or wider buyer network",
@@ -94,7 +94,11 @@ export default function SellWarmTransfersPage() {
         ]}
       />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Start Selling Warm Transfers?"
+        subheading="Tell us your call center's capacity, industry, and volume — we'll match you with buyers ready to pay for pre-qualified, live transfers."
+        getStartedText="Most affiliate accounts are approved within days."
+      />
       <Footer />
     </>
   );

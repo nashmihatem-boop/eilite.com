@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 const faqs: FAQItem[] = [
   {
     q: "What call volume do I need to get started?",
-    a: "There's no strict minimum — we work with publishers of every size across long-tail and high-volume traffic alike.",
+    a: "There's no strict minimum — we work with affiliates of every size across long-tail and high-volume traffic alike.",
   },
   {
     q: "Which industries can I sell calls for?",
@@ -41,7 +41,7 @@ export default function SellInboundsPage() {
       <JsonLd data={faqJsonLd(faqs)} />
       <Navbar />
       <MarketplaceHero
-        eyebrow="For Publishers"
+        eyebrow="For Affiliates"
         headline="Sell Your Inbound"
         highlight="Traffic to Eilite"
         subheadline="Monetize every inbound call you generate across legal, financial, home services, and insurance — with the widest buyer coverage in the industry."
@@ -50,13 +50,13 @@ export default function SellInboundsPage() {
       />
       <MarketplaceOverview
         eyebrow="Affiliate Program"
-        heading="Affiliate Program for Pay-Per-Call Publishers"
+        heading="Affiliate Program for Pay-Per-Call Affiliates"
         paragraphs={[
-          "Eilite operates one of the most active pay-per-call buyer networks in the industry. Publishers driving calls through search, social, display, or call center traffic are essential partners to the brands we serve.",
-          "We invest in publisher success with real-time reporting, dedicated account support, and routing built to match your traffic with the right buyers across every vertical we serve.",
+          "Eilite operates one of the most active pay-per-call buyer networks in the industry. Affiliates driving calls through search, social, display, or call center traffic are essential partners to the brands we serve.",
+          "We invest in affiliate success with real-time reporting, dedicated account support, and routing built to match your traffic with the right buyers across every vertical we serve.",
           "Whether you're just getting started or scaling an established call program, our team helps you optimize performance and grow revenue with brands that value quality and long-term partnerships.",
         ]}
-        benefitsHeading="Why Publishers Choose Eilite"
+        benefitsHeading="Why Affiliates Choose Eilite"
         benefits={[
           "Access to live campaigns across every industry we serve",
           "Real-time tracking and reporting on every call",
@@ -94,7 +94,11 @@ export default function SellInboundsPage() {
         ]}
       />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Start Selling Inbound Calls?"
+        subheading="Tell us your call volume, industry, and sourcing channels — we'll match you with buyers ready to pay for calls from consumers already reaching out."
+        getStartedText="Most affiliate accounts are approved within days."
+      />
       <Footer />
     </>
   );

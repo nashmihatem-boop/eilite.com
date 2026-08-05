@@ -27,7 +27,7 @@ const faqs: FAQItem[] = [
   },
   {
     q: "Do I need to be exclusive to Eilite?",
-    a: "No. Many publishers work with Eilite alongside other buyers and use us to maximize their overall payout per lead.",
+    a: "No. Many affiliates work with Eilite alongside other buyers and use us to maximize their overall payout per lead.",
   },
   {
     q: "What compliance standards do I need to meet?",
@@ -41,7 +41,7 @@ export default function SellLeadsPage() {
       <JsonLd data={faqJsonLd(faqs)} />
       <Navbar />
       <MarketplaceHero
-        eyebrow="For Publishers"
+        eyebrow="For Affiliates"
         headline="Sell Your Leads to"
         highlight="the Biggest Buyer"
         subheadline="Monetize your lead traffic across legal, financial, home services, and insurance — with competitive payouts and real-time reporting."
@@ -52,9 +52,9 @@ export default function SellLeadsPage() {
         eyebrow="Affiliate Program"
         heading="Affiliate Program for Lead Sellers"
         paragraphs={[
-          "Eilite gives lead publishers a direct path to buyer demand across legal, financial, home services, and insurance — without juggling separate relationships for every vertical.",
+          "Eilite gives affiliates a direct path to buyer demand across legal, financial, home services, and insurance — without juggling separate relationships for every vertical.",
           "Our Ping/Post and direct integration options give you routing flexibility and real-time delivery, so your traffic is matched with the right buyer the moment a lead is captured.",
-          "We support publishers with onboarding, campaign matching, and ongoing optimization — so you can focus on traffic quality while we handle buyer demand.",
+          "We support affiliates with onboarding, campaign matching, and ongoing optimization — so you can focus on traffic quality while we handle buyer demand.",
         ]}
         benefitsHeading="Why Lead Sellers Choose Eilite"
         benefits={[
@@ -94,7 +94,11 @@ export default function SellLeadsPage() {
         ]}
       />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Start Monetizing Your Traffic?"
+        subheading="Tell us your traffic source, industry, and volume — we'll match you with buyers ready to pay for compliant, high-converting leads."
+        getStartedText="Most affiliate accounts are approved within days."
+      />
       <Footer />
     </>
   );

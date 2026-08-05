@@ -131,7 +131,11 @@ export default function BuyInboundsPage() {
         ]}
       />
       <MarketplaceFAQ faqs={faqs} />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Start Taking Inbound Calls?"
+        subheading="Tell us your industry, target volume, and call handling capacity — inbound calls route straight to your team from consumers already reaching out."
+        getStartedText="Most inbound campaigns can launch within days."
+      />
       <Footer />
     </>
   );

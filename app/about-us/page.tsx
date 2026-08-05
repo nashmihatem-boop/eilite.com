@@ -30,7 +30,11 @@ export default function AboutUsPage() {
       <AboutStory />
       <TrustPillars />
       <BrandsStrip />
-      <FinalCTA />
+      <FinalCTA
+        heading="Ready to Work With a Real Team?"
+        subheading="Tell us your industry and volume — you'll get a named account manager, not a support ticket queue, from the first conversation."
+        getStartedText="Most accounts are onboarded within days."
+      />
       <Footer />
     </>
   );
