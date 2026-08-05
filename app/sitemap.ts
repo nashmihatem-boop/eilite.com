@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { siteConfig } from "@/lib/constants";
 import { articles } from "@/lib/articles";
 import { coverageIndustries } from "@/lib/coverage";
+import { solutionVerticals } from "@/lib/solutions";
 
 // Bump this only when a static marketing page's content actually changes —
 // it should not track "now" on every build.
@@ -23,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/sell-warm-transfers",
     "/sell-inbounds",
     "/coverage",
+    "/solutions",
   ];
 
   const staticEntries: MetadataRoute.Sitemap = routes.map((route) => ({
@@ -46,5 +48,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticEntries, ...coverageEntries, ...articleEntries];
+  const solutionEntries: MetadataRoute.Sitemap = solutionVerticals.map((v) => ({
+    url: `${siteConfig.url}/solutions/${v.slug}`,
+    lastModified: STATIC_PAGES_LAST_UPDATED,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+
+  return [...staticEntries, ...coverageEntries, ...solutionEntries, ...articleEntries];
 }

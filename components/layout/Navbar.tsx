@@ -41,6 +41,12 @@ export function Navbar() {
           <NavDropdown label="Advertisers" items={advertiserLinks} />
           <NavDropdown label="Publishers" items={publisherLinks} />
           <Link
+            href="/solutions"
+            className="text-sm font-medium text-[var(--color-ink-soft)] transition-colors hover:text-[var(--color-brand)]"
+          >
+            Solutions
+          </Link>
+          <Link
             href="/coverage"
             className="text-sm font-medium text-[var(--color-ink-soft)] transition-colors hover:text-[var(--color-brand)]"
           >
@@ -120,9 +126,16 @@ export function Navbar() {
             ))}
 
             <Link
-              href="/coverage"
+              href="/solutions"
               onClick={() => setMobileOpen(false)}
               className="mt-3 rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
+            >
+              Solutions
+            </Link>
+            <Link
+              href="/coverage"
+              onClick={() => setMobileOpen(false)}
+              className="rounded-lg px-3 py-2.5 text-sm font-medium text-[var(--color-ink)] hover:bg-[var(--color-surface-alt)]"
             >
               Coverage
             </Link>

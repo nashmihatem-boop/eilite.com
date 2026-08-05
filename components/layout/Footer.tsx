@@ -20,6 +20,7 @@ const columns = [
       { href: "/buy-leads", label: "Buy Leads" },
       { href: "/buy-warm-transfers", label: "Buy Warm Transfers" },
       { href: "/buy-inbounds", label: "Buy Inbounds" },
+      { href: "/solutions", label: "Solutions by Industry" },
     ],
   },
   {
