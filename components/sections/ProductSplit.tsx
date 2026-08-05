@@ -16,7 +16,7 @@ const products = [
       { name: "Exclusive", detail: "Delivered once, never resold" },
     ],
     cta: "See lead options",
-    href: "/#compliance",
+    href: "/buy-leads",
   },
   {
     eyebrow: "Warm Transfers",

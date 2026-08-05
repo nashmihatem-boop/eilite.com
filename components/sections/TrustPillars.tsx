@@ -25,7 +25,7 @@ const pillars: Pillar[] = [
     description:
       "We don't do bulk resale. Each lead or transfer goes to a single buyer, so your intent data stays exclusive and your cost per acquisition stays predictable.",
     cta: "See lead options",
-    href: "/#compliance",
+    href: "/buy-leads",
   },
   {
     icon: Lock,
