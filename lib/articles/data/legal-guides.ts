@@ -11,6 +11,7 @@ export const legalGuidesArticles: Article[] = [
     category: "Legal Guides",
     readTime: "7 min read",
     publishedDate: "2026-07-29",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["why-dui-is-a-severe-offense-and-how-to-stay-safe-while-driving"],
     content: [
       {
@@ -71,6 +72,46 @@ export const legalGuidesArticles: Article[] = [
         type: "paragraph",
         text: "This article is intended as general educational information, not legal advice. DUI laws, look-back periods, and expungement rules vary by state and change over time — always verify current rules with your state's DMV or a licensed attorney.",
       },
+      {
+        type: "heading",
+        text: "How Look-Back Periods Shape the Stakes of a Second Offense",
+      },
+      {
+        type: "paragraph",
+        text: "The record retention question becomes especially consequential if a second DUI happens within a state's look-back window, since a repeat offense charged within that period typically triggers dramatically harsher penalties than a standalone first offense — longer license suspension, mandatory minimum jail time in many states, and often a mandatory ignition interlock device requirement. Understanding your state's specific look-back period isn't just an academic record-keeping question; it directly shapes how a second incident, even one that happens years apart from the first, gets charged and sentenced.",
+      },
+      {
+        type: "heading",
+        text: "Employment Background Checks and DUI Records",
+      },
+      {
+        type: "paragraph",
+        text: "Many employers run background checks that can surface a DUI conviction well beyond any insurance-related retention period, particularly for positions involving driving, security clearances, or professional licensing. Even in states where a DUI eventually clears from a driving record for insurance purposes, the underlying criminal conviction may remain visible on a standard background check indefinitely unless it's been formally expunged or sealed. This distinction between what disappears from a driving record and what remains visible to employers is one of the more common sources of confusion people run into after a conviction.",
+      },
+      {
+        type: "heading",
+        text: "Steps to Confirm Your Own Record Status",
+      },
+      {
+        type: "paragraph",
+        text: "Because retention rules genuinely vary and change over time, confirming your specific situation directly rather than relying on general guidance is the most reliable path forward.",
+      },
+      {
+        type: "list",
+        items: [
+          "Request your official driving record directly from your state's DMV or equivalent agency.",
+          "Ask specifically about your state's DUI look-back period, not just general record retention.",
+          "Consult a licensed attorney about expungement or sealing eligibility, since rules and waiting periods vary considerably.",
+          "Keep documentation of program completion (classes, probation, fines) in case eligibility for record relief depends on proving completion later.",
+        ],
+      },
+    ],
+    faqs: [
+      { q: "Does a DUI conviction ever fully disappear from every type of record?", a: "It depends entirely on the state and record type. Some states allow eventual expungement of the criminal record after a waiting period with no further offenses, while others explicitly prohibit DUI expungement, meaning the criminal conviction can remain visible indefinitely even after insurance-related driving record entries clear." },
+      { q: "How does a DUI on my record affect getting a new job?", a: "It depends on the employer, the position, and whether the conviction has been sealed or expunged. Positions involving driving, security clearances, or professional licensing are more likely to be affected, and a standard background check can surface a DUI conviction even years after it occurred in states without expungement options." },
+      { q: "If I move to a different state, does my DUI record follow me?", a: "Generally yes. Most states share conviction information through interstate driver license compacts, meaning a DUI conviction in one state typically affects your driving privileges and record in a new state of residence as well." },
+      { q: "Does a DUI affect car insurance rates permanently?", a: "Usually not permanently, but the increase can last several years, commonly three to five, and sometimes longer depending on the insurer and state. Rates typically decline gradually as the conviction ages, assuming no further violations occur." },
+      { q: "Should I hire an attorney even for a first-offense DUI?", a: "Many people benefit from at least a consultation, since even a first offense can carry consequences — license suspension, insurance increases, and a lasting record — that a knowledgeable local attorney may be able to help minimize depending on the specific facts of the case and state law." },
     ],
   },
   {
@@ -83,6 +124,7 @@ export const legalGuidesArticles: Article[] = [
     category: "Legal Guides",
     readTime: "7 min read",
     publishedDate: "2026-07-29",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["how-long-does-a-dui-stay-on-my-record-what-you-must-know"],
     content: [
       {
@@ -143,6 +185,46 @@ export const legalGuidesArticles: Article[] = [
         type: "paragraph",
         text: "This article is intended as general educational information, not legal advice. DUI laws and penalties vary significantly by state — consult a licensed attorney in your jurisdiction for guidance specific to your situation.",
       },
+      {
+        type: "heading",
+        text: "The Data Behind Where BAC Limits Are Set",
+      },
+      {
+        type: "paragraph",
+        text: "The 0.08 blood alcohol concentration threshold used in most states wasn't chosen arbitrarily; it reflects decades of crash-risk research showing a sharp, measurable increase in fatal crash risk beginning well before that threshold and accelerating rapidly above it. Some states have since lowered the threshold further for specific categories of drivers, including a much lower or zero-tolerance limit for drivers under 21, and a reduced threshold for commercial drivers, reflecting the outsized risk impaired driving in those categories represents.",
+      },
+      {
+        type: "heading",
+        text: "How Enforcement Has Adapted to Non-Alcohol Impairment",
+      },
+      {
+        type: "paragraph",
+        text: "As cannabis legalization and prescription drug use have expanded, DUI enforcement has adapted to address impairment beyond alcohol specifically. Many states now apply DUI or DUID (driving under the influence of drugs) statutes to any substance, legal or not, that measurably impairs driving ability, and detecting this kind of impairment often relies on a combination of field sobriety testing and, increasingly, toxicology screening rather than a single breathalyzer number. This expansion matters because it closes what used to be a meaningful gap: a driver impaired by a legally prescribed medication or a legal cannabis purchase can still face DUI charges in most states if their driving ability is genuinely compromised.",
+      },
+      {
+        type: "heading",
+        text: "What Typically Happens Immediately After a DUI Arrest",
+      },
+      {
+        type: "paragraph",
+        text: "The hours and days immediately following a DUI arrest often shape the rest of the case more than people initially realize, and understanding the typical sequence can reduce some of the uncertainty during an already stressful situation.",
+      },
+      {
+        type: "list",
+        items: [
+          "Administrative license suspension often begins immediately or within days, separate from and faster than the criminal court process.",
+          "An arraignment or initial court appearance is typically scheduled within days to a few weeks of the arrest.",
+          "Many states offer a narrow window to request a hearing challenging the administrative license suspension specifically.",
+          "Consulting an attorney early, ideally before the arraignment, generally preserves the most options for how the case proceeds.",
+        ],
+      },
+    ],
+    faqs: [
+      { q: "Why is the legal BAC limit set at 0.08 in most states?", a: "Research consistently shows measurable driving impairment, including slower reaction time and reduced judgment, beginning well before 0.08 and increasing sharply above it, which is the safety data that originally informed the widely adopted 0.08 threshold." },
+      { q: "Can I get a DUI for driving after using legally prescribed medication?", a: "Yes, in most states. DUI and DUID statutes generally cover any substance that measurably impairs driving ability, regardless of whether it was legally obtained, so a prescription or over-the-counter medication can still result in a DUI charge if it genuinely impaired driving." },
+      { q: "How quickly does license suspension happen after a DUI arrest?", a: "Often immediately or within days, through an administrative process separate from the criminal case itself. This administrative suspension typically moves faster than the court process and may have its own short window for requesting a hearing to challenge it." },
+      { q: "Is a DUI treated more harshly if no accident occurred?", a: "Not necessarily less harshly. Impaired driving is generally charged based on the impairment itself and blood alcohol level, not solely on whether a crash occurred, though an accident, especially one causing injury, typically adds separate charges and significantly increases the severity of consequences." },
+      { q: "What's the single most effective way to avoid a DUI situation?", a: "Deciding on transportation before drinking begins, rather than after, since judgment about one's own impairment level becomes measurably less reliable once drinking has started, which is why planning ahead consistently outperforms in-the-moment decision-making." },
     ],
   },
 ];

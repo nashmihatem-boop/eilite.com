@@ -9,8 +9,9 @@ export const marketingChannelsArticles: Article[] = [
       "Legal PPC has some of the highest cost-per-click rates of any industry. Here's how firms structure campaigns, landing pages, and tracking to make the math work anyway.",
     metaDescription: "Legal PPC has some of the highest cost-per-click rates of any industry. Here's how firms structure campaigns, landing pages.",
     category: "Law Firm Marketing",
-    readTime: "8 min read",
+    readTime: "10 min read",
     publishedDate: "2026-08-01",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["seo-for-lawyers", "lead-generation-for-lawyers", "social-media-marketing-for-law-firms"],
     content: [
       {
@@ -47,6 +48,41 @@ export const marketingChannelsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Legal PPC Actually Costs by Practice Area",
+      },
+      {
+        type: "paragraph",
+        text: "Cost per click in legal PPC varies dramatically by practice area, and firms budgeting off a generic industry average often end up surprised in either direction. High-value personal injury and mass tort terms sit at the expensive end because the potential case fee justifies aggressive bidding from every competing firm, while categories like traffic violations or straightforward document services sit far lower. Geography compounds this further, since the same keyword in a dense, competitive metro area typically costs meaningfully more than in a smaller regional market with fewer firms bidding.",
+      },
+      {
+        type: "table",
+        headers: ["Practice Area", "Relative CPC Range", "Why"],
+        rows: [
+          ["Mass tort / catastrophic injury", "Highest", "Very large potential fees justify aggressive bidding."],
+          ["Personal injury (general)", "High", "Strong case value and intense firm-to-firm competition."],
+          ["Family law / divorce", "Moderate", "Consistent demand with moderate case values."],
+          ["Criminal defense / DUI", "Moderate", "Urgent searcher intent but more localized competition."],
+          ["Estate planning / wills", "Lower", "Lower average case value and less bidding pressure."],
+        ],
+      },
+      {
+        type: "heading",
+        text: "Improve Quality Score to Lower Effective Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Google's Quality Score rewards ads and landing pages with strong expected click-through rate, relevance, and page experience by lowering the effective cost needed to hold a given ad position. Firms that treat landing page speed, mobile responsiveness, and message match between ad copy and page headline as core PPC tasks, rather than an afterthought, often end up paying noticeably less per click than a competitor bidding on the identical keyword with a weaker page behind it.",
+      },
+      {
+        type: "heading",
+        text: "Use Call Extensions and Mobile-First Design",
+      },
+      {
+        type: "paragraph",
+        text: "A large share of legal searches happen on mobile devices, often from someone who wants to talk to a person immediately rather than fill out a form. Call extensions that let a searcher tap to dial directly from the ad, paired with a landing page that keeps the phone number visible and prominent above the fold, capture this urgency-driven segment far more effectively than a page built primarily around a contact form.",
+      },
+      {
+        type: "heading",
         text: "Track Calls and Cases, Not Just Clicks",
       },
       {
@@ -63,11 +99,47 @@ export const marketingChannelsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Red Flags When Evaluating a PPC Agency or Freelancer",
+      },
+      {
+        type: "list",
+        items: [
+          "Vague or evasive reporting that shows clicks and impressions but not calls or cases.",
+          "No negative keyword strategy visible in the account after the first month.",
+          "Reluctance to grant the firm direct, read-only access to its own ad account.",
+          "One-size-fits-all landing pages reused across unrelated practice areas.",
+          "Management fees structured as a percentage of spend with no incentive to control cost per case.",
+        ],
+      },
+      {
+        type: "heading",
         text: "When PPC Makes the Most Sense",
       },
       {
         type: "paragraph",
         text: "PPC is strongest as a volume lever you can turn up or down on demand — filling capacity when intake has room, or launching quickly in a new practice area or geography before SEO has had time to mature. Many firms pair it with a vetted [pay-per-lead or warm transfer program](/buy-leads) to diversify beyond a single paid channel, since concentrating all paid spend in one platform leaves a firm fully exposed to that platform's cost fluctuations. For a broader view of how PPC fits alongside SEO and referrals, see our guide to [lead generation for lawyers](/learning-center/lead-generation-for-lawyers).",
+      },
+    ],
+    faqs: [
+      {
+        q: "How much does legal PPC typically cost per click?",
+        a: "It varies enormously by practice area and market, ranging from modest costs in lower-value categories up to some of the highest cost-per-click rates of any industry for competitive personal injury and mass tort terms in dense metro markets. Requesting local benchmark data from a Google Ads rep or agency is the most reliable way to budget accurately.",
+      },
+      {
+        q: "How long before a new legal PPC campaign shows reliable results?",
+        a: "Most campaigns need at least three to four weeks of consistent spend for Google's algorithm to optimize and for enough conversion data to accumulate. Judging performance in the first week or two, before the learning phase completes, tends to produce misleading conclusions.",
+      },
+      {
+        q: "Is PPC or SEO a better first investment for a new firm?",
+        a: "PPC generally produces faster initial volume since it doesn't depend on building domain authority over time, while SEO tends to produce a lower long-run cost per lead once it matures. Many firms run both simultaneously, using PPC to generate cases while SEO builds in the background.",
+      },
+      {
+        q: "Should a firm manage PPC in-house or hire an agency?",
+        a: "It depends on internal expertise and available time. Legal PPC has enough nuance around compliance, negative keywords, and landing page structure that firms without dedicated marketing staff often see better results from a specialized agency, provided that agency reports on cases, not just clicks.",
+      },
+      {
+        q: "How does PPC compare to buying leads directly from a provider?",
+        a: "PPC gives a firm full control over targeting and messaging but requires ongoing management and carries variable cost, while purchased leads offer more predictable volume with less day-to-day management. Many firms use both, treating purchased leads as a way to smooth out volume gaps between PPC and organic channels.",
       },
     ],
   },

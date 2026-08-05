@@ -9,8 +9,9 @@ export const practiceAreaLeadsArticles: Article[] = [
       "Divorce leads convert differently than other legal categories — the sales cycle is emotional, often slower, and highly sensitive to timing. Here's what firms should know before adding this channel.",
     metaDescription: "Divorce leads convert differently than other legal categories — the sales cycle is emotional, often slower, and highly sensitive to timing.",
     category: "Divorce & Family Law",
-    readTime: "7 min read",
+    readTime: "9 min read",
     publishedDate: "2026-08-01",
+    updatedDate: "2026-08-05",
     relatedSlugs: ["family-law-attorney-leads", "exclusive-legal-leads", "buy-verified-legal-leads"],
     content: [
       {
@@ -56,11 +57,86 @@ export const practiceAreaLeadsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Drives the Price of a Divorce Lead",
+      },
+      {
+        type: "paragraph",
+        text: "Divorce lead pricing tends to track case complexity more closely than raw volume. A high-asset divorce involving business valuation, real estate, or complex retirement accounts typically commands a higher lead price than a straightforward uncontested filing, since the potential fee is much larger and firms are willing to pay more to compete for it. Custody-involved matters sit somewhere in between, often carrying both higher emotional stakes and a longer, more billable engagement than an uncontested case. Exclusivity adds further cost, since a prospect not being pursued by competing firms simultaneously is worth more to any single buyer.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating a Divorce Lead Provider",
+      },
+      {
+        type: "table",
+        headers: ["Factor", "What to Confirm"],
+        rows: [
+          ["Consent capture", "How and where the prospect opted in, and whether it's documented."],
+          ["Exclusivity", "Whether the lead is sold only to your firm or shared with competitors."],
+          ["Case type filtering", "Whether you can specify uncontested, high-asset, or custody-involved matters."],
+          ["Screening depth", "Whether basic intake questions were asked before delivery, or the lead is raw."],
+          ["Replacement policy", "What happens when contact information is invalid or the case type doesn't match."],
+        ],
+      },
+      {
+        type: "heading",
+        text: "Compliance and Consent Considerations Specific to This Category",
+      },
+      {
+        type: "paragraph",
+        text: "Because many divorce prospects are researching quietly, sometimes without a spouse's awareness, consent and contact practices deserve extra scrutiny in this category. Firms should confirm that any purchased lead includes clear, documented opt-in consent for contact, and that the provider's intake process avoids leaving voicemails or sending communications that could inadvertently disclose a prospect's inquiry to someone else in the household. A provider that treats this sensitivity as an afterthought is a meaningful risk in a category where discretion often matters as much as speed.",
+      },
+      {
+        type: "heading",
+        text: "Red Flags Worth Watching For",
+      },
+      {
+        type: "list",
+        items: [
+          "No clear answer about how consent was captured or documented.",
+          "Leads sold to several competing firms without disclosing that upfront.",
+          "No ability to filter by case type, asset complexity, or custody involvement.",
+          "Generic intake scripts that don't account for the emotional sensitivity of the category.",
+          "Vague or nonexistent replacement policy for invalid or mismatched leads.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Measuring Return on Divorce Lead Spend",
+      },
+      {
+        type: "paragraph",
+        text: "Because case value varies so widely within this single category, cost per lead alone tells firms very little. A more useful measure is cost per signed retainer broken out by case type, uncontested, contested, high-asset, and custody-involved, tracked separately over time. A source that produces a higher share of high-asset or custody cases may justify a meaningfully higher per-lead cost than a cheaper source that mostly produces lower-value uncontested inquiries, once the full economics are compared rather than just the sticker price.",
+      },
+      {
+        type: "heading",
         text: "Where This Fits Into Your Broader Growth Strategy",
       },
       {
         type: "paragraph",
         text: "A vetted, exclusive [warm transfer or pay-per-lead program](/buy-leads) works well as a complement to referral relationships with financial advisors, therapists, and other professionals who often see clients considering divorce before a law firm does. If you're evaluating a provider, our [Buy Leads](/buy-leads) and [Buy Warm Transfers](/buy-warm-transfers) pages walk through how exclusive, verified delivery works for family law specifically. For strategies beyond paid lead acquisition, see our guide to [family law attorney leads](/learning-center/family-law-attorney-leads).",
+      },
+    ],
+    faqs: [
+      {
+        q: "How much do divorce attorney leads typically cost?",
+        a: "Pricing varies by case complexity, exclusivity, and market, with high-asset or custody-involved matters generally costing more than straightforward uncontested cases. Requesting a small sample batch is the most reliable way for a firm to gauge real cost for its specific market and case mix.",
+      },
+      {
+        q: "Should divorce leads always be exclusive?",
+        a: "Exclusive leads generally convert better in this category, since a prospect who's already emotionally stressed is more likely to disengage entirely rather than choose between competing calls. Shared leads can still work at a lower price point, but firms should factor the lower conversion rate into their cost comparison.",
+      },
+      {
+        q: "How quickly should a firm follow up on a divorce lead?",
+        a: "Immediate first contact still matters, but unlike more urgent legal categories, a single call is rarely enough. A structured follow-up cadence over the following one to two weeks captures prospects who need more time to decide, rather than treating the category as a one-call-and-done process.",
+      },
+      {
+        q: "What consent and privacy issues are unique to divorce leads?",
+        a: "Many prospects research divorce quietly, sometimes without a spouse's knowledge, so firms should confirm that leads include documented consent for contact and that the provider's intake process avoids voicemails or messages that could inadvertently disclose the inquiry to someone else in the household.",
+      },
+      {
+        q: "Can a firm filter divorce leads by case type, like custody or high-asset matters?",
+        a: "Many providers allow this kind of filtering, and it's worth prioritizing a vendor that does, since uncontested, high-asset, and custody-involved cases carry very different values and require different intake approaches. A provider that can't segment by case type is harder to budget accurately against.",
       },
     ],
   },

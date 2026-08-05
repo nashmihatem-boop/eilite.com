@@ -9,8 +9,9 @@ export const homeServicesArticles: Article[] = [
       "HVAC is one of the most time-sensitive home service categories. Here's why live warm transfers close at a higher rate than static leads — and how to make the most of them.",
     metaDescription: "HVAC is one of the most time-sensitive home service categories. Here's why live warm transfers close at a higher rate than static leads.",
     category: "Home Services",
-    readTime: "6 min read",
+    readTime: "9 min read",
     publishedDate: "2026-07-28",
+    updatedDate: "2026-08-05",
     content: [
       {
         type: "paragraph",
@@ -59,6 +60,32 @@ export const homeServicesArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Warm Transfers Typically Cost Compared to Web-Form Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Warm transfers almost always carry a higher price per lead than a standard web-form submission, and that difference confuses contractors comparing the two purely on sticker price. The right comparison isn't cost per lead, it's cost per booked job, since a warm transfer's much higher contact and conversion rate frequently makes it the cheaper option once the full funnel is accounted for. A form lead that requires five callback attempts and still only reaches the homeowner half the time carries hidden labor cost that never shows up on the invoice from the lead provider.",
+      },
+      {
+        type: "list",
+        items: [
+          "Emergency repair vs. planned replacement — emergency transfers command a premium given the urgency and higher close rate.",
+          "Exclusivity — a transfer routed to one contractor costs more than one shared across several competing bids.",
+          "Geography and local demand density in the target service area.",
+          "Time of year, with peak summer and winter periods pushing prices higher across the category.",
+          "System type and job size, since a full replacement lead is worth more than a minor repair call.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How to Evaluate a Warm Transfer Provider",
+      },
+      {
+        type: "paragraph",
+        text: "Not every provider labeling a product a \"warm transfer\" is running the same process behind the scenes, so contractors should ask specific questions before committing budget. Request a clear description of how consent is captured and verified, whether TCPA and DNC scrubbing happens before every connected call, and what the exclusivity terms actually are. A provider unwilling to explain its screening pipeline in concrete detail, or unable to produce documentation like Jornaya or TrustedForm certificates on request, is a warning sign worth taking seriously before scaling spend with them.",
+      },
+      {
+        type: "heading",
         text: "Best Practices for HVAC Companies Receiving Warm Transfers",
       },
       {
@@ -76,7 +103,29 @@ export const homeServicesArticles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "For a category defined by urgency, the lead format that removes delay between intent and conversation will consistently outperform the one that doesn't. Warm transfers close a gap that web forms structurally can't — which is why they've become the standard for HVAC companies serious about scaling their booked-job volume, not just their lead count. If you're evaluating lead sources for your own pipeline, our [Buy Warm Transfers](/buy-warm-transfers) page breaks down how the program works end to end.",
+        text: "For a category defined by urgency, the lead format that removes delay between intent and conversation will consistently outperform the one that doesn't. Warm transfers close a gap that web forms structurally can't — which is why they've become the standard for HVAC companies serious about scaling their booked-job volume, not just their lead count. If you're evaluating lead sources for your own pipeline, our [Buy Warm Transfers](/buy-warm-transfers) page breaks down how the program works end to end, and our broader [buy leads](/buy-leads) marketplace covers form-based options for companies blending both formats into one pipeline.",
+      },
+    ],
+    faqs: [
+      {
+        q: "How much more do warm transfers cost than standard HVAC leads?",
+        a: "Pricing varies by market and season, but warm transfers typically run several times the cost of a basic web-form lead. The comparison that matters is cost per booked job, not cost per lead, since warm transfers generally close at a meaningfully higher rate.",
+      },
+      {
+        q: "Can a small HVAC company handle warm transfers without a dedicated call center?",
+        a: "Yes, but staffing matters. A missed warm transfer call converts at close to zero, so even a small company needs someone available, or a call-routing plan to a technician's cell, during the hours transfers are scheduled to arrive.",
+      },
+      {
+        q: "What happens if a warm transfer turns out to be a bad fit, like the wrong service area?",
+        a: "Reputable providers offer a credit or replacement policy for transfers that clearly fall outside the agreed service area or job type. Confirm this policy before committing to ongoing volume, and track the rate of disqualified transfers as a quality signal.",
+      },
+      {
+        q: "Are warm transfers exclusive to one contractor?",
+        a: "It depends on the program. Exclusive transfers routed to a single contractor cost more but eliminate the race against competing bids; shared transfers cost less per call but require faster closing skills since the homeowner may be talking to another company at the same time.",
+      },
+      {
+        q: "Do warm transfers work for planned replacements, not just emergency repairs?",
+        a: "Yes, though the dynamics differ. Emergency repair transfers convert on urgency and speed, while planned replacement transfers convert more on trust, pricing clarity, and financing options, so the sales approach on the call should adjust accordingly.",
       },
     ],
   },
