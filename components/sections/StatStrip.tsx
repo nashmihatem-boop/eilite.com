@@ -1,11 +1,11 @@
 import { DollarSign, CalendarDays, Users, LayoutGrid, ThumbsUp } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
-const stats: { icon: LucideIcon; value: string; label: string }[] = [
+const stats: { icon: LucideIcon; value: string; label: string; hideOnMobile?: boolean }[] = [
   { icon: DollarSign, value: "$1.5B+", label: "Leads & transfers delivered" },
   { icon: CalendarDays, value: "2010", label: "Founded, industry pioneer" },
   { icon: Users, value: "120+", label: "Team members nationwide" },
-  { icon: LayoutGrid, value: "4", label: "Industries served" },
+  { icon: LayoutGrid, value: "4", label: "Industries served", hideOnMobile: true },
   { icon: ThumbsUp, value: "94%", label: "Customer satisfaction" },
 ];
 
@@ -15,7 +15,9 @@ export function StatStrip() {
       {stats.map((stat) => (
         <div
           key={stat.label}
-          className="flex flex-col items-center gap-3 rounded-2xl border border-[var(--color-line)] bg-white px-4 py-7 text-center shadow-sm"
+          className={`flex-col items-center gap-3 rounded-2xl border border-[var(--color-line)] bg-white px-4 py-7 text-center shadow-sm ${
+            stat.hideOnMobile ? "hidden sm:flex" : "flex"
+          }`}
         >
           <span className="flex h-11 w-11 items-center justify-center rounded-full bg-[var(--color-surface-tint)]">
             <stat.icon className="h-5 w-5 text-[var(--color-brand)]" strokeWidth={2} />
