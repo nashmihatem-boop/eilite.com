@@ -1,4 +1,12 @@
 import type { Article } from "@/lib/articles/types";
+import { verticalSupportLeadsA1Articles } from "@/lib/articles/data/vertical-support-leads-a1";
+import { verticalSupportLeadsA2Articles } from "@/lib/articles/data/vertical-support-leads-a2";
+import { longTailLeadsB1Articles } from "@/lib/articles/data/long-tail-leads-b1";
+import { longTailLeadsB2Articles } from "@/lib/articles/data/long-tail-leads-b2";
+import { longTailLeadsB3Articles } from "@/lib/articles/data/long-tail-leads-b3";
+import { longTailLeadsB4Articles } from "@/lib/articles/data/long-tail-leads-b4";
+import { longTailLeadsB5Articles } from "@/lib/articles/data/long-tail-leads-b5";
+import { longTailLeadsB6Articles } from "@/lib/articles/data/long-tail-leads-b6";
 import { homeServicesArticles } from "@/lib/articles/data/home-services";
 import { lawFirmMarketingArticles } from "@/lib/articles/data/law-firm-marketing";
 import { personalInjuryArticles } from "@/lib/articles/data/personal-injury";
@@ -627,6 +635,14 @@ export const articles: Article[] = [
   ...competitorMatch17Articles,
   ...competitorMatch18Articles,
   ...competitorMatch19Articles,
+  ...verticalSupportLeadsA1Articles,
+  ...verticalSupportLeadsA2Articles,
+  ...longTailLeadsB1Articles,
+  ...longTailLeadsB2Articles,
+  ...longTailLeadsB3Articles,
+  ...longTailLeadsB4Articles,
+  ...longTailLeadsB5Articles,
+  ...longTailLeadsB6Articles,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
