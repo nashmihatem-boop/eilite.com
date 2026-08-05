@@ -47,15 +47,27 @@ export function Footer() {
   return (
     <footer className="bg-[var(--color-ink)] pt-16 text-white/80">
       <div className="mx-auto max-w-7xl px-6 pb-12 lg:px-8">
-        <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
-          <div>
-            <div className="flex items-center gap-2">
-              <Wordmark className="font-heading text-2xl font-semibold text-white" />
-            </div>
+        <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-5">
+          <div className="sm:col-span-2 lg:col-span-1">
+            <Wordmark className="font-heading text-2xl font-semibold text-white" />
             <p className="mt-4 max-w-xs text-sm">
-              The hub where buyers, publishers, and providers connect. Premium leads and live warm transfers,
+              The hub where buyers, affiliates, and providers connect. Premium leads and live warm transfers,
               nationwide.
             </p>
+
+            <ul className="mt-6 space-y-3 text-sm">
+              <li>
+                <a href="mailto:info@eilite.com" className="transition-colors hover:text-white">
+                  info@eilite.com
+                </a>
+              </li>
+              <li>
+                <a href="tel:+13022447240" className="transition-colors hover:text-white">
+                  (302) 244-7240
+                </a>
+              </li>
+              <li className="max-w-[220px]">1111B S Governors Ave STE 21889, Dover, Delaware 19904</li>
+            </ul>
           </div>
 
           {columns.map((col) => (
@@ -79,23 +91,6 @@ export function Footer() {
               </ul>
             </div>
           ))}
-
-          <div>
-            <div className="text-sm font-semibold uppercase tracking-[0.1em] text-white">Contact</div>
-            <ul className="mt-4 space-y-3 text-sm">
-              <li>
-                <a href="mailto:info@eilite.com" className="transition-colors hover:text-white">
-                  info@eilite.com
-                </a>
-              </li>
-              <li>
-                <a href="tel:+13022447240" className="transition-colors hover:text-white">
-                  (302) 244-7240
-                </a>
-              </li>
-              <li>1111B S Governors Ave STE 21889, Dover, Delaware 19904</li>
-            </ul>
-          </div>
         </div>
       </div>
 
