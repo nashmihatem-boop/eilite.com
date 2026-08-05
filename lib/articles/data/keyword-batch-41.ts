@@ -210,7 +210,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "signed-cases-leads",
     title: "Signed Cases Leads: A Guide to Case Acquisition",
-    metaTitle: "Signed Cases Leads Guide: How Case Acquisition Works",
+    metaTitle: "Signed Cases Leads: How Case Acquisition Works",
     excerpt: "A guide to acquiring already-signed legal cases from other firms, distinct from purchasing raw intake leads.",
     metaDescription: "A guide to acquiring already-signed legal cases from other firms, distinct from purchasing raw intake leads, covering how this acquisition model actually works.",
     category: "Legal Leads",
@@ -330,7 +330,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "skip-tracing-leads",
     title: "Skip Tracing Leads: A Guide for Buyers",
-    metaTitle: "Skip Tracing Leads Guide: Finding Hard-to-Reach Buyers",
+    metaTitle: "Skip Tracing Leads: A Guide for Buyers",
     excerpt: "A guide to leads sourced through skip tracing, the process of locating hard-to-find individuals.",
     metaDescription: "A guide to leads sourced through skip tracing, the process of locating hard-to-find individuals, covering how this method differs from standard lead generation.",
     category: "Lead Generation Basics",

@@ -189,7 +189,7 @@ export const competitorMatch05Articles: Article[] = [
   {
     slug: "how-florida-lawyers-can-boost-workers-comp-referrals",
     title: "How Florida Lawyers Can Boost Workers' Comp Referrals",
-    metaTitle: "How Florida Lawyers Can Boost Workers' Comp Referrals",
+    metaTitle: "How Florida Lawyers Boost Workers' Comp Referrals",
     metaDescription:
       "Practical strategies Florida workers' compensation attorneys can use to build stronger referral networks with attorneys, medical providers, and past clients.",
     excerpt:
@@ -546,7 +546,7 @@ export const competitorMatch05Articles: Article[] = [
   {
     slug: "marketing-strategies-that-win-targeting-commercial-vehicle-accident-cases",
     title: "Marketing Strategies for Targeting Commercial Vehicle Accident Cases",
-    metaTitle: "Marketing Strategies for Commercial Vehicle Accident Cases",
+    metaTitle: "Marketing for Commercial Vehicle Accident Cases",
     metaDescription:
       "How personal injury firms can position their website, content, and ad campaigns to attract commercial vehicle accident lawyer marketing opportunities.",
     excerpt:
@@ -3213,7 +3213,7 @@ export const competitorMatch05Articles: Article[] = [
   {
     slug: "implementing-a-legal-accounting-system-key-considerations-for-law-firm-efficiency-and-compliance",
     title: "Implementing a Legal Accounting System: Key Considerations",
-    metaTitle: "Implementing a Legal Accounting System for Law Firms",
+    metaTitle: "Implementing a Legal Accounting System for Firms",
     metaDescription:
       "Key considerations for implementing a legal accounting system, covering trust accounting compliance, time tracking, billing automation, and software selection.",
     excerpt:
@@ -3679,7 +3679,7 @@ export const competitorMatch05Articles: Article[] = [
   {
     slug: "marketing-successfully-as-a-law-firm-proven-strategies-that-drive-case-volume",
     title: "Marketing Successfully as a Law Firm: Strategies That Work",
-    metaTitle: "Law Firm Marketing Strategies That Drive Case Volume",
+    metaTitle: "Law Firm Marketing Strategies That Drive Cases",
     metaDescription:
       "Proven law firm marketing strategies covering brand building, SEO, content marketing, paid advertising, local search, and referral network development.",
     excerpt:

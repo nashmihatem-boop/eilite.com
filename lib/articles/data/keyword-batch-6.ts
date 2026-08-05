@@ -484,7 +484,7 @@ export const keywordBatch6Articles: Article[] = [
     title: "Bulk Mortgage Leads: A Guide for High-Volume Lenders",
     metaTitle: "Bulk Mortgage Leads Guide",
     excerpt: "Purchase mortgage leads run on a home-buying timeline, so pre-approval and offer status matter more than credit score at first contact.",
-    metaDescription: "Purchase mortgage leads qualify on pre-approval status and home-buying timeline, a different signal than refinance rate-sensitivity. Learn how to screen bulk volume.",
+    metaDescription: "Purchase mortgage leads qualify on pre-approval and home-buying timeline, a different signal than refinance rate-sensitivity. How to screen bulk volume.",
     category: "Financial Leads",
     readTime: "6 min read",
     publishedDate: "2026-11-26",

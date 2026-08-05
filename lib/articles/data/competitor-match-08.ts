@@ -1129,7 +1129,7 @@ export const competitorMatch08Articles: Article[] = [
   {
     slug: "los-defensores-marketing-success-how-to-grow-your-practice-with-us",
     title: "Los Defensores and Hispanic-Focused Legal Marketing",
-    metaTitle: "Los Defensores Legal Marketing: What Firms Should Know",
+    metaTitle: "Los Defensores Legal Marketing Explained",
     metaDescription:
       "Los Defensores legal marketing explained: how Hispanic-focused legal referral networks build trust and pre-qualified leads for personal injury firms.",
     excerpt:
@@ -2143,7 +2143,7 @@ export const competitorMatch08Articles: Article[] = [
   {
     slug: "what-the-uber-initiative-in-california-means-for-your-personal-injury-firm",
     title: "What the Uber Initiative Means for PI Firms in California",
-    metaTitle: "The Uber Initiative in California: What PI Firms Should Know",
+    metaTitle: "The Uber Initiative in California: PI Firm Guide",
     metaDescription:
       "A look at the Uber initiative California personal injury firms are tracking, its proposed contingency fee caps, and what it could mean for case economics.",
     excerpt:
@@ -2517,7 +2517,7 @@ export const competitorMatch08Articles: Article[] = [
   {
     slug: "ai-outreach-automation-for-attorneys-tools-techniques-to-boost-client-engagement",
     title: "AI Outreach Automation: Boosting Client Engagement",
-    metaTitle: "AI Outreach Automation for Attorneys: Tools & Techniques",
+    metaTitle: "AI Outreach Automation for Attorneys",
     metaDescription:
       "AI outreach automation for attorneys compared against manual approaches, covering response time, personalization, lead volume, and compliance.",
     excerpt:

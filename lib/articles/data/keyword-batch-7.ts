@@ -679,7 +679,7 @@ export const keywordBatch7Articles: Article[] = [
     title: "Buy Health Insurance Leads: A Guide Beyond the ACA Marketplace",
     metaTitle: "Buy Health Insurance Leads Guide",
     excerpt: "How general health insurance leads, spanning short-term, supplemental, and group-adjacent coverage, differ from ACA marketplace leads.",
-    metaDescription: "General health insurance leads span short-term medical, supplemental, and group-adjacent products, not just ACA plans. Learn how to buy across this wider category.",
+    metaDescription: "General health insurance leads span short-term, supplemental, and group-adjacent products beyond ACA plans. Learn how to buy across this category.",
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-11-27",

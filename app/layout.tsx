@@ -29,10 +29,12 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     type: "website",
   },
+  // No title/description here on purpose — Next.js falls back to each page's own
+  // resolved title/description when a child route doesn't set `twitter` itself.
+  // Hardcoding them here meant every page on the site showed the homepage's
+  // Twitter Card text instead of its own.
   twitter: {
     card: "summary_large_image",
-    title: `Premium Leads & Live Warm Transfers | ${siteConfig.name}`,
-    description: siteConfig.description,
   },
 };
 

@@ -1356,7 +1356,7 @@ export const longTailLeadsB6Articles: Article[] = [
   {
     slug: "fire-and-water-damage-leads",
     title: "Fire and Water Damage Leads: A Guide for Restoration Companies",
-    metaTitle: "Fire and Water Damage Leads for Restoration Companies",
+    metaTitle: "Fire and Water Damage Leads for Restoration Pros",
     excerpt: "How restoration companies can source and convert leads for fire, smoke, and water damage remediation, from emergency response through repair.",
     metaDescription: "A guide to fire and water damage leads, covering emergency restoration demand, insurance-driven pricing, and how response speed drives conversion.",
     category: "Home Services Marketing",
@@ -1402,7 +1402,7 @@ export const longTailLeadsB6Articles: Article[] = [
   {
     slug: "fireplace-cleaners-leads",
     title: "Fireplace Cleaners Leads: A Guide for Chimney and Hearth Pros",
-    metaTitle: "Fireplace Cleaners Leads for Chimney and Hearth Pros",
+    metaTitle: "Fireplace Cleaners Leads for Chimney Pros",
     excerpt: "How chimney sweeps and hearth professionals can source and convert leads for fireplace cleaning, inspection, and seasonal maintenance.",
     metaDescription: "A guide to fireplace cleaners leads, covering seasonal chimney sweep demand, realistic pricing, and safety-driven conversion factors.",
     category: "Home Services Marketing",
@@ -1892,7 +1892,7 @@ export const longTailLeadsB6Articles: Article[] = [
   {
     slug: "grizzlyleads-alternatives",
     title: "GrizzlyLeads Alternatives: Comparing Home Service Lead Options",
-    metaTitle: "GrizzlyLeads Alternatives for Home Service Businesses",
+    metaTitle: "GrizzlyLeads Alternatives for Home Services",
     excerpt: "A neutral comparison of options home service businesses have beyond a single lead provider, covering marketplaces, PPC, SEO, and referral strategies.",
     metaDescription: "Comparing lead generation alternatives for home service businesses, including marketplace platforms, PPC, SEO, and referral-based growth strategies.",
     category: "Home Services Marketing",

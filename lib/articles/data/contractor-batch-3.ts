@@ -518,7 +518,7 @@ export const contractorBatch3Articles: Article[] = [
   {
     slug: "burned-by-marketing-companies-why-contractors-feel-let-down",
     title: "Burned by Marketing Companies: Why Contractors Feel Let Down",
-    metaTitle: "Why Contractors Feel Let Down by Marketing Companies",
+    metaTitle: "Burned by Marketing Companies: A Contractor Guide",
     excerpt: "Common reasons contractors end up disappointed by marketing agencies, and what to look for to avoid a repeat.",
     metaDescription: "Common reasons contractors end up disappointed by marketing agencies, and specific red flags to watch for so the next relationship doesn't repeat it.",
     category: "Industry Trends",

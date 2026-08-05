@@ -7,7 +7,7 @@ export const keywordBatch1Articles: Article[] = [
   {
     slug: "3m-earplugs-leads",
     title: "3M Earplugs Leads: A Guide for Mass Tort Buyers",
-    metaTitle: "3M Combat Earplugs Leads: A Guide for Mass Tort Buyers",
+    metaTitle: "3M Combat Earplugs Leads for Mass Tort Buyers",
     excerpt: "A guide to sourcing and screening leads related to the 3M combat earplugs litigation.",
     metaDescription: "A guide to sourcing and screening leads related to the 3M combat earplugs litigation, covering eligibility criteria and verifying military service claims.",
     category: "Legal Leads",
@@ -552,7 +552,7 @@ export const keywordBatch1Articles: Article[] = [
     title: "Affiliate Marketing Legal Leads: A Guide for Publishers",
     metaTitle: "Affiliate Marketing Legal Leads Guide",
     excerpt: "How publishers use affiliate marketing to generate and monetize legal case leads.",
-    metaDescription: "How publishers use affiliate marketing to generate and monetize legal case leads, covering content angles that attract genuine case intent over curiosity traffic.",
+    metaDescription: "How publishers use affiliate marketing to generate and monetize legal case leads, with content angles that attract genuine case intent.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-11-21",

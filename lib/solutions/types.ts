@@ -22,6 +22,11 @@ export type SolutionVertical = {
   tagline: string;
   highlight: string;
   subheadline: string;
+  // Optional SEO-only overrides — the on-page hero still renders `label`/`subheadline`
+  // unchanged. Only needed when the formula-generated title or the subheadline (reused
+  // as the meta description) runs past search-engine length limits.
+  metaTitle?: string;
+  metaDescription?: string;
   searchChips: string[];
   demoIndustry: string;
   overviewEyebrow: string;

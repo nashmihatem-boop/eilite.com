@@ -31,6 +31,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "For Every Lockout Call",
     subheadline:
       "Get exclusive locksmith leads — emergency lockouts, rekeys, and commercial access jobs — verified and routed to your phone the moment a customer needs a locksmith now.",
+    metaDescription:
+      "Get exclusive locksmith leads, emergency lockouts, rekeys, and commercial access jobs, verified and routed to your phone the moment customers need help.",
     searchChips: ["locked out of my house", "car key replacement near me", "commercial lock rekey"],
     demoIndustry: "Locksmith",
     overviewEyebrow: "The Problem",
@@ -79,6 +81,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "With Jobs Worth Bidding On",
     subheadline:
       "Get exclusive painting leads — interior, exterior, residential, and commercial — filtered by project size and property type so your estimators quote jobs that match your crew.",
+    metaDescription:
+      "Get exclusive painting leads, interior, exterior, residential, and commercial, filtered by project size and property type.",
     searchChips: ["exterior house painting cost", "interior painter near me", "commercial painting contractor"],
     demoIndustry: "Painting",
     overviewEyebrow: "The Problem",
@@ -127,6 +131,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "With Performance-Based Lead Delivery",
     subheadline:
       "Get exclusive tree removal, trimming, and storm-cleanup leads — filtered by urgency and job scope and delivered in real time so your crew is never idle between jobs.",
+    metaDescription:
+      "Get exclusive tree removal, trimming, and storm-cleanup leads, filtered by urgency and job scope, delivered in real time so your crew stays busy.",
     searchChips: ["tree removal cost near me", "storm damage tree removal", "stump grinding service"],
     demoIndustry: "Tree Removal",
     overviewEyebrow: "The Problem",
@@ -175,6 +181,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "Not More Estimates That Go Nowhere",
     subheadline:
       "Get exclusive carpentry leads — custom builds, trim and finish work, repairs, and built-ins — filtered by project scope so your shop quotes jobs that are ready to commit.",
+    metaDescription:
+      "Get exclusive carpentry leads, custom builds, trim and finish work, repairs, and built-ins, filtered by project scope so you quote ready clients.",
     searchChips: ["custom built-in bookshelf cost", "trim carpenter near me", "deck framing contractor"],
     demoIndustry: "Carpentry",
     overviewEyebrow: "The Problem",
@@ -223,6 +231,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "With Leads That Actually Convert",
     subheadline:
       "Get exclusive carpet cleaning leads — routine cleanings, stain and pet-odor treatment, move-out cleans, and commercial contracts — filtered by job type and delivered in real time.",
+    metaDescription:
+      "Get exclusive carpet cleaning leads, routine cleanings, stain and pet-odor treatment, move-out cleans, and commercial contracts, filtered by job type.",
     searchChips: ["carpet cleaning near me", "pet stain removal service", "move out carpet cleaning"],
     demoIndustry: "Carpet Cleaning",
     overviewEyebrow: "The Problem",
@@ -271,6 +281,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "Not More RFPs That Go Nowhere",
     subheadline:
       "Get exclusive commercial cleaning leads — office, retail, medical, and post-construction accounts — filtered by facility type and contract size so your sales team quotes decision-makers, not researchers.",
+    metaDescription:
+      "Get exclusive commercial cleaning leads, office, retail, medical, and post-construction accounts, filtered by facility type and contract size.",
     searchChips: ["office cleaning service quote", "post construction cleanup company", "janitorial services contract"],
     demoIndustry: "Commercial Cleaning",
     overviewEyebrow: "The Problem",
@@ -319,6 +331,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "The Moment Water Starts Coming In",
     subheadline:
       "Get exclusive basement waterproofing and foundation leads — from active flooding to seepage and crack repair — filtered by urgency and delivered while the homeowner is still in crisis mode.",
+    metaDescription:
+      "Get exclusive basement waterproofing and foundation leads, from active flooding to seepage and crack repair, filtered by urgency.",
     searchChips: ["basement waterproofing cost", "foundation crack repair", "sump pump installation near me"],
     demoIndustry: "Basement Waterproofing",
     overviewEyebrow: "The Problem",
@@ -367,6 +381,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "Before They Collect Three Other Quotes",
     subheadline:
       "Get exclusive cabinet installation, refacing, and full kitchen remodel leads — filtered by project scope and timeline so your estimator is first in the door, not the fourth bid.",
+    metaDescription:
+      "Get exclusive cabinet installation, refacing, and full kitchen remodel leads, filtered by project scope and timeline so you're first in the door.",
     searchChips: ["kitchen cabinet installation cost", "cabinet refacing near me", "custom cabinet maker"],
     demoIndustry: "Cabinet Installation",
     overviewEyebrow: "The Problem",
@@ -415,6 +431,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "With Fewer Contractors to Compete Against",
     subheadline:
       "Get exclusive concrete coating and epoxy flooring leads — garage floors, driveways, and patios — filtered by project type and delivered before homeowners default to a big-box franchise.",
+    metaDescription:
+      "Get exclusive concrete coating and epoxy flooring leads for garage floors, driveways, and patios, filtered by project type.",
     searchChips: ["garage floor epoxy cost", "concrete driveway coating near me", "epoxy flooring installer"],
     demoIndustry: "Concrete Coating",
     overviewEyebrow: "The Problem",
@@ -463,6 +481,8 @@ export const homeServices3: SolutionVertical[] = [
     highlight: "Before Your Competitors Get There First",
     subheadline:
       "Get exclusive deck building, replacement, and repair leads — filtered by project size and material preference so your crew is booked solid through the spring and summer rush.",
+    metaDescription:
+      "Get exclusive deck building, replacement, and repair leads, filtered by project size and material preference to keep your crew booked solid.",
     searchChips: ["deck builder near me", "composite deck installation cost", "deck repair and staining"],
     demoIndustry: "Decks",
     overviewEyebrow: "The Problem",

@@ -31,6 +31,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "From First Call to Recurring Contract",
     subheadline:
       "Get exclusive pest control leads — from one-time ant and roach treatments to full-year recurring contracts — filtered by pest type and delivered while the homeowner is still searching.",
+    metaDescription:
+      "Get exclusive pest control leads, from one-time treatments to recurring contracts, filtered by pest type and delivered while homeowners are searching.",
     searchChips: ["pest control near me", "termite inspection cost", "ant exterminator same day"],
     demoIndustry: "Pest Control",
     overviewEyebrow: "The Problem",
@@ -79,6 +81,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "With Homeowners Ready to Choose Materials",
     subheadline:
       "Connect with homeowners actively comparing hardwood, tile, LVP, and carpet — filtered by material interest and project scope, and delivered while they're still deciding, not just dreaming.",
+    metaDescription:
+      "Connect with homeowners comparing hardwood, tile, LVP, and carpet, filtered by material interest and project scope, delivered while they're deciding.",
     searchChips: ["flooring installation cost", "hardwood vs laminate flooring", "flooring contractors near me"],
     demoIndustry: "Flooring",
     overviewEyebrow: "The Problem",
@@ -127,6 +131,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "On Every Electrical Job That Matters",
     subheadline:
       "From panel upgrades and EV charger installs to same-day outage calls, get exclusive electrician leads filtered by job type and delivered the moment a homeowner needs help.",
+    metaDescription:
+      "From panel upgrades and EV charger installs to same-day outages, get exclusive electrician leads filtered by job type and delivered fast.",
     searchChips: ["electrician near me", "panel upgrade cost", "EV charger installation"],
     demoIndustry: "Electrician",
     overviewEyebrow: "The Problem",
@@ -175,6 +181,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "Not Qualifying Tire-Kickers",
     subheadline:
       "Get exclusive kitchen remodeling leads pre-screened for real budget and project scope, so your design consultants spend their hours with homeowners ready to sign, not window-shoppers.",
+    metaDescription:
+      "Get exclusive kitchen remodeling leads pre-screened for real budget and project scope, so consultants spend time with homeowners ready to sign.",
     searchChips: ["kitchen remodel cost", "kitchen renovation contractors near me", "custom cabinet installation"],
     demoIndustry: "Kitchen Remodeling",
     overviewEyebrow: "The Problem",
@@ -223,6 +231,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "With Homeowners Ready for Pro Installation",
     subheadline:
       "Reach homeowners who've outgrown self-install kits and want a monitored system — filtered by property type and install preference, and delivered while they're still comparing providers.",
+    metaDescription:
+      "Reach homeowners who've outgrown self-install kits and want a monitored system, filtered by property type and install preference.",
     searchChips: ["home security system cost", "alarm monitoring companies near me", "smart home security installation"],
     demoIndustry: "Home Security",
     overviewEyebrow: "The Problem",
@@ -271,6 +281,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "Not More Free Estimates",
     subheadline:
       "Get exclusive bathroom remodeling leads — from fixture refreshes to full gut renovations — pre-screened for real budget and timeline before they ever reach your calendar.",
+    metaDescription:
+      "Get exclusive bathroom remodeling leads, from fixture refreshes to full gut renovations, pre-screened for real budget and timeline.",
     searchChips: ["bathroom remodel cost", "walk-in shower conversion", "bathroom renovation contractors near me"],
     demoIndustry: "Bathroom Remodeling",
     overviewEyebrow: "The Problem",
@@ -319,6 +331,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "Homeowners Book the Same Day",
     subheadline:
       "Get exclusive appliance repair leads — washers, dryers, refrigerators, ovens, and dishwashers — delivered in real time so you're calling before the homeowner tries the next company on the list.",
+    metaDescription:
+      "Get exclusive appliance repair leads for washers, dryers, refrigerators, ovens, and dishwashers, delivered in real time before homeowners call elsewhere.",
     searchChips: ["appliance repair near me", "refrigerator not cooling repair", "same day washer repair"],
     demoIndustry: "Appliance Repair",
     overviewEyebrow: "The Problem",
@@ -367,6 +381,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "Into Your Busiest Season",
     subheadline:
       "Reach homeowners exploring insulation, air sealing, and efficiency upgrades — filtered by upgrade type and rebate eligibility, and delivered while utility incentives are still driving them to act.",
+    metaDescription:
+      "Reach homeowners exploring insulation, air sealing, and efficiency upgrades, filtered by upgrade type and rebate eligibility.",
     searchChips: ["home insulation cost", "attic insulation near me", "energy efficiency rebate programs"],
     demoIndustry: "Energy",
     overviewEyebrow: "The Problem",
@@ -463,6 +479,8 @@ export const homeServices2: SolutionVertical[] = [
     highlight: "Before They Call the Next Hauler",
     subheadline:
       "Get exclusive junk removal leads — from single-item pickups to full estate cleanouts — filtered by job size and delivered in real time while the homeowner is still ready to book.",
+    metaDescription:
+      "Get exclusive junk removal leads, from single-item pickups to full estate cleanouts, filtered by job size and delivered in real time.",
     searchChips: ["junk removal near me", "furniture removal cost", "estate cleanout service"],
     demoIndustry: "Junk Removal",
     overviewEyebrow: "The Problem",

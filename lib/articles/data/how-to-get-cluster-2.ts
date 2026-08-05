@@ -964,7 +964,7 @@ export const howToGetCluster2Articles: Article[] = [
     metaTitle: "Get Quality Auto Accident Leads",
     excerpt:
       "A quality-focused, practical guide to acquiring auto accident leads that actually convert.",
-    metaDescription: "A quality-focused, practical guide to acquiring auto accident leads that actually convert, covering vetting criteria for serious claimants versus low-value ones.",
+    metaDescription: "A quality-focused, practical guide to acquiring auto accident leads that actually convert, covering vetting criteria for serious claimants.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-16",

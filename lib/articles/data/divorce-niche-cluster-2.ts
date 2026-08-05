@@ -142,7 +142,7 @@ export const divorceNicheCluster2Articles: Article[] = [
     excerpt:
       "Beyond base-adjacent relationships, digital marketing built specifically for military families requires its own distinct language and channel choices.",
     metaDescription:
-      "Beyond base-adjacent relationships, digital marketing built for military families needs its own distinct language, channel choices, and client acquisition strategy.",
+      "Beyond base-adjacent relationships, digital marketing built for military families needs its own distinct language and channel choices.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-15",

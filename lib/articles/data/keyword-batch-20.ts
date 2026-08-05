@@ -774,7 +774,7 @@ export const keywordBatch20Articles: Article[] = [
     title: "How to Sell Warm Transfer Leads: A Monetization Guide",
     metaTitle: "How to Sell Warm Transfer Leads",
     excerpt: "A guide for call centers and publishers on the monetization process for selling warm transfers.",
-    metaDescription: "Selling warm transfers involves a different sales motion than static form leads, since screening quality drives the price. A monetization guide for call centers.",
+    metaDescription: "Selling warm transfers involves a different sales motion than static form leads, since screening quality drives the price. A guide for call centers.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-10",
@@ -968,7 +968,7 @@ export const keywordBatch20Articles: Article[] = [
   {
     slug: "hvac-leads",
     title: "HVAC Leads: A Complete Foundational Guide",
-    metaTitle: "HVAC Leads: Installation, Repair, and Maintenance Guide",
+    metaTitle: "HVAC Leads: Installation & Repair Guide",
     excerpt: "A foundational guide to sourcing and converting HVAC leads across heating and cooling services.",
     metaDescription: "HVAC leads span installation, repair, and maintenance across heating and cooling, each with different seasonality. A complete foundational sourcing guide.",
     category: "Home Services Marketing",

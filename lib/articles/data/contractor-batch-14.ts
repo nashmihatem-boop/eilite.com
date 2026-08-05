@@ -149,7 +149,7 @@ export const contractorBatch14Articles: Article[] = [
   {
     slug: "how-labor-shortages-are-changing-contractor-marketing-strategy",
     title: "How Labor Shortages Are Changing Contractor Marketing Strategy",
-    metaTitle: "How Labor Shortages Are Reshaping Contractor Marketing",
+    metaTitle: "How Labor Shortages Reshape Contractor Marketing",
     excerpt: "When crew capacity is the real constraint, marketing has to shift from maximizing leads to matching the volume a business can actually deliver on.",
     metaDescription: "Labor shortages are pushing contractors to market for capacity, not just volume. See how staffing constraints are reshaping advertising strategy in 2026.",
     category: "Industry Trends",

@@ -9,7 +9,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Generating Leads for Lawyers: Complete Overview",
     excerpt:
       "A complete, practice-area-agnostic overview of how lawyers generate leads across organic, paid, and referral channels.",
-    metaDescription: "Lawyers generate leads through organic search, paid advertising, and referral networks, each requiring a different approach by practice area. Here's an overview.",
+    metaDescription: "Lawyers generate leads through organic search, paid advertising, and referral networks, each requiring a different approach by practice area.",
     category: "Lead Generation Basics",
     readTime: "7 min read",
     publishedDate: "2026-09-28",
@@ -739,7 +739,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Boston",
     excerpt:
       "How Massachusetts's equitable distribution rules and Boston's court system shape local divorce lead generation.",
-    metaDescription: "Massachusetts's equitable distribution rules and Boston's court system create local dynamics that generic divorce marketing misses. This guide covers both factors.",
+    metaDescription: "Massachusetts's equitable distribution rules and Boston's court system create local dynamics that generic divorce marketing misses entirely.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -890,7 +890,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Chicago",
     excerpt:
       "How Illinois's equitable distribution framework and Cook County's court system shape Chicago divorce lead generation.",
-    metaDescription: "Illinois's equitable distribution framework and Cook County's court system shape how divorce leads perform in Chicago specifically. This guide covers local tactics.",
+    metaDescription: "Illinois's equitable distribution framework and Cook County's court system shape how divorce leads perform in Chicago. This guide covers local tactics.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -1351,7 +1351,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Jacksonville",
     excerpt:
       "How Jacksonville's military population and Duval County courts shape local divorce lead generation.",
-    metaDescription: "Jacksonville's sizable military population and Duval County's court system create local dynamics that shape divorce lead generation. This guide covers both factors.",
+    metaDescription: "Jacksonville's sizable military population and Duval County's court system create local dynamics that shape divorce lead generation locally.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",

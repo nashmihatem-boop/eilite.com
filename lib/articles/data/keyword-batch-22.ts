@@ -1133,7 +1133,7 @@ export const keywordBatch22Articles: Article[] = [
   {
     slug: "internet-leads",
     title: "Internet Leads: A Foundational Guide to Digital-Sourced Volume",
-    metaTitle: "Internet Leads Guide: How Digital-Sourced Volume Works",
+    metaTitle: "Internet Leads: How Digital-Sourced Volume Works",
     excerpt: "A foundational guide to internet leads, the broad category of digitally-sourced consumer contacts.",
     metaDescription: "A foundational guide to internet leads, the broad category of digitally-sourced consumer contacts, covering how they're generated, priced, and delivered.",
     category: "Lead Generation Basics",

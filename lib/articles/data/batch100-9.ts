@@ -792,7 +792,7 @@ export const batch100_9Articles: Article[] = [
     title: "Purchase Personal Injury Lawyer Leads: A Lawyer's Buying Process",
     metaTitle: "How to Purchase Personal Injury Lawyer Leads",
     excerpt: "The step-by-step process an individual lawyer should follow when purchasing personal injury leads.",
-    metaDescription: "Buying personal injury leads as an individual lawyer follows a different process than firm-level procurement. The step-by-step process solo practitioners follow.",
+    metaDescription: "Buying personal injury leads as a solo lawyer follows a different process than firm-level procurement. The step-by-step process solo practitioners follow.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-10-27",

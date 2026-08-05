@@ -10,7 +10,7 @@ export const divorceLeadTypeCluster3Articles: Article[] = [
     excerpt:
       "Even in a category with a longer decision cycle than personal injury, delivery speed still matters. Here's why real-time delivery changes divorce lead outcomes.",
     metaDescription:
-      "Real-time delivery still matters for divorce leads, even with a longer decision cycle than personal injury. See how speed-to-contact improves client acquisition.",
+      "Real-time delivery still matters for divorce leads, even with a longer decision cycle than personal injury. See how speed-to-contact helps firms.",
     category: "Divorce & Family Law",
     readTime: "8 min read",
     publishedDate: "2026-08-16",

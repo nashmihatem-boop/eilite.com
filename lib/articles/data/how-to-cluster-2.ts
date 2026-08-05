@@ -432,7 +432,7 @@ export const howToCluster2Articles: Article[] = [
     metaTitle: "Convert Highway Accident Leads Into Cases",
     excerpt:
       "Highway accidents often involve higher speeds and more severe injuries, worth reflecting in conversion strategy.",
-    metaDescription: "Highway accidents often involve higher speeds and more severe injuries, a distinction worth reflecting in intake questions, case valuation, and conversion strategy.",
+    metaDescription: "Highway accidents often involve higher speeds and more severe injuries, a distinction worth reflecting in intake, case valuation, and conversion strategy.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-08",

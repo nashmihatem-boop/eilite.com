@@ -11,6 +11,8 @@ export const homeServices5: SolutionVertical[] = [
     highlight: "Delivered While It's Still an Emergency",
     subheadline:
       "Connect with homeowners facing a failed water heater or planning a tankless upgrade — filtered by urgency and delivered in real time so you're the first call, not the fourth.",
+    metaDescription:
+      "Connect with homeowners facing a failed water heater or planning a tankless upgrade, filtered by urgency and delivered in real time.",
     searchChips: ["water heater not working", "tankless water heater cost", "water heater replacement near me"],
     demoIndustry: "Water Heater",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const homeServices5: SolutionVertical[] = [
     highlight: "From Homeowners Who Already Trust the Process",
     subheadline:
       "Reach homeowners dealing with real structural warning signs — cracks, uneven floors, sticking doors — pre-screened for genuine concern so your team isn't starting every call from scratch convincing a skeptic.",
+    metaDescription:
+      "Reach homeowners dealing with real structural warning signs, cracks, uneven floors, sticking doors, pre-screened for genuine concern.",
     searchChips: ["foundation crack repair cost", "house settling signs", "foundation inspection near me"],
     demoIndustry: "Foundation Repair",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const homeServices5: SolutionVertical[] = [
     highlight: "With Exclusive Chimney Leads",
     subheadline:
       "Get homeowner leads for sweeping, inspection, and masonry repair — filtered by service type so a routine cleaning and a major rebuild never get treated the same, and delivered ahead of your peak fall surge.",
+    metaDescription:
+      "Get homeowner leads for sweeping, inspection, and masonry repair, filtered by service type and delivered ahead of your peak fall surge.",
     searchChips: ["chimney sweep near me", "chimney inspection cost", "chimney repair and masonry"],
     demoIndustry: "Chimney Services",
     overviewEyebrow: "The Problem",
@@ -155,6 +161,8 @@ export const homeServices5: SolutionVertical[] = [
     highlight: "Before the Season Books Solid",
     subheadline:
       "Get exclusive leads for driveway paving, resurfacing, and sealcoating — filtered by material preference and approximate size so a small patch job and a full concrete replacement never price the same.",
+    metaDescription:
+      "Get exclusive leads for driveway paving, resurfacing, and sealcoating, filtered by material preference and approximate size.",
     searchChips: ["driveway paving cost", "asphalt vs concrete driveway", "driveway resurfacing near me"],
     demoIndustry: "Driveway & Paving",
     overviewEyebrow: "The Problem",
@@ -203,6 +211,8 @@ export const homeServices5: SolutionVertical[] = [
     highlight: "Timed to Your Spring and Fall Surges",
     subheadline:
       "Get exclusive leads for new irrigation installs, repairs, and seasonal startup/winterization — filtered by property size and service type so you can staff for the surge instead of guessing.",
+    metaDescription:
+      "Get exclusive leads for new irrigation installs, repairs, and seasonal startup/winterization, filtered by property size and service type.",
     searchChips: ["sprinkler system installation cost", "sprinkler repair near me", "sprinkler winterization service"],
     demoIndustry: "Sprinkler & Irrigation",
     overviewEyebrow: "The Problem",

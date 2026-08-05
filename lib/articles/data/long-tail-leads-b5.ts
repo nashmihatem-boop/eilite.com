@@ -4,6 +4,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "glass-block-installation-leads",
     title: "Glass Block Leads: A Guide for Installation Companies",
+    metaTitle: "Glass Block Leads for Installation Companies",
     excerpt: "Where glass block installers and glass block companies find real customers, what those leads cost, and how to turn inquiries into signed jobs.",
     metaDescription: "How glass block installation companies generate and buy leads, what they cost, and how to qualify prospects before quoting a job.",
     category: "Home Services Marketing",
@@ -91,6 +92,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "20-yard-dumpster-rental-leads",
     title: "20 Yard Dumpster Rental Leads: How to Get More Bookings",
+    metaTitle: "20 Yard Dumpster Rental Leads: More Bookings",
     excerpt: "How dumpster rental companies generate consistent leads for 20 yard container bookings, plus realistic pricing and conversion tactics.",
     metaDescription: "How dumpster rental companies find and convert 20 yard dumpster leads, including typical costs, sourcing channels, and booking tactics.",
     category: "Home Services Marketing",
@@ -179,6 +181,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "antique-restoration-leads",
     title: "Antique Restoration Leads: Finding Clients for Your Craft",
+    metaTitle: "Antique Restoration Leads: Finding New Clients",
     excerpt: "How antique restoration specialists find genuine clients online, what jobs typically pay, and how to stand out in a trade built on trust and craftsmanship.",
     metaDescription: "How antique restoration businesses generate leads, typical project pricing, and how to build trust with clients before the first estimate.",
     category: "Home Services Marketing",
@@ -266,6 +269,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "asbestos-testing-leads",
     title: "Asbestos Testing Leads: A Guide for Inspection Companies",
+    metaTitle: "Asbestos Testing Leads for Inspection Companies",
     excerpt: "How asbestos testing and inspection companies generate leads from renovation projects, real estate transactions, and worried homeowners.",
     metaDescription: "How asbestos testing companies find leads tied to renovations and real estate deals, plus typical pricing and lead qualification tactics.",
     category: "Home Services Marketing",
@@ -309,6 +313,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "awning-company-leads",
     title: "Awning Company Leads: How to Book More Installations",
+    metaTitle: "Awning Company Leads: Book More Installations",
     excerpt: "How awning installation companies generate residential and commercial leads, typical project pricing, and how to convert quote requests into signed jobs.",
     metaDescription: "How awning companies find leads for residential and commercial installations, typical pricing, and tactics for converting quotes into jobs.",
     category: "Home Services Marketing",
@@ -396,6 +401,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "bat-removal-leads",
     title: "Bat Removal Leads: Growing a Wildlife Control Business",
+    metaTitle: "Bat Removal Leads for Wildlife Control Businesses",
     excerpt: "How wildlife control companies generate leads for bat removal and exclusion work, typical pricing, and how to handle urgent, anxious callers.",
     metaDescription: "How bat removal and wildlife control companies find leads, what exclusion work typically costs, and how to convert urgent inquiries into jobs.",
     category: "Home Services Marketing",
@@ -439,6 +445,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "bathroom-vanity-installation-leads",
     title: "Bathroom Vanity Installation Leads: A Guide for Installers",
+    metaTitle: "Bathroom Vanity Installation Leads for Installers",
     excerpt: "How installers and small remodeling companies generate leads for bathroom vanity swaps and installs, and how to price the work profitably.",
     metaDescription: "How bathroom vanity installers generate leads, typical installation pricing, and how to qualify a request before quoting the job.",
     category: "Home Services Marketing",
@@ -482,6 +489,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "bee-removal-leads",
     title: "Bee Removal Leads: A Guide for Bee & Pest Control Businesses",
+    metaTitle: "Bee Removal Leads for Pest Control Businesses",
     excerpt: "How bee removal specialists find urgent, high-intent leads, what live removal and relocation work typically pays, and how to convert anxious callers.",
     metaDescription: "How bee removal businesses generate leads, typical pricing for live removal versus extermination, and how to convert urgent inquiries.",
     category: "Home Services Marketing",
@@ -568,6 +576,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "boiler-repair-leads",
     title: "Boiler Repair Leads: A Guide for Heating Technicians",
+    metaTitle: "Boiler Repair Leads for Heating Technicians",
     excerpt: "How boiler repair technicians generate leads for a service that's highly seasonal and emergency-driven, plus typical pricing and response tactics.",
     metaDescription: "How boiler repair companies find leads, typical repair pricing, and how to handle the seasonal, emergency-driven nature of this trade.",
     category: "Home Services Marketing",
@@ -611,6 +620,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "building-contractor-leads",
     title: "Building Leads: How General Contractors Find New Projects",
+    metaTitle: "Building Contractor Leads: Find New Projects",
     excerpt: "How general contractors and building companies generate leads across new construction, additions, and larger remodeling projects.",
     metaDescription: "How general contractors generate building leads for new construction and additions, typical project value, and lead qualification tactics.",
     category: "Home Services Marketing",
@@ -654,6 +664,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "carpet-repair-company-leads",
     title: "Carpet Repair Company Leads: A Guide for Repair Technicians",
+    metaTitle: "Carpet Repair Company Leads for Technicians",
     excerpt: "How carpet repair technicians find leads for stretching, patching, and seam repair work, and how pricing compares to full replacement.",
     metaDescription: "How carpet repair companies generate leads, typical repair pricing versus replacement, and how to qualify and convert inquiries.",
     category: "Home Services Marketing",
@@ -871,6 +882,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "commercial-pavers-leads",
     title: "Commercial Pavers Leads: Finding B2B Hardscape Projects",
+    metaTitle: "Commercial Pavers Leads: B2B Hardscape Projects",
     excerpt: "How commercial paving and hardscape contractors find B2B leads for parking lots, walkways, and plaza projects, and how bidding differs from residential work.",
     metaDescription: "How commercial pavers contractors generate B2B leads, typical project pricing, and how the bidding process differs from residential hardscape work.",
     category: "Home Services Marketing",
@@ -959,6 +971,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "crawl-space-encapsulation-leads",
     title: "Crawl Space Encapsulation Leads: A Guide for Contractors",
+    metaTitle: "Crawl Space Encapsulation Leads for Contractors",
     excerpt: "How crawl space encapsulation contractors find leads driven by moisture, mold, and energy efficiency concerns, and what a typical job costs.",
     metaDescription: "How crawl space encapsulation companies generate leads, typical project pricing, and how to qualify inquiries by underlying cause.",
     category: "Home Services Marketing",
@@ -1044,6 +1057,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "dock-builder-leads",
     title: "Dock Builder Leads: Finding Waterfront Construction Projects",
+    metaTitle: "Dock Builder Leads: Waterfront Construction",
     excerpt: "How dock builders find leads for waterfront construction, typical permitting and pricing considerations, and how to manage a highly seasonal trade.",
     metaDescription: "How dock builders generate leads for waterfront construction and repair, typical project pricing, and permitting considerations to explain to clients.",
     category: "Home Services Marketing",
@@ -1087,6 +1101,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "drapery-alteration-leads",
     title: "Drapery Alteration Leads: Growing a Custom Drapery Business",
+    metaTitle: "Drapery Alteration Leads for Custom Drapery Shops",
     excerpt: "How drapery alteration specialists find leads for hemming, resizing, and custom fitting work, and how this niche differs from full window treatment sales.",
     metaDescription: "How drapery alteration businesses generate leads, typical pricing for hemming and resizing, and how to build a referral pipeline with designers.",
     category: "Home Services Marketing",
@@ -1130,6 +1145,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "drywall-installer-leads",
     title: "Drywall Installer Leads: A Guide for Drywall Contractors",
+    metaTitle: "Drywall Installer Leads for Drywall Contractors",
     excerpt: "How drywall installation and finishing contractors generate leads across new construction, remodeling, and repair work, and what jobs typically pay.",
     metaDescription: "How drywall contractors generate leads across new construction, remodels, and repair, typical pricing, and how to qualify a job before quoting.",
     category: "Home Services Marketing",
@@ -1393,6 +1409,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "flood-damage-leads",
     title: "Flood Damage Leads: A Guide for Restoration Contractors",
+    metaTitle: "Flood Damage Leads for Restoration Contractors",
     excerpt: "How flood damage restoration contractors generate leads, how insurance and urgency shape the sales process, and what remediation work typically costs.",
     metaDescription: "How flood damage restoration companies generate leads, typical pricing, and how insurance claims shape the customer conversation.",
     category: "Home Services Marketing",
@@ -1480,6 +1497,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "furniture-cleaning-leads",
     title: "Furniture Cleaning Leads: A Guide for Upholstery Cleaners",
+    metaTitle: "Furniture Cleaning Leads for Upholstery Cleaners",
     excerpt: "How furniture and upholstery cleaning businesses generate leads across multiple furniture types, and how this broader niche differs from couch-only searches.",
     metaDescription: "How furniture cleaning businesses generate leads for whole-home upholstery cleaning, typical pricing, and how to bundle services for a bigger ticket.",
     category: "Home Services Marketing",
@@ -1522,6 +1540,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "furniture-upholstery-leads",
     title: "Furniture Upholstery Leads: Finding Reupholstery Customers",
+    metaTitle: "Furniture Upholstery Leads: Find New Customers",
     excerpt: "How reupholstery businesses generate leads for restoring and re-covering furniture, typical pricing by piece type, and how to build a strong portfolio.",
     metaDescription: "How furniture upholstery businesses generate leads for reupholstery work, typical pricing by piece, and how to convert design-conscious clients.",
     category: "Home Services Marketing",
@@ -1565,6 +1584,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "garbage-disposal-repair-leads",
     title: "Garbage Disposal Repair Leads: A Guide for Plumbing Techs",
+    metaTitle: "Garbage Disposal Repair Leads for Plumbers",
     excerpt: "How plumbers and appliance technicians generate leads for garbage disposal repair and replacement, and how to position against a DIY-first customer mindset.",
     metaDescription: "How plumbing and appliance repair technicians generate garbage disposal repair leads, typical pricing, and how to convert budget-conscious customers.",
     category: "Home Services Marketing",
@@ -1652,6 +1672,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "gate-repair-company-leads",
     title: "Gate Repair Company Leads: A Guide for Gate Technicians",
+    metaTitle: "Gate Repair Company Leads for Technicians",
     excerpt: "How gate repair companies generate leads for driveway, security, and automatic gate repair, typical pricing, and how urgency shapes conversion.",
     metaDescription: "How gate repair companies generate leads for driveway and security gate repair, typical pricing, and how to handle urgent access issues.",
     category: "Home Services Marketing",
@@ -1739,6 +1760,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "google-ads-water-restoration-leads",
     title: "Google Ads for Water Restoration Leads: A Tactical Guide",
+    metaTitle: "Google Ads for Water Restoration Leads Guide",
     excerpt: "A tactical guide to running Google Ads campaigns for water restoration leads, covering keyword strategy, bidding, and the emergency-driven nature of this trade.",
     metaDescription: "How water restoration companies use Google Ads to generate leads, including keyword strategy, budgeting, and campaign structure for emergency services.",
     category: "Home Services Marketing",
@@ -1872,6 +1894,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "hedge-trimming-leads",
     title: "Hedge Trimming Leads: Growing a Trimming & Pruning Business",
+    metaTitle: "Hedge Trimming Leads for Lawn Care Businesses",
     excerpt: "How hedge trimming and pruning specialists generate leads separate from general lawn care, typical pricing, and how to build recurring seasonal accounts.",
     metaDescription: "How hedge trimming businesses generate leads, typical pricing by hedge size, and how to build recurring seasonal maintenance accounts.",
     category: "Home Services Marketing",
@@ -1915,6 +1938,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "home-audio-company-leads",
     title: "Home Audio Company Leads: Finding Whole-House Audio Clients",
+    metaTitle: "Home Audio Company Leads: Whole-House Clients",
     excerpt: "How home audio installation companies generate leads for whole-house sound systems, typical pricing, and how this niche differs from home theater work.",
     metaDescription: "How home audio companies generate leads for whole-house sound system installation, typical pricing, and how to convert design-conscious clients.",
     category: "Home Services Marketing",
@@ -1958,6 +1982,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "home-maintenance-leads",
     title: "Home Maintenance Leads: A Guide for Maintenance Companies",
+    metaTitle: "Home Maintenance Leads for Service Companies",
     excerpt: "How home maintenance and handyman-style companies generate leads for recurring seasonal service plans, and how this niche differs from one-off repairs.",
     metaDescription: "How home maintenance companies generate leads, typical pricing for recurring maintenance plans, and how to convert one-off requests into contracts.",
     category: "Home Services Marketing",
@@ -2002,6 +2027,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "home-theater-company-leads",
     title: "Home Theater Company Leads: Finding Custom Install Clients",
+    metaTitle: "Home Theater Company Leads: Custom Install Clients",
     excerpt: "How home theater installers generate leads for dedicated theater rooms, typical pricing tiers, and how to convert design-stage inquiries.",
     metaDescription: "How home theater companies generate leads for custom theater room installation, typical pricing tiers, and conversion tactics.",
     category: "Home Services Marketing",
@@ -2045,6 +2071,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "house-appraiser-leads",
     title: "House Appraiser Leads: A Guide for Residential Appraisers",
+    metaTitle: "House Appraiser Leads for Residential Pros",
     excerpt: "How residential appraisers generate leads for mortgage, refinance, and pre-listing appraisals, and how this work differs from lender-assigned orders.",
     metaDescription: "How residential house appraisers generate leads for mortgage, refinance, and pre-listing appraisals, and typical pricing for this work.",
     category: "Home Services Marketing",
@@ -2131,6 +2158,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "inground-pool-company-leads",
     title: "Inground Pool Company Leads: A Guide for Pool Builders",
+    metaTitle: "Inground Pool Company Leads for Builders",
     excerpt: "How inground pool builders generate leads for gunite and concrete pool construction, typical project pricing, and how to manage a long sales cycle.",
     metaDescription: "How inground pool companies generate leads for gunite and concrete pool construction, typical pricing, and how to convert long sales cycles.",
     category: "Home Services Marketing",
@@ -2174,6 +2202,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "interior-design-leads",
     title: "Interior Design Leads: Finding Clients for Design Businesses",
+    metaTitle: "Interior Design Leads for Design Businesses",
     excerpt: "How interior designers generate leads for residential design projects, typical pricing models, and how to qualify a serious client from a casual browser.",
     metaDescription: "How interior designers generate leads for residential projects, typical pricing models, and how to qualify serious clients before a consultation.",
     category: "Home Services Marketing",
@@ -2217,6 +2246,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "kenmore-washer-repair-leads",
     title: "Kenmore Washer Repair Leads: A Guide for Independent Techs",
+    metaTitle: "Kenmore Washer Repair Leads for Independent Techs",
     excerpt: "How independent appliance repair technicians who service Kenmore washers generate leads, typical pricing, and how parts sourcing affects this niche.",
     metaDescription: "How independent technicians generate leads for Kenmore washer repair, typical pricing, and parts sourcing considerations for this brand.",
     category: "Home Services Marketing",
@@ -2260,6 +2290,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "kitchenaid-oven-repair-leads",
     title: "KitchenAid Oven Repair Leads: A Guide for Independent Techs",
+    metaTitle: "KitchenAid Oven Repair Leads for Independent Techs",
     excerpt: "How independent appliance repair technicians who service KitchenAid ovens generate leads, typical pricing, and how to compete on brand-specific searches.",
     metaDescription: "How independent technicians generate leads for KitchenAid oven repair, typical pricing, and how to compete on brand-specific search terms.",
     category: "Home Services Marketing",
@@ -2346,6 +2377,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "lawn-cutting-service-leads",
     title: "Lawn Cutting Service Leads: A Guide for Mowing Businesses",
+    metaTitle: "Lawn Cutting Service Leads for Mowing Businesses",
     excerpt: "How lawn mowing businesses generate leads for recurring cutting service, typical pricing by lawn size, and how to build a stable weekly route.",
     metaDescription: "How lawn cutting service businesses generate leads, typical recurring pricing, and how to build a stable, efficient weekly mowing route.",
     category: "Home Services Marketing",
@@ -2432,6 +2464,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "leather-furniture-repair-leads",
     title: "Leather Furniture Repair Leads: A Guide for Repair Techs",
+    metaTitle: "Leather Furniture Repair Leads for Techs",
     excerpt: "How leather furniture repair technicians generate leads for tears, cracking, and color restoration, typical pricing, and how to build client trust.",
     metaDescription: "How leather furniture repair businesses generate leads for tears and color restoration, typical pricing, and how to build trust with clients.",
     category: "Home Services Marketing",
@@ -2475,6 +2508,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "local-architect-leads",
     title: "Local Architect Leads: Finding Residential Design Clients",
+    metaTitle: "Local Architect Leads for Residential Design",
     excerpt: "How residential architects generate leads for new construction and major renovation design, typical fee structures, and how to qualify serious clients.",
     metaDescription: "How local architects generate leads for residential design projects, typical fee structures, and how to qualify serious, well-funded clients.",
     category: "Home Services Marketing",
@@ -2518,6 +2552,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "marble-and-granite-leads",
     title: "Marble and Granite Leads: A Guide for Stone Fabricators",
+    metaTitle: "Marble and Granite Leads for Stone Fabricators",
     excerpt: "How marble and granite fabrication companies generate leads for countertop and stone installation, typical pricing, and how to convert showroom visits.",
     metaDescription: "How marble and granite fabricators generate leads for countertop and stone installation, typical pricing, and showroom conversion tactics.",
     category: "Home Services Marketing",
@@ -2561,6 +2596,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "maytag-dryer-repair-leads",
     title: "Maytag Dryer Repair Leads: A Guide for Independent Techs",
+    metaTitle: "Maytag Dryer Repair Leads for Independent Techs",
     excerpt: "How independent appliance repair technicians who service Maytag dryers generate leads, typical pricing, and how brand reputation shapes customer expectations.",
     metaDescription: "How independent technicians generate leads for Maytag dryer repair, typical pricing, and how brand reputation affects customer expectations.",
     category: "Home Services Marketing",
@@ -2604,6 +2640,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "microwave-repair-leads",
     title: "Microwave Repair Leads: Growing an Appliance Repair Business",
+    metaTitle: "Microwave Repair Leads for Appliance Techs",
     excerpt: "How appliance technicians generate leads for general microwave repair, and how this niche differs from higher-value appliance categories.",
     metaDescription: "How appliance repair technicians generate leads for microwave repair, typical pricing, and how to compete against low-cost replacement.",
     category: "Home Services Marketing",
@@ -2647,6 +2684,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "mosquito-control-company-leads",
     title: "Mosquito Control Company Leads: A Guide for Pest Businesses",
+    metaTitle: "Mosquito Control Company Leads for Pest Pros",
     excerpt: "How mosquito control companies generate leads for seasonal treatment programs, typical pricing, and how to build recurring residential accounts.",
     metaDescription: "How mosquito control companies generate leads for seasonal treatment programs, typical pricing, and how to build recurring residential accounts.",
     category: "Home Services Marketing",
@@ -2864,6 +2902,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "plaster-repair-leads",
     title: "Plaster Repair Leads: Growing a Plaster Repair Business",
+    metaTitle: "Plaster Repair Leads for Repair Businesses",
     excerpt: "How plaster repair specialists generate leads from owners of older homes, typical pricing, and how this niche differs from standard drywall repair.",
     metaDescription: "How plaster repair businesses generate leads for older-home wall and ceiling repair, typical pricing, and how to build a specialist reputation.",
     category: "Home Services Marketing",
@@ -2907,6 +2946,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "pool-cleaning-leads",
     title: "Pool Cleaning Leads: A Guide for Pool Service Companies",
+    metaTitle: "Pool Cleaning Leads for Service Companies",
     excerpt: "How pool cleaning and maintenance companies generate leads for recurring service, typical pricing, and how to build a profitable weekly route.",
     metaDescription: "How pool cleaning companies generate leads for recurring maintenance service, typical pricing, and how to build an efficient weekly route.",
     category: "Home Services Marketing",
@@ -2950,6 +2990,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "pool-inspector-leads",
     title: "Pool Inspector Leads: A Guide for Pool Inspection Businesses",
+    metaTitle: "Pool Inspector Leads for Inspection Businesses",
     excerpt: "How pool inspectors generate leads tied to real estate transactions and safety compliance, typical pricing, and how to build agent relationships.",
     metaDescription: "How pool inspectors generate leads for pre-purchase and safety inspections, typical pricing, and how to build real estate referral relationships.",
     category: "Home Services Marketing",
@@ -2993,6 +3034,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "pool-repair-leads",
     title: "Pool Repair Leads: A Guide for Pool Repair Technicians",
+    metaTitle: "Pool Repair Leads for Repair Technicians",
     excerpt: "How pool repair technicians generate leads for structural and equipment repair, typical pricing, and how this differs from routine pool cleaning.",
     metaDescription: "How pool repair technicians generate leads for equipment and structural repair, typical pricing, and how to qualify a job before quoting.",
     category: "Home Services Marketing",
@@ -3124,6 +3166,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "range-hood-company-leads",
     title: "Range Hood Company Leads: A Guide for Ventilation Installers",
+    metaTitle: "Range Hood Company Leads for Ventilation Pros",
     excerpt: "How range hood installers generate leads for kitchen ventilation upgrades, typical pricing, and how this niche connects to broader kitchen remodels.",
     metaDescription: "How range hood installers generate leads for kitchen ventilation upgrades, typical pricing, and how to convert kitchen remodel projects.",
     category: "Home Services Marketing",
@@ -3167,6 +3210,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "remodel-designer-leads",
     title: "Remodel Designer Leads: Finding Design-Build Clients",
+    metaTitle: "Remodel Designer Leads for Design-Build Clients",
     excerpt: "How remodel designers and design-build firms generate leads for kitchen and bathroom renovation design, typical fees, and how to qualify serious clients.",
     metaDescription: "How remodel designers generate leads for kitchen and bathroom renovation planning, typical fee structures, and client qualification tactics.",
     category: "Home Services Marketing",
@@ -3210,6 +3254,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "rodent-control-leads",
     title: "Rodent Control Leads: Growing a Rodent Control Business",
+    metaTitle: "Rodent Control Leads for Pest Control Businesses",
     excerpt: "How rodent control specialists generate leads for mice and rat removal, typical pricing, and how to build recurring exclusion and prevention accounts.",
     metaDescription: "How rodent control businesses generate leads, typical pricing for removal and exclusion work, and how to build recurring prevention accounts.",
     category: "Home Services Marketing",
@@ -3341,6 +3386,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "screen-porch-builder-leads",
     title: "Screen Porch Builder Leads: A Guide for Porch Contractors",
+    metaTitle: "Screen Porch Builder Leads for Contractors",
     excerpt: "How screen porch builders generate leads for enclosed porch construction, typical pricing, and how this compares to open patio cover alternatives.",
     metaDescription: "How screen porch builders generate leads, typical pricing for enclosed porch construction, and how to convert design-stage inquiries.",
     category: "Home Services Marketing",
@@ -3428,6 +3474,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "shower-enclosure-leads",
     title: "Shower Enclosure Leads: A Guide for Glass Installers",
+    metaTitle: "Shower Enclosure Leads for Glass Installers",
     excerpt: "How glass shower enclosure installers generate leads for frameless and semi-frameless upgrades, typical pricing, and how to convert bathroom remodel leads.",
     metaDescription: "How shower enclosure installers generate leads for frameless glass upgrades, typical pricing, and how to convert bathroom remodel inquiries.",
     category: "Home Services Marketing",
@@ -3471,6 +3518,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "sink-installation-leads",
     title: "Sink Installation Leads: A Guide for Plumbing Contractors",
+    metaTitle: "Sink Installation Leads for Plumbing Pros",
     excerpt: "How plumbers and installers generate leads for kitchen and bathroom sink installation, typical pricing, and how to convert standalone swap requests.",
     metaDescription: "How plumbing contractors generate leads for sink installation, typical pricing across kitchen and bathroom projects, and conversion tactics.",
     category: "Home Services Marketing",
@@ -3557,6 +3605,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "sod-installation-leads",
     title: "Sod Installation Leads: A Guide for Sod & Lawn Contractors",
+    metaTitle: "Sod Installation Leads for Lawn Contractors",
     excerpt: "How sod installation contractors generate leads for natural grass lawn renovation, typical pricing, and how this differs from artificial turf installation.",
     metaDescription: "How sod installation contractors generate leads for natural grass lawn renovation, typical pricing, and seasonal timing considerations.",
     category: "Home Services Marketing",
@@ -3600,6 +3649,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "stained-glass-repair-leads",
     title: "Stained Glass Repair Leads: Growing an Art Glass Business",
+    metaTitle: "Stained Glass Repair Leads for Art Glass Shops",
     excerpt: "How stained glass repair specialists generate leads for restoring antique windows and art glass, typical pricing, and how to build a niche reputation.",
     metaDescription: "How stained glass repair businesses generate leads for antique window and art glass restoration, typical pricing, and portfolio-driven marketing.",
     category: "Home Services Marketing",
@@ -3730,6 +3780,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "sunroom-and-patio-enclosure-leads",
     title: "Sunroom and Patio Enclosure Leads: A Guide for Installers",
+    metaTitle: "Sunroom and Patio Enclosure Leads for Installers",
     excerpt: "How sunroom and patio enclosure installers generate leads for fully enclosed outdoor living additions, typical pricing, and conversion tactics.",
     metaDescription: "How sunroom and patio enclosure installers generate leads, typical pricing by structure type, and how to convert design-stage inquiries.",
     category: "Home Services Marketing",
@@ -3773,6 +3824,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "tennis-court-leads",
     title: "Tennis Court Leads: A Guide for Sports Court Contractors",
+    metaTitle: "Tennis Court Leads for Sports Court Builders",
     excerpt: "How tennis and sports court contractors generate leads for construction and resurfacing, typical pricing, and how residential and commercial demand differs.",
     metaDescription: "How tennis and sports court contractors generate leads for construction and resurfacing, typical pricing, and residential versus commercial demand.",
     category: "Home Services Marketing",
@@ -3816,6 +3868,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "tile-floor-installer-leads",
     title: "Tile Floor Installer Leads: A Guide for Flooring Contractors",
+    metaTitle: "Tile Floor Installer Leads for Flooring Pros",
     excerpt: "How tile floor installers generate leads across kitchen, bathroom, and whole-home projects, typical pricing, and how to convert design-stage inquiries.",
     metaDescription: "How tile floor installers generate leads for kitchen, bathroom, and whole-home projects, typical pricing, and conversion tactics.",
     category: "Home Services Marketing",
@@ -3947,6 +4000,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "vinyl-floor-repair-leads",
     title: "Vinyl Floor Repair Leads: A Guide for Flooring Repair Techs",
+    metaTitle: "Vinyl Floor Repair Leads for Flooring Techs",
     excerpt: "How vinyl and LVP flooring repair technicians generate leads for localized damage repair, typical pricing, and how this differs from full replacement.",
     metaDescription: "How vinyl floor repair technicians generate leads for localized LVP and vinyl flooring repair, typical pricing, and qualification tactics.",
     category: "Home Services Marketing",
@@ -3990,6 +4044,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "wallpapering-leads",
     title: "Wallpapering Leads: A Guide for Wallpaper Installers",
+    metaTitle: "Wallpapering Leads for Wallpaper Installers",
     excerpt: "How wallpaper installers generate leads for residential accent walls and full-room installations, typical pricing, and how to convert design-driven clients.",
     metaDescription: "How wallpaper installers generate leads for accent walls and full-room projects, typical pricing, and conversion tactics for design-driven clients.",
     category: "Home Services Marketing",
@@ -4035,6 +4090,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "water-damage-leads-by-phone",
     title: "Water Damage Leads by Phone: A Guide to Live Call Transfers",
+    metaTitle: "Water Damage Leads by Phone: Live Call Transfers",
     excerpt: "Why phone-delivered, live call transfer leads outperform web-form leads for water damage restoration, and how to evaluate a call transfer program.",
     metaDescription: "Why live call transfer leads work especially well for water damage restoration, how pricing compares to form leads, and what to evaluate in a provider.",
     category: "Home Services Marketing",
@@ -4076,6 +4132,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "water-mitigation-leads",
     title: "Water Mitigation Leads: A Guide for Restoration Companies",
+    metaTitle: "Water Mitigation Leads for Restoration Pros",
     excerpt: "How water mitigation companies generate leads for the professional drying and extraction process, typical pricing, and IICRC certification's role.",
     metaDescription: "How water mitigation companies generate leads, typical pricing for extraction and drying services, and how certification affects trust and conversion.",
     category: "Home Services Marketing",
@@ -4119,6 +4176,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "welding-leads",
     title: "Welding Leads: A Guide for Mobile Welding Businesses",
+    metaTitle: "Welding Leads for Mobile Welding Businesses",
     excerpt: "How mobile welding businesses generate leads for residential and light commercial repair work, typical pricing, and how to build a diverse client base.",
     metaDescription: "How mobile welding businesses generate leads for residential and commercial repair, typical pricing, and how to build a diverse client base.",
     category: "Home Services Marketing",
@@ -4162,6 +4220,7 @@ export const longTailLeadsB5Articles: Article[] = [
   {
     slug: "whirlpool-oven-repair-leads",
     title: "Whirlpool Oven Repair Leads: A Guide for Independent Techs",
+    metaTitle: "Whirlpool Oven Repair Leads for Independent Techs",
     excerpt: "How independent appliance repair technicians who service Whirlpool ovens generate leads, typical pricing, and how brand ubiquity shapes competition.",
     metaDescription: "How independent technicians generate leads for Whirlpool oven repair, typical pricing, and how the brand's ubiquity shapes competitive strategy.",
     category: "Home Services Marketing",

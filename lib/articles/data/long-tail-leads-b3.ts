@@ -3652,7 +3652,7 @@ export const longTailLeadsB3Articles: Article[] = [
   {
     slug: "power-washing-leads",
     title: "Power Washing Leads: A Guide for Pressure Washing Companies",
-    metaTitle: "Power Washing Leads Guide for Pressure Washing Companies",
+    metaTitle: "Power Washing Leads for Pressure Washing Companies",
     excerpt: "How pressure washing companies source and convert leads across residential driveways, siding, decks, and commercial exterior cleaning.",
     metaDescription: "A guide to sourcing power washing leads, covering residential versus commercial demand, seasonal patterns, pricing, and conversion tactics.",
     category: "Home Services Marketing",

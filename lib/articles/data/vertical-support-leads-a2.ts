@@ -87,6 +87,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "exclusive-vs-shared-plumbing-leads-which-to-buy",
     title: "Exclusive vs. Shared Plumbing Leads: Which Should You Buy?",
+    metaTitle: "Exclusive vs. Shared Plumbing Leads: Which to Buy?",
     excerpt: "A side-by-side look at exclusive and shared plumbing leads to help plumbing contractors decide which format actually fits their crew size, follow-up speed, and budget.",
     metaDescription: "Exclusive vs. shared plumbing leads compared — cost, close rate, and which format makes sense depending on your crew's size and follow-up speed.",
     category: "Home Services Marketing",
@@ -128,6 +129,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "pay-per-call-plumbing-leads-local-markets-guide",
     title: "Pay-Per-Call Plumbing Leads: How Local Call Programs Work",
+    metaTitle: "Pay-Per-Call Plumbing Leads: How They Work",
     excerpt: "How pay-per-call plumbing leads work, why they convert well for emergency and same-day jobs, and what changes when you're buying leads in a dense metro market versus a smaller one.",
     metaDescription: "How pay-per-call plumbing leads work, why they convert so well for emergency jobs, and what to expect buying them in dense metro markets versus smaller ones.",
     category: "Home Services Marketing",
@@ -209,6 +211,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "window-installation-leads-cost-pricing-2026",
     title: "Window Installation Leads Cost: A 2026 Pricing Breakdown",
+    metaTitle: "Window Installation Leads Cost: 2026 Pricing Guide",
     excerpt: "What window installation leads actually cost in 2026, how exclusivity and project size affect pricing, and how to judge whether a quoted rate makes financial sense for your business.",
     metaDescription: "What window installation leads cost in 2026 — exclusive vs shared pricing, how project size affects rates, and how to evaluate a fair cost per lead.",
     category: "Home Services Marketing",
@@ -288,7 +291,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "best-window-specialty-leads-tinting-shutters-screens",
     title: "Best Ways to Find Leads for Window Specialty Services in 2026",
-    metaTitle: "Window Specialty Service Leads: Tinting, Screens, More",
+    metaTitle: "Window Specialty Leads: Tinting, Shutters, Screens",
     excerpt: "How companies offering window tinting, shutter repair, screen installation, and glass replacement can find leads in these underserved specialty niches without competing head-on with general installers.",
     metaDescription: "How to find leads for window tinting, shutter repair, screen installation, and glass replacement — underserved specialty niches within window services.",
     category: "Home Services Marketing",
@@ -369,6 +372,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "hvac-leads-cost-what-contractors-actually-pay",
     title: "HVAC Leads Cost: What Contractors Actually Pay in 2026",
+    metaTitle: "HVAC Leads Cost: What Contractors Pay in 2026",
     excerpt: "A realistic pricing breakdown for HVAC leads in 2026, covering how job type, season, and exclusivity move the price, and how to calculate whether a quoted rate is actually a good deal.",
     metaDescription: "What HVAC leads actually cost in 2026 — how job type, season, and exclusivity affect pricing, and how to judge whether a quoted rate is a fair deal.",
     category: "Home Services Marketing",
@@ -412,6 +416,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "best-ways-find-hvac-leads-2026-roundup",
     title: "Best Ways to Find HVAC Leads in 2026: A Full Roundup",
+    metaTitle: "Best Ways to Find HVAC Leads in 2026",
     excerpt: "A roundup of the channels HVAC contractors are actually using to find leads in 2026, from exclusive lead programs to maintenance plan referrals, ranked by speed to results.",
     metaDescription: "The best ways HVAC contractors are finding leads in 2026, ranked by how quickly each channel produces booked jobs, from buying leads to referral programs.",
     category: "Home Services Marketing",
@@ -497,7 +502,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
     slug: "brand-specific-appliance-repair-leads-guide",
     title: "How to Get Brand-Specific Appliance Repair Leads",
     excerpt: "Why homeowners increasingly search by appliance brand, not just repair type, and how companies servicing Samsung, LG, GE, Whirlpool, Bosch, and other major brands can capture that demand.",
-    metaDescription: "How to capture brand-specific appliance repair leads for Samsung, LG, GE, Bosch, Kenmore, Maytag, and other major appliance brands homeowners search for by name.",
+    metaDescription: "How to capture brand-specific appliance repair leads for Samsung, LG, GE, Bosch, Kenmore, Maytag, and other major brands homeowners search for by name.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-22",
@@ -535,6 +540,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "appliance-repair-leads-cost-and-marketing-roi",
     title: "Appliance Repair Leads Cost: A 2026 Pricing and ROI Guide",
+    metaTitle: "Appliance Repair Leads: 2026 Cost and ROI Guide",
     excerpt: "What appliance repair leads cost in 2026, how marketing spend translates into booked repairs, and how to evaluate whether your lead source is actually delivering a fair return.",
     metaDescription: "What appliance repair leads cost in 2026 and how to calculate real marketing ROI, covering shared vs exclusive pricing and cost per booked repair.",
     category: "Home Services Marketing",
@@ -617,6 +623,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "fencing-leads-cost-by-material-type-2026",
     title: "Fencing Leads Cost: A Breakdown by Material Type in 2026",
+    metaTitle: "Fencing Leads Cost by Material Type in 2026",
     excerpt: "What fencing leads cost in 2026 broken down by material type, from chain link to wrought iron, and how to judge whether a quoted price makes sense for your average job value.",
     metaDescription: "What fencing leads cost in 2026 by material type — wood, vinyl, chain link, and wrought iron pricing, plus how to calculate a fair cost per booked job.",
     category: "Home Services Marketing",
@@ -660,6 +667,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "chain-link-wood-vinyl-fence-leads-by-material",
     title: "Best Ways to Find Fence Installation Leads by Material Type",
+    metaTitle: "Fence Installation Leads by Material Type",
     excerpt: "How fencing companies specializing in chain link, wood, vinyl, or wrought iron can find leads that actually match their crew's material specialty, rather than competing for generic fencing traffic.",
     metaDescription: "How to find fence installation leads by material specialty — chain link, wood, vinyl, and wrought iron — instead of competing for generic fencing traffic.",
     category: "Home Services Marketing",
@@ -744,6 +752,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "flooring-leads-cost-pricing-by-material-2026",
     title: "Flooring Leads Cost: Pricing by Material and Project Type",
+    metaTitle: "Flooring Leads Cost: 2026 Pricing by Material",
     excerpt: "What flooring leads cost in 2026 across hardwood, vinyl, laminate, and stone, and how to calculate whether a quoted price is actually a good deal for your average job value.",
     metaDescription: "What flooring leads cost in 2026 by material type — hardwood, vinyl, laminate, and stone pricing, plus how to calculate a fair cost per booked job.",
     category: "Home Services Marketing",
@@ -1084,6 +1093,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "door-installation-leads-cost-and-specialty-pricing",
     title: "Door Installation Leads Cost: Standard vs. Specialty Pricing",
+    metaTitle: "Door Installation Leads: Standard vs Specialty",
     excerpt: "What door installation leads cost in 2026, comparing standard entry door pricing against specialty categories like glass, sliding, and pet door installation.",
     metaDescription: "What door installation leads cost in 2026 — standard entry door pricing vs specialty categories like glass, sliding, and pet door installation leads.",
     category: "Home Services Marketing",
@@ -1168,6 +1178,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "deck-maintenance-staining-repair-leads-cost",
     title: "Deck Maintenance & Repair Leads: Cost and What to Expect",
+    metaTitle: "Deck Maintenance & Repair Leads: Cost Guide",
     excerpt: "What deck maintenance, staining, and repair leads cost compared to new construction leads, and how this recurring service segment fits into a deck company's overall lead strategy.",
     metaDescription: "What deck maintenance, staining, and repair leads cost compared to new construction, and how to build a lead strategy around this recurring revenue segment.",
     category: "Home Services Marketing",
@@ -1252,6 +1263,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "siding-leads-cost-material-comparison-2026",
     title: "Siding Leads Cost: Vinyl vs. Metal vs. Fiber Cement Pricing",
+    metaTitle: "Siding Leads Cost: Vinyl vs Metal vs Fiber Cement",
     excerpt: "What siding leads cost in 2026 across vinyl, metal, and fiber cement, and how to calculate whether a quoted price makes sense for your average project value.",
     metaDescription: "What siding leads cost in 2026 by material — vinyl, metal, and fiber cement pricing, plus how to calculate a fair cost per booked job for your business.",
     category: "Home Services Marketing",
@@ -1334,6 +1346,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "gutter-leads-cost-installation-vs-repair-2026",
     title: "Gutter Leads Cost: Installation vs. Repair Pricing in 2026",
+    metaTitle: "Gutter Leads Cost: Installation vs Repair 2026",
     excerpt: "What gutter leads cost in 2026 across new installation, guard installation, and repair work, and how to calculate whether a quoted price is a fair deal.",
     metaDescription: "What gutter leads cost in 2026 — installation, guard, and repair pricing compared, plus how to calculate a fair cost per booked job for your business.",
     category: "Home Services Marketing",
@@ -1418,6 +1431,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "water-heater-leads-cost-tankless-vs-standard-2026",
     title: "Water Heater Leads Cost: Tankless vs. Standard Pricing",
+    metaTitle: "Water Heater Leads Cost: Tankless vs Standard",
     excerpt: "What water heater leads cost in 2026, comparing standard tank replacement against tankless and gas versus electric pricing, plus how to calculate a fair cost per booked job.",
     metaDescription: "What water heater leads cost in 2026 — standard vs tankless pricing, gas vs electric, and how to calculate a fair cost per booked job for your business.",
     category: "Home Services Marketing",
@@ -1504,6 +1518,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "home-security-camera-surveillance-leads-cost",
     title: "Home Security & Camera Installation Leads: Cost Guide",
+    metaTitle: "Home Security & Camera Installation Lead Cost",
     excerpt: "What home security and surveillance camera installation leads cost in 2026, and how to calculate a fair cost per booked job across full systems and standalone camera installs.",
     metaDescription: "What home security and camera installation leads cost in 2026, plus how to calculate a fair cost per booked job across full systems and standalone installs.",
     category: "Home Services Marketing",
@@ -1629,6 +1644,7 @@ export const verticalSupportLeadsA2Articles: Article[] = [
   {
     slug: "how-to-get-foundation-repair-drain-leads-2026",
     title: "How to Get Foundation Repair and Drain Installation Leads",
+    metaTitle: "How to Get Foundation Repair & Drain Leads",
     excerpt: "A practical guide to generating more foundation repair and drain installation leads in 2026, covering how these two closely related services should be marketed together and separately.",
     metaDescription: "How foundation repair companies get more leads in 2026 — foundation drain installation, structural repair, and buying exclusive leads to keep crews booked.",
     category: "Home Services Marketing",

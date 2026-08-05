@@ -1198,7 +1198,7 @@ export const keywordBatch39Articles: Article[] = [
   {
     slug: "sell-leads",
     title: "Sell Leads: A Foundational Guide for Publishers and Affiliates",
-    metaTitle: "How to Sell Leads: A Guide for Publishers and Affiliates",
+    metaTitle: "How to Sell Leads: A Guide for Publishers",
     excerpt: "A foundational guide to selling leads as a monetization strategy across any vertical.",
     metaDescription: "A foundational guide to selling leads as a monetization strategy across any vertical, covering what makes a lead sellable and how to choose the right niche.",
     category: "Lead Generation Basics",

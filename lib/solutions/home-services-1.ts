@@ -11,6 +11,8 @@ export const homeServices1: SolutionVertical[] = [
     highlight: "Less Wasted Ad Spend",
     subheadline:
       "Connect with homeowners who need a new roof, storm-damage repair, or a full replacement — verified, filtered by job type and budget, and delivered exclusively to your crew.",
+    metaDescription:
+      "Connect with homeowners who need a new roof, storm-damage repair, or replacement, verified, filtered by job type and budget, delivered exclusively.",
     searchChips: ["roof replacement cost", "roof leak repair near me", "storm damage roof inspection"],
     demoIndustry: "Roofing",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const homeServices1: SolutionVertical[] = [
     highlight: "With Ready-to-Book Homeowners",
     subheadline:
       "From emergency no-heat calls to full system replacements, get exclusive HVAC leads filtered by job urgency, system type, and budget — delivered the moment a homeowner is ready to talk.",
+    metaDescription:
+      "From emergency no-heat calls to full system replacements, get exclusive HVAC leads filtered by urgency, system type, and budget.",
     searchChips: ["AC repair near me", "furnace not working", "new HVAC system cost"],
     demoIndustry: "HVAC",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const homeServices1: SolutionVertical[] = [
     highlight: "From Emergencies to Remodels",
     subheadline:
       "Get exclusive plumbing leads — from burst-pipe emergencies to water heater installs and full re-pipes — filtered by job type and delivered while the homeowner still needs help now.",
+    metaDescription:
+      "Get exclusive plumbing leads, from burst-pipe emergencies to water heater installs and re-pipes, filtered by job type and delivered fast.",
     searchChips: ["emergency plumber near me", "water heater replacement cost", "drain cleaning service"],
     demoIndustry: "Plumbing",
     overviewEyebrow: "The Problem",
@@ -155,6 +161,8 @@ export const homeServices1: SolutionVertical[] = [
     highlight: "With High-Intent Solar Leads",
     subheadline:
       "Reach homeowners actively researching solar — pre-qualified by homeownership, roof suitability, and utility bill size — so your reps spend time closing, not disqualifying.",
+    metaDescription:
+      "Reach homeowners actively researching solar, pre-qualified by homeownership, roof suitability, and utility bill size, so reps spend time closing.",
     searchChips: ["solar panel cost", "is solar worth it", "solar installation near me"],
     demoIndustry: "Solar",
     overviewEyebrow: "The Problem",
@@ -203,6 +211,8 @@ export const homeServices1: SolutionVertical[] = [
     highlight: "Without Growing Your Ad Budget",
     subheadline:
       "Get exclusive landscaping leads — from routine lawn care to full design-and-build projects — filtered by service type and job size so your crews stay booked without chasing bad-fit work.",
+    metaDescription:
+      "Get exclusive landscaping leads, from routine lawn care to full design-and-build projects, filtered by service type and job size.",
     searchChips: ["landscaping company near me", "lawn care service cost", "backyard landscape design"],
     demoIndustry: "Landscaping",
     overviewEyebrow: "The Problem",

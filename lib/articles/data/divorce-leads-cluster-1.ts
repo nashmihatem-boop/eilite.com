@@ -13,7 +13,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Strategic Guide to Divorce Attorney Leads",
     excerpt:
       "A strategic overview of how family law firms should evaluate, source, and act on divorce attorney leads.",
-    metaDescription: "Divorce lead quality varies enormously between sources and case types. This strategic overview covers how family law firms should evaluate, source, and act on leads.",
+    metaDescription: "Divorce lead quality varies enormously between sources and case types. This overview covers how family law firms should evaluate, source, and act on leads.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-25",
@@ -631,7 +631,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Spousal Support Divorce Lead Acquisition",
     excerpt:
       "Spousal support and alimony disputes represent a distinct divorce sub-niche worth targeting deliberately.",
-    metaDescription: "Spousal support and alimony disputes form a distinct divorce sub-niche worth targeting deliberately. Learn how to acquire leads specifically for this practice area.",
+    metaDescription: "Spousal support and alimony disputes form a distinct divorce sub-niche worth targeting deliberately. Learn how to acquire leads for this practice area.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",
@@ -931,7 +931,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Calculating Divorce Lead ROI",
     excerpt:
       "A step-by-step approach to calculating the actual return on investment of your divorce lead spending.",
-    metaDescription: "Divorce lead spending should be measured against actual returns, not gut feel. This step-by-step approach covers how to calculate the real ROI of your lead budget.",
+    metaDescription: "Divorce lead spending should be measured against actual returns, not gut feel. This step-by-step approach covers how to calculate your real lead ROI.",
     category: "Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-25",

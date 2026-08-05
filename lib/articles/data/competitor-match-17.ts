@@ -4,7 +4,7 @@ export const competitorMatch17Articles: Article[] = [
   {
     slug: "unpaid-medical-bills-after-settlement-understanding-your-obligations",
     title: "Unpaid Medical Bills After Settlement: Understanding Your Obligations",
-    metaTitle: "Unpaid Medical Bills After a Settlement: What to Know",
+    metaTitle: "Unpaid Medical Bills After a Settlement: A Guide",
     metaDescription: "Learn why unpaid medical bills after settlement happen and what options patients and providers have when injury case proceeds fall short.",
     excerpt: "A look at why medical balances sometimes remain after a personal injury settlement closes, and what recourse patients and providers have when that happens.",
     category: "Personal Injury",
@@ -237,7 +237,7 @@ export const competitorMatch17Articles: Article[] = [
   {
     slug: "mri-approval-delays-after-accidents-understanding-the-process",
     title: "MRI Approval Delays After Accidents: Understanding the Process",
-    metaTitle: "MRI Authorization Delays After an Accident, Explained",
+    metaTitle: "MRI Authorization Delays After an Accident",
     metaDescription: "Understand why MRI authorization delays occur in personal injury cases and how the insurance approval process for imaging typically works.",
     excerpt: "A breakdown of why MRI authorization delays are common after accidents, and what the standard prior authorization process looks like for injured patients.",
     category: "Personal Injury",

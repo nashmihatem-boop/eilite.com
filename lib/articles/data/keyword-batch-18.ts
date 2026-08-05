@@ -9,7 +9,7 @@ export const keywordBatch18Articles: Article[] = [
     title: "Gutter Guards Leads: A Guide for Installation Companies",
     metaTitle: "Gutter Guards Leads Guide",
     excerpt: "A guide to sourcing and converting leads for gutter guard and leaf protection installation.",
-    metaDescription: "Gutter guard installers need homeowners already frustrated with cleaning costs, not casual browsers. Learn what makes a genuine installation lead worth pursuing.",
+    metaDescription: "Gutter guard installers need homeowners already frustrated with cleaning costs, not casual browsers. Learn what makes a lead worth pursuing.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-08",
@@ -592,7 +592,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "heloc-leads",
     title: "HELOC Leads: A Guide for Lenders",
-    metaTitle: "HELOC Leads Guide: What Mortgage Lenders Should Verify",
+    metaTitle: "HELOC Leads Guide: What Lenders Should Verify",
     excerpt: "A guide to sourcing and converting leads for home equity lines of credit.",
     metaDescription: "HELOC leads depend on home equity position and credit profile before they're worth pursuing. Learn what lenders should verify before spending follow-up time.",
     category: "Financial Leads",
@@ -1120,7 +1120,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "home-improvement-lead-generation-companies",
     title: "Home Improvement Lead Generation Companies: An Overview",
-    metaTitle: "Home Improvement Lead Generation Companies Explained",
+    metaTitle: "Home Improvement Lead Generation Companies",
     excerpt: "A landscape overview of what home improvement lead generation companies actually do and how the supply chain behind them is structured.",
     metaDescription: "An overview of how the home improvement lead generation industry is structured, from broad marketplaces and franchise co-ops to specialized trade providers.",
     category: "Home Services Marketing",

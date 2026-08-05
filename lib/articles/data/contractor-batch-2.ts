@@ -84,7 +84,7 @@ export const contractorBatch2Articles: Article[] = [
   {
     slug: "advantages-of-using-a-local-phone-number-over-a-toll-free-number-for-local-businesses",
     title: "The Advantages of Using a Local Phone Number Over a Toll-Free Number",
-    metaTitle: "Local Phone Number vs. Toll-Free for Local Businesses",
+    metaTitle: "Local Phone Number vs. Toll-Free: Which Wins?",
     excerpt: "Why a local area code often outperforms a toll-free number for local service businesses, from trust to answer rates.",
     metaDescription: "Why a local area code often outperforms a toll-free number for local service businesses, covering trust signals, answer rates, and caller perception.",
     category: "Marketing Channels",
@@ -158,7 +158,7 @@ export const contractorBatch2Articles: Article[] = [
   {
     slug: "ai-powered-descriptions-enhance-google-business-profiles",
     title: "How AI-Powered Descriptions Can Enhance Google Business Profiles",
-    metaTitle: "AI-Powered Descriptions for Google Business Profiles",
+    metaTitle: "AI Descriptions for Google Business Profiles",
     excerpt: "How to use AI writing tools to improve a Google Business Profile description without producing generic, templated copy.",
     metaDescription: "How to use AI writing tools to improve a Google Business Profile description without producing the generic, templated copy that turns customers off.",
     category: "Tools & Technology",

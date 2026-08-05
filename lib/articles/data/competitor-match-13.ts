@@ -112,7 +112,7 @@ export const competitorMatch13Articles: Article[] = [
   {
     slug: "social-media-marketing-for-personal-injury-law-firms",
     title: "Social Media Marketing for PI Law Firms: A Playbook",
-    metaTitle: "Social Media Marketing for Personal Injury Law Firms",
+    metaTitle: "Social Media Marketing for Injury Law Firms",
     metaDescription:
       "A complete guide to social media marketing for personal injury law firms, covering LinkedIn, Facebook, Instagram, YouTube, paid ads, and video marketing.",
     excerpt:
@@ -917,7 +917,7 @@ export const competitorMatch13Articles: Article[] = [
     title: "How Marketing Automation Signs More Personal Injury Leads",
     metaTitle: "Marketing Automation for Personal Injury Leads",
     metaDescription:
-      "Understand marketing automation personal injury leads strategies, including autoresponders, lead tracking, and automated workflows that nurture more signed clients.",
+      "Autoresponders, lead tracking, and automated workflows help personal injury firms nurture every lead consistently and sign more clients.",
     excerpt:
       "Marketing automation isn't about replacing personal contact, it's about making sure every lead gets consistent, timely attention even when staff can't be everywhere at once.",
     category: "Tools & Technology",
@@ -1137,7 +1137,7 @@ export const competitorMatch13Articles: Article[] = [
   {
     slug: "what-s-the-difference-between-a-personal-injury-referral-service-and-legal-lead-generation",
     title: "PI Referral Service vs. Legal Lead Generation",
-    metaTitle: "Referral Service vs. Legal Lead Generation Explained",
+    metaTitle: "Referral Service vs. Lead Generation Explained",
     metaDescription:
       "Referral service vs legal lead generation: understand the regulatory and practical differences, from case vetting to fee structure, before choosing either.",
     excerpt:
@@ -2165,7 +2165,7 @@ export const competitorMatch13Articles: Article[] = [
   {
     slug: "premises-liability-when-property-conditions-cause-injuries",
     title: "Premises Liability: When Property Conditions Cause Injuries",
-    metaTitle: "Premises Liability for Dangerous Property Conditions",
+    metaTitle: "Premises Liability for Dangerous Properties",
     metaDescription:
       "Learn how premises liability property owner law works, covering duty of care, slip and fall accidents, notice of hazards, and visitor classifications.",
     excerpt:
@@ -2280,7 +2280,7 @@ export const competitorMatch13Articles: Article[] = [
   {
     slug: "medical-malpractice-understanding-healthcare-provider-negligence",
     title: "Medical Malpractice: Understanding Healthcare Provider Negligence",
-    metaTitle: "Medical Malpractice and Healthcare Provider Negligence",
+    metaTitle: "Medical Malpractice: Provider Negligence Guide",
     metaDescription:
       "Understand medical malpractice healthcare provider negligence claims, covering standard of care, expert testimony, common error types, and MICRA limits.",
     excerpt:

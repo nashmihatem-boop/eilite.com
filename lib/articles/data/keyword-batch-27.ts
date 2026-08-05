@@ -676,7 +676,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "lending-leads",
     title: "Lending Leads: A Foundational Guide Across Loan Types",
-    metaTitle: "Lending Leads: A Guide to Sourcing Across Loan Types",
+    metaTitle: "Lending Leads: A Guide Across Loan Types",
     excerpt: "A foundational guide to sourcing and converting leads across every lending product type.",
     metaDescription: "A foundational guide to sourcing and converting leads across every lending product type, from personal loans to mortgages, and the compliance rules for each.",
     category: "Financial Leads",

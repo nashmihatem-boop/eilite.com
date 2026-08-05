@@ -847,7 +847,7 @@ export const keywordBatch12Articles: Article[] = [
   {
     slug: "direct-mail-leads",
     title: "Direct Mail Leads: A Guide to This Traditional Channel",
-    metaTitle: "Direct Mail Leads: Sourcing This Traditional Channel",
+    metaTitle: "Direct Mail Leads: A Traditional Channel Guide",
     excerpt: "A guide to generating and sourcing leads through direct mail campaigns.",
     metaDescription: "Direct mail remains a viable lead channel in a digital-first market — this guide covers how businesses generate and source leads through mail campaigns today.",
     category: "Lead Generation Basics",

@@ -11,6 +11,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "Booked Before the Second Quote",
     subheadline:
       "Connect with homeowners actively shopping entry doors, patio doors, and storm doors — filtered by door type and material preference, and delivered exclusively before they collect a competing bid.",
+    metaDescription:
+      "Connect with homeowners actively shopping entry, patio, and storm doors, filtered by door type and material preference, delivered exclusively.",
     searchChips: ["exterior door replacement cost", "entry door installation near me", "sliding patio door replacement"],
     demoIndustry: "Door Installation",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "Before the Season Peaks",
     subheadline:
       "Get exclusive fencing leads — wood, vinyl, chain-link, or aluminum — filtered by material and linear footage estimate so your crews stay booked through spring and summer demand.",
+    metaDescription:
+      "Get exclusive fencing leads, wood, vinyl, chain-link, or aluminum, filtered by material and linear footage estimate to keep crews booked.",
     searchChips: ["fence installation cost per foot", "vinyl privacy fence installer", "chain link fence contractor near me"],
     demoIndustry: "Fencing",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "to Full Door Replacements",
     subheadline:
       "Get exclusive garage door leads — spring and cable repairs, opener installs, and full door replacements — filtered by job type so your team quotes the right job at the right price.",
+    metaDescription:
+      "Get exclusive garage door leads, spring and cable repairs, opener installs, and full replacements, filtered by job type and priced right.",
     searchChips: ["garage door repair cost", "garage door opener installation", "new garage door replacement near me"],
     demoIndustry: "Garage Doors",
     overviewEyebrow: "The Problem",
@@ -155,6 +161,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "to Match Your Crew's Capacity",
     subheadline:
       "Get exclusive remodeling leads — from single-room refreshes to whole-home renovations — filtered by project scope and budget range so you're not chasing jobs too small or too big for your team.",
+    metaDescription:
+      "Get exclusive remodeling leads, from single-room refreshes to whole-home renovations, filtered by project scope and budget range.",
     searchChips: ["kitchen remodel cost", "whole home renovation contractor", "bathroom remodel near me"],
     demoIndustry: "General Remodeling",
     overviewEyebrow: "The Problem",
@@ -203,6 +211,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "That Aren't Just Roofing Leftovers",
     subheadline:
       "Get exclusive gutter leads — seamless installation, leaf guard, and repair — filtered separately from roofing add-on work so you're not competing against a roofer's courtesy quote.",
+    metaDescription:
+      "Get exclusive gutter leads, seamless installation, leaf guard, and repair, filtered separately from roofing add-on work.",
     searchChips: ["seamless gutter installation cost", "gutter guard installation near me", "gutter repair near me"],
     demoIndustry: "Gutters",
     overviewEyebrow: "The Problem",
@@ -251,6 +261,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "Before the Next Cold Snap",
     subheadline:
       "Get exclusive heating leads — furnace and boiler repair, replacement, and maintenance — filtered by system type and urgency and delivered the moment a homeowner needs help.",
+    metaDescription:
+      "Get exclusive heating leads, furnace and boiler repair, replacement, and maintenance, filtered by system type and urgency.",
     searchChips: ["furnace repair near me", "no heat emergency service", "furnace replacement cost"],
     demoIndustry: "Heating",
     overviewEyebrow: "The Problem",
@@ -347,6 +359,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "Leads That Actually Match It",
     subheadline:
       "Get exclusive leads from homeowners shopping automatic, safety, or winter pool covers — a specialty niche with far fewer competing contractors than general pool service.",
+    metaDescription:
+      "Get exclusive leads from homeowners shopping automatic, safety, or winter pool covers, a specialty niche with fewer competing contractors.",
     searchChips: ["automatic pool cover cost", "pool safety cover installation", "winter pool cover near me"],
     demoIndustry: "Swimming Pool Covers",
     overviewEyebrow: "The Problem",
@@ -395,6 +409,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "Filtered by More Than Just ZIP Code",
     subheadline:
       "Connect with homeowners shopping window replacement — filtered by window count, material, and whole-house vs. partial scope — before they collect a competing bid.",
+    metaDescription:
+      "Connect with homeowners shopping window replacement, filtered by window count, material, and whole-house vs. partial scope.",
     searchChips: ["window replacement cost", "energy efficient windows installer", "vinyl window replacement near me"],
     demoIndustry: "Windows Installation",
     overviewEyebrow: "The Problem",
@@ -443,6 +459,8 @@ export const homeServices4: SolutionVertical[] = [
     highlight: "for a Long Consideration Cycle",
     subheadline:
       "Get exclusive siding leads — vinyl, fiber cement, and engineered wood — filtered by material and project size so you're the first credible bid the homeowner sees, not the last.",
+    metaDescription:
+      "Get exclusive siding leads, vinyl, fiber cement, and engineered wood, filtered by material and project size, delivered fast.",
     searchChips: ["siding replacement cost", "vinyl siding installation near me", "fiber cement siding contractor"],
     demoIndustry: "Siding",
     overviewEyebrow: "The Problem",

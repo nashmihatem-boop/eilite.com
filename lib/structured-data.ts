@@ -56,6 +56,22 @@ export function articleJsonLd(article: {
   };
 }
 
+// Service, not Product: Eilite brokers a B2B lead-generation service, not a physical
+// or packaged digital good, so Product/Offer schema (which expects a price/SKU) doesn't
+// fit — Service is the schema.org type Google's own docs point to for this category.
+export function serviceJsonLd(service: { name: string; description: string; url: string }) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    serviceType: service.name,
+    name: `${service.name} | Eilite`,
+    description: service.description,
+    url: service.url,
+    provider: { "@type": "Organization", name: "Eilite", url: siteConfig.url },
+    areaServed: { "@type": "Country", name: "United States" },
+  };
+}
+
 export function faqJsonLd(faqs: { q: string; a: string }[]) {
   return {
     "@context": "https://schema.org",

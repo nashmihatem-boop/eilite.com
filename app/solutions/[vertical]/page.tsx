@@ -30,8 +30,8 @@ export async function generateMetadata({
   if (!vertical) return {};
 
   return {
-    title: `${vertical.label} Lead Generation`,
-    description: vertical.subheadline,
+    title: vertical.metaTitle ?? `${vertical.label} Lead Generation`,
+    description: vertical.metaDescription ?? vertical.subheadline,
     alternates: { canonical: `/solutions/${vertical.slug}` },
   };
 }

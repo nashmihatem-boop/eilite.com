@@ -149,7 +149,7 @@ export const competitorMatch15Articles: Article[] = [
   {
     slug: "wrongful-death-claims-in-california-understanding-the-legal-framework",
     title: "Wrongful Death Claims in California: Understanding the Legal Framework",
-    metaTitle: "Wrongful Death Claims in California: Legal Framework",
+    metaTitle: "Wrongful Death Claims in California: A Guide",
     metaDescription:
       "Understand wrongful death claims California families can pursue, who qualifies to file, recoverable damages, survival actions, and the statute of limitations.",
     excerpt:
@@ -255,7 +255,7 @@ export const competitorMatch15Articles: Article[] = [
   {
     slug: "burn-injuries-in-personal-injury-cases-medical-classification-and-legal-considerations",
     title: "Burn Injuries in Personal Injury Cases: Classification & Care",
-    metaTitle: "Burn Injuries in Personal Injury Cases: A Full Guide",
+    metaTitle: "Burn Injuries in Personal Injury Cases: A Guide",
     metaDescription:
       "Explore burn injuries personal injury cases involve, including classification by depth and TBSA, treatment phases, damages, and expert witness roles.",
     excerpt:
@@ -398,7 +398,7 @@ export const competitorMatch15Articles: Article[] = [
   {
     slug: "soft-tissue-injuries-in-personal-injury-claims-understanding-the-medical-and-legal-landscape",
     title: "Soft Tissue Injuries in Personal Injury Claims",
-    metaTitle: "Soft Tissue Injuries in Personal Injury Claims Explained",
+    metaTitle: "Soft Tissue Injuries in Personal Injury Claims",
     metaDescription:
       "Learn how soft tissue injuries personal injury claims involve are diagnosed and documented, from whiplash to ligament damage and treatment approaches.",
     excerpt:
@@ -639,7 +639,7 @@ export const competitorMatch15Articles: Article[] = [
   {
     slug: "internal-injuries-in-personal-injury-cases-understanding-hidden-trauma",
     title: "Internal Injuries in Personal Injury Cases",
-    metaTitle: "Internal Injuries in Personal Injury Cases Explained",
+    metaTitle: "Internal Injuries in Personal Injury Cases",
     metaDescription:
       "Understand internal injuries personal injury cases involve, including internal bleeding diagnosis, organ damage, and the symptoms that signal hidden trauma.",
     excerpt:

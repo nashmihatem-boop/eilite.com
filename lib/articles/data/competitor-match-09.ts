@@ -185,7 +185,7 @@ export const competitorMatch09Articles: Article[] = [
   {
     slug: "the-uber-caoc-agreement-how-the-new-framework-may-affect-rideshare-litigation",
     title: "The Uber-CAOC Agreement and Rideshare Litigation",
-    metaTitle: "Uber-CAOC Agreement and California Rideshare Litigation",
+    metaTitle: "Uber-CAOC Agreement and Rideshare Litigation",
     metaDescription:
       "How the Uber-CAOC agreement and related insurance legislation reshape rideshare coverage limits and litigation strategy for California injury attorneys.",
     excerpt:
@@ -1179,7 +1179,7 @@ export const competitorMatch09Articles: Article[] = [
   {
     slug: "should-your-personal-injury-firm-expand-into-mass-tort-litigation",
     title: "Should Your Personal Injury Firm Expand Into Mass Tort Litigation?",
-    metaTitle: "Should Your PI Firm Expand Into Mass Tort Litigation?",
+    metaTitle: "Should Your PI Firm Enter Mass Tort Litigation?",
     metaDescription:
       "An honest look at whether personal injury firms should enter mass tort practice, covering financial requirements, operations, marketing, and entry models.",
     excerpt:

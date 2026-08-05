@@ -1087,7 +1087,7 @@ export const keywordBatch45Articles: Article[] = [
   {
     slug: "water-damage-leads",
     title: "Water Damage Leads: A Foundational Guide for Providers",
-    metaTitle: "Water Damage Leads: A Guide for Restoration Providers",
+    metaTitle: "Water Damage Leads: A Restoration Provider Guide",
     excerpt: "A foundational guide to water damage leads, spanning detection, mitigation, and related services broadly.",
     metaDescription: "A foundational guide to water damage leads spanning detection, mitigation, and restoration services, covering how urgency and insurance shape demand.",
     category: "Home Services Marketing",
@@ -1209,7 +1209,7 @@ export const keywordBatch45Articles: Article[] = [
   {
     slug: "water-heater-leads",
     title: "Water Heater Leads: A Guide for Contractors",
-    metaTitle: "Water Heater Leads: A Guide for Plumbing Contractors",
+    metaTitle: "Water Heater Leads: A Plumbing Contractor Guide",
     excerpt: "A guide to sourcing and converting leads for water heater repair, replacement, and installation.",
     metaDescription: "A guide to sourcing and converting leads for water heater repair, replacement, and installation, covering the emergency-versus-planned split in buyer intent.",
     category: "Home Services Marketing",

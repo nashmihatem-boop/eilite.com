@@ -4,7 +4,7 @@ export const competitorMatch01Articles: Article[] = [
   {
     slug: "litigation-101-new-york-labor-law-settlements-how-to-strategize",
     title: "Litigation 101: New York Labor Law Settlements and How to Strategize",
-    metaTitle: "NY Labor Law Settlements: A Litigation Strategy Guide",
+    metaTitle: "NY Labor Law Settlements: A Litigation Guide",
     metaDescription:
       "New York labor law settlements often hinge on leverage. Learn how attorneys build employment litigation strategy that pushes employers toward early resolution.",
     excerpt:
@@ -1135,7 +1135,7 @@ export const competitorMatch01Articles: Article[] = [
   {
     slug: "law-firm-landing-page-best-practices-how-to-increase-conversions",
     title: "Law Firm Landing Page Best Practices: How to Increase Conversions",
-    metaTitle: "Law Firm Landing Page Best Practices for Conversions",
+    metaTitle: "Law Firm Landing Page Best Practices Guide",
     metaDescription:
       "Law firm landing page best practices that turn more visitors into consultations, covering clear CTAs, mobile design, and common conversion mistakes to avoid.",
     excerpt:
@@ -1281,7 +1281,7 @@ export const competitorMatch01Articles: Article[] = [
   {
     slug: "understanding-the-new-california-auto-insurance-limits-legal-insights-for-attorneys",
     title: "California's New Auto Insurance Limits for Attorneys",
-    metaTitle: "California Auto Insurance Limits: A Guide for Attorneys",
+    metaTitle: "California Auto Insurance Limits for Attorneys",
     metaDescription:
       "California auto insurance limits have increased under new legislation. Here's what plaintiffs' attorneys need to know about case valuation and strategy.",
     excerpt:

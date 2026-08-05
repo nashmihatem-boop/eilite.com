@@ -7,7 +7,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "dnc-scrubbed-leads",
     title: "DNC Scrubbed Leads: Why This Screening Step Matters",
-    metaTitle: "DNC Scrubbed Leads Guide: Compliance and Screening Tips",
+    metaTitle: "DNC Scrubbed Leads: Compliance & Screening Guide",
     excerpt: "A guide to Do Not Call registry scrubbing and why it matters when purchasing leads for outbound calling.",
     metaDescription: "Calling a lead on the Do Not Call registry risks real regulatory penalties, not just a wasted call. Learn why DNC scrubbing matters before outbound calling.",
     category: "Lead Generation Basics",
@@ -70,7 +70,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "door-leads",
     title: "Door Leads: A Broader Guide to This Category",
-    metaTitle: "Door Leads Guide: Entry, Garage & Replacement Buyers",
+    metaTitle: "Door Leads Guide: Entry, Garage & Replacement",
     excerpt: "A broader guide to door-related leads spanning entry doors, garage doors, and general door products.",
     metaDescription: "Door leads span entry doors, garage doors, and general replacement work, each with distinct buyer needs. A broader guide to sourcing this category.",
     category: "Home Services Marketing",
@@ -513,7 +513,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "electrician-leads",
     title: "Electrician Leads: A Guide for Independent Professionals",
-    metaTitle: "Electrician Leads Guide for Independent Professionals",
+    metaTitle: "Electrician Leads for Independent Pros",
     excerpt: "A guide for individual electricians and small firms on building consistent client acquisition volume.",
     metaDescription: "Independent electricians competing against larger firms need an affordable, steady pipeline. Learn tactics for building consistent client acquisition volume.",
     category: "Home Services Marketing",
@@ -576,7 +576,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "email-leads",
     title: "Email Leads: A Guide to This Acquisition Channel",
-    metaTitle: "Email Leads Guide: Sourcing This Acquisition Channel",
+    metaTitle: "Email Leads: Sourcing This Acquisition Channel",
     excerpt: "A guide to generating and sourcing leads through email marketing campaigns.",
     metaDescription: "Email-generated leads depend on list quality and opt-in freshness, not just message content. Learn how this acquisition channel actually produces leads.",
     category: "Lead Generation Basics",

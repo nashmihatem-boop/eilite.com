@@ -90,6 +90,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "exclusive-vs-shared-roofing-leads-which-to-buy",
     title: "Exclusive vs Shared Roofing Leads: Which Should You Buy?",
+    metaTitle: "Exclusive vs Shared Roofing Leads: Which to Buy?",
     excerpt: "A side-by-side look at exclusive and shared roofing leads, how each performs in practice, and which fits different types of roofing businesses best.",
     metaDescription: "Exclusive vs shared roofing leads compared: pricing, close rates, and which delivery model fits your crew size, follow-up speed, and growth goals.",
     category: "Home Services Marketing",
@@ -217,6 +218,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "painting-leads-near-me-local-marketing-that-works",
     title: "Painting Leads Near Me: Local Marketing That Actually Works",
+    metaTitle: "Painting Leads Near Me: Local Marketing That Works",
     excerpt: "Why homeowners search for painting leads near me, and the specific local marketing tactics that help painting contractors capture that hyper-local demand.",
     metaDescription: "Why local search matters so much for painting contractors, and the specific tactics that capture nearby homeowners searching for painters right now.",
     category: "Home Services Marketing",
@@ -386,6 +388,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "decorative-concrete-and-epoxy-coating-leads",
     title: "Decorative Concrete and Epoxy Coating Leads: A Growing Niche",
+    metaTitle: "Decorative Concrete & Epoxy Coating Leads Guide",
     excerpt: "Why decorative concrete and garage floor epoxy coating leads have become one of the fastest-growing niches in the concrete trade, and how to source them.",
     metaDescription: "Why decorative concrete and garage floor epoxy coating leads are growing fast, plus how contractors in this niche source and price leads effectively.",
     category: "Home Services Marketing",
@@ -473,6 +476,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "tree-removal-leads-cost-exclusive-vs-shared",
     title: "Tree Removal Leads Cost: Exclusive vs Shared Pricing",
+    metaTitle: "Tree Removal Leads Cost: Exclusive vs Shared",
     excerpt: "What tree removal leads typically cost, how exclusive and shared pricing compare, and what drives lead cost up during storm season.",
     metaDescription: "What tree removal leads cost in 2026 — exclusive vs shared pricing, storm-season price swings, and how to judge whether a quoted rate is fair.",
     category: "Home Services Marketing",
@@ -603,6 +607,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "pest-control-leads-for-sale-what-to-look-for",
     title: "Pest Control Leads for Sale: What to Look for Before You Buy",
+    metaTitle: "Pest Control Leads for Sale: What to Look For",
     excerpt: "What to evaluate before buying pest control leads for sale, including exclusivity, pricing, verification, and how to judge whether a provider is legitimate.",
     metaDescription: "What to look for before buying pest control leads for sale — exclusivity, pricing, verification standards, and questions to ask any provider.",
     category: "Home Services Marketing",
@@ -645,6 +650,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "commercial-and-24-hour-pest-control-leads",
     title: "Commercial and 24-Hour Pest Control Leads: A Specialty Guide",
+    metaTitle: "Commercial & 24-Hour Pest Control Leads",
     excerpt: "How commercial pest control leads and 24-hour emergency service leads differ from standard residential work, and how to source and price each.",
     metaDescription: "How commercial pest control leads and 24-hour emergency leads differ from residential work, plus how to source and price each niche effectively.",
     category: "Home Services Marketing",
@@ -774,6 +780,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "landscape-materials-and-lighting-leads",
     title: "Landscape Materials and Lighting Leads: An Overlooked Niche",
+    metaTitle: "Landscape Materials and Lighting Leads Guide",
     excerpt: "How landscape rock and sand delivery leads and outdoor landscape lighting leads represent distinct, often underserved niches within the broader trade.",
     metaDescription: "How landscape rock, sand delivery, and outdoor lighting leads represent distinct niches worth marketing separately from general landscaping work.",
     category: "Home Services Marketing",
@@ -861,6 +868,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "mold-inspection-testing-vs-remediation-leads",
     title: "Mold Inspection and Testing Leads vs Remediation Leads",
+    metaTitle: "Mold Inspection & Testing vs Remediation Leads",
     excerpt: "How mold inspection leads, testing leads, and full remediation leads represent distinct stages of the customer journey, and how to market to each.",
     metaDescription: "How mold inspection, testing, and remediation leads differ as distinct stages of the customer journey, and how to market and price each effectively.",
     category: "Home Services Marketing",
@@ -903,6 +911,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "exclusive-mold-removal-leads-cost-and-what-to-expect",
     title: "Exclusive Mold Removal Leads: Cost and What to Expect",
+    metaTitle: "Exclusive Mold Removal Leads: Cost Guide",
     excerpt: "What exclusive mold removal leads typically cost, how they compare to shared delivery, and what to expect when working with a mold remediation lead provider.",
     metaDescription: "What exclusive mold removal leads cost in 2026, how they compare to shared delivery, and what to expect when evaluating a lead provider.",
     category: "Home Services Marketing",
@@ -1033,6 +1042,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "custom-vs-premade-cabinet-leads-sourcing-guide",
     title: "Custom vs Pre-Made Cabinet Leads: Sourcing Both Markets",
+    metaTitle: "Custom vs Pre-Made Cabinet Leads: Sourcing Guide",
     excerpt: "How custom cabinetry leads and pre-made cabinets leads represent different markets with different customers, pricing, and sourcing considerations.",
     metaDescription: "How custom cabinetry leads and pre-made cabinets leads differ in customer profile, pricing, and how businesses source and market to each market.",
     category: "Home Services Marketing",
@@ -1120,6 +1130,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "specialty-remodeling-leads-basements-garages-fireplaces",
     title: "Specialty Remodeling Leads: Basements, Garages & Fireplaces",
+    metaTitle: "Basement, Garage & Fireplace Remodel Leads",
     excerpt: "How basement, garage, and fireplace remodeling leads represent distinct specialty niches within general remodeling, and how to market to each.",
     metaDescription: "How basement, garage, and fireplace remodeling leads differ from general remodeling work, plus how to market and price each specialty niche.",
     category: "Home Services Marketing",
@@ -1341,6 +1352,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "emergency-garage-door-repair-leads-springs-openers",
     title: "Emergency Garage Door Repair Leads: Springs, Openers & More",
+    metaTitle: "Garage Door Repair Leads: Springs & Openers",
     excerpt: "How emergency garage door repair leads, spring repair leads, and opener repair leads represent urgency-driven niches worth marketing separately.",
     metaDescription: "How emergency garage door, spring, and opener repair leads represent urgency-driven niches, and how to market and price them effectively.",
     category: "Home Services Marketing",
@@ -1428,6 +1440,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "exclusive-bathroom-remodeling-leads-cost",
     title: "Exclusive Bathroom Remodeling Leads Cost: What to Expect",
+    metaTitle: "Exclusive Bathroom Remodeling Leads: Cost Guide",
     excerpt: "What exclusive bathroom remodeling leads typically cost, how pricing compares to shared delivery, and what drives the cost up or down.",
     metaDescription: "What exclusive bathroom remodeling leads cost in 2026, how pricing compares to shared delivery, and what factors drive the price up or down.",
     category: "Home Services Marketing",
@@ -1515,6 +1528,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "chimney-cap-and-liner-installation-leads",
     title: "Chimney Cap and Liner Installation Leads: A Specialty Guide",
+    metaTitle: "Chimney Cap & Liner Installation Leads Guide",
     excerpt: "How chimney cap replacement leads and chimney liner installation leads represent a higher-value specialty niche within chimney services.",
     metaDescription: "How chimney cap replacement and liner installation leads represent a higher-value specialty niche, and how to market and price this work effectively.",
     category: "Home Services Marketing",
@@ -1783,6 +1797,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "basement-leak-repair-leads-cost-and-expectations",
     title: "Basement Leak Repair Leads: Cost and What Homeowners Expect",
+    metaTitle: "Basement Leak Repair Leads: Cost Guide",
     excerpt: "What basement leak repair leads typically cost, and what homeowners expect from the process, from diagnosis through a permanent fix.",
     metaDescription: "What basement leak repair leads cost in 2026, and what homeowners expect from diagnosis through a permanent fix — pricing, process, and red flags.",
     category: "Home Services Marketing",
@@ -1870,6 +1885,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "emergency-handyman-leads-capturing-urgent-demand",
     title: "Emergency Handyman Leads: Capturing Urgent Repair Demand",
+    metaTitle: "Emergency Handyman Leads: Capturing Demand",
     excerpt: "How emergency handymen leads represent a distinct, urgency-driven niche worth marketing separately from general handyman services.",
     metaDescription: "How emergency handyman leads represent a distinct, urgency-driven niche, and how to market, staff, and price this segment effectively.",
     category: "Home Services Marketing",
@@ -2044,6 +2060,7 @@ export const verticalSupportLeadsA1Articles: Article[] = [
   {
     slug: "junk-removal-leads-cost-exclusive-vs-shared",
     title: "Junk Removal Leads Cost: Pricing and Exclusive vs Shared",
+    metaTitle: "Junk Removal Leads Cost: Exclusive vs Shared",
     excerpt: "What junk removal leads typically cost, how exclusive and shared pricing compare, and how to judge whether a quoted rate represents fair value.",
     metaDescription: "What junk removal leads cost in 2026, exclusive vs shared pricing, and how to judge whether a quoted rate represents genuinely fair value.",
     category: "Home Services Marketing",

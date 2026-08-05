@@ -8,7 +8,8 @@ import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefit
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
 import { JsonLd } from "@/components/seo/JsonLd";
-import { faqJsonLd } from "@/lib/structured-data";
+import { faqJsonLd, serviceJsonLd } from "@/lib/structured-data";
+import { siteConfig } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "Sell Leads",
@@ -38,6 +39,13 @@ const faqs: FAQItem[] = [
 export default function SellLeadsPage() {
   return (
     <>
+      <JsonLd
+        data={serviceJsonLd({
+          name: "Sell Leads",
+          description: metadata.description as string,
+          url: `${siteConfig.url}/sell-leads`,
+        })}
+      />
       <JsonLd data={faqJsonLd(faqs)} />
       <Navbar />
       <MarketplaceHero

@@ -11,6 +11,8 @@ export const healthcareSolutions: SolutionVertical[] = [
     highlight: "Actually Ready to Enroll",
     subheadline:
       "Get exclusive Medicare leads and live warm transfers — screened for age, ZIP code, and current coverage — so your agents spend AEP calling real prospects, not chasing aggregator leftovers.",
+    metaDescription:
+      "Exclusive Medicare leads and live warm transfers, screened for age, ZIP code, and coverage, so agents spend AEP calling real prospects, not leftovers.",
     searchChips: ["medicare enrollment help", "when can i change my medicare plan", "medicare plans near me"],
     demoIndustry: "Medicare",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const healthcareSolutions: SolutionVertical[] = [
     highlight: "Filtered Down to the County",
     subheadline:
       "Reach beneficiaries actively comparing Medicare Advantage plans — filtered by age, ZIP code, and current coverage, and matched to the plans actually available where they live.",
+    metaDescription:
+      "Reach beneficiaries comparing Medicare Advantage plans, filtered by age, ZIP code, and coverage, and matched to plans available where they live.",
     searchChips: ["best medicare advantage plan 2026", "medicare advantage vs original medicare", "medicare advantage plans in my area"],
     demoIndustry: "Medicare Advantage",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const healthcareSolutions: SolutionVertical[] = [
     highlight: "Who Already Know Which Plan Letter They Want",
     subheadline:
       "Connect with beneficiaries actively comparing Medicare Supplement plan letters — screened for age, ZIP code, and current coverage, and timed around guaranteed-issue and underwriting windows.",
+    metaDescription:
+      "Connect with beneficiaries comparing Medicare Supplement plan letters, screened for age, ZIP code, coverage, and underwriting timing.",
     searchChips: ["medicare plan g vs plan n", "medicare supplement insurance cost", "best medigap plan for seniors"],
     demoIndustry: "Medicare Supplement (Medigap)",
     overviewEyebrow: "The Problem",
@@ -155,6 +161,8 @@ export const healthcareSolutions: SolutionVertical[] = [
     highlight: "Handled With the Care This Audience Deserves",
     subheadline:
       "Reach seniors actively shopping final expense and burial insurance coverage — screened for age, ZIP code, and current coverage, and delivered with the compliant, respectful outreach this audience requires.",
+    metaDescription:
+      "Reach seniors shopping final expense and burial insurance, screened for age, ZIP code, and coverage, delivered with respectful, compliant outreach.",
     searchChips: ["final expense insurance quotes", "burial insurance for seniors", "life insurance for funeral costs"],
     demoIndustry: "Final Expense",
     overviewEyebrow: "The Problem",

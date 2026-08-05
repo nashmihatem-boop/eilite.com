@@ -4,7 +4,7 @@ export const competitorMatch14Articles: Article[] = [
   {
     slug: "nursing-home-abuse-and-neglect-recognizing-and-addressing-elder-mistreatment",
     title: "Nursing Home Abuse and Neglect: Warning Signs and Options",
-    metaTitle: "Nursing Home Abuse and Neglect: Warning Signs & Rights",
+    metaTitle: "Nursing Home Abuse & Neglect: Warning Signs",
     metaDescription:
       "Nursing home abuse and neglect takes many forms. Learn the warning signs, resident rights, and legal protections available to elderly victims and families.",
     excerpt:
@@ -982,7 +982,7 @@ export const competitorMatch14Articles: Article[] = [
   {
     slug: "insurance-bad-faith-when-insurers-fail-to-act-fairly",
     title: "Insurance Bad Faith: When Insurers Fail to Act Fairly",
-    metaTitle: "Insurance Bad Faith Claims: What Policyholders Should Know",
+    metaTitle: "Insurance Bad Faith Claims: What to Know",
     metaDescription:
       "Learn what constitutes insurance bad faith, including unreasonable claim denials, first-party vs. third-party bad faith, and remedies for policyholders.",
     excerpt:

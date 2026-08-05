@@ -142,7 +142,7 @@ export const competitorMatch16Articles: Article[] = [
   {
     slug: "california-personal-injury-filing-deadlines-an-educational-overview-of-statutes-of-limitations",
     title: "California Personal Injury Filing Deadlines Explained",
-    metaTitle: "California Personal Injury Statute of Limitations Guide",
+    metaTitle: "California Personal Injury Filing Deadlines",
     metaDescription:
       "Understand California's statutes of limitations for personal injury claims, including the two-year rule, government claims deadlines, and key exceptions.",
     excerpt:
@@ -467,7 +467,7 @@ export const competitorMatch16Articles: Article[] = [
   {
     slug: "average-car-accident-settlement-amounts-in-california-what-to-expect",
     title: "Average Car Accident Settlement Amounts in California: What to Expect",
-    metaTitle: "Average Car Accident Settlement Amounts in California",
+    metaTitle: "California Car Accident Settlement Amounts",
     metaDescription:
       "See how California car accident settlements vary by injury type, what factors drive value, and why average figures can be misleading for individual cases.",
     excerpt:

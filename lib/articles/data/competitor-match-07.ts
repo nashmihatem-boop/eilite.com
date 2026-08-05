@@ -1192,7 +1192,7 @@ export const competitorMatch07Articles: Article[] = [
   {
     slug: "culturally-aligned-legal-marketing-reaching-multilingual-communities",
     title: "Culturally Aligned Legal Marketing: Reaching Multilingual Communities",
-    metaTitle: "Culturally Aligned Legal Marketing for Multilingual Clients",
+    metaTitle: "Culturally Aligned Legal Marketing Strategies",
     metaDescription:
       "Culturally aligned legal marketing goes beyond translation to genuinely connect with Hispanic and other multilingual communities in personal injury cases.",
     excerpt:
@@ -1859,7 +1859,7 @@ export const competitorMatch07Articles: Article[] = [
   {
     slug: "personalized-chatbots-elevating-your-law-firm-s-client-experience",
     title: "Personalized Chatbots: Elevating Your Law Firm's Client Experience",
-    metaTitle: "Personalized Chatbots for Law Firm Client Experience",
+    metaTitle: "Personalized Chatbots for Law Firm Clients",
     metaDescription:
       "Personalized chatbots for law firms tailor intake conversations by case type and geography, improving engagement for personal injury clients and firms.",
     excerpt:

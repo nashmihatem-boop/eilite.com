@@ -767,7 +767,7 @@ export const competitorMatch19Articles: Article[] = [
   {
     slug: "mass-tort-seo-how-to-rank-and-convert-claimants-before-the-window-closes",
     title: "Mass Tort SEO: Rank and Convert Before the Window Closes",
-    metaTitle: "Mass Tort SEO: Rank and Convert Before the Window Closes",
+    metaTitle: "Mass Tort SEO: Rank Before the Window Closes",
     metaDescription:
       "A mass tort SEO strategy guide covering claimant keyword research, landing page structure, and authority building for time-sensitive litigation windows.",
     excerpt:

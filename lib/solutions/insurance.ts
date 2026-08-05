@@ -11,6 +11,8 @@ export const insuranceSolutions: SolutionVertical[] = [
     highlight: "Not More Tire-Kickers",
     subheadline:
       "Connect with business owners actively shopping general liability, workers' comp, commercial property, and BOP coverage — filtered by industry, employee count, and revenue, and delivered straight to your producers.",
+    metaDescription:
+      "Connect with business owners shopping general liability, workers' comp, commercial property, and BOP coverage, filtered by industry and revenue.",
     searchChips: ["general liability insurance quote", "workers comp cost for small business", "commercial property insurance near me"],
     demoIndustry: "Business Insurance",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const insuranceSolutions: SolutionVertical[] = [
     highlight: "Ready for Underwriting, Not Just Curious",
     subheadline:
       "Get exclusive term and whole life insurance leads from prospects who've already worked through coverage type and amount — filtered by age, health class, and enrollment intent so producers spend time closing, not educating.",
+    metaDescription:
+      "Get exclusive term and whole life insurance leads from prospects who've worked through coverage type and amount, filtered by age and health class.",
     searchChips: ["term life insurance quote", "whole life insurance cost calculator", "life insurance for parents"],
     demoIndustry: "Life Insurance",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const insuranceSolutions: SolutionVertical[] = [
     highlight: "Before the Owner Picks a Competitor",
     subheadline:
       "Reach pet owners actively comparing coverage right after adoption, a vet visit, or a diagnosis — filtered by pet age, species, and pre-existing conditions, and delivered while they're still deciding who to buy from.",
+    metaDescription:
+      "Reach pet owners comparing coverage after adoption, a vet visit, or a diagnosis, filtered by pet age, species, and pre-existing conditions.",
     searchChips: ["pet insurance cost", "best pet insurance for dogs", "does pet insurance cover pre-existing conditions"],
     demoIndustry: "Pet Insurance",
     overviewEyebrow: "The Problem",
@@ -155,6 +161,8 @@ export const insuranceSolutions: SolutionVertical[] = [
     highlight: "Screened for Real Eligibility, Not Just a Zip Code",
     subheadline:
       "Connect with seniors and families actively evaluating Medicare plans, in-home care, or placement options — screened for age, location, and current coverage, and handled with the compliance a heavily regulated category demands.",
+    metaDescription:
+      "Connect with seniors and families evaluating Medicare plans, in-home care, or placement options, screened for age, location, and coverage.",
     searchChips: ["medicare advantage plans near me", "in-home senior care cost", "assisted living options for parents"],
     demoIndustry: "Senior Care",
     overviewEyebrow: "The Problem",

@@ -11,6 +11,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "Not More Shared Leads",
     subheadline:
       "Get exclusive personal injury case leads and live warm transfers from claimants actively searching for representation — screened for real contact info, injury details, and genuine intent before they ever reach your intake team.",
+    metaDescription:
+      "Get exclusive personal injury case leads and live warm transfers from claimants actively searching for representation, screened before they reach you.",
     searchChips: ["personal injury lawyer near me", "do I have a case after my accident", "free injury case consultation"],
     demoIndustry: "Personal Injury",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "The Cases You Actually Want",
     subheadline:
       "Get exclusive divorce and family law case leads and live warm transfers — filtered by case complexity, from simple uncontested filings to contested and high-asset matters — delivered while the prospect is still deciding who to call.",
+    metaDescription:
+      "Get exclusive divorce and family law case leads and warm transfers, filtered by case complexity, from uncontested to high-asset matters.",
     searchChips: ["divorce lawyer near me", "how much does a divorce attorney cost", "child custody lawyer consultation"],
     demoIndustry: "Divorce & Family Law",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "Your Docket's Criteria",
     subheadline:
       "Get exclusive mass tort case leads screened against your specific docket's exposure, injury, and timing criteria — plus live warm transfers for firms that want a qualified claimant on the phone before intake takes over.",
+    metaDescription:
+      "Get exclusive mass tort case leads screened against your docket's exposure, injury, and timing criteria, plus live warm transfers.",
     searchChips: ["do I qualify for a lawsuit", "class action lawsuit eligibility", "free case review lawsuit"],
     demoIndustry: "Mass Tort",
     overviewEyebrow: "The Problem",
@@ -155,6 +161,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "Not Fender-Bender Filler",
     subheadline:
       "Get exclusive car accident and motor vehicle accident case leads and live warm transfers — screened for fault clarity and injury severity — delivered while the claimant is still deciding which firm to call.",
+    metaDescription:
+      "Get exclusive car accident and motor vehicle accident case leads and warm transfers, screened for fault clarity and injury severity.",
     searchChips: ["car accident lawyer near me", "should I get a lawyer after a car accident", "free car accident case review"],
     demoIndustry: "Car Accident (MVA)",
     overviewEyebrow: "The Problem",
@@ -203,6 +211,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "Screened and Ready to Talk",
     subheadline:
       "Get exclusive workers' compensation case leads and live warm transfers from injured workers actively seeking representation — screened for state eligibility and handled with the retaliation-sensitive intake this practice area requires.",
+    metaDescription:
+      "Get exclusive workers' compensation case leads and live warm transfers from injured workers, screened for state eligibility.",
     searchChips: ["workers comp lawyer near me", "can my employer fire me for filing workers comp", "workplace injury lawyer consultation"],
     demoIndustry: "Workers' Compensation",
     overviewEyebrow: "The Problem",
@@ -251,6 +261,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "Split by Chapter",
     subheadline:
       "Get exclusive bankruptcy case leads and live warm transfers — screened for Chapter 7 versus Chapter 13 qualification and genuine filing intent — delivered while the prospect's financial situation is still current.",
+    metaDescription:
+      "Get exclusive bankruptcy case leads and warm transfers, screened for Chapter 7 vs. Chapter 13 qualification and genuine filing intent.",
     searchChips: ["bankruptcy lawyer near me", "chapter 7 vs chapter 13 which is right for me", "free bankruptcy consultation"],
     demoIndustry: "Bankruptcy",
     overviewEyebrow: "The Problem",
@@ -299,6 +311,8 @@ export const legalSolutions: SolutionVertical[] = [
     highlight: "Your Firm's Practice Focus",
     subheadline:
       "Get exclusive immigration case leads and live warm transfers — filtered by case type, from family-based petitions to asylum and deportation defense — delivered to the firms actually equipped to handle them.",
+    metaDescription:
+      "Get exclusive immigration case leads and warm transfers, filtered by case type, from family-based petitions to asylum and deportation defense.",
     searchChips: ["immigration lawyer near me", "green card application lawyer", "deportation defense attorney consultation"],
     demoIndustry: "Immigration Law",
     overviewEyebrow: "The Problem",

@@ -27,6 +27,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "Not Your Free-Trial Graveyard",
     subheadline:
       "Get exclusive B2B leads from companies actively evaluating a new CRM — filtered by company size, industry, and current tooling so your reps are demoing real buyers, not tire-kickers.",
+    metaDescription:
+      "Get exclusive B2B leads from companies actively evaluating a new CRM, filtered by company size, industry, and current tooling.",
     searchChips: ["best CRM for small business", "CRM software comparison", "switch from spreadsheets to CRM"],
     demoIndustry: "CRM Software",
     overviewEyebrow: "The Problem",
@@ -75,6 +77,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "While Their Budget Window Is Still Open",
     subheadline:
       "Get exclusive leads from businesses actively shopping for a new business phone system — filtered by company size, location count, and decision-maker role, delivered while procurement is still active.",
+    metaDescription:
+      "Get exclusive leads from businesses actively shopping for a new phone system, filtered by company size, location count, and decision-maker role.",
     searchChips: ["best business phone system", "cloud phone system for small business", "multi-location phone system"],
     demoIndustry: "Business Phone Systems",
     overviewEyebrow: "The Problem",
@@ -123,6 +127,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "Actually Ready to Switch Payroll Providers",
     subheadline:
       "Get exclusive leads from companies actively shopping for payroll software — filtered by employee headcount and current provider so your reps only call businesses worth the conversation.",
+    metaDescription:
+      "Get exclusive leads from companies actively shopping for payroll software, filtered by employee headcount and current provider.",
     searchChips: ["best payroll software for small business", "switch payroll providers", "payroll software pricing comparison"],
     demoIndustry: "Payroll Software",
     overviewEyebrow: "The Problem",
@@ -171,6 +177,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "Ready to Upgrade Their POS Today",
     subheadline:
       "Get exclusive leads from retailers, restaurants, and service businesses actively shopping for a new point-of-sale system — filtered by industry and hardware needs so your reps aren't guessing at fit.",
+    metaDescription:
+      "Get exclusive leads from retailers, restaurants, and service businesses shopping for a new POS system, filtered by industry and hardware needs.",
     searchChips: ["best POS system for retail", "restaurant POS system cost", "POS system for small business"],
     demoIndustry: "POS Systems",
     overviewEyebrow: "The Problem",
@@ -219,6 +227,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "Actively Comparing VoIP Providers",
     subheadline:
       "Get exclusive leads from businesses shopping for a new VoIP or unified communications solution — filtered by company size and current provider so your sales team calls buyers, not browsers.",
+    metaDescription:
+      "Get exclusive leads from businesses shopping for a new VoIP or unified communications solution, filtered by company size and current provider.",
     searchChips: ["best VoIP provider for business", "VoIP vs landline cost", "VoIP phone service comparison"],
     demoIndustry: "VoIP",
     overviewEyebrow: "The Problem",
@@ -267,6 +277,9 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "Ready to Replace Their Current System",
     subheadline:
       "Get exclusive leads from medical practices actively evaluating new practice management or EHR software — filtered by practice size and specialty, and routed straight to your sales team.",
+    metaTitle: "Medical Practice Software Leads",
+    metaDescription:
+      "Get exclusive leads from medical practices evaluating new practice management or EHR software, filtered by practice size and specialty.",
     searchChips: ["best practice management software", "EHR software for small practice", "medical billing software comparison"],
     demoIndustry: "Medical Practice Management Software",
     overviewEyebrow: "The Problem",
@@ -315,6 +328,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "With Fleets Worth Tracking",
     subheadline:
       "Get exclusive leads from businesses shopping for GPS fleet tracking or fleet management software — filtered by fleet size so your reps spend time on accounts worth closing.",
+    metaDescription:
+      "Get exclusive leads from businesses shopping for GPS fleet tracking or fleet management software, filtered by fleet size.",
     searchChips: ["best fleet tracking software", "GPS fleet tracking cost", "fleet management software for small business"],
     demoIndustry: "Fleet Tracking",
     overviewEyebrow: "The Problem",
@@ -363,6 +378,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "Sales-Qualified Pipeline, Not Form Fills",
     subheadline:
       "Get exclusive leads from businesses that match your ideal-customer profile and are actively evaluating a solution like yours — qualified before delivery, not just another \"contact us\" submission.",
+    metaDescription:
+      "Get exclusive leads from businesses that match your ideal-customer profile and are actively evaluating a solution like yours, qualified before delivery.",
     searchChips: ["best software for [use case]", "compare SaaS platforms", "software free trial vs demo"],
     demoIndustry: "B2B SaaS",
     overviewEyebrow: "The Problem",
@@ -411,6 +428,8 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "How Technology Companies Actually Sell",
     subheadline:
       "Get exclusive B2B leads for your technology company — qualified by company size, industry, and current stack, and delivered in real time so your sales and RevOps teams can move fast.",
+    metaDescription:
+      "Get exclusive B2B leads for your technology company, qualified by company size, industry, and current stack, delivered in real time.",
     searchChips: ["best software solution for [industry]", "enterprise software vendor comparison", "request a demo software"],
     demoIndustry: "Technology Companies",
     overviewEyebrow: "The Problem",
@@ -459,6 +478,9 @@ export const softwareSolutions: SolutionVertical[] = [
     highlight: "With Volume Worth Your Sales Reps' Time",
     subheadline:
       "Get exclusive leads from businesses shopping for a new merchant account or payment processor — filtered by monthly transaction volume so your reps focus on deals worth closing.",
+    metaTitle: "Merchant Account Lead Generation",
+    metaDescription:
+      "Get exclusive leads from businesses shopping for a new merchant account or payment processor, filtered by monthly transaction volume.",
     searchChips: ["best merchant account provider", "lower credit card processing fees", "switch payment processors"],
     demoIndustry: "Merchant Account & Payment Processing",
     overviewEyebrow: "The Problem",

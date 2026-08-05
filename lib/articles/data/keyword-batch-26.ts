@@ -367,7 +367,7 @@ export const keywordBatch26Articles: Article[] = [
   {
     slug: "lead-validation",
     title: "Lead Validation: Confirming Data Accuracy Before You Call",
-    metaTitle: "Lead Validation: Confirming Accuracy Before You Call",
+    metaTitle: "Lead Validation: Confirming Data Accuracy",
     excerpt: "A guide to lead validation and confirming data accuracy, distinct from compliance-focused scrubbing.",
     metaDescription: "A guide to lead validation, the process of confirming data accuracy before you call, distinct from the compliance-focused scrubbing step that precedes it.",
     category: "Lead Generation Basics",

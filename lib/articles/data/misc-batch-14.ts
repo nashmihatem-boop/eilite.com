@@ -7,7 +7,7 @@ export const miscBatch14Articles: Article[] = [
     metaTitle: "PI Lead Costs: A Firm-Level View",
     excerpt:
       "Looking at personal injury lead costs from a firm-wide budgeting perspective, rather than a single lead's price point.",
-    metaDescription: "Personal injury lead costs look different from a firm-wide budgeting view than from a single lead's price tag alone. This guide covers what firms should plan for.",
+    metaDescription: "Personal injury lead costs look different from a firm-wide budgeting view than from a single lead's price tag alone, and what firms should plan for.",
     category: "Personal Injury",
     readTime: "9 min read",
     publishedDate: "2026-09-21",

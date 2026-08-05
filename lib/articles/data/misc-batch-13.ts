@@ -7,7 +7,7 @@ export const miscBatch13Articles: Article[] = [
     metaTitle: "Client Acquisition Software for Law Firms",
     excerpt:
       "A category overview of the software genuinely supporting modern law firm client acquisition, avoiding tool sprawl.",
-    metaDescription: "A category overview of the software genuinely supporting modern law firm client acquisition, lead capture, CRM, call tracking, and how to invest without tool sprawl.",
+    metaDescription: "A category overview of the software genuinely supporting modern law firm client acquisition, lead capture, CRM, and call tracking.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-20",

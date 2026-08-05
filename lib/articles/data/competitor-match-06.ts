@@ -4,7 +4,7 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "software-for-lead-management-the-complete-guide-for-law-firms",
     title: "Lead Management Software for Law Firms: The Complete Buying Guide",
-    metaTitle: "Lead Management Software for Law Firms: Buying Guide",
+    metaTitle: "Lead Management Software for Law Firms: A Guide",
     metaDescription:
       "A practical guide to lead management software for law firms, covering must-have features, legal CRM selection, intake automation, and implementation steps.",
     excerpt:
@@ -234,9 +234,9 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "attracting-commercial-vehicle-clients-fmcsa-compliance-points-attorneys-should-emphasize",
     title: "Attracting Commercial Vehicle Clients: FMCSA Compliance Points",
-    metaTitle: "FMCSA Compliance Points for Trucking Accident Attorneys",
+    metaTitle: "FMCSA Compliance Points for Trucking Attorneys",
     metaDescription:
-      "How trucking accident attorneys use FMCSA violations as evidence of negligence, plus the investigation and marketing angles that attract commercial vehicle clients.",
+      "How trucking accident attorneys use FMCSA violations as evidence of negligence, plus the marketing angles that attract commercial vehicle clients.",
     excerpt:
       "Federal Motor Carrier Safety Administration regulations create a detailed compliance trail that trucking accident attorneys can turn into both litigation leverage and a marketing differentiator.",
     category: "Personal Injury Marketing",
@@ -460,7 +460,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "Strengthening Client Relationships in Law Firms",
     metaTitle: "Strengthening Client Relationships in Law Firms",
     metaDescription:
-      "How law firms strengthen client relationships through better communication, transparency, and technology, with practical strategies for retention and satisfaction.",
+      "How law firms strengthen client relationships through better communication, transparency, and technology, with practical retention strategies.",
     excerpt:
       "Client relationship management isn't just a marketing buzzword for law firms — it's the operational discipline that turns satisfied clients into referral sources and repeat business.",
     category: "Law Firm Marketing",
@@ -755,7 +755,7 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "personal-injury-lawyer-commercial-the-complete-guide-to-creating-high-converting-legal-advertising",
     title: "Personal Injury Lawyer Commercials: A Guide to Legal Advertising",
-    metaTitle: "Personal Injury Lawyer Commercials: Guide to Advertising",
+    metaTitle: "Personal Injury Lawyer Commercials: A Guide",
     metaDescription:
       "A guide to creating a high-converting personal injury lawyer commercial, covering production timelines, compliance requirements, budgeting, and distribution.",
     excerpt:
@@ -1013,9 +1013,9 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "drone-footage-in-trucking-cases-what-lawyers-need-to-know",
     title: "Drone Footage in Trucking Cases: What Lawyers Need to Know",
-    metaTitle: "Drone Footage in Trucking Accident Cases: Lawyer Guide",
+    metaTitle: "Drone Footage in Trucking Cases: Lawyer Guide",
     metaDescription:
-      "How drone footage is changing trucking accident litigation, covering admissibility, Part 107 certification, accident reconstruction, and collection best practices.",
+      "How drone footage is changing trucking accident litigation, covering admissibility, Part 107 certification, and accident reconstruction.",
     excerpt:
       "Drone footage in trucking accident cases has become a genuine litigation advantage, offering aerial perspectives that ground-level investigation simply can't capture.",
     category: "Legal Guides",
@@ -1593,9 +1593,9 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "attacking-trucking-hours-of-service-violations-in-your-next-lawsuit",
     title: "Attacking Trucking Hours-of-Service Violations in Your Next Lawsuit",
-    metaTitle: "Attacking Hours-of-Service Violations in Trucking Suits",
+    metaTitle: "Attacking Hours-of-Service Violations in Trucking",
     metaDescription:
-      "How attorneys can use hours-of-service violations in trucking lawsuits, covering ELD evidence, liability theories, FMCSR compliance, and punitive damages exposure.",
+      "How attorneys can use hours-of-service violations in trucking lawsuits, covering ELD evidence, liability theories, and FMCSR compliance.",
     excerpt:
       "Hours-of-service violations remain one of the most litigable issues in trucking cases, and attorneys who know how to find and use this evidence build stronger negligence claims.",
     category: "Legal Guides",
@@ -1849,7 +1849,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "Mental Injury and PTSD Under Workers' Compensation",
     metaTitle: "Mental Injury & PTSD Under Workers' Compensation",
     metaDescription:
-      "A legal guide to mental injury workers compensation claims, covering PTSD coverage, physical-mental and mental-mental claim categories, and evidentiary requirements.",
+      "A legal guide to mental injury workers compensation claims, covering PTSD coverage, physical-mental and mental-mental claim categories.",
     excerpt:
       "Mental injury workers compensation claims occupy some of the most legally complex territory in the field, with coverage rules that vary sharply depending on how the injury arose.",
     category: "Legal Guides",
@@ -2172,7 +2172,7 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "how-attorneys-can-use-trucking-black-box-data-to-win-commercial-vehicle-cases",
     title: "How Attorneys Can Use Trucking Black Box Data to Win Cases",
-    metaTitle: "Using Trucking Black Box Data in Commercial Vehicle Cases",
+    metaTitle: "Trucking Black Box Data: A Guide for Attorneys",
     metaDescription:
       "How trucking black box data for attorneys works, covering EDR data, ELD logs, telematics, and preservation strategies for building strong negligence cases.",
     excerpt:
@@ -2436,7 +2436,7 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "understanding-and-litigating-trailer-sway-accidents-an-attorney-s-guide",
     title: "Litigating Trailer Sway Accidents: An Attorney's Guide",
-    metaTitle: "Litigating Trailer Sway Accidents: An Attorney's Guide",
+    metaTitle: "Litigating Trailer Sway Accidents: A Guide",
     metaDescription:
       "A trailer sway accident attorney strategy guide covering evidence preservation, liability theories, expert witness selection, and settlement approaches.",
     excerpt:
@@ -2676,9 +2676,9 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "why-advertising-regulations-exist-understanding-compliance-for-legal-marketing-professionals",
     title: "Why Advertising Regulations Exist: A Compliance Guide",
-    metaTitle: "Advertising Regulations for Law Firms: Compliance Guide",
+    metaTitle: "Advertising Regulations for Law Firms: A Guide",
     metaDescription:
-      "A guide to advertising regulations for law firms, covering the consumer-protection rationale behind the rules, FTC and state bar requirements, and best practices.",
+      "A guide to advertising regulations for law firms, covering the consumer-protection rationale, FTC and state bar requirements, and best practices.",
     excerpt:
       "Advertising regulations for law firms exist for real consumer-protection reasons, and understanding that rationale helps marketing teams build compliant campaigns rather than just avoiding trouble.",
     category: "Law Firm Marketing",
@@ -3454,7 +3454,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "AI for Law Firms: Strategies to Transform Marketing in 2026",
     metaTitle: "AI for Law Firms: Marketing Strategies for 2026",
     metaDescription:
-      "How AI marketing for personal injury law firms is evolving in 2026, covering lead scoring, content creation, ad optimization, and ethical compliance considerations.",
+      "How AI marketing for personal injury law firms is evolving in 2026, covering lead scoring, content creation, and ad optimization.",
     excerpt:
       "AI marketing for personal injury law firms is moving from experimental to essential, reshaping lead scoring, content production, and intake automation heading into 2026.",
     category: "Law Firm Marketing",
@@ -3975,7 +3975,7 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "where-your-law-firm-should-allocate-marketing-spend-for-maximum-roi",
     title: "Where Your Law Firm Should Allocate Marketing Spend for Maximum ROI",
-    metaTitle: "Law Firm Marketing Budget Allocation for Maximum ROI",
+    metaTitle: "Law Firm Marketing Budget Allocation for Max ROI",
     metaDescription:
       "A guide to law firm marketing budget allocation across channels, emphasizing cost-per-signed-case measurement and balancing paid spend with compounding assets.",
     excerpt:
@@ -4510,7 +4510,7 @@ export const competitorMatch06Articles: Article[] = [
     title: "Emerging Ad Formats Law Firms Should Know",
     metaTitle: "Emerging Ad Formats Law Firms Should Know",
     metaDescription:
-      "A guide to emerging ad formats for law firms, covering interactive video, connected TV, conversational ads, and how they compare to traditional legal advertising.",
+      "A guide to emerging ad formats for law firms, covering interactive video, connected TV, and conversational ads for legal advertising.",
     excerpt:
       "Emerging ad formats for law firms are moving beyond static banners and text ads toward interactive, immersive experiences that capture attention in a crowded digital landscape.",
     category: "Marketing Channels",
@@ -5206,9 +5206,9 @@ export const competitorMatch06Articles: Article[] = [
   {
     slug: "the-role-of-ai-in-legal-marketing-opportunities-and-challenges-ahead",
     title: "The Role of AI in Legal Marketing: Opportunities and Challenges Ahead",
-    metaTitle: "The Role of AI in Legal Marketing: Opportunities Ahead",
+    metaTitle: "The Role of AI in Legal Marketing: Opportunities",
     metaDescription:
-      "Examining the role of AI in legal marketing, covering content creation, paid ads, intake optimization, and the compliance and ethics questions firms must address.",
+      "Examining the role of AI in legal marketing, covering content creation, paid ads, intake optimization, and the compliance questions firms must address.",
     excerpt:
       "AI in legal marketing offers real efficiency and scale advantages, but realizing its benefits requires attorney oversight and careful attention to bar-rule compliance.",
     category: "Industry Trends",

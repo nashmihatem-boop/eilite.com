@@ -11,6 +11,8 @@ export const insuranceSolutions2: SolutionVertical[] = [
     highlight: "Timed to When Buyers Actually Enroll",
     subheadline:
       "Connect with individuals and families shopping ACA marketplace and off-exchange health coverage — filtered by subsidy eligibility and enrollment window, and delivered while they're still comparing plans, not after they've picked one.",
+    metaDescription:
+      "Connect with individuals and families shopping ACA marketplace and off-exchange coverage, filtered by subsidy eligibility and enrollment window.",
     searchChips: ["health insurance marketplace plans", "affordable health insurance for self employed", "health insurance open enrollment deadline"],
     demoIndustry: "Health Insurance",
     overviewEyebrow: "The Problem",
@@ -59,6 +61,8 @@ export const insuranceSolutions2: SolutionVertical[] = [
     highlight: "Reached Before They Pick the Cheapest Quote",
     subheadline:
       "Get exclusive auto insurance leads from drivers actively requesting quotes — filtered by vehicle count, driving record, and coverage type, and delivered fast enough to win a category where price and speed decide the sale.",
+    metaDescription:
+      "Get exclusive auto insurance leads from drivers actively requesting quotes, filtered by vehicle count, driving record, and coverage type.",
     searchChips: ["cheap car insurance quotes near me", "auto insurance quote comparison", "car insurance for high risk drivers"],
     demoIndustry: "Auto Insurance",
     overviewEyebrow: "The Problem",
@@ -107,6 +111,8 @@ export const insuranceSolutions2: SolutionVertical[] = [
     highlight: "Filtered by the Property, Not Just the ZIP Code",
     subheadline:
       "Reach homeowners shopping coverage around a mortgage closing, refinance, or a non-renewal notice from their current carrier — filtered by property type, dwelling value, and coverage need before your producers ever pick up the phone.",
+    metaDescription:
+      "Reach homeowners shopping coverage around a mortgage closing, refinance, or non-renewal notice, filtered by property type and dwelling value.",
     searchChips: ["homeowners insurance quote", "home insurance after non-renewal", "cheapest home insurance company near me"],
     demoIndustry: "Home Insurance",
     overviewEyebrow: "The Problem",

@@ -76,7 +76,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-brokerage",
     title: "Lead Brokerage: Understanding the Ongoing Business Practice",
-    metaTitle: "Lead Brokerage Guide: How the Business Practice Works",
+    metaTitle: "Lead Brokerage: How the Business Practice Works",
     excerpt: "A guide to lead brokerage as an ongoing business practice, distinct from the broker role itself.",
     metaDescription: "A guide to lead brokerage as an ongoing business practice, distinct from the broker role itself, covering how brokerage relationships are structured.",
     category: "Lead Generation Basics",
@@ -376,7 +376,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-delivery-api",
     title: "Lead Delivery APIs: A Technical Integration Guide",
-    metaTitle: "Lead Delivery API Guide: Technical Integration Basics",
+    metaTitle: "Lead Delivery APIs: Technical Integration Guide",
     excerpt: "A guide to lead delivery APIs and how businesses integrate purchased volume directly into their systems.",
     metaDescription: "A guide to lead delivery APIs and how businesses integrate purchased volume directly into their own CRM or dialer systems immediately after a sale.",
     category: "Tools & Technology",
@@ -947,7 +947,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-gen-agency",
     title: "Lead Gen Agencies: A Guide to This Business Model",
-    metaTitle: "Lead Gen Agency Guide: How This Business Model Works",
+    metaTitle: "Lead Gen Agencies: How This Business Model Works",
     excerpt: "A guide to lead generation agencies and how they operate on behalf of client businesses.",
     metaDescription: "A guide to lead generation agencies and how they operate on behalf of client businesses, including what services are typically included in an engagement.",
     category: "Lead Generation Basics",

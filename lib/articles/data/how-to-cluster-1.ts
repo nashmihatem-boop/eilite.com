@@ -11,7 +11,7 @@ export const howToCluster1Articles: Article[] = [
     metaTitle: "Acquire and Convert Uber Accident Leads",
     excerpt:
       "Uber accident cases involve a specific insurance tier structure worth understanding before marketing to this niche.",
-    metaDescription: "Uber accident cases involve a specific insurance tier tied to the driver's app status at the crash moment. This guide covers acquiring and converting these leads.",
+    metaDescription: "Uber accident cases involve insurance tiers tied to driver app status at the crash. This guide covers acquiring and converting these leads.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-10-07",

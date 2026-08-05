@@ -2118,7 +2118,7 @@ export const competitorMatch11Articles: Article[] = [
   {
     slug: "how-to-generate-personal-injury-leads-with-google-my-business",
     title: "How to Generate Personal Injury Leads With Google My Business",
-    metaTitle: "Generate Personal Injury Leads With Google My Business",
+    metaTitle: "Generate Injury Leads With Google Business Profile",
     metaDescription: "Learn how to generate personal injury leads Google My Business listings, from setup and verification to review management and local service ads.",
     excerpt: "How an optimized Google Business Profile turns local search visibility into a steady, low-cost source of personal injury leads.",
     category: "Lead Generation Basics",
