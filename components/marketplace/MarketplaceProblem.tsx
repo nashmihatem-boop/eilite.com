@@ -14,7 +14,7 @@ export function MarketplaceProblem({
   items: ProblemItem[];
 }) {
   return (
-    <section className="bg-white py-20">
+    <section className="bg-white py-14 sm:py-20">
       <div className="mx-auto max-w-5xl px-6 text-center lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">The Problem</span>
         <h2 className="mt-4 font-heading text-4xl font-bold leading-tight text-[var(--color-ink)] sm:text-5xl">

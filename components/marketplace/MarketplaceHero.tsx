@@ -21,7 +21,7 @@ export function MarketplaceHero({
   chips?: string[];
 }) {
   return (
-    <section className="bg-[var(--color-ink)] pb-20 pt-16 text-white">
+    <section className="bg-[var(--color-ink)] pb-14 pt-12 text-white sm:pb-20 sm:pt-16">
       <div className="mx-auto max-w-5xl px-6 text-center lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">{eyebrow}</span>
         <h1 className="mt-4 font-heading text-4xl font-bold leading-tight text-white sm:text-5xl">

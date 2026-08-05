@@ -9,7 +9,7 @@ export function MarketplaceFAQ({ faqs }: { faqs: FAQItem[] }) {
   const [open, setOpen] = useState<number | null>(0);
 
   return (
-    <section className="bg-[var(--color-surface-alt)] py-20">
+    <section className="bg-[var(--color-surface-alt)] py-14 sm:py-20">
       <div className="mx-auto max-w-3xl px-6 text-center lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">FAQ</span>
         <h2 className="mt-3 font-heading text-3xl font-bold text-[var(--color-ink)] sm:text-4xl">

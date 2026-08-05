@@ -13,7 +13,7 @@ export default function NotFound() {
   return (
     <>
       <Navbar />
-      <section className="bg-white py-24">
+      <section className="bg-white py-16 sm:py-24">
         <div className="mx-auto max-w-2xl px-6 text-center lg:px-8">
           <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">404</span>
           <h1 className="mt-4 font-heading text-4xl font-bold text-[var(--color-ink)] sm:text-5xl">

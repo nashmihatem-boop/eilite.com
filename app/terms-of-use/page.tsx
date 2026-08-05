@@ -13,7 +13,7 @@ export default function TermsOfUsePage() {
   return (
     <>
       <Navbar />
-      <section className="bg-white py-16">
+      <section className="bg-white py-12 sm:py-16">
         <div className="mx-auto max-w-3xl px-6 lg:px-8">
           <h1 className="font-heading text-4xl font-bold text-[var(--color-ink)] sm:text-5xl">Terms of Use</h1>
           <p className="mt-3 text-sm font-medium text-[var(--color-brand)]">Last updated: August 3, 2026</p>

@@ -62,7 +62,7 @@ export function AffiliateCategories() {
   const current = groups[active];
 
   return (
-    <section className="bg-[var(--color-surface-alt)] py-20">
+    <section className="bg-[var(--color-surface-alt)] py-14 sm:py-20">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">Coverage</span>

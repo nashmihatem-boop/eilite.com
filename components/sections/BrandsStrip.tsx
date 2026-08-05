@@ -7,7 +7,7 @@ const brands = [
 
 export function BrandsStrip() {
   return (
-    <section className="border-y border-[var(--color-line)] bg-[var(--color-surface-alt)] py-16">
+    <section className="border-y border-[var(--color-line)] bg-[var(--color-surface-alt)] py-12 sm:py-16">
       <div className="mx-auto max-w-7xl px-6 text-center lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">Our Brands</span>
         <h2 className="mt-3 font-heading text-2xl font-bold text-[var(--color-ink)] sm:text-3xl">

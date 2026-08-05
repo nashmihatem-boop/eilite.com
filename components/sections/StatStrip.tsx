@@ -11,7 +11,7 @@ const stats: { icon: LucideIcon; value: string; label: string; hideOnMobile?: bo
 
 export function StatStrip() {
   return (
-    <div className="mx-auto grid max-w-7xl grid-cols-2 gap-4 px-6 pb-20 sm:grid-cols-3 lg:grid-cols-5 lg:px-8">
+    <div className="mx-auto grid max-w-7xl grid-cols-2 gap-4 px-6 pb-14 sm:grid-cols-3 sm:pb-20 lg:grid-cols-5 lg:px-8">
       {stats.map((stat) => (
         <div
           key={stat.label}

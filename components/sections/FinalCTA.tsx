@@ -2,7 +2,7 @@ import { DemoTriggerButton } from "@/components/ui/DemoTriggerButton";
 
 export function FinalCTA() {
   return (
-    <section className="bg-white py-20">
+    <section className="bg-white py-14 sm:py-20">
       <div className="mx-auto max-w-5xl px-6 lg:px-8">
         <div className="relative overflow-hidden rounded-[2rem] border border-[var(--color-line)] bg-linear-to-br from-[var(--color-surface-tint)] via-white to-white px-8 py-16 text-center shadow-sm sm:px-16 sm:py-20">
           <div className="bg-dot-grid pointer-events-none absolute inset-0 opacity-60" />

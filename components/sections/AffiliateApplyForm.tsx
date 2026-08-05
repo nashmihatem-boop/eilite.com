@@ -56,7 +56,7 @@ export function AffiliateApplyForm() {
   }
 
   return (
-    <section id="apply" className="scroll-mt-24 bg-white py-20">
+    <section id="apply" className="scroll-mt-24 bg-white py-14 sm:py-20">
       <div className="mx-auto max-w-3xl px-6 lg:px-8">
         <div className="rounded-[2rem] border border-[var(--color-line)] bg-[var(--color-surface-alt)] p-8 sm:p-12">
           {submitted ? (

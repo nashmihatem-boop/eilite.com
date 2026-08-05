@@ -32,7 +32,7 @@ export default function LearningCenterPage() {
         ctaLabel="Book a Demo Call"
       />
 
-      <section className="bg-white pb-20 pt-14">
+      <section className="bg-white pb-14 pt-10 sm:pb-20 sm:pt-14">
         <div className="mx-auto max-w-5xl px-6 lg:px-8">
           <LearningCenterBrowser articles={articleSummaries} categories={getCategories()} />
 

@@ -25,7 +25,7 @@ export function Hero() {
 
           <div className="absolute inset-0 bg-linear-to-b from-[var(--color-ink)]/80 via-[var(--color-ink)]/70 to-[var(--color-ink)]/85" />
 
-          <div className="relative mx-auto max-w-3xl px-6 py-20 text-center sm:px-10 lg:py-28">
+          <div className="relative mx-auto max-w-3xl px-6 py-14 text-center sm:px-10 sm:py-20 lg:py-28">
             <span className="inline-block text-xs font-bold tracking-[0.2em] text-[var(--color-brand)] uppercase">
               America&apos;s Lead Generation Hub Since 2010
             </span>
@@ -51,7 +51,7 @@ export function Hero() {
         </motion.div>
       </div>
 
-      <div className="mt-14">
+      <div className="mt-10 sm:mt-14">
         <StatStrip />
       </div>
     </section>

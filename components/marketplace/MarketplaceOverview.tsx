@@ -15,7 +15,7 @@ export function MarketplaceOverview({
   benefits: string[];
 }) {
   return (
-    <section className="bg-[var(--color-surface-alt)] py-20">
+    <section className="bg-[var(--color-surface-alt)] py-14 sm:py-20">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="grid gap-10 lg:grid-cols-2 lg:gap-16">
           <div>

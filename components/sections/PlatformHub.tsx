@@ -30,7 +30,7 @@ function pointFor(index: number) {
 
 export function PlatformHub() {
   return (
-    <section className="bg-[var(--color-surface-alt)] py-20">
+    <section className="bg-[var(--color-surface-alt)] py-14 sm:py-20">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">The Platform</span>
         <h2 className="mt-3 font-heading text-3xl font-bold text-[var(--color-ink)] sm:text-4xl">

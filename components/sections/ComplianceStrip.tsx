@@ -11,7 +11,7 @@ const partners = [
 
 export function ComplianceStrip() {
   return (
-    <section id="compliance" className="scroll-mt-24 bg-white py-20">
+    <section id="compliance" className="scroll-mt-24 bg-white py-14 sm:py-20">
       <div className="mx-auto max-w-7xl px-6 text-center lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">Compliance</span>
         <h2 className="mt-3 font-heading text-3xl font-bold text-[var(--color-ink)] sm:text-4xl">
