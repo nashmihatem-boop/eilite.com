@@ -379,6 +379,29 @@ export const ppcCluster2Articles: Article[] = [
         type: "paragraph",
         text: "Ad scheduling decisions and staffing decisions should really be made together rather than in isolation. A marketing team narrowing ad hours without looping in whoever manages intake staffing can miss an opportunity to instead extend coverage and capture more of the demand that's already being paid for. Regular communication between whoever manages the ad account and whoever manages intake ensures scheduling reflects actual, current staffing capacity rather than an outdated assumption.",
       },
+      {
+        type: "heading",
+        text: "Accounting for Time Zones When Serving Multiple Markets",
+      },
+      {
+        type: "paragraph",
+        text: "Firms advertising across multiple states or a wide metro area spanning time zone boundaries need to configure ad scheduling against the correct local time for each target audience, not simply the firm's own office time zone, since a schedule built around the wrong time zone can inadvertently pause ads during a market's actual peak search hours or run them during genuinely dead overnight hours in that region. This is an easy detail to overlook when first setting up scheduling, and worth double-checking specifically for any campaign targeting a geography outside the firm's home time zone.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Dayparting Performance Alongside Seasonal Trends",
+      },
+      {
+        type: "paragraph",
+        text: "The ideal ad schedule isn't necessarily static year-round, since seasonal shifts, daylight saving time changes, holiday travel patterns, summer versus winter daylight hours affecting when accidents or incidents tend to occur, can shift which hours actually produce the strongest results. Firms that revisit their dayparting schedule seasonally, rather than setting it once based on a single data snapshot and leaving it unchanged indefinitely, tend to capture more of the available high-intent traffic across the full year rather than optimizing only for the conditions that happened to exist when the schedule was first built.",
+      },
+      {
+        type: "heading",
+        text: "Documenting Schedule Changes and the Reasoning Behind Them",
+      },
+      {
+        type: "paragraph",
+        text: "Keeping a simple, dated log of every dayparting adjustment, along with the specific data that prompted it, gives a firm a genuinely useful reference when reviewing performance months later, since it's otherwise remarkably easy to forget exactly why a particular schedule decision was made and whether the underlying conditions that originally justified it still genuinely hold up and remain true today, months or sometimes even years later on." },
     ],
     faqs: [
       {

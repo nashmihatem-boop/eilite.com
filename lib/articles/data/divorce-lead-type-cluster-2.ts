@@ -135,6 +135,22 @@ export const divorceLeadTypeCluster2Articles: Article[] = [
           "Let the resulting cost-per-signed-case data drive the longer-term decision, not intuition or sticker price alone.",
         ],
       },
+      {
+        type: "heading",
+        text: "Blending Both Models Rather Than Choosing Just One",
+      },
+      {
+        type: "paragraph",
+        text: "Many established firms don't treat this as a binary choice at all, instead routing higher-value or more time-sensitive case types toward exclusive delivery while using shared leads to add lower-cost volume for more routine, uncontested matters where a slightly lower win rate is more tolerable. This blended approach lets a firm capture the conversion advantage of exclusivity where it matters most, while still benefiting from shared leads' lower per-unit cost to keep overall acquisition spend efficient across a broader caseload.",
+      },
+      {
+        type: "heading",
+        text: "Renegotiating Terms as Your Firm's Track Record Builds",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that have run a structured comparison and built a documented track record with a specific provider are in a genuinely stronger position to negotiate better terms, whether that's a lower exclusive rate given consistent volume, or a cap on how many competitors receive a shared lead. Providers generally reserve their best terms for buyers who can demonstrate reliable volume and clear, consistent performance data, rather than those negotiating from a purely hypothetical position.",
+      },
     ],
     faqs: [
       {
@@ -290,6 +306,30 @@ export const divorceLeadTypeCluster2Articles: Article[] = [
         type: "paragraph",
         text: "Because high-intent leads convert at a meaningfully higher rate, a $300 high-intent exclusive lead converting at 30% often produces a lower cost per signed case than a $60 general shared lead converting at 6% — $1,000 versus roughly the same figure, but with far less staff time spent chasing unqualified contacts. Testing high-intent volume against your current source on [Eilite's buy leads platform](/buy-leads) is the most reliable way to confirm this holds for your firm's specific intake process.",
       },
+      {
+        type: "heading",
+        text: "Recognizing When a Prospect's Intent Is Still Developing",
+      },
+      {
+        type: "paragraph",
+        text: "Not every inquiry that lacks strong high-intent signals should be dismissed as unlikely to convert; some prospects are genuinely still processing a difficult decision and simply need more time, information, and reassurance before committing to a consultation. Firms that build a distinct, more patient nurture track for these earlier-stage inquiries, rather than treating them as a lost cause, often convert a meaningful share of them weeks or months later once life circumstances push the decision forward.",
+      },
+      {
+        type: "heading",
+        text: "Why High-Intent Screening Criteria Should Evolve With Practice Focus",
+      },
+      {
+        type: "paragraph",
+        text: "A firm handling primarily straightforward, uncontested divorces might define high intent differently than a firm focused on complex, high-asset cases, where a prospect's readiness signals often look different, more focused on asset protection concerns or business valuation questions rather than a simple filing timeline. Firms should periodically revisit their own definition of high intent to make sure it still reflects what actually predicts a signed case within their specific practice focus, rather than relying on a generic definition that may not fit their particular caseload.",
+      },
+      {
+        type: "heading",
+        text: "Avoiding Over-Reliance on a Single High-Intent Source",
+      },
+      {
+        type: "paragraph",
+        text: "Even a genuinely strong high-intent lead source carries risk if a firm becomes entirely dependent on it, since a single provider's pricing changes, screening quality drift, or reduced volume can disrupt a meaningful share of the firm's pipeline all at once. Diversifying across two or three well-vetted high-intent sources, even if one performs somewhat better than the others, protects a firm's growth from being tied to the fortunes of a single vendor relationship.",
+      },
     ],
     faqs: [
       {
@@ -443,6 +483,30 @@ export const divorceLeadTypeCluster2Articles: Article[] = [
       {
         type: "paragraph",
         text: "A provider's verification standards at the start of a relationship aren't necessarily fixed forever — traffic sources shift, internal processes change, and quality can quietly erode without an obvious single incident marking the decline. Periodically re-confirming a provider's current verification practices, rather than assuming initial due diligence remains valid indefinitely, protects both your conversion rate and your compliance posture as the relationship continues.",
+      },
+      {
+        type: "heading",
+        text: "How Verification Differs Between Organic and Purchased Volume",
+      },
+      {
+        type: "paragraph",
+        text: "Firms generating some divorce inquiries through their own website alongside purchased volume should apply the same verification discipline to both sources, since organic form submissions can be just as vulnerable to bot traffic, mistyped contact information, or incidental engagement as any purchased lead. Building a consistent internal verification standard that applies regardless of source origin protects a firm's intake team from wasting time on low-quality contacts no matter where they originated.",
+      },
+      {
+        type: "heading",
+        text: "Training Staff to Recognize Verification Gaps in Practice",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond auditing a provider's documentation, intake staff who actually work these leads every day often notice patterns, unusually high rates of confused or unresponsive contacts, for instance, well before a formal review would catch a decline in verification quality. Firms that create a simple, low-friction way for staff to flag these patterns as they notice them, rather than relying solely on periodic formal audits, tend to catch verification problems considerably faster than firms depending on scheduled reviews alone.",
+      },
+      {
+        type: "heading",
+        text: "Documenting Verification Standards in a Written Vendor Agreement",
+      },
+      {
+        type: "paragraph",
+        text: "Verbal assurances about verification practices offer little protection if a dispute arises later, so firms should push for these standards, which consent platform is used, what contact validation happens, and how quickly disputed leads get credited, to be written into the actual purchase agreement rather than left as an informal understanding. A provider confident in its verification practices should have no hesitation putting these specifics in writing, and reluctance to do so is itself a meaningful signal worth weighing before committing to ongoing volume.",
       },
     ],
     faqs: [

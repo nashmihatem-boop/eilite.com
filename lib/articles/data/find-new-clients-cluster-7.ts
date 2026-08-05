@@ -270,6 +270,30 @@ export const findNewClientsCluster7Articles: Article[] = [
         type: "paragraph",
         text: "Approaching a public adjuster or claims consultant with an overtly transactional pitch, focused only on what the firm wants to receive, tends to undermine trust before the relationship has a chance to develop. A more effective approach positions the attorney as a genuine resource, willing to answer general questions or provide input even when it doesn't immediately result in a referral, building the kind of professional goodwill that produces referrals naturally over time rather than through direct solicitation.",
       },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With This Channel",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is expecting quick results from a relationship-based channel that inherently takes months to mature, leading firms to abandon promising early relationships before a referring professional has had enough time to observe how the firm actually treats referred clients. Firms also sometimes neglect to close the loop with a referring adjuster once a case concludes, missing an easy, low-cost opportunity to reinforce the relationship with a simple, genuine update on how things went and what the client ultimately experienced along the way through the entire legal process. This small courtesy costs nothing but a few minutes.",
+      },
+      {
+        type: "heading",
+        text: "Structuring a Simple System to Track These Relationships",
+      },
+      {
+        type: "paragraph",
+        text: "Even a basic spreadsheet or CRM tag noting which contact referred which case, and how that case ultimately resolved, gives a firm the data needed to identify which relationships are genuinely productive and worth continued investment versus which have gone quiet despite early promise. Without this tracking, referral-based volume tends to blend into general intake data, making it easy to underestimate, or simply lose track of, a channel that's actually contributing meaningfully to the firm's overall case flow.",
+      },
+      {
+        type: "heading",
+        text: "Introducing New Attorneys to Existing Referral Contacts",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm grows, existing referral relationships with public adjusters and claims consultants shouldn't rest entirely on the one attorney who originally built them, since that concentration creates real risk if that attorney leaves or becomes unavailable. Proactively introducing newer attorneys to established referral contacts, ideally through a warm, in-person introduction rather than a cold email, helps the relationship survive and continue producing genuine value even as firm personnel and internal staffing naturally change and evolve over time.",
+      },
     ],
     faqs: [
       {
@@ -412,6 +436,30 @@ export const findNewClientsCluster7Articles: Article[] = [
       {
         type: "paragraph",
         text: "Video testimonials tend to carry the strongest persuasive impact, but written testimonials remain valuable, are faster to gather, and work well in formats like PDF case summaries or email signatures where video isn't practical. Many firms find a mixed approach, using video for the highest-visibility placements and written quotes more broadly across the site, captures most of the credibility benefit without requiring every single testimonial to go through a full video production process.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Testimonial Content",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is gathering testimonials only sporadically, whenever someone happens to remember to ask, rather than building a consistent request into the standard case-closing process for every satisfied client. Firms also sometimes let compliance concerns become an excuse to avoid testimonials altogether, when in most states a properly disclaimed, honestly presented testimonial is entirely permissible and simply requires following the specific formatting and consent rules rather than avoiding the format entirely.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Whether Testimonials Are Actually Driving Conversions",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond simply publishing testimonials and hoping they help, firms can track engagement with dedicated testimonial pages, note whether prospects mention having watched a specific video during their consultation, and, where feasible, test a landing page with and without testimonial content to compare conversion directly. This kind of measurement turns testimonials from an assumed best practice into a genuinely data-backed part of the firm's conversion strategy.",
+      },
+      {
+        type: "heading",
+        text: "Involving the Whole Team in Testimonial Collection",
+      },
+      {
+        type: "paragraph",
+        text: "Attorneys are often the primary point of contact during a case, but paralegals and intake staff frequently develop genuine rapport with clients too, and training the whole team to recognize a good testimonial opportunity, rather than relying solely on the attorney to remember to ask, produces a steadier flow of raw material to work with. A simple internal process, flagging a case as testimonial-worthy at closing and routing the request to whoever handles video collection, removes the dependency on any one single individual team member remembering to consistently follow through.",
       },
     ],
     faqs: [

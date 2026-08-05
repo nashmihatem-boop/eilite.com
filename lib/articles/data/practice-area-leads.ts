@@ -172,6 +172,14 @@ export const practiceAreaLeadsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Building Recurring Client Value Beyond the Initial Matter",
+      },
+      {
+        type: "paragraph",
+        text: "Family law relationships often extend well beyond a single signed case, since custody arrangements get modified, support orders get revisited, and a client's broader legal needs, estate planning, business matters, evolve over years. Firms that stay in touch with past clients, through periodic check-ins or genuinely useful content shared over time, capture a meaningful share of this future work that competitors relying purely on new-client acquisition never see. This lifetime relationship value is worth factoring into how much a firm is willing to invest in acquiring a given family law client in the first place, since a client acquired today may generate several related engagements over the following years.",
+      },
+      {
+        type: "heading",
         text: "Referral Networks Are Especially Powerful in Family Law",
       },
       {
@@ -230,6 +238,22 @@ export const practiceAreaLeadsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Because case value and conversion rates differ so much across family law sub-categories, calculating cost-per-signed-case separately for divorce, custody, and protective order leads — rather than blending them into a single family law average — gives a much clearer picture of where lead spend is actually paying off. A firm might find its custody-lead spend is highly efficient while its general divorce-lead spend needs adjustment, a distinction a blended number would hide entirely.",
+      },
+      {
+        type: "heading",
+        text: "Concrete Price Ranges Across Family Law Sub-Categories",
+      },
+      {
+        type: "paragraph",
+        text: "Custody modification and support leads commonly run $25 to $75 given their narrower scope. Standard uncontested divorce leads run $40 to $120. Contested divorce and high-asset matters run $100 to $300 or more. Adoption and guardianship leads typically run $40 to $130 given their specialized but generally lower-value nature. Protective order and domestic violence-related inquiries are less commonly sold as standard purchased leads given their urgency and sensitivity, and firms serving this sub-area often rely more heavily on organic content, referral relationships, and direct community visibility than paid lead generation.",
+      },
+      {
+        type: "heading",
+        text: "Building a Protective Order Response Protocol",
+      },
+      {
+        type: "paragraph",
+        text: "Given the genuine safety stakes involved, firms handling protective order matters benefit from a documented response protocol distinct from standard family law intake: a same-day callback commitment, direct escalation to an available attorney rather than routing through a general queue, and staff awareness of local domestic violence resources and emergency shelter contacts for callers who need immediate help beyond what the firm alone can provide. Training every intake staff member on this protocol, not only senior staff, closes a gap that could otherwise put a vulnerable caller at risk during exactly the moment they most need a fast, competent response.",
       },
     ],
     faqs: [
@@ -454,6 +478,14 @@ export const practiceAreaLeadsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Setting Realistic Expectations Around Credit Impact",
+      },
+      {
+        type: "paragraph",
+        text: "Many bankruptcy prospects arrive with significant anxiety about how filing will affect their credit and financial future, and clear, honest guidance during intake, rather than either minimizing the impact or letting a prospect's worst fears go unaddressed, builds meaningful trust. Explaining realistically how long a filing typically remains on a credit report, and that many filers see their credit begin recovering within a couple of years of responsible post-filing financial habits, helps prospects make a more informed, less fear-driven decision about whether to move forward.",
+      },
+      {
+        type: "heading",
         text: "Chapter 7 Versus Chapter 13 Considerations",
       },
       {
@@ -488,6 +520,22 @@ export const practiceAreaLeadsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Because bankruptcy attorney fees tend to be more standardized than in contingency-fee practice areas, calculating cost-per-signed-case is often more straightforward here — total spend on a source divided by the number of retained filings gives a clean, comparable figure across providers. This makes bankruptcy one of the easier categories to test rigorously and scale confidently once a source proves itself.",
+      },
+      {
+        type: "heading",
+        text: "What Bankruptcy Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Shared bankruptcy leads commonly run $20 to $50, while exclusive leads run $50 to $150, with real-time delivery and strong consent documentation pushing pricing toward the top of that range. Warm transfers, where a screened prospect is connected live, typically run $80 to $200. Given how standardized attorney fees generally are in this practice area, often a flat fee in the $1,000 to $3,500 range for a typical Chapter 7 filing, firms can calculate a fairly precise maximum sustainable cost per lead by working backward from that fee and their realistic conversion rate.",
+      },
+      {
+        type: "heading",
+        text: "Handling the Means Test and Credit Counseling Requirement",
+      },
+      {
+        type: "paragraph",
+        text: "Federal law requires most Chapter 7 filers to pass a means test comparing household income against the state median, and requires all filers to complete an approved credit counseling course within 180 days before filing. Prospects researching bankruptcy often don't know these requirements exist until an attorney explains them, and intake staff who can walk through this process clearly during the first call build meaningful trust with a population that's often anxious and unfamiliar with what filing actually involves. Screening for rough income level relative to household size at intake also helps quickly identify whether a prospect is likely to qualify for Chapter 7 or will need to pursue Chapter 13 instead, which affects both case strategy and fee structure from the outset.",
       },
     ],
     faqs: [

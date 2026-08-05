@@ -114,6 +114,36 @@ export const ppcClusterArticles: Article[] = [
         type: "paragraph",
         text: "Firms handling several unrelated practice areas — say, personal injury and estate planning — face a particular structural temptation: consolidating everything under one account umbrella for simplicity. Resist this where possible. Separate campaigns, and ideally separate conversion tracking, per practice area make it far easier to see which lines of business are actually generating profitable leads versus which are being subsidized by better-performing campaigns elsewhere in the account.",
       },
+      {
+        type: "heading",
+        text: "Naming Conventions That Make an Account Manageable at Scale",
+      },
+      {
+        type: "paragraph",
+        text: "A consistent naming convention, such as [Practice Area] – [Location] – [Match Type], might feel like a minor administrative detail early on, but it becomes essential once an account grows beyond a handful of campaigns. Firms that skip this step often find themselves unable to quickly answer basic questions, like which campaigns target a specific city, without opening each one individually. Establishing this convention before an account scales, rather than retrofitting it later, saves significant administrative time as a firm expands into new practice areas or markets.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Setup Checklist for a New Legal PPC Account",
+      },
+      {
+        type: "list",
+        items: [
+          "Separate campaigns by practice area before writing a single ad.",
+          "Build tightly themed ad groups of 5 to 15 closely related keywords.",
+          "Create a dedicated landing page for each ad group's core intent.",
+          "Set up conversion tracking that ties back to specific ad groups, not just the account overall.",
+          "Establish a consistent campaign naming convention from day one.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Structural Mistakes Firms Make Early On",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is letting an agency or in-house marketer set up a quick, simplified account structure to get ads live faster, with the intention of refining it later, only to have that temporary structure become permanent once the account starts generating leads and nobody wants to risk disrupting performance to fix it. Firms also sometimes mirror their internal practice area organization too literally, creating campaigns for internal departments that don't actually reflect how prospects search, rather than structuring around genuine search intent and keyword themes. Failing to build in geographic separation for multi-location firms from the start, only discovering the limitation once expansion into a second city is already underway, is another common and costly oversight.",
+      },
     ],
     faqs: [
       {
@@ -241,6 +271,44 @@ export const ppcClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "Strong ad copy only pays off if it's supported by the right campaign structure and a landing page that follows through on what the ad promised. For the structural foundation, see our guide to [PPC campaign structure for law firms](/learning-center/pay-per-click-for-law-firms).",
+      },
+      {
+        type: "heading",
+        text: "Writing Headlines That Earn the Click Without Overpromising",
+      },
+      {
+        type: "paragraph",
+        text: "A headline that promises more than the firm can actually deliver, such as implying a guaranteed result or minimizing how serious a legal situation actually is, might win a click but tends to produce a poor-fit lead who disengages once reality doesn't match expectations. Headlines that instead speak honestly to a searcher's specific situation, referencing the exact case type or urgency they searched for, tend to attract prospects who are already reasonably aligned with what the firm actually offers, which shows up as a stronger click-to-signed-case rate even if raw click-through rate looks slightly lower than a more sensational alternative.",
+      },
+      {
+        type: "heading",
+        text: "Using Call-Only and Call Extension Copy Effectively",
+      },
+      {
+        type: "paragraph",
+        text: "For urgent practice areas like criminal defense or personal injury, call extensions and call-only ad formats often outperform standard click-to-website ads, since a searcher in genuine distress frequently wants to speak to someone immediately rather than navigate a website first. Copy for these formats should emphasize immediate availability, such as 24/7 answering or same-day consultations, since that's usually the deciding factor for a searcher choosing between several similarly worded ads on the same results page.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Framework for Testing New Ad Copy",
+      },
+      {
+        type: "list",
+        items: [
+          "Pull the search terms report to identify the exact language prospects use.",
+          "Draft two to three headline variations testing one clear differentiator each.",
+          "Launch variations together and let each accumulate a meaningful sample before judging.",
+          "Review conversion rate from click to lead, not click-through rate alone.",
+          "Retire the weakest variant and introduce a new challenger against the winner.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Copywriting Mistakes Beyond the Basics",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the more obvious mistakes already covered, firms often default to writing ad copy from an internal, firm-centered perspective, describing years of experience or firm history rather than addressing the specific problem a searcher is actively trying to solve in that exact moment. Another subtle but costly mistake is failing to differentiate copy for branded versus non-branded searches, using identical messaging for someone who already knows and is searching for the firm by name as for a stranger comparing several unfamiliar options, when these two audiences need meaningfully different messaging to convert efficiently.",
       },
     ],
     faqs: [
@@ -383,6 +451,44 @@ export const ppcClusterArticles: Article[] = [
         type: "paragraph",
         text: "For firms with limited marketing budget or bandwidth to manage either option well, a vetted [pay-per-lead or warm transfer program](/buy-leads) can provide predictable, budgeted lead volume without the ongoing management overhead PPC requires — worth considering as a complement to, or interim substitute for, an internally or agency-managed PPC program.",
       },
+      {
+        type: "heading",
+        text: "Typical Management Fee Ranges to Expect",
+      },
+      {
+        type: "paragraph",
+        text: "Flat-fee agency retainers for legal PPC management commonly run $1,000 to $5,000 monthly depending on account complexity and the number of practice areas or locations managed, while percentage-of-spend arrangements typically fall in the 10 to 20 percent range of total ad spend, sometimes with a minimum monthly fee regardless of spend level. An in-house hire with genuine legal PPC experience, meanwhile, commonly commands a salary in a similarly wide range depending on market and seniority, plus benefits and the ramp-up time before that hire reaches full productivity managing your specific accounts.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Process for Choosing Between the Two",
+      },
+      {
+        type: "list",
+        items: [
+          "Calculate your current or projected monthly ad spend across all campaigns.",
+          "Compare that spend against realistic agency fee quotes at both fee structures.",
+          "Estimate fully loaded in-house hire cost, including benefits and ramp-up time.",
+          "Weigh how much internal strategic control and oversight capacity you actually have.",
+          "Consider a hybrid model if your firm sits between these two extremes in size.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in This Decision",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is comparing agency fees against in-house salary without accounting for the full loaded cost of an employee, including benefits, training, software licensing, and the productivity dip during onboarding, which can make in-house management look more affordable on paper than it actually is in practice. Firms also sometimes choose the cheapest agency option without verifying genuine legal-specific experience, only discovering the gap once compliance issues or poorly performing generic campaigns surface months into the relationship. Switching providers too frequently in search of marginally better results, rather than giving a reasonably competent option enough time to demonstrate real performance, is another common pattern that resets the learning curve repeatedly without ever letting an account mature.",
+      },
+      {
+        type: "heading",
+        text: "Setting Realistic Expectations for the First 90 Days",
+      },
+      {
+        type: "paragraph",
+        text: "Whether managed in-house or through an agency, a legal PPC account rarely performs at its eventual steady state within the first month or two, since both the platform's own algorithms and any human manager need time to gather enough conversion data to optimize confidently. Firms that judge a new management arrangement too harshly during this initial learning period, before either the account or the manager has had a fair chance to mature, risk churning through providers or hires repeatedly without ever reaching the more efficient performance that typically follows a properly completed ramp-up phase.",
+      },
     ],
     faqs: [
       {
@@ -522,6 +628,40 @@ export const ppcClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "Quality score is one lever among several, alongside campaign structure and ad copy, that together determine PPC efficiency. For the structural and copywriting fundamentals, see our guides to [PPC campaign structure](/learning-center/pay-per-click-for-law-firms) and [ad copy that converts](/learning-center/pay-per-click-for-lawyers).",
+      },
+      {
+        type: "heading",
+        text: "A Practical 30-Day Quality Score Improvement Plan",
+      },
+      {
+        type: "list",
+        items: [
+          "Pull keyword-level quality score data and identify the lowest scores by spend.",
+          "For each low scorer, diagnose which of the three components is weakest.",
+          "Build or refine a dedicated landing page for any keyword lacking one.",
+          "Rewrite ad copy specifically for keywords scoring poorly on relevance.",
+          "Re-check scores after two to three weeks to confirm genuine improvement.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Managing Quality Score",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is chasing a higher bid to compensate for a low quality score rather than addressing the underlying relevance or landing page problem, which treats the symptom while leaving the more expensive root cause untouched month after month. Firms also sometimes review quality score once during initial account setup and never again, missing that it's recalculated continuously and can drift downward as ad copy grows stale or a landing page falls out of date relative to current search behavior. Failing to connect quality score improvements back to actual cost-per-lead changes, tracking the score itself but never verifying whether it's translating into real savings, is another common gap that makes it hard to justify the ongoing optimization effort to firm leadership.",
+      },
+      {
+        type: "heading",
+        text: "Landing Page Elements That Most Affect Quality Score",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond raw load speed, Google's landing page experience assessment also weighs how clearly the page's content matches what the ad promised, how easy the page is to navigate on mobile, and whether the page provides genuinely original, useful content rather than a thin page built purely to capture ad traffic. A dedicated landing page that mirrors the ad's specific language, loads quickly, and gets a searcher to a clear next step, whether that's a phone number, a contact form, or a scheduling tool, tends to score well across all three quality score components simultaneously rather than requiring separate fixes for each one.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms redesigning a landing page purely for aesthetics should confirm the redesign doesn't inadvertently hurt any of these underlying factors, since a visually polished page that loads slower or buries the primary call to action can quietly undo months of accumulated quality score progress.",
       },
     ],
     faqs: [

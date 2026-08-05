@@ -12,7 +12,7 @@ export const leadCampaignBasicsArticles: Article[] = [
     metaDescription:
       "A condensed reference covering the core lead generation strategies available to attorneys, organized by speed to results and typical investment level.",
     category: "Law Firm Marketing",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-08-09",
     updatedDate: "2026-08-05",
     relatedSlugs: campaignRelated,
@@ -109,6 +109,14 @@ export const leadCampaignBasicsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Building Internal Ownership for Each Channel",
+      },
+      {
+        type: "paragraph",
+        text: "Even a well-chosen channel mix underperforms if no one at the firm is specifically responsible for monitoring and optimizing each one. In a small firm, this might mean one attorney personally owning the PPC account while another handles referral outreach; in a larger firm, dedicated marketing staff might split responsibility by channel. Whatever the specific structure looks like, clear ownership prevents channels from drifting into neglect simply because everyone on the broader team assumed someone else was already closely watching the data and making timely, sensible adjustments as needed on an ongoing, fully regular basis.",
+      },
+      {
+        type: "heading",
         text: "Common Sequencing Mistakes to Avoid",
       },
       {
@@ -122,6 +130,22 @@ export const leadCampaignBasicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "A solo practitioner just opening their doors has fundamentally different needs than an established 20-attorney firm looking to add a new practice area. Newer, smaller firms typically benefit most from fast, measurable channels — purchased leads and PPC — that produce revenue quickly enough to sustain the business while slower channels mature. Larger, established firms with existing referral networks and content libraries often get more marginal value from doubling down on SEO and thought leadership, since they've already captured much of the easy paid-channel opportunity in their market and are competing more on differentiation than raw visibility.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes When Evaluating a New Channel",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is judging a new channel's performance too early, before enough volume or time has passed to distinguish genuine underperformance from normal early-stage variance, especially for slower-building channels like SEO where meaningful results simply take months to materialize regardless of execution quality. Firms also sometimes fail to track cost per signed case separately by channel, relying instead on a single blended acquisition cost figure that makes it genuinely difficult to know which specific strategy is actually earning its share of the overall budget.",
+      },
+      {
+        type: "heading",
+        text: "Reassessing Your Channel Mix Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "The right mix of channels for a firm today isn't necessarily the right mix a year or two from now, as the firm's capacity, budget, competitive market, and even practice area focus evolve. Revisiting this channel mix on a regular cadence, rather than setting it once during initial planning and never reconsidering it, helps a firm catch a channel that's quietly become less efficient or identify a newly viable opportunity before competitors do. A simple quarterly review, comparing cost per signed case across every active channel side by side, is usually enough to keep this process disciplined without becoming a major, time-consuming undertaking for the firm.",
       },
     ],
     faqs: [

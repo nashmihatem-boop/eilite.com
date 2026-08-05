@@ -107,6 +107,36 @@ export const divorceNicheCluster2Articles: Article[] = [
         type: "paragraph",
         text: "Combining base community relationships with a [pay-per-lead program](/buy-leads) configured to identify military-affiliated prospects produces a steady, well-matched pipeline for firms in these markets. For the broader legal considerations, see our guide to [military divorce leads](/learning-center/military-divorce-leads-a-strategic-guide-for-family-law-firms).",
       },
+      {
+        type: "heading",
+        text: "What Military Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing for military divorce leads in base-adjacent markets typically runs somewhat higher than general divorce leads in the same metro area, often $40 to $90 per exclusive lead, reflecting both the specialized screening involved and the generally higher average case value tied to pension division and benefit disputes. Leads confirming installation proximity, branch of service, and years of service tend to command the top of that range, since that context lets a firm assess pension-division eligibility before the first call even happens. Firms new to this niche often start with a modest test batch to confirm a provider's installation-specific targeting is genuine before committing to ongoing volume.",
+      },
+      {
+        type: "heading",
+        text: "A Practical First-Call Checklist for Military Divorce Intake",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm branch of service, approximate years of service, and current duty status early in the call.",
+          "Ask about marriage length relative to service years to flag potential 10/10 or 20/20/20 rule eligibility.",
+          "Confirm whether either spouse is currently deployed or facing an upcoming PCS move.",
+          "Ask whether a Scope of Appointment or prior legal assistance office consultation has already occurred.",
+          "Confirm the best method and timing for follow-up given potential time zone or deployment constraints.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Coordinating With a Client's Legal Assistance Attorney",
+      },
+      {
+        type: "paragraph",
+        text: "When a client has already spoken with a base legal assistance attorney before reaching out to a civilian firm, briefly coordinating with that office, where the client consents, can streamline the transition and avoid duplicating work the legal assistance attorney already started. Legal assistance offices generally can't handle contested litigation themselves, but they often have useful context about the client's initial concerns and any documents already gathered, and a civilian firm that reaches out professionally to confirm this handoff tends to build a stronger ongoing referral relationship with that specific office than one that treats each referral as an isolated transaction.",
+      },
     ],
     faqs: [
       {
@@ -241,6 +271,44 @@ export const divorceNicheCluster2Articles: Article[] = [
       {
         type: "paragraph",
         text: "The strongest military divorce client acquisition strategies combine authentic digital content with genuine base community involvement, rather than relying on either alone. For the broader legal considerations specific to this practice area, see our guide to [military divorce leads](/learning-center/military-divorce-leads-a-strategic-guide-for-family-law-firms).",
+      },
+      {
+        type: "heading",
+        text: "Typical Campaign Costs for This Niche",
+      },
+      {
+        type: "paragraph",
+        text: "Paid search campaigns targeting installation-specific military divorce terms often see cost-per-click in the moderate range for family law generally, commonly running lower than broad-market \"divorce lawyer\" terms in the same metro given reduced direct competition, though pricing still climbs during the summer PCS season when more firms and more searching families are active simultaneously. Facebook and Instagram advertising to military spouse audiences, when done through properly labeled sponsored placements rather than group posting, often costs less per click than search but requires more creative testing to find messaging that resonates authentically with this specific, discerning audience.",
+      },
+      {
+        type: "heading",
+        text: "A Sample Content Calendar Tied to the PCS Cycle",
+      },
+      {
+        type: "list",
+        items: [
+          "Late winter: publish or refresh content addressing PCS-related relocation and custody logistics ahead of the coming season.",
+          "Spring: ramp paid search and social budget as PCS orders begin arriving and families start researching options.",
+          "Summer: peak season — prioritize fast response times and confirm intake capacity can handle the seasonal surge.",
+          "Early fall: publish content addressing post-PCS custody modification and jurisdiction questions for families who just relocated.",
+          "Winter: shift toward evergreen content and community relationship-building while search volume settles into its lower baseline.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Measuring Content Performance by Installation",
+      },
+      {
+        type: "paragraph",
+        text: "Firms running installation-specific content and campaigns across more than one base should track performance separately by location rather than looking only at a blended total, since a firm might perform excellently near one installation while underperforming near another due to differences in local competition, community relationships, or how well the content actually speaks to that specific base's population. This location-level view helps a firm decide where to deepen investment and where a different approach, or simply more time, is needed before results follow.",
+      },
+      {
+        type: "heading",
+        text: "Building Landing Pages for Each Installation",
+      },
+      {
+        type: "paragraph",
+        text: "A single generic \"military divorce\" page trying to serve every base a firm markets near typically underperforms a set of dedicated, installation-specific pages that each reference the actual base by name, its surrounding communities, and any locally relevant court or filing details. Prospects searching for help near a specific installation respond to that specificity, and search engines tend to reward genuinely distinct, locally relevant content over a single page awkwardly trying to cover multiple bases at once.",
       },
     ],
     faqs: [
@@ -381,6 +449,44 @@ export const divorceNicheCluster2Articles: Article[] = [
         type: "paragraph",
         text: "Genuine, sustained community engagement builds durable trust that generic marketing can't replicate quickly, and pairing that engagement with a [lead provider](/buy-leads) that handles contact and data with real discretion protects the trust a firm has worked to build. For the specific legal nuances relevant to this practice area, see our guide to [same-sex divorce leads](/learning-center/same-sex-divorce-leads-a-strategic-guide-for-family-law-firms).",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Costs in This Niche",
+      },
+      {
+        type: "paragraph",
+        text: "Because search volume for same-sex divorce representation is smaller than general divorce search, paid leads in this niche often price somewhat lower on a per-click basis but can still represent meaningful value given how effectively a well-matched, exclusive lead converts for a firm with genuine relevant experience. Firms should expect to pay a premium for exclusive delivery in this niche specifically, given how much a lost or poorly handled lead can cost in terms of the smaller total addressable audience and the tightly networked nature of referrals within LGBTQ+ community circles.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Community Engagement Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Identify two or three LGBTQ+ community organizations or centers genuinely active in your service area.",
+          "Offer a free educational session or informational resource, rather than leading with a sales pitch.",
+          "Update intake forms and scripts before launching any inclusive marketing, so the experience matches the message.",
+          "Ask new clients how they heard about the firm, and track community-sourced inquiries specifically.",
+          "Commit to sustained, multi-year involvement rather than a single event or campaign tied to a specific month.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Training Staff Beyond the Attorneys",
+      },
+      {
+        type: "paragraph",
+        text: "Genuine inclusivity needs to extend to every person a prospect interacts with, not just the attorney handling the case. Receptionists, paralegals, and billing staff should receive the same training on respectful, assumption-free communication as attorneys and intake staff, since a single uncomfortable interaction with any team member can undo the trust a firm's broader marketing and community involvement worked to build. This training should cover practical specifics — using a client's stated name and pronouns consistently across every document and conversation, avoiding assumptions about which spouse initiated a pregnancy or adoption, and handling emergency contact and next-of-kin questions without defaulting to traditional family structure assumptions. Firms that treat this as a one-time training rather than an ongoing practice tend to see standards slip as new staff join without the same grounding.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Marketing Materials for Consistency",
+      },
+      {
+        type: "paragraph",
+        text: "Periodically auditing every prospect-facing touchpoint, from the website and social profiles to printed materials handed out at community events, catches inconsistencies that accumulate over time as a firm adds new content or staff. A firm might update its main website's language while an older PDF resource or a staff member's individual bio page still reflects outdated assumptions, and prospects doing their own research before reaching out often notice these gaps, which can undercut an otherwise genuine effort at inclusive, informed marketing.",
+      },
     ],
     faqs: [
       {
@@ -505,6 +611,44 @@ export const divorceNicheCluster2Articles: Article[] = [
       {
         type: "paragraph",
         text: "Firms handling these cases well should invest in genuinely understanding this legal history, not just marketing to the community, and should build intake processes that surface these nuances during the very first conversation rather than discovering them well into a case. For a broader marketing and visibility strategy, see our guide to [same-sex divorce leads](/learning-center/same-sex-divorce-leads-a-strategic-guide-for-family-law-firms).",
+      },
+      {
+        type: "heading",
+        text: "A Practical Documentation Checklist for These Cases",
+      },
+      {
+        type: "list",
+        items: [
+          "Relationship start date and any evidence supporting it (shared leases, joint accounts, photos with dates).",
+          "Any prior domestic partnership or civil union registration, including the state and date.",
+          "Documentation of any second-parent or step-parent adoption completed for children of the relationship.",
+          "Records of jointly acquired assets predating the legal marriage date.",
+          "Any prior legal consultation or attempted marriage recognition before the eventual legal marriage.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How Case Value Can Differ From a Standard Divorce",
+      },
+      {
+        type: "paragraph",
+        text: "Because these cases can involve extended pre-marriage asset accumulation, disputed marital property classification, and potentially complex custody history tied to adoption timing, they sometimes require more attorney hours than a comparably-sized standard divorce, even when the couple's total assets look similar on paper. Firms should factor this added complexity into fee estimates presented during intake, explaining clearly why a case involving significant pre-marriage history might cost more to handle thoroughly than a same-asset case with a more straightforward marital timeline. Being upfront about this distinction, rather than quoting a standard flat fee that doesn't account for the added legal research and argument these cases can require, protects both the client's expectations and the firm's ability to properly staff the case.",
+      },
+      {
+        type: "heading",
+        text: "Working With Expert Witnesses on Relationship Timeline",
+      },
+      {
+        type: "paragraph",
+        text: "In cases where relationship start date and duration are genuinely contested or legally significant, firms sometimes benefit from working with a forensic accountant or financial expert to trace jointly held assets back to their origin, establishing a clear paper trail of financial entanglement predating the legal marriage. This kind of documentation can meaningfully strengthen an argument for treating certain pre-marriage assets as effectively marital property, particularly in jurisdictions still developing case law on this specific question. Firms should identify this need early in a case, since assembling this kind of financial history takes time and is much easier to do with cooperation from both parties than after litigation positions have hardened.",
+      },
+      {
+        type: "heading",
+        text: "Preparing Clients for an Evolving Legal Landscape",
+      },
+      {
+        type: "paragraph",
+        text: "Because appellate decisions addressing pre-marriage relationship recognition continue to develop, firms should set realistic expectations with clients that a legal argument considered strong today could be affected by a ruling that comes down while their case is still pending. Explaining this uncertainty honestly, rather than promising a specific outcome based on the current state of the law, protects the attorney-client relationship if the legal landscape shifts mid-case and helps clients make more informed decisions about settlement versus continued litigation.",
       },
     ],
     faqs: [

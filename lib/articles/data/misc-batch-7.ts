@@ -117,6 +117,30 @@ export const miscBatch7Articles: Article[] = [
         type: "paragraph",
         text: "Some firms use one tightly targeted, higher-cost source for their core practice focus, alongside a second, more broadly targeted source to capture adjacent opportunities at a lower cost. This layered approach can produce a more complete view of the addressable market than relying on a single targeting configuration, provided the firm tracks performance separately by source so it's clear which layer is actually driving signed cases.",
       },
+      {
+        type: "heading",
+        text: "Why Targeting Specificity Matters More in Competitive Metros",
+      },
+      {
+        type: "paragraph",
+        text: "In highly competitive legal markets, dense urban metros with dozens of firms bidding on the same broad practice-area terms, targeting precision becomes even more important, since a loosely targeted lead in this environment is likely to be one several other firms are simultaneously pursuing. Firms operating in these markets benefit disproportionately from narrow, specific targeting that helps them stand out with a more relevant, tailored message rather than competing purely on speed and price against a crowded field chasing the same broad volume.",
+      },
+      {
+        type: "heading",
+        text: "Documenting Targeting Criteria for Internal Alignment",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm works with multiple lead providers or expands its purchasing across several practice areas, keeping a simple written record of exactly what targeting criteria applies to each active source prevents confusion and helps new marketing or intake staff understand the reasoning behind current configurations. This documentation also makes it easier to spot when targeting criteria has drifted out of alignment with the firm's actual current focus, since the original rationale is recorded rather than relying on institutional memory that inevitably fades as staff change over time and small but genuinely important details slowly get lost along the way.",
+      },
+      {
+        type: "heading",
+        text: "What Happens When Targeting Criteria Conflict With Available Supply",
+      },
+      {
+        type: "paragraph",
+        text: "Occasionally a firm's ideal targeting criteria simply doesn't match what's realistically available in a given market, a very narrow case type combined with a small geographic radius may produce too little volume to matter. When this happens, firms generally have two reasonable paths: loosen one dimension of targeting to unlock more volume, or accept the lower, more sporadic volume in exchange for near-perfect fit. Neither choice is universally correct, and the right answer depends on how much the firm values consistency versus precision for that specific practice area and how much intake capacity currently sits unused waiting for additional volume to arrive.",
+      },
     ],
     faqs: [
       {

@@ -122,6 +122,37 @@ export const miscBatch17Articles: Article[] = [
         type: "paragraph",
         text: "The right strategy mix for a two-attorney firm rarely stays right once that firm grows to ten attorneys with dedicated intake staff and a larger marketing budget. As capacity grows, firms often shift a larger share of budget toward SEO and content, which becomes more cost-efficient at scale, while maintaining paid channels as a supplement rather than the primary volume driver. Revisiting the strategy mix at least annually, rather than treating an initial marketing plan as permanent, keeps spending aligned with the firm's actual current capacity and goals.",
       },
+      {
+        type: "heading",
+        text: "Building Marketing Around Referral-Based Growth",
+      },
+      {
+        type: "paragraph",
+        text: "Referrals from past clients, medical providers, and other attorneys remain one of the highest-converting sources available to personal injury firms, yet many firms treat referral generation as something that happens passively rather than a strategy deserving its own deliberate investment. Building a structured referral program, asking satisfied clients at the right moment, maintaining relationships with treating physicians and chiropractors, staying in touch with attorneys who handle non-PI matters, can produce meaningful case volume at a lower direct cost than most paid channels, making it worth treating as a genuine, budgeted strategy rather than an informal hope.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating Whether an Agency or In-House Marketing Fits Better",
+      },
+      {
+        type: "paragraph",
+        text: "Smaller firms typically get more value from outsourcing specialized marketing functions, SEO, PPC management, content production, to an agency or specialist with existing infrastructure and expertise, since building equivalent in-house capability requires a level of budget and volume most smaller practices haven't reached yet. Larger, multi-office firms with sustained marketing spend sometimes find it more cost-effective to bring core functions in-house once volume justifies dedicated staff. Firms uncertain which model fits should honestly assess current spend levels against what an in-house team would cost fully loaded, salary, benefits, tools, before assuming either option is automatically the better value.",
+      },
+      {
+        type: "heading",
+        text: "The Role of Reputation Management Across Every Strategy",
+      },
+      {
+        type: "paragraph",
+        text: "Regardless of which specific marketing strategies a firm pursues, online reputation, reviews, ratings, and how a firm responds to both positive and negative feedback, influences the effectiveness of nearly every channel simultaneously. A strong, consistently maintained review profile improves organic visibility, increases PPC conversion rates by building trust before a prospect even calls, and strengthens referral relationships by giving referral partners social proof to point to. Firms that treat reputation management as a standing, ongoing practice rather than an occasional afterthought tend to see stronger performance across their entire marketing mix as a result.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting Strategy Assumptions When Results Plateau",
+      },
+      {
+        type: "paragraph",
+        text: "A strategy mix that produced steady growth for a year or two can eventually plateau as competitors adapt and market conditions shift, and firms should treat a sudden or gradual flattening of results as a signal to revisit assumptions rather than simply increasing spend on the same underlying mix." },
     ],
     faqs: [
       {

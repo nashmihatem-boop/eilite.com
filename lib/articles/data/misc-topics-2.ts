@@ -253,6 +253,30 @@ export const miscTopics2Articles: Article[] = [
         type: "paragraph",
         text: "The right level of \"included\" service also depends on what your firm can handle internally. A firm with an established CRM, a dedicated intake team, and existing reporting infrastructure may not need a provider's premium account management and analytics tier, and can save money choosing a leaner service focused purely on quality sourcing and delivery. A smaller firm without dedicated intake staff, on the other hand, may find real value in paying more for a provider offering guidance on lead follow-up best practices, response-time benchmarking, and more hands-on account support, even though that adds noticeable extra cost on top of the base per-lead price quoted upfront.",
       },
+      {
+        type: "paragraph",
+        text: "Ultimately, the firms that get the best value from a lead service are the ones that go in with a clear, specific understanding of their own needs, rather than simply comparing headline prices across a handful of providers and picking whichever number looks lowest at first glance without digging further into what that number actually includes.",
+      },
+      {
+        type: "heading",
+        text: "Reading a Lead Service Contract Line by Line",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the headline pricing, firms should read the full service agreement carefully for details that rarely come up in a sales conversation, exactly how a lead's exclusivity is defined and enforced, what specific circumstances qualify for a credit or replacement, and whether the provider reserves any right to change pricing or terms mid-contract with limited notice. A short agreement that leaves these specifics vague isn't necessarily a red flag on its own, but it does mean a firm should ask direct follow-up questions and get clear answers in writing before committing meaningful budget.",
+      },
+      {
+        type: "heading",
+        text: "Comparing Bundled Versus À La Carte Service Structures",
+      },
+      {
+        type: "paragraph",
+        text: "Some providers bundle sourcing, screening, delivery, and reporting into a single package price, while others offer a more modular, à la carte structure letting firms pick and choose which specific services they want to pay for. Bundled pricing is often simpler to budget for and compare, while à la carte pricing can save money for firms with strong existing internal infrastructure that only need the provider's raw sourcing and screening capability, not additional layers of reporting or account support they'd never actually use.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms uncertain which structure fits best can simply ask a prospective provider to price out both options for the same underlying volume, which usually makes the tradeoff concrete and easy to compare rather than remaining an abstract, hypothetical decision.",
+      },
     ],
     faqs: [
       {
@@ -388,6 +412,34 @@ export const miscTopics2Articles: Article[] = [
       {
         type: "paragraph",
         text: "A functional ROI tracking setup doesn't need to be complicated to be useful. At minimum, tag every lead with its source at the point of intake, log key funnel stages — contacted, consultation scheduled, consultation held, signed — in your CRM or case management system, and review conversion rates by source on a regular cadence, monthly at minimum. Firms that skip even this basic level of tracking are often making six-figure annual marketing decisions based on gut feeling or a provider's own reporting, which naturally tends to present that provider's own performance in the best possible light.",
+      },
+      {
+        type: "paragraph",
+        text: "This more granular, risk-adjusted view of ROI ultimately produces more durable marketing decisions than optimizing purely for the lowest cost-per-lead number available in any given month.",
+      },
+      {
+        type: "heading",
+        text: "Involving Attorneys, Not Just Marketing Staff, in ROI Review",
+      },
+      {
+        type: "paragraph",
+        text: "Marketing ROI conversations sometimes happen entirely among marketing or intake staff without direct attorney involvement, even though attorneys often have firsthand insight into which sources tend to produce genuinely strong, well-matched clients versus difficult or poorly qualified ones. Including attorney feedback alongside quantitative funnel data gives a fuller picture than either perspective alone, since a channel that looks strong on paper can still be quietly producing clients who are disproportionately difficult to work with or slow to pay.",
+      },
+      {
+        type: "heading",
+        text: "Setting a Realistic Cadence for Reviewing the Full Framework",
+      },
+      {
+        type: "paragraph",
+        text: "Reviewing this complete ROI framework too infrequently means a firm reacts slowly to genuine problems, while reviewing it too often risks making reactive decisions based on short-term noise rather than a meaningful trend. A monthly review of top-of-funnel metrics paired with a deeper quarterly review of full-funnel, cost-per-signed-case data by channel tends to strike a reasonable balance for most firms, catching real issues promptly without overreacting to normal week-to-week variance.",
+      },
+      {
+        type: "paragraph",
+        text: "Documenting this review cadence explicitly, rather than leaving it informal and easily skipped during busy periods, helps ensure the full framework actually gets applied consistently rather than only when a problem has already become obvious.",
+      },
+      {
+        type: "paragraph",
+        text: "Over time, this discipline compounds into a genuinely data-informed marketing operation, one that makes budget decisions based on real evidence rather than habit, provider sales pitches, or whichever channel happens to feel most familiar at the moment.",
       },
     ],
     faqs: [

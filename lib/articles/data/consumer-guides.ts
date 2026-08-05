@@ -181,6 +181,14 @@ export const consumerGuidesArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Understanding What Happens After You Hire a Lawyer",
+      },
+      {
+        type: "paragraph",
+        text: "Once you've chosen a firm, it's worth understanding the general shape of what comes next, even though every case moves at its own pace. Your attorney will typically gather medical records and accident documentation, communicate with the insurance company on your behalf, and advise you on when your treatment has reached a point where the case can be reasonably valued. Many cases settle without ever going to trial, but a firm that's genuinely prepared to litigate if the insurer's offer isn't fair tends to negotiate from a stronger position than one that's known for settling quickly regardless of the offer on the table.",
+      },
+      {
+        type: "heading",
         text: "Reviews and Referrals Still Matter",
       },
       {
@@ -231,6 +239,27 @@ export const consumerGuidesArticles: Article[] = [
       {
         type: "paragraph",
         text: "In some cases, a well-resourced regional or national firm with strong results, even without a physical office in your immediate area, may still be worth considering, particularly for complex or high-value cases requiring resources smaller local firms may lack. The key is confirming they still have genuine, practical familiarity with your specific local courts and insurers rather than treating your case as an unfamiliar market.",
+      },
+      {
+        type: "heading",
+        text: "What Hiring a Local Car Accident Lawyer Typically Costs",
+      },
+      {
+        type: "paragraph",
+        text: "Most car accident lawyers work on contingency, meaning you generally pay nothing upfront and the firm only collects a fee if your case actually recovers money, typically somewhere between 30% and 40% of the settlement or verdict, though the exact percentage and how it's calculated can vary by firm and by whether your case settles early or goes to trial. Beyond the attorney's fee, case costs, expert witness fees, filing fees, records requests, are usually advanced by the firm and then repaid out of any recovery, so ask specifically how those costs are handled and whether you'd owe anything if the case doesn't result in a recovery at all. A firm that explains this clearly and in plain language during your first conversation, rather than glossing over it, is generally a good early sign.",
+      },
+      {
+        type: "heading",
+        text: "Preparing for Your First Consultation",
+      },
+      {
+        type: "list",
+        items: [
+          "Bring the police report or incident number if you have it, along with any photos taken at the scene.",
+          "Write down a simple timeline of what happened, while the details are still fresh in your memory.",
+          "Gather any medical records or bills you've already received related to the accident.",
+          "List the questions that matter most to you, so you don't forget to ask them once the conversation gets underway.",
+        ],
       },
     ],
     faqs: [

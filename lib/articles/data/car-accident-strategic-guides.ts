@@ -113,6 +113,14 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Assigning Clear Ownership Across the Three Stages",
+      },
+      {
+        type: "paragraph",
+        text: "A strategic framework spanning sourcing, screening, and conversion works best when each stage has clear ownership, whether that's a single person wearing multiple hats at a smaller firm or dedicated staff at a larger one, rather than diffuse responsibility that leaves no one accountable when a specific stage underperforms. Firms that can name exactly who owns channel performance, who owns intake quality, and who owns overall system-level reporting tend to identify and fix problems faster than firms where these responsibilities blur together informally.",
+      },
+      {
+        type: "heading",
         text: "Qualification Criteria That Sit Beneath the Surface",
       },
       {
@@ -134,6 +142,30 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
       {
         type: "paragraph",
         text: "A fast response that feels rushed or transactional can actually undermine conversion, just as a warm, empathetic conversation that arrives hours too late often loses the prospect to a faster-responding competitor before it even begins. The strongest intake teams train specifically for delivering both together — answering quickly while still taking the time to genuinely listen — rather than treating speed and empathy as a tradeoff.",
+      },
+      {
+        type: "heading",
+        text: "What Auto Accident Leads Typically Cost Across the System",
+      },
+      {
+        type: "paragraph",
+        text: "Shared auto accident leads commonly run $50 to $150, exclusive leads run $150 to $400, and warm transfers run $250 to $600, with catastrophic injury or commercial vehicle cases pushing toward the top of each range given their substantially higher case value. PPC cost-per-click on core auto accident terms in competitive metros can run $50 to $150 or more, translating to a similarly wide cost-per-lead range depending on landing page conversion. Firms building a complete system should model blended cost per signed case across all active channels combined, not just the cheapest or most convenient single source, since the real question is total system efficiency across the whole funnel, not any one channel's isolated performance.",
+      },
+      {
+        type: "heading",
+        text: "Building an Intake Playbook That Scales With Volume",
+      },
+      {
+        type: "paragraph",
+        text: "As lead volume grows across a diversified channel mix, an informal, memory-based intake process that worked fine at low volume starts breaking down. A documented playbook, covering exactly which questions to ask, how to prioritize leads by severity and liability clarity, what triggers escalation to a senior attorney, and how to log outcomes consistently, keeps quality steady even as volume scales and new staff join the intake team. Firms that invest in this documentation early avoid the common pattern where conversion quality quietly erodes as growth outpaces the informal systems that worked well only when volume was small enough for a single experienced person to manage personally.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the System as the Market Shifts",
+      },
+      {
+        type: "paragraph",
+        text: "The auto accident lead market is dynamic — PPC costs shift with competitor bidding activity, provider quality can drift over time, and seasonal patterns affect volume across every channel simultaneously. A strategic framework built once and never revisited gradually loses its edge as these underlying conditions change. Firms that treat this system as a living framework, reviewing channel mix, pricing, and screening criteria on a regular quarterly cadence rather than a one-time setup, consistently outperform firms that built a solid system years ago and haven't meaningfully adjusted it since it was first put in place.",
       },
     ],
     faqs: [
@@ -187,7 +219,7 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
     content: [
       {
         type: "paragraph",
-        text: "For firms specifically purchasing car accident leads rather than relying primarily on organic generation, a complete purchase-to-conversion playbook connects provider evaluation, intake preparation, and follow-up discipline into one coherent process.",
+        text: "For firms specifically purchasing car accident leads rather than relying primarily on organic generation, a complete purchase-to-conversion playbook connects provider evaluation, intake preparation, and follow-up discipline into one coherent, repeatable process.",
       },
       {
         type: "heading",
@@ -276,6 +308,14 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Documenting the Playbook So It Survives Staff Turnover",
+      },
+      {
+        type: "paragraph",
+        text: "A purchase-to-conversion process that lives only in one manager's head disappears the moment that person leaves or goes on leave, which is a real risk for firms that have never written down their vendor evaluation criteria, intake standards, or escalation rules. Documenting the playbook, even briefly, ensures a new office manager or intake lead can pick it up and maintain consistent quality rather than reinventing the process from scratch or reverting to informal, inconsistent habits during a transition period.",
+      },
+      {
+        type: "heading",
         text: "Building a Feedback Loop With Your Provider",
       },
       {
@@ -297,6 +337,35 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
       {
         type: "paragraph",
         text: "Before purchased volume arrives, align intake staff and attorneys on what a \"good\" lead from this source looks like, what response-time standard applies, and how success will be measured after the first month. Firms that skip this internal alignment often find mixed opinions about a source's value later, simply because different team members were judging it against different, unstated expectations from the outset.",
+      },
+      {
+        type: "heading",
+        text: "A Worked Example of the Purchase-to-Conversion Playbook",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm testing a new exclusive lead source at $200 per lead, buying 40 leads over the first month. If intake responds within five minutes on 90% of leads and converts 22% into signed clients, that's roughly 9 signed cases from $8,000 in spend, or about $890 per signed case. If the same firm had instead let response time slip to an average of 45 minutes due to under-preparing intake staffing, conversion might drop to 12%, producing only about 5 signed cases from the same spend, nearly $1,600 per signed case. This concrete comparison illustrates why the intake preparation stage of the playbook carries as much weight as vendor selection itself — the same purchased leads can produce dramatically different economics depending entirely on how well the receiving side executes.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Buying Rather Than Generating Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Purchasing volume before confirming intake capacity and CRM infrastructure are actually ready to receive it.",
+          "Judging a new provider's quality from too small a sample before drawing firm conclusions.",
+          "Committing to a long-term contract before validating results at a smaller, lower-risk scale.",
+          "Relying entirely on a single provider without a second source to benchmark pricing and quality against.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "When Buying Should Complement, Not Replace, Organic Growth",
+      },
+      {
+        type: "paragraph",
+        text: "Firms leaning heavily on purchased leads should still view this channel as one part of a broader acquisition strategy rather than a permanent substitute for building organic visibility. Purchased volume can fund a firm's growth immediately while SEO content and referral relationships mature in the background, gradually reducing dependence on any single provider's pricing and availability. Firms that treat buying as the entire strategy, rather than a deliberate complement to longer-term organic investment, remain fully exposed to whatever pricing or quality changes any single vendor decides to make down the road.",
       },
     ],
     faqs: [
@@ -423,6 +492,14 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Documenting Case-Acceptance Criteria Before Sourcing Begins",
+      },
+      {
+        type: "paragraph",
+        text: "Before configuring an injury-specific lead program, a firm benefits from writing down its own case-acceptance criteria clearly, minimum injury severity, treatment status, liability clarity, so that criteria can be communicated precisely to a provider rather than relying on the provider's generic definition of what counts as an injury lead. A firm targeting only serious injury cases has very different sourcing needs than one comfortable taking on minor injury claims, and being explicit about this from the outset produces a much better-matched lead program than working from vague, unstated expectations.",
+      },
+      {
+        type: "heading",
         text: "Building Intake Around Injury-Specific Leads",
       },
       {
@@ -468,6 +545,35 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
       {
         type: "paragraph",
         text: "If a firm is investing in injury-specific purchased leads, its broader marketing and website messaging should reinforce that same positioning — visible case results, content addressing specific injury types, and clear signals of experience with serious injury claims. Prospects arriving through a purchased lead often still research a firm online before committing, and inconsistent positioning between the ad and the website can undercut an otherwise well-qualified lead's conversion odds.",
+      },
+      {
+        type: "heading",
+        text: "Concrete Pricing Figures for Injury-Screened Leads",
+      },
+      {
+        type: "paragraph",
+        text: "In dollar terms, undifferentiated car accident leads, including a mix of property damage and injury claims, commonly run $40 to $100 shared or $100 to $250 exclusive. Genuinely injury-screened leads, confirmed treatment sought and basic severity captured, typically run $150 to $350 exclusive, while leads showing serious injury indicators, ongoing treatment, specialist referrals, or imaging, can command $300 to $600 or more given their substantially higher expected case value. Firms should treat a provider quoting injury-tier pricing without a meaningful gap from standard accident lead pricing as a signal the segmentation may be more marketing language than genuine, verifiable screening.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Injury-Specific Buying",
+      },
+      {
+        type: "list",
+        items: [
+          "Paying injury-tier premiums without verifying the provider's actual screening questions produce real differentiation.",
+          "Excluding property-damage leads entirely without considering their value as a referral or brand-building supplement.",
+          "Failing to track average case value and conversion separately for this segment to confirm the premium is paying off.",
+          "Neglecting to align website and marketing messaging with the injury-focused positioning being purchased.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Reassessing the Segmentation as a Provider Relationship Matures",
+      },
+      {
+        type: "paragraph",
+        text: "A provider's injury screening accuracy at the start of a relationship isn't guaranteed to hold steady indefinitely, particularly as volume scales or staff turnover affects the provider's own intake team. Periodically requesting a fresh sample of leads to review against the original screening criteria, even well into an established relationship, helps a firm catch quality drift before it meaningfully erodes the return this segment is supposed to deliver, and gives the firm concrete data to bring back to the provider if standards have genuinely slipped over the life of the contract.",
       },
     ],
     faqs: [

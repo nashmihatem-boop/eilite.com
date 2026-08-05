@@ -100,6 +100,34 @@ export const findNewClientsCluster12Articles: Article[] = [
           "Treating diversification as a one-time project rather than an ongoing practice that needs periodic review and rebalancing.",
         ],
       },
+      {
+        type: "heading",
+        text: "A Practical 12-Month Diversification Roadmap",
+      },
+      {
+        type: "paragraph",
+        text: "A firm starting with a single dominant channel might reasonably sequence diversification over a year rather than attempting everything at once: the first quarter establishing tracking and testing one new paid or referral channel alongside the existing primary source, the second and third quarters building out organic content and local SEO foundations while the new channel matures, and the fourth quarter conducting a full portfolio review to rebalance budget based on actual measured performance rather than initial assumptions. This staged approach avoids the common trap of launching several new channels simultaneously and being unable to isolate which one is actually driving results.",
+      },
+      {
+        type: "heading",
+        text: "How Practice Area Affects the Ideal Channel Mix",
+      },
+      {
+        type: "paragraph",
+        text: "The right diversification strategy also depends heavily on practice area, since consumer-facing practice areas like personal injury or criminal defense typically respond well to paid search and purchased leads given how often prospects search urgently at the moment of need, while relationship-driven practice areas like estate planning or business law often see a higher return from referral cultivation and bar association involvement, where trust and professional reputation matter more than search-moment availability. Firms handling multiple practice areas should consider building a somewhat different channel mix for each rather than applying one blanket strategy across a genuinely varied practice.",
+      },
+      {
+        type: "heading",
+        text: "Budgeting for Diversification Without Overextending",
+      },
+      {
+        type: "paragraph",
+        text: "Firms sometimes hesitate to diversify because it initially feels like spreading budget thinner across more channels, but a well-sequenced approach doesn't require increasing total marketing spend immediately. Reallocating a modest portion, often 10 to 20 percent, of an existing channel's budget toward testing a new one, rather than requesting entirely new budget upfront, lets a firm build genuine diversification evidence before committing to a larger investment, making the case for expanded budget easier to justify once early results validate the new channel's potential.",
+      },
+      {
+        type: "paragraph",
+        text: "This incremental approach also reduces the risk of a poorly timed budget increase during a slow revenue period, since the testing phase draws from funds already committed to marketing rather than requiring fresh approval during a moment when the firm may be more hesitant to spend.",
+      },
     ],
     faqs: [
       {
@@ -229,6 +257,44 @@ export const findNewClientsCluster12Articles: Article[] = [
       {
         type: "paragraph",
         text: "The right strategy mix for a firm today isn't necessarily the right mix in a year, especially after a firm adds capacity, enters a new practice area, or expands into a new geography. Revisiting this comparison periodically, honestly assessing which situation currently applies to your firm, keeps the strategy mix aligned with actual current needs rather than reflecting decisions made under different circumstances.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Decision Framework for Choosing Your Starting Point",
+      },
+      {
+        type: "list",
+        items: [
+          "Identify your single most pressing need right now: volume, cost efficiency, or differentiation.",
+          "Match that need to the one or two strategies best suited to solve it first.",
+          "Commit real budget and attention to those strategies before adding others.",
+          "Set a review date, typically 90 days out, to assess early results honestly.",
+          "Layer in a second strategy only once the first shows measurable traction.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Choosing a Strategy Mix",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is choosing a strategy based on what a competitor is doing rather than what actually fits the firm's specific situation, budget, and timeline, leading to a mismatched approach that underperforms regardless of how well it worked for someone else. Firms also sometimes try to implement every strategy from this comparison simultaneously, spreading limited time and budget so thin that no single approach gets the sustained investment needed to actually work. Failing to revisit the strategy mix as circumstances change, continuing to run a strategy chosen for a firm's situation two years ago without reassessing whether it still fits current needs, is another common pattern that leaves growth potential on the table.",
+      },
+      {
+        type: "heading",
+        text: "Translating Strategy Comparisons Into Actual Budget Decisions",
+      },
+      {
+        type: "paragraph",
+        text: "Understanding which strategies fit which situation is only useful once it translates into an actual budget allocation decision, and firms benefit from writing this down explicitly rather than leaving it as an informal, unstated understanding among partners. A simple one-page plan naming the firm's current priority situation, the one or two strategies chosen to address it, and the specific budget and person responsible for each, turns a comparative framework like this one into something the firm can actually execute and hold itself accountable to over the following quarter.",
+      },
+      {
+        type: "paragraph",
+        text: "Reviewing that same one-page plan at the next quarterly check-in, updating it based on what actually happened rather than starting from scratch each time, builds a simple but genuinely useful institutional record of what's been tried, what worked, and why the firm's priorities shifted from one period to the next.",
+      },
+      {
+        type: "paragraph",
+        text: "Over several quarters, this record becomes a genuinely valuable resource for onboarding new partners or marketing staff, giving them clear context on the firm's marketing history rather than requiring them to reconstruct it from memory or scattered notes.",
       },
     ],
     faqs: [

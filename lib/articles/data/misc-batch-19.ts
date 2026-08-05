@@ -114,6 +114,44 @@ export const miscBatch19Articles: Article[] = [
         type: "paragraph",
         text: "Firms operating near Illinois's borders, or marketing to prospects who may have been injured while traveling, should be aware that neighboring states apply different comparative or contributory negligence standards, which can affect where a case should actually be filed and how it should be evaluated. Understanding these cross-border differences helps firms give accurate initial guidance rather than assuming Illinois's specific 51% rule applies universally to every case that comes through intake.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value in Illinois",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in the Chicago metro commonly run $30 to $80, while exclusive leads with confirmed liability clarity often run $65 to $180 or more given the added screening required under Illinois's fault-sensitive framework. Downstate Illinois leads typically price 20 to 35 percent lower given reduced competition. On settlement value, standard auto accident claims with clear liability often resolve between $20,000 and $75,000, while trucking and industrial-adjacent cases tied to Chicago's logistics corridor can reach significantly higher given the larger commercial policy limits typically involved.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Illinois PI Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask clear, specific questions about how the accident occurred immediately.",
+          "Assess whether fault appears clearly below the 51% threshold or genuinely disputed.",
+          "Confirm whether the case is Chicago metro or downstate for pricing and routing.",
+          "Begin documenting liability evidence, such as witness contacts, right away.",
+          "Flag commercial trucking involvement for specialized handling given higher case value.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Illinois Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is accepting leads with genuinely ambiguous liability without adequate screening, investing significant intake and investigation time in cases that may ultimately fall on the wrong side of Illinois's 51% bar and produce no recovery at all. Firms also sometimes apply identical pricing and targeting across Chicago metro and downstate Illinois despite their meaningfully different competition levels and case profiles. Underestimating the value of early liability documentation, waiting until later in the case to gather witness statements or police reports, is another common oversight that can weaken a case's position right when clear evidence matters most under this state's specific fault framework.",
+      },
+      {
+        type: "heading",
+        text: "Working With Accident Reconstruction Experts Near the Threshold",
+      },
+      {
+        type: "paragraph",
+        text: "For cases where initial liability assessment suggests fault could genuinely fall near the 51% line, engaging an accident reconstruction expert early can meaningfully strengthen a firm's position by establishing a more precise, defensible account of speed, positioning, and sequence of events than witness testimony or a police report alone typically provides. This investment carries real cost, but for cases with substantial potential value sitting close to the threshold, it can be the difference between a case clearing the bar for recovery and one that doesn't, making it a reasonable expense to weigh carefully rather than reflexively avoid to save cost.",
+      },
     ],
     faqs: [
       {
@@ -255,6 +293,48 @@ export const miscBatch19Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because car accident prospects frequently contact several firms within the same hour after an accident, intake staff need scripts and processes optimized specifically for speed without sacrificing the empathy this situation calls for. Role-playing common scenarios, keeping key qualifying questions to a concise, memorable list, and empowering staff to schedule a consultation quickly rather than requiring extensive back-and-forth approval all help a firm actually capture the speed advantage its lead sourcing strategy is designed to create.",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value Ranges",
+      },
+      {
+        type: "paragraph",
+        text: "Shared car accident leads commonly run $25 to $70 given the category's intense competition, while exclusive leads with confirmed liability and injury detail often run $60 to $180 or more. Cases involving commercial vehicles or multiple parties price higher still, frequently $150 to $400 or more given their substantially higher case value potential. On settlement value, standard claims with moderate injury and clear liability often resolve between $15,000 and $60,000, while cases involving serious injury and a well-insured commercial defendant can reach significantly higher depending on documented damages and available coverage.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Response Process for This Category",
+      },
+      {
+        type: "list",
+        items: [
+          "Call within five minutes of lead delivery whenever staffing allows.",
+          "Capture fault clarity, injury severity, and vehicle type immediately.",
+          "Flag commercial or multi-party cases for elevated handling.",
+          "Schedule a consultation on the first call rather than requiring a callback.",
+          "Follow up by text within the hour if the initial call goes unanswered.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in This Competitive Category",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is chasing the cheapest available lead price without tracking actual cost per signed case, which can make an expensive but highly exclusive source look worse than a cheap, heavily shared one until the full conversion picture is measured properly. Firms also sometimes let leads sit in a general queue rather than routing them for truly immediate response, losing winnable cases to faster competitors regardless of how strong the underlying lead quality was. Failing to differentiate intake handling by case complexity, treating a routine fender-bender identically to a commercial vehicle case with substantially higher value, is another common inefficiency that wastes senior attorney time on lower-priority matters.",
+      },
+      {
+        type: "heading",
+        text: "Building a Fast-Follow-Up Culture Beyond the First Call",
+      },
+      {
+        type: "paragraph",
+        text: "Winning the first-contact race matters enormously in this category, but firms that also maintain a structured, persistent follow-up cadence over the following one to two weeks, rather than giving up after a single unanswered call, recover a meaningful share of prospects who simply weren't reachable in the first attempt. Building this follow-up discipline into the standard intake workflow, with clear ownership for who's responsible for each subsequent attempt, prevents leads from quietly falling through the cracks after an initial missed connection.",
+      },
+      {
+        type: "paragraph",
+        text: "A simple shared tracking system showing every lead's follow-up status at a glance helps a team stay accountable to this cadence collectively, rather than relying on any single staff member's memory of who still needs a callback.",
       },
     ],
     faqs: [

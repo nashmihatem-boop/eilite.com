@@ -243,6 +243,29 @@ export const cityStatePages3Articles: Article[] = [
         type: "paragraph",
         text: "This article provides general information about New York's family law framework and isn't legal advice — confirm current specifics with a licensed New York family law attorney.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Costs Across New York's Regions",
+      },
+      {
+        type: "paragraph",
+        text: "Manhattan and broader NYC-metro exclusive divorce leads often run $80 to $250 or more given the concentration of high-asset, high-complexity cases and intense advertising competition among the city's many established family law firms. Long Island and Westchester pricing typically falls somewhat below Manhattan but above upstate markets, reflecting their mix of suburban volume and meaningful high-asset case share tied to Manhattan careers. Upstate New York markets — Buffalo, Rochester, Syracuse, Albany — generally see the most accessible pricing given lower competition and typically smaller average case complexity, though firms serving these regions still benefit from confirming a lead's approximate income level, since guideline maintenance calculations still apply statewide regardless of region. Firms should also note that leads confirming specific asset complexity, such as business ownership or significant real estate holdings, generally justify a premium price given the additional attorney time these cases typically require to handle thoroughly.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Checklist for New York Divorce Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm which residency pathway applies — one year of general residency, or a shorter exception based on where the marriage occurred or grounds arose.",
+          "Ask about approximate combined household income early, since it directly affects maintenance guideline calculations.",
+          "For NYC-metro prospects, ask about compensation structure (bonus, deferred equity, carried interest) that may require specialized valuation.",
+          "Confirm whether real property involved is a co-op, condo, or standard home, since co-op board approval requirements can affect case strategy.",
+          "Ask whether children are involved to flag the need for parallel custody and child support discussion alongside the divorce itself.",
+          "Note whether the prospect has already consulted another New York attorney, to avoid a potential conflict before scheduling a full consultation.",
+        ],
+      },
     ],
     faqs: [
       {

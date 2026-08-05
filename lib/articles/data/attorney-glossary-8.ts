@@ -10,7 +10,7 @@ export const attorneyGlossary8Articles: Article[] = [
     metaDescription:
       "Personal injury attorney marketing operates under distinct competitive pressures and cost dynamics than other legal practice areas.",
     category: "Personal Injury Marketing",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-09-03",
     updatedDate: "2026-08-05",
     relatedSlugs: ["5-digital-marketing-cues-for-personal-injury-lawyers-to-hike-leads", "personal-injury-lawyer-leads"],
@@ -107,6 +107,44 @@ export const attorneyGlossary8Articles: Article[] = [
         type: "paragraph",
         text: "For a deeper set of specific tactics, see our guide to [digital marketing cues for personal injury lawyers](/learning-center/5-digital-marketing-cues-for-personal-injury-lawyers-to-hike-leads).",
       },
+      {
+        type: "heading",
+        text: "Mass Tort vs. Standard PI Marketing Economics",
+      },
+      {
+        type: "paragraph",
+        text: "Mass tort marketing operates under an even more extreme version of personal injury's cost dynamics, since campaigns aim to identify large pools of potential claimants tied to a specific product or drug rather than individual accident inquiries, often requiring national television and digital spend that dwarfs typical local PI budgets. Firms considering mass tort marketing should understand this is a fundamentally different scale and risk profile than standard personal injury advertising, not simply a bigger version of the same playbook.",
+      },
+      {
+        type: "heading",
+        text: "The Role of Brand Recognition in a Saturated Market",
+      },
+      {
+        type: "paragraph",
+        text: "In metro markets with heavy PI advertising saturation, firms that have built genuine, long-term brand recognition, through billboards, local television, or years of consistent digital presence, often see lower cost-per-click and higher conversion rates on the exact same keywords a lesser-known competitor is bidding on, since prospects recognize and trust a familiar name faster than an unfamiliar one. This compounding brand advantage is one reason established firms can sometimes outspend newer competitors while still achieving a lower effective cost per signed case.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Marketing ROI Beyond the First Case",
+      },
+      {
+        type: "paragraph",
+        text: "Personal injury marketing ROI calculations that stop at the first signed case understate the true return, since a well-handled case frequently produces referrals from the client themselves and from the treating medical providers, body shops, and other professionals involved along the way. Firms that track this downstream referral value, even roughly, often find their genuinely effective marketing channels are earning more credit than a narrow first-case-only calculation would suggest.",
+      },
+      {
+        type: "heading",
+        text: "Building Referral Value Into Channel Comparisons",
+      },
+      {
+        type: "paragraph",
+        text: "A practical way to capture this downstream value is tagging referral-source clients in a CRM back to the original marketing channel that produced the referring client, even loosely, so a channel with modest first-case ROI but strong referral generation doesn't get unfairly deprioritized against a channel producing more first cases but fewer lasting relationships. Over several years, this compounding referral effect can meaningfully change which channels actually deserve the most credit and continued marketing investment going forward." },
+      {
+        type: "heading",
+        text: "Reviewing Channel Performance on a Regular Cadence",
+      },
+      {
+        type: "paragraph",
+        text: "Given how quickly personal injury advertising costs and competitor behavior can shift, a quarterly review of channel performance tends to catch meaningful changes faster than an annual review, while still being frequent enough to allow genuine trends to emerge rather than reacting to normal short-term fluctuation in a single busy or slow month." },
     ],
     faqs: [
       {
@@ -244,6 +282,44 @@ export const attorneyGlossary8Articles: Article[] = [
         type: "paragraph",
         text: "Most firms need several of these service categories working together, though the specific mix depends on internal capacity and growth stage. For evaluation criteria when selecting providers, see our guide to [choosing a marketing agency for lawyers](/learning-center/marketing-agency-for-lawyers).",
       },
+      {
+        type: "heading",
+        text: "Intake Consulting as an Underrated Service Category",
+      },
+      {
+        type: "paragraph",
+        text: "A smaller but genuinely valuable category of attorney marketing services focuses specifically on intake process consulting, reviewing call scripts, response time benchmarks, and consultation-to-signed-case conversion rather than lead generation itself. Firms that have invested heavily in generating volume but see disappointing signed-case rates often find this category of service produces a stronger return than adding yet more marketing spend, since it fixes a leak in the funnel rather than pouring more water in at the top.",
+      },
+      {
+        type: "heading",
+        text: "How Bundled vs. À La Carte Pricing Affects Total Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Some providers bundle SEO, PPC management, and content into a single package price, while others charge separately for each component, and the total cost of a comparable scope of work can differ significantly between the two models depending on which specific services a firm actually needs. Firms should build out what an equivalent à la carte combination would cost before assuming a bundled package is automatically the better value, since bundling sometimes includes services a specific firm doesn't need at that stage of growth.",
+      },
+      {
+        type: "heading",
+        text: "Vetting a Provider's Actual Track Record",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond checking references, firms can independently verify a marketing provider's claims by searching for other law firm clients mentioned in case studies and checking whether those firms' actual online visibility and reviews reflect the results claimed. A provider whose case studies can't be independently verified, or whose claimed clients don't show the described results when checked directly, deserves considerably more scrutiny before any budget commitment.",
+      },
+      {
+        type: "heading",
+        text: "Watching for Scope Creep Once a Contract Is Signed",
+      },
+      {
+        type: "paragraph",
+        text: "A provider's initial scope of work sometimes quietly narrows after a contract is signed, fewer content pieces delivered, less frequent technical audits, a slower response to requests, without any corresponding reduction in monthly fees. Reviewing actual delivered work against the original signed scope every few months, rather than assuming things are proceeding as originally agreed, catches this kind of gradual scope creep before a full year has passed with diminishing value for the same fixed cost." },
+      {
+        type: "heading",
+        text: "Assigning Internal Ownership of the Vendor Relationship",
+      },
+      {
+        type: "paragraph",
+        text: "Marketing service relationships tend to drift and underperform when no single person at the firm is clearly responsible for reviewing reports, raising concerns, and holding a provider accountable to the agreed scope. Naming a specific internal owner, even in a small firm where that person wears several other hats, keeps the relationship actively managed rather than passively renewed month after month without real scrutiny." },
     ],
     faqs: [
       {
@@ -285,7 +361,7 @@ export const attorneyGlossary8Articles: Article[] = [
     metaDescription:
       "A practical checklist of what comprehensive attorney SEO services should include, so law firms can evaluate any provider's offering against real standards.",
     category: "Law Firm Marketing",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-09-03",
     updatedDate: "2026-08-05",
     relatedSlugs: ["seo-for-lawyers", "law-firm-seo", "best-seo-for-law-firms"],
@@ -392,6 +468,44 @@ export const attorneyGlossary8Articles: Article[] = [
         type: "paragraph",
         text: "Regular reporting connecting SEO activity to actual traffic, leads, and where possible signed cases, rather than only ranking position reports. For the full strategic and technical picture, see our guides to [SEO for lawyers](/learning-center/seo-for-lawyers) and [law firm SEO](/learning-center/law-firm-seo).",
       },
+      {
+        type: "heading",
+        text: "Link Building: What Legitimate Services Actually Do",
+      },
+      {
+        type: "paragraph",
+        text: "Legitimate link-building work for law firms typically involves earning citations from legal directories, local business organizations, bar associations, and genuine media mentions or guest content on relevant, reputable sites, rather than the low-quality, spammy link networks that search engines have increasingly learned to discount or penalize. Firms should ask specifically what link-building tactics a provider uses, since vague answers or an unwillingness to name actual link sources are a meaningful warning sign that the work may not hold up over time.",
+      },
+      {
+        type: "heading",
+        text: "E-E-A-T and Why It Matters More for Legal Content",
+      },
+      {
+        type: "paragraph",
+        text: "Search engines apply extra scrutiny to content in categories that can meaningfully affect a person's health, finances, or legal standing, sometimes referred to as Your Money or Your Life topics, which includes essentially all legal content. This means demonstrating genuine experience, expertise, authoritativeness, and trustworthiness, author bylines from actual attorneys, accurate legal citations, clear credentials, matters more for a law firm's content than it would for a lower-stakes topic like recipes or travel tips, and a comprehensive SEO service should build content with this scrutiny specifically in mind.",
+      },
+      {
+        type: "heading",
+        text: "Auditing an Existing Provider's Work",
+      },
+      {
+        type: "paragraph",
+        text: "Firms unsure whether their current SEO provider is delivering genuine value can request a straightforward audit, either done internally with basic free tools or by an independent third party, checking technical health, content quality against competitors, and whether the site's backlink profile shows signs of low-quality or risky link sources that could create future problems. This kind of periodic independent check helps a firm catch a declining or underperforming relationship before another year of budget is spent on a provider not delivering results worth the cost.",
+      },
+      {
+        type: "heading",
+        text: "What to Do If an Audit Reveals Problems",
+      },
+      {
+        type: "paragraph",
+        text: "Discovering a genuine issue, thin or duplicated content, a risky backlink profile, unaddressed technical errors, doesn't necessarily mean immediately terminating the relationship, but it does warrant a direct, specific conversation with the provider about a concrete remediation plan and timeline. A provider that responds constructively and fixes the identified issues promptly may still be worth continuing with, while one that becomes defensive or vague about a clearly documented problem is a stronger signal it's time to look elsewhere entirely." },
+      {
+        type: "heading",
+        text: "Building Internal SEO Literacy Even When Outsourcing",
+      },
+      {
+        type: "paragraph",
+        text: "Firms don't need to become SEO experts themselves, but having at least one person internally who understands the basic vocabulary and can ask informed questions makes every conversation with an outside provider more productive and considerably harder for a weak provider to obscure with vague, jargon-heavy explanations that sound impressive but say very little of substance." },
     ],
     faqs: [
       {

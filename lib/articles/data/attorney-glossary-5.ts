@@ -279,7 +279,7 @@ export const attorneyGlossary5Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "A firm that improves conversion rate by even a modest percentage effectively gets more value from every existing lead source, including any [pay-per-lead program](/buy-leads), without any additional marketing spend. Marketing spend tends to get the most attention because it's visible and easy to increase, while conversion improvements are less glamorous but often produce a larger effective return, since the cost of the lead has already been paid regardless of whether it converts.",
+        text: "A firm that improves conversion rate by even a modest percentage effectively gets more value from every existing lead source, including any [pay-per-lead program](/buy-leads), without any additional marketing spend. Marketing spend tends to get the most attention because it's visible and easy to increase, while conversion improvements are less glamorous but often produce a larger effective return, since the cost of the lead has already been paid regardless of whether it converts, making every incremental conversion pure upside relative to that sunk cost.",
       },
       {
         type: "heading",
@@ -315,7 +315,7 @@ export const attorneyGlossary5Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Many of the highest-impact conversion improvements — response speed, follow-up discipline — can be implemented internally without outside services, simply by dedicating focused attention to this often-neglected part of the funnel. A firm willing to invest a few weeks of concentrated internal effort — reviewing call recordings, tightening scripts, setting up automated reminders — can often achieve much of what an outside conversion consultant would deliver, at a fraction of the cost, provided someone owns the project through to completion.",
+        text: "Many of the highest-impact conversion improvements — response speed, follow-up discipline — can be implemented internally without outside services, simply by dedicating focused attention to this often-neglected part of the funnel. A firm willing to invest a few weeks of concentrated internal effort — reviewing call recordings, tightening scripts, setting up automated reminders — can often achieve much of what an outside conversion consultant would deliver, at a fraction of the cost, provided someone owns the project through to completion rather than letting it stall amid other daily priorities.",
       },
       {
         type: "heading",
@@ -323,7 +323,7 @@ export const attorneyGlossary5Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Outside conversion services tend to be most valuable for firms that have already tried internal fixes and plateaued, or firms scaling quickly enough that internal staff don't have bandwidth to design and implement process changes on top of their existing caseload. An experienced outside provider also brings a broader pattern library from working across many firms, which can surface issues a firm too close to its own process might not notice on its own.",
+        text: "Outside conversion services tend to be most valuable for firms that have already tried internal fixes and plateaued, or firms scaling quickly enough that internal staff don't have bandwidth to design and implement process changes on top of their existing caseload. An experienced outside provider also brings a broader pattern library from working across many firms, which can surface issues a firm too close to its own process might not notice on its own, simply because they've never seen how a genuinely well-run intake process compares to their own.",
       },
       {
         type: "heading",
@@ -333,6 +333,26 @@ export const attorneyGlossary5Articles: Article[] = [
         type: "paragraph",
         text: "Firms often approach growth by asking \"how do we get more leads\" before asking \"how well are we converting the leads we already have.\" Addressing conversion first, before scaling lead generation spend further, ensures that additional marketing investment isn't being poured into a leaky funnel — a sequencing mistake that quietly wastes a meaningful share of many firms' marketing budgets year after year, often without anyone at the firm realizing exactly where the waste is occurring.",
       },
+      {
+        type: "heading",
+        text: "Structuring a Trial Engagement Before a Full Commitment",
+      },
+      {
+        type: "paragraph",
+        text: "Firms wary of committing to a large, ongoing retainer with a conversion services provider can often negotiate a smaller, defined initial engagement, a single script overhaul, a focused audit of the intake process, as a way to evaluate the provider's actual quality and fit before expanding the relationship. This approach mirrors how firms typically test a new lead source before scaling volume, and it applies equally well to a service provider whose value is harder to assess from a sales pitch alone than from real, measurable results.",
+      },
+      {
+        type: "heading",
+        text: "How to Measure Success After the Engagement Ends",
+      },
+      {
+        type: "paragraph",
+        text: "A conversion services engagement's real value shows up not during the engagement itself but in whether the improvements actually stick months later, once the provider's direct involvement has ended and the firm's own staff are maintaining the new processes independently. Firms should build a follow-up check-in, at three months and again at six months after the engagement concludes, specifically to confirm response times, follow-up cadences, and intake scripts haven't quietly drifted back to old habits once the initial focus and accountability has faded from daily attention.",
+      },
+      {
+        type: "heading",
+        text: "Combining Conversion Services With a Vetted Lead Source" },
+      { type: "paragraph", text: "Firms investing in both a conversion services engagement and a purchased lead program simultaneously should sequence the work carefully, ideally fixing at least the most obvious intake and response-time gaps before ramping up new lead volume, since sending a large batch of freshly purchased leads into a still-broken funnel wastes both investments at once. Coordinating timing between a conversion consultant and a lead provider like [Eilite's buy leads platform](/buy-leads) ensures new volume arrives once the firm is genuinely ready to convert it well, rather than compounding an existing intake bottleneck with even more unworked leads." },
     ],
     faqs: [
       {

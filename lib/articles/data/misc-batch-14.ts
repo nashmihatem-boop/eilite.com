@@ -9,7 +9,7 @@ export const miscBatch14Articles: Article[] = [
       "Looking at personal injury lead costs from a firm-wide budgeting perspective, rather than a single lead's price point.",
     metaDescription: "Personal injury lead costs look different from a firm-wide budgeting view than from a single lead's price tag alone, and what firms should plan for.",
     category: "Personal Injury",
-    readTime: "9 min read",
+    readTime: "7 min read",
     publishedDate: "2026-09-21",
     updatedDate: "2026-08-05",
     relatedSlugs: ["cost-of-personal-injury-leads", "attorney-lead-pricing"],
@@ -59,6 +59,14 @@ export const miscBatch14Articles: Article[] = [
       {
         type: "paragraph",
         text: "The number that should actually drive budget decisions isn't cost per lead, but cost per signed case — total spend across a period divided by the number of cases actually signed from that spend. A firm paying a premium for exclusive, well-screened leads that convert at twice the rate of cheap, unscreened volume often has a lower true cost-per-acquisition despite the higher sticker price, and firm-level budgeting should reflect this rather than chasing the lowest per-lead number available.",
+      },
+      {
+        type: "heading",
+        text: "Setting Aside Reserve Capital for Slow Periods",
+      },
+      {
+        type: "paragraph",
+        text: "Given the natural lag between lead spend and case revenue, firms benefit from maintaining a reserve of working capital specifically earmarked for sustaining lead generation through a temporarily slow period, whether that's a seasonal dip or an unexpected downturn in a specific channel's performance. Firms without this buffer sometimes cut lead spend reactively during a cash-tight month, which can compound the problem by reducing future case volume right when the firm can least afford any further slowdown in newly signed cases coming through the pipeline.",
       },
       {
         type: "heading",
@@ -118,6 +126,22 @@ export const miscBatch14Articles: Article[] = [
       {
         type: "paragraph",
         text: "One of the most common firm-level budgeting mistakes is evaluating lead sources purely on sticker price without accounting for differences in conversion rate and case value. A second common mistake is failing to build in a buffer for seasonal cost fluctuations, which can leave a firm under-resourced for intake during predictably higher-volume months if the budget was built around an unrealistically flat monthly assumption.",
+      },
+      {
+        type: "heading",
+        text: "Modeling Cash Flow Given Delayed Case Revenue",
+      },
+      {
+        type: "paragraph",
+        text: "Personal injury firms working on contingency face a genuine timing mismatch: lead acquisition costs are paid upfront, often monthly, while case revenue may not arrive for months or even years after a case settles or resolves at trial. Firms that budget for lead spend without modeling this delay sometimes find themselves cash-constrained even while their signed-case pipeline is genuinely healthy, simply because the revenue from that particular pipeline hasn't yet caught up with the ongoing acquisition spend required to keep generating a steady, reliable stream of new cases each month. Planning around this lag explicitly avoids unnecessary financial panic later.",
+      },
+      {
+        type: "heading",
+        text: "Building Scenario Plans for Different Growth Rates",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than building a single fixed budget projection, firms benefit from modeling a few different scenarios, conservative, expected, and aggressive growth, each with corresponding lead spend and staffing implications. This kind of scenario planning helps firm leadership make faster, more confident decisions when actual results come in above or below expectations, rather than scrambling to figure out an appropriate response in the moment without any pre-built framework already in place to reference and act on quickly.",
       },
     ],
     faqs: [

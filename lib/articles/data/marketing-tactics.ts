@@ -99,6 +99,30 @@ export const marketingTacticsArticles: Article[] = [
           "Either option pitched with a guaranteed return that no legitimate marketing channel can actually promise.",
         ],
       },
+      {
+        type: "heading",
+        text: "How Practice Area Shapes the Right Choice",
+      },
+      {
+        type: "paragraph",
+        text: "High-urgency practice areas like personal injury or DUI defense tend to perform reasonably well under either model, since a prospect with an immediate, pressing need converts fairly readily whether they arrived via a paid click or a purchased lead. Practice areas with a longer research and decision cycle, like estate planning or business formation, often need PPC paired with substantial supporting content and retargeting to convert well, since a single click rarely captures a prospect who is still early in a multi-week decision process, making pay-per-lead's pre-qualified, further-along prospects sometimes the more efficient starting point.",
+      },
+      {
+        type: "heading",
+        text: "Building an Internal Dashboard to Compare Both Models Fairly",
+      },
+      {
+        type: "paragraph",
+        text: "Firms running both channels benefit from a simple, shared dashboard tracking cost, volume, and signed-case rate for each source side by side, rather than reviewing PPC performance in an ad platform and pay-per-lead performance in a separate spreadsheet that never gets compared directly. This unified view makes it far easier to spot when one channel's economics have quietly shifted, allowing a firm to reallocate budget promptly rather than continuing to fund a channel out of habit after its performance has meaningfully declined.",
+      },
+      {
+        type: "heading",
+        text: "Adjusting the Mix as Your Firm's Capacity Changes",
+      },
+      {
+        type: "paragraph",
+        text: "The right blend between PPC and pay-per-lead isn't fixed permanently; a firm that adds intake staff or expands into a new geography may find it can suddenly absorb more volume than its current channel mix provides, while a firm going through a leaner staffing period may need to pull back on volume-heavy channels temporarily. Revisiting the mix deliberately every few months, rather than leaving it on autopilot indefinitely, keeps acquisition spend aligned with what the firm can actually convert well at any given time.",
+      },
     ],
     faqs: [
       {
@@ -235,6 +259,34 @@ export const marketingTacticsArticles: Article[] = [
           "Failing to thank or acknowledge a referral source, which reduces the likelihood of future referrals from that person.",
           "Assuming referrals will simply happen without any structured process behind them.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Training Every Attorney to Ask Consistently",
+      },
+      {
+        type: "paragraph",
+        text: "A referral program's success often hinges on whether every attorney at the firm, not just the founding partner, consistently asks at the right moment and in a genuinely natural way. Firms that treat the referral ask as a shared, trained skill, complete with a simple example script and periodic reminders during team meetings, build a far more reliable referral flow than those relying on one or two naturally outgoing attorneys to carry the entire program on personality alone.",
+      },
+      {
+        type: "heading",
+        text: "Recognizing and Nurturing Your Strongest Referral Sources",
+      },
+      {
+        type: "paragraph",
+        text: "Not every referral source contributes equally, and firms that track referral volume by individual source over time often discover a small number of past clients or professional contacts account for a disproportionate share of new business. Identifying these especially strong sources and investing extra attention in that specific relationship, a personal check-in call, a more thoughtful acknowledgment, tends to produce a better return than spreading equal effort across every contact regardless of how much business they've actually sent.",
+      },
+      {
+        type: "heading",
+        text: "Extending Referral Systems to Multi-Attorney Firms",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm grows beyond a single attorney, referral tracking and follow-up needs a clear owner, whether that's a dedicated marketing coordinator or a rotating responsibility among partners, since referral relationships can otherwise fall through the cracks between attorneys who each assume someone else is maintaining them. Building this ownership explicitly into a role, rather than leaving it implicitly to whoever originally built the relationship, protects the referral pipeline from disruption if that specific attorney becomes busier or eventually leaves the firm.",
+      },
+      {
+        type: "paragraph",
+        text: "This same ownership structure also makes it easier to maintain consistent messaging and follow-up timing across every referral relationship, rather than each attorney handling their own contacts in a completely different, uncoordinated way that makes firm-wide reporting difficult to compile accurately.",
       },
     ],
     faqs: [

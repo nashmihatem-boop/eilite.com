@@ -441,6 +441,44 @@ export const howToAcquireConvertCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Injury severity screening is only useful if a firm can also help clients access needed treatment, which becomes complicated when a prospect is uninsured or underinsured. Maintaining relationships with providers willing to treat on a letter of protection — deferring payment until case resolution — helps firms convert higher-severity leads even when the prospect's own insurance situation is limited, and it's worth confirming this capability exists before marketing heavily toward serious-injury cases.",
       },
+      {
+        type: "heading",
+        text: "Typical Pricing by Severity Tier",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing generally tracks the severity tiers described above: minor soft-tissue leads commonly run $30 to $80 per exclusive lead, moderate-severity leads involving a fracture or surgery often run $100 to $250, and catastrophic leads confirming hospitalization, TBI, or spinal cord injury frequently price at $250 to $600 or more given their substantially higher case value. Shared leads across any tier typically price 30 to 50 percent below exclusive delivery for the same severity classification. Firms should confirm exactly what severity signal a provider's pricing tier is actually based on, since two providers both claiming to sell \"serious injury\" leads can mean meaningfully different things without a shared, specific definition.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Severity Screening Script",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly: \"Were you seen by a doctor or taken to the emergency room after the accident?\"",
+          "Follow up: \"Has a doctor recommended any ongoing treatment, physical therapy, or surgery?\"",
+          "Ask: \"Are you currently able to work, or has this affected your ability to work?\"",
+          "Ask: \"Do you know roughly how many more weeks or months of treatment your doctor expects?\"",
+          "Close with: \"Has anyone mentioned needing surgery or long-term care as a result of this accident?\"",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why Severity Screening Should Happen Before, Not After, Pricing Discussion",
+      },
+      {
+        type: "paragraph",
+        text: "Firms sometimes make the mistake of discussing fee structure before confirming basic severity details, which can create an awkward dynamic if a case turns out to be lower-value than initially assumed. Structuring the intake conversation so severity and treatment questions come first, with fee discussion following once the attorney or intake staffer has a clearer picture of case value, keeps the conversation focused on genuinely understanding the prospect's situation rather than rushing toward a business discussion before there's enough information to have it meaningfully.",
+      },
+      {
+        type: "heading",
+        text: "Retraining Staff as Screening Criteria Evolve",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm refines its severity-based triage process over time, whether by adjusting which signals actually predict case value or updating lien and referral thresholds, intake staff need periodic retraining to keep applying the current version of the process rather than an outdated one they learned when they first started. A brief quarterly refresher, reviewing a handful of recent misclassified leads and discussing what should have flagged them correctly, keeps the whole team's screening judgment aligned as the firm's own data and experience continue to sharpen what genuinely predicts a valuable case.",
+      },
     ],
     faqs: [
       {

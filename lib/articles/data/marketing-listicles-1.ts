@@ -117,6 +117,66 @@ export const marketingListicles1Articles: Article[] = [
         type: "paragraph",
         text: "Firms uncertain which model fits best often start by testing a [vetted pay-per-lead or warm transfer program](/buy-leads), since it requires no long-term retainer commitment and produces clear, immediate cost-per-lead data that can inform decisions about layering in retainer-based channels later.",
       },
+      {
+        type: "heading",
+        text: "A Worked Cost Comparison Example",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm comparing two options for a month: a pay-per-lead program at $100 per lead, delivering 20 leads that convert into 4 signed cases, versus a $4,000 flat retainer that produces 15 organic leads converting into 5 signed cases. On raw cost, both options spent $4,000 to $2,000 respectively for very different volume, but the real comparison is cost per signed case: the pay-per-lead program cost $500 per signed case ($2,000 divided by 4), while the retainer cost $800 per signed case ($4,000 divided by 5). Even though the retainer produced a better conversion rate on paper, the pay-per-lead program actually delivered a lower blended cost per case this specific month. Running this exact math monthly, rather than comparing sticker prices or raw lead volume, is what actually reveals which model is working harder for a firm's budget.",
+      },
+      {
+        type: "heading",
+        text: "How Contract Length Affects Each Model",
+      },
+      {
+        type: "paragraph",
+        text: "Pay-per-lead and warm transfer arrangements typically require little to no long-term commitment, letting a firm scale volume up or down monthly based on current capacity and cash flow. Retainer-based SEO and content relationships, by contrast, generally need a longer minimum commitment — often three to six months at minimum — since organic strategies take time to show results, and a provider can't fairly be judged on a shorter window. Firms should weigh this flexibility difference as part of the decision, not just the monthly cost, since a lower-priced retainer locked into a twelve-month term can end up less flexible than a slightly pricier pay-per-lead arrangement with no lock-in at all.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Decision Framework",
+      },
+      {
+        type: "list",
+        items: [
+          "If your firm needs case volume within the next 30 days, prioritize pay-per-lead or warm transfer over a retainer.",
+          "If your firm has stable cash flow and a multi-year growth horizon, a retainer-based SEO investment often pays off better long-term.",
+          "If your intake team has spare capacity right now, a shared or lower-cost lead format can work well.",
+          "If your intake team is already at capacity, prioritize exclusivity and higher-conversion formats over raw volume.",
+          "If you're uncertain which model fits, start with a low-commitment pay-per-lead test before committing to a longer retainer.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes When Choosing a Pricing Model",
+      },
+      {
+        type: "list",
+        items: [
+          "Comparing sticker price per lead across models without calculating cost per signed case.",
+          "Signing a long-term retainer before confirming the agency has real experience in your specific practice area.",
+          "Choosing pay-per-click without confirming intake capacity can handle unpredictable click-driven volume spikes.",
+          "Locking into a single model indefinitely rather than revisiting the mix as the firm's needs change.",
+          "Ignoring contract flexibility and exit terms in favor of focusing purely on the headline monthly cost.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Renegotiating Pricing as Volume Grows",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that scale volume significantly with a single provider, regardless of pricing model, often have room to renegotiate terms once that history is established. A pay-per-lead provider may offer a modest per-lead discount at higher committed volume, while a retainer-based agency might expand scope without a proportional fee increase once a relationship has proven mutually valuable. Revisiting pricing every six to twelve months, backed by the firm's own performance data, keeps a pricing arrangement fair as the relationship matures, rather than continuing indefinitely on terms negotiated back when the firm had far less leverage or track record to point to.",
+      },
+      {
+        type: "heading",
+        text: "Documenting the Agreement Clearly",
+      },
+      {
+        type: "paragraph",
+        text: "Regardless of which pricing model a firm chooses, having the specific terms — price per unit, exclusivity status, replacement policy, minimum commitment, and exit terms — documented in writing protects both sides if a disagreement arises later. Verbal understandings or a single ambiguous email thread tend to create confusion months into a relationship, particularly once staff on either side change, making a clear written agreement a small upfront effort that pays off considerably if a dispute ever needs to be resolved.",
+      },
     ],
     faqs: [
       {
@@ -261,6 +321,62 @@ export const marketingListicles1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because organic SEO takes months to mature, many firms supplement their SEO investment with a [vetted pay-per-lead or warm transfer program](/buy-leads) to maintain case volume during the ramp-up period, rather than waiting for organic results before generating any meaningful lead flow.",
+      },
+      {
+        type: "heading",
+        text: "A Sample First 90-Day SEO Engagement",
+      },
+      {
+        type: "list",
+        items: [
+          "Days 1-15: technical audit covering indexation, site speed, mobile usability, and Google Business Profile completeness.",
+          "Days 16-30: fix priority technical issues and complete or optimize local citations across major directories.",
+          "Days 31-60: publish or revise core practice-area pages targeting the firm's highest-priority search terms.",
+          "Days 61-75: begin a structured review-generation process if one isn't already in place.",
+          "Days 76-90: publish initial supporting content and pursue early, genuine backlink opportunities.",
+          "Day 90 review: compare current rankings, indexed pages, and technical health against the original audit baseline.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How to Read an SEO Proposal Critically",
+      },
+      {
+        type: "paragraph",
+        text: "A strong SEO proposal names specific deliverables — how many pages, what technical fixes, how many citations, what content topics — tied to a realistic timeline, rather than a vague monthly retainer described only as \"ongoing optimization.\" Firms should ask a prospective provider to walk through exactly what happens in the first 30, 60, and 90 days, and should be skeptical of a proposal that reads nearly identically to what the same agency would pitch any other type of local business, since legal SEO involves specific considerations — bar advertising compliance, E-E-A-T signals around attorney credentials, jurisdiction-specific content — that a generic proposal often doesn't address at all.",
+      },
+      {
+        type: "heading",
+        text: "Comparing In-House, Freelance, and Agency SEO",
+      },
+      {
+        type: "paragraph",
+        text: "Each staffing approach carries different tradeoffs. In-house SEO gives a firm full control and institutional knowledge but requires hiring genuine expertise, which can be hard to evaluate without existing SEO knowledge on staff. A freelance specialist often costs less than an agency and can bring deep individual expertise, but typically has less capacity for large-scale content production and less redundancy if that person becomes unavailable. An agency brings a full team and established processes at a higher price point, generally justified for firms in highly competitive markets needing sustained, large-scale content and technical work.",
+      },
+      {
+        type: "table",
+        headers: ["Approach", "Typical Cost", "Best Fit"],
+        rows: [
+          ["In-house", "Salary + tools", "Firms with existing internal expertise"],
+          ["Freelancer", "$1,000-$4,000/month", "Smaller firms, less competitive markets"],
+          ["Agency", "$2,500-$10,000+/month", "Competitive markets needing full-scope work"],
+        ],
+      },
+      {
+        type: "heading",
+        text: "Auditing an Existing SEO Relationship",
+      },
+      {
+        type: "paragraph",
+        text: "Firms already working with an SEO provider, uncertain whether the relationship is delivering value, can run a simple audit: compare current organic traffic and rankings against a snapshot from six or twelve months ago, review whether monthly reports have actually connected activity to inquiry and case outcomes, and request a plain-language explanation of what specifically has been done each month. A provider unable or unwilling to answer these questions clearly, after a reasonable amount of time working together, is a meaningful signal worth acting on, regardless of how the relationship began or how long it's been in place.",
+      },
+      {
+        type: "heading",
+        text: "Setting Internal Expectations Before Starting",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond evaluating a provider, firms should set realistic internal expectations before an SEO engagement begins, particularly with firm leadership who may not be closely involved in the day-to-day marketing decisions. A brief internal memo outlining the realistic timeline, what early months will look like, and how progress will be measured helps prevent a partner from prematurely judging the investment a failure after only six or eight weeks, before the engagement has had a fair chance to show meaningful results.",
       },
     ],
     faqs: [
@@ -411,6 +527,83 @@ export const marketingListicles1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Many firms run small, parallel trials across two or three platforms rather than committing to one immediately, using [Eilite's buy leads platform](/buy-leads) and [warm transfer options](/buy-warm-transfers) alongside other sources to compare real performance data before consolidating volume with whichever performs best for their specific practice area.",
+      },
+      {
+        type: "heading",
+        text: "A Sample Scoring Rubric With Weights",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than evaluating platforms on gut feeling, assigning numeric weights to each criterion forces a more disciplined comparison. A reasonable starting framework might weight verification depth and exclusivity most heavily, since these factors most directly affect lead quality, with delivery speed and reporting transparency weighted moderately, and platform reputation weighted lightly given how much it can vary by specific practice area and market. Scoring two or three candidate platforms against this same weighted rubric, rather than comparing them on whichever factor each platform's own marketing happens to emphasize, produces a more objective basis for a final decision.",
+      },
+      {
+        type: "table",
+        headers: ["Criterion", "Suggested Weight", "How to Score It"],
+        rows: [
+          ["Verification depth", "25%", "Ask for specific screening steps, not general claims"],
+          ["Exclusivity", "25%", "Confirm in writing, not just marketing copy"],
+          ["Delivery speed", "20%", "Test actual time from capture to delivery"],
+          ["Reporting transparency", "20%", "Request a sample report before committing"],
+          ["Reputation/references", "10%", "Weight lightly — varies by practice area"],
+        ],
+      },
+      {
+        type: "heading",
+        text: "Practice-Area-Specific Platform Considerations",
+      },
+      {
+        type: "list",
+        items: [
+          "Personal injury: prioritize platforms with strong injury and liability screening, given the category's high per-case value.",
+          "Family law: prioritize platforms that screen for contested versus uncontested status and urgency.",
+          "Immigration: confirm the platform screens for specific case type and, where relevant, language preference.",
+          "Mass tort: confirm the platform's screening captures exposure or product-use timeline detail specific to the tort.",
+          "Estate planning: platforms suited to urgent, high-intent categories may not have the same depth here, given this category's typically longer, more deliberate decision cycle.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "A Practical First-Test Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm exclusivity terms in writing before the test batch begins, not just verbally.",
+          "Set up call tracking or a source-tagging system so test leads are clearly distinguishable from other volume.",
+          "Define a minimum sample size (typically 15-30 leads) before drawing conclusions.",
+          "Track contact rate, consultation rate, and signed-case rate separately, not just raw lead count.",
+          "Compare the test's blended cost per signed case against your firm's existing baseline from other sources.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes When Evaluating Platforms",
+      },
+      {
+        type: "list",
+        items: [
+          "Judging a platform based on marketing claims alone without requesting a sample lead record.",
+          "Skipping a written exclusivity agreement and later discovering leads were shared.",
+          "Testing too small a sample to draw a statistically meaningful conclusion.",
+          "Comparing platforms serving different practice areas as if their pricing were directly comparable.",
+          "Committing to a long-term contract before completing a fair trial period.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What Changes Year to Year in This Market",
+      },
+      {
+        type: "paragraph",
+        text: "The lead generation platform landscape shifts meaningfully year to year — new entrants emerge, established platforms adjust pricing or screening standards, and consumer privacy regulations affecting how consent is captured and documented continue to evolve. A platform that was a strong fit two years ago may have since tightened its practice area focus away from a firm's specialty, or loosened verification standards as it scaled volume aggressively. This is exactly why chasing a fixed, dated ranking of \"best platforms\" tends to mislead more than help, and why building a repeatable evaluation process a firm can apply to any candidate platform at any point in time is more durable advice than a specific list of names, however well-researched that list might have been at the moment it was written. Revisiting your own platform choices against this same evaluation framework at least once a year keeps a firm from drifting on outdated assumptions about a specific provider's current quality.",
+      },
+      {
+        type: "heading",
+        text: "Keeping a Record of Platform Performance Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond a single evaluation at the outset, maintaining an ongoing record of each platform's monthly cost per lead and cost per signed case creates a valuable historical reference for future decisions, whether that's renegotiating terms, deciding whether to scale volume, or simply having concrete data on hand the next time a firm evaluates a new competing platform. Firms that rely on memory or general impressions of how a platform performed, rather than an actual logged record, tend to make less informed decisions than those with a simple, consistently updated tracking sheet spanning several months or years of real performance history.",
       },
     ],
     faqs: [

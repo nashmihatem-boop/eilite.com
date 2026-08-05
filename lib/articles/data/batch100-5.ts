@@ -832,6 +832,20 @@ export const batch100_5Articles: Article[] = [
       ]},
       { type: "heading", text: "Red Flags When Sourcing Marketing Statistics" },
       { type: "paragraph", text: "Be skeptical of statistics presented without a clear source, sample size, or date, particularly when they originate from a vendor with an obvious interest in making a specific channel or service look favorable. Cross-referencing any surprising statistic against at least one independent source before building a strategy around it helps avoid basing real budget decisions on unreliable numbers." },
+      { type: "heading", text: "Typical Conversion Benchmarks Worth Tracking" },
+      { type: "paragraph", text: "As a general reference point, consultation-to-signed-client conversion rates across personal injury and other consumer-facing practice areas commonly fall somewhere between 20 and 40 percent, with firms that respond within minutes and follow a consistent, well-trained intake process typically clustering toward the higher end of that range. Lead-to-consultation conversion, meaning the share of raw leads that actually result in a scheduled consultation, often runs 15 to 35 percent depending on lead quality and format, with live transfers and warm transfers generally converting at a meaningfully higher rate than form-based leads requiring outbound follow-up. Firms tracking well below these general ranges across a meaningful sample size likely have a genuine process gap worth investigating rather than simply unlucky lead quality." },
+      { type: "heading", text: "A Practical Process for Building Your Own Benchmark Dashboard" },
+      { type: "list", items: [
+        "Pull your firm's own cost-per-lead and conversion data for the trailing 12 months.",
+        "Compare each figure against the general industry ranges outlined above.",
+        "Flag any metric falling meaningfully outside the typical range for investigation.",
+        "Review this dashboard quarterly alongside broader marketing budget decisions.",
+        "Update your internal benchmarks annually as industry conditions shift.",
+      ]},
+      { type: "heading", text: "Common Mistakes Firms Make Using Industry Statistics" },
+      { type: "paragraph", text: "A frequent mistake is treating a single published statistic as an exact target to hit rather than a general directional reference, leading to frustration when a specific firm's results reasonably differ due to market, practice area, or intake process differences that a generic statistic can't capture. Firms also sometimes cite statistics from a vendor's own marketing materials without checking whether that vendor has an obvious incentive to present a specific channel favorably, building strategy around numbers that may not hold up to independent scrutiny. Failing to update benchmarks over time, continuing to reference figures from several years ago as though current market conditions haven't shifted, is another common and easily avoidable mistake given how much legal marketing costs and channel performance can change year over year." },
+      { type: "heading", text: "Using Statistics to Justify Budget Requests to Firm Leadership" },
+      { type: "paragraph", text: "Marketing staff or managing partners advocating for increased channel investment often find that presenting a clear comparison between the firm's current performance and relevant industry benchmarks makes a far more persuasive case than raw spend figures alone, since it demonstrates concretely where the firm sits relative to genuine market opportunity. Framing a budget request around a specific, well-sourced statistic, such as showing that firms responding within five minutes convert meaningfully better than the firm's own current average response time, gives decision-makers a tangible, credible reason to approve additional investment in intake speed or staffing rather than relying on a vague appeal to \"growth potential\" alone." },
     ],
     faqs: [
       {

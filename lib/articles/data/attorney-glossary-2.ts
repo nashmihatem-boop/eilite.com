@@ -10,7 +10,7 @@ export const attorneyGlossary2Articles: Article[] = [
     metaDescription:
       "A clear, jargon-free definition of what an attorney lead actually is, plus the basic distinctions worth understanding before evaluating any provider.",
     category: "Law Firm Marketing",
-    readTime: "5 min read",
+    readTime: "6 min read",
     publishedDate: "2026-09-01",
     relatedSlugs: ["what-are-attorney-leads", "how-do-attorney-leads-work"],
     updatedDate: "2026-08-05",
@@ -118,6 +118,28 @@ export const attorneyGlossary2Articles: Article[] = [
         type: "paragraph",
         text: "For a deeper breakdown of the specific process leads go through before reaching a firm, see our guide to [how attorney leads work](/learning-center/how-do-attorney-leads-work). Firms ready to test the channel directly can review [Eilite's buy leads platform](/buy-leads) for current pricing and exclusivity options.",
       },
+      {
+        type: "heading",
+        text: "Attorney Lead Volume vs. Quality Tradeoffs",
+      },
+      {
+        type: "paragraph",
+        text: "Firms often assume more volume is automatically better, but a larger quantity of loosely-targeted or unverified leads can actually cost more in wasted intake time than a smaller volume of tightly-screened, exclusive ones. The right balance depends heavily on a firm's specific intake capacity — a firm with a large, efficient intake team can absorb and profitably work higher volume at a lower average quality bar, while a smaller firm with limited staff time generally does better prioritizing quality over sheer quantity.",
+      },
+      {
+        type: "heading",
+        text: "How Long a Purchased Lead Stays \"Fresh\"",
+      },
+      {
+        type: "paragraph",
+        text: "A lead's genuine value tends to decay quickly after generation, since a prospect who submitted a form or clicked an ad is often simultaneously exploring other options and may retain a different firm within hours or days if not reached promptly. This is why delivery speed matters as much as the underlying case quality — a well-matched, exclusive lead delivered six hours after generation has often already lost much of the advantage it would have carried if delivered within minutes." },
+      {
+        type: "heading",
+        text: "Documenting Lead Source in Every Client File",
+      },
+      {
+        type: "paragraph",
+        text: "Recording exactly which lead source, campaign, or provider produced each signed client, directly in the case management file rather than a separate spreadsheet that can drift out of sync, gives a firm reliable, long-term data for evaluating channel performance well beyond the initial testing period." },
     ],
     faqs: [
       {
@@ -271,6 +293,37 @@ export const attorneyGlossary2Articles: Article[] = [
         type: "paragraph",
         text: "A modest, well-tracked test provides real data before scaling investment. Our [Buy Leads](/buy-leads) and [Buy Warm Transfers](/buy-warm-transfers) pages are built to support exactly this kind of measured first evaluation, with clear terms on exclusivity and verification so firms know precisely what they're testing.",
       },
+      {
+        type: "heading",
+        text: "Comparing In-House Generation to Purchased Leads",
+      },
+      {
+        type: "paragraph",
+        text: "Some firms consider building their own lead generation capability, running paid search or content marketing internally, rather than purchasing from a third-party provider. This approach can produce a lower long-term cost per lead once organic content matures, but requires meaningful upfront investment in expertise, tooling, and patience, since in-house channels typically take months to reach the volume and consistency a purchased lead program can deliver almost immediately. Many firms find the two approaches complement each other well, using purchased leads to fill volume gaps while in-house channels slowly mature in the background.",
+      },
+      {
+        type: "heading",
+        text: "Building a Long-Term Relationship With a Trusted Provider",
+      },
+      {
+        type: "paragraph",
+        text: "Once a firm identifies a provider that consistently delivers strong results, treating that relationship as a genuine long-term partnership, rather than a purely transactional arrangement, often unlocks benefits beyond the base service: priority access during high-demand periods, more flexible volume adjustments, and a provider who understands the firm's specific case criteria well enough to flag edge cases proactively rather than delivering a purely generic feed.",
+      },
+      {
+        type: "heading",
+        text: "Scaling Volume Once the Test Proves Out",
+      },
+      {
+        type: "paragraph",
+        text: "After a successful initial test, scaling volume gradually rather than jumping immediately to a much larger commitment protects a firm from a sudden shift in lead quality or an intake bottleneck that a smaller test wouldn't have revealed. Increasing volume in modest increments, while continuing to track cost-per-signed-case at each new level, confirms the positive results from the initial test genuinely hold up as scale increases rather than assuming they will automatically.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Provider Performance on a Recurring Schedule",
+      },
+      {
+        type: "paragraph",
+        text: "Even a provider that performed well during initial testing deserves a recurring, scheduled review rather than being assumed to keep delivering the same quality indefinitely, since sourcing methods, targeting, and internal quality standards can all shift at a provider over time, often gradually and quietly, without any explicit announcement ever being made directly to its existing, currently active buyers of that same underlying lead service." },
     ],
     faqs: [
       {

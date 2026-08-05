@@ -140,7 +140,7 @@ export const piStrategicGuides2Articles: Article[] = [
       "Where a lead actually comes from significantly affects its eventual quality. Here's how to evaluate sourcing methods before choosing a provider.",
     metaDescription: "Where a personal injury lead comes from significantly affects its eventual quality. A lawyer's guide to evaluating sourcing methods before choosing a provider.",
     category: "Personal Injury",
-    readTime: "9 min read",
+    readTime: "7 min read",
     publishedDate: "2026-08-27",
     updatedDate: "2026-08-05",
     relatedSlugs: piGRelated,
@@ -208,6 +208,14 @@ export const piStrategicGuides2Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Watching for Sourcing Quality Drift Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "A provider's sourcing quality at the start of a relationship isn't guaranteed to stay consistent indefinitely, since traffic sources, partner relationships, and screening rigor can all shift gradually without an obvious single moment of change. Firms that periodically spot-check sourcing details, even with a long-standing, previously reliable provider, catch this kind of gradual quality drift earlier than those who validated sourcing once at the very start of the relationship and then never genuinely revisited that same important question again later on.",
+      },
+      {
+        type: "heading",
         text: "How to Test a New Sourcing Claim Before Committing Budget",
       },
       {
@@ -229,6 +237,30 @@ export const piStrategicGuides2Articles: Article[] = [
       {
         type: "paragraph",
         text: "Providers relying entirely on their own owned properties offer tighter quality control but can hit a volume ceiling once that property's traffic maxes out, while providers relying entirely on a partner network can scale volume more easily but need genuinely rigorous quality control across every partner to maintain consistency. The strongest providers typically blend both: a core of owned, tightly controlled properties supplemented by a carefully vetted partner network for additional scale. Asking a provider directly what share of their volume comes from owned versus partner sources, and how partner quality is monitored on an ongoing basis, reveals whether this balance is being actively and thoughtfully managed or left largely to chance.",
+      },
+      {
+        type: "heading",
+        text: "What Quality Sourcing Typically Costs",
+      },
+      {
+        type: "paragraph",
+        text: "Leads sourced from a dedicated, purpose-built intake property with genuine screening commonly run $75 to $250 depending on injury severity and exclusivity, while leads pulled from a broad partner network or a co-registration form often price well below that range but carry a meaningfully weaker conversion rate. Firms should treat a dramatically lower price relative to this range as a signal genuinely worth investigating rather than an automatic bargain, since sourcing quality is one of the primary drivers of that price difference in the first place.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Evaluating Sourcing Claims",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is accepting a provider's description of their sourcing at face value without ever requesting the underlying raw data, form fields, consent language, delivery timestamps, that would actually substantiate the claim. Firms also sometimes judge sourcing quality from a single small batch of leads without accounting for normal variation, drawing a firm conclusion about a provider's overall quality from a sample too small to be genuinely representative of typical performance.",
+      },
+      {
+        type: "heading",
+        text: "Building an Ongoing Relationship With a Trusted Source",
+      },
+      {
+        type: "paragraph",
+        text: "Once a firm identifies a provider with genuinely strong, transparent sourcing, maintaining that relationship over time, rather than constantly shopping for a marginally cheaper alternative, tends to produce more consistent results. Providers who see a firm as a stable, long-term partner are often more willing to prioritize that account's volume during high-demand periods and more responsive to feedback about which specific lead attributes are converting best for that specific firm's own particular case mix and its overall practice focus.",
       },
     ],
     faqs: [

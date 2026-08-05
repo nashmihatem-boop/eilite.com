@@ -253,6 +253,48 @@ export const howToGenerateCluster3Articles: Article[] = [
         type: "paragraph",
         text: "Combining a purchased lead program with dedicated local SEO content for Phoenix, Tucson, and smaller Arizona metros individually builds durable organic visibility that reduces reliance on paid volume over time. Firms that publish location-specific content addressing each metro's actual case patterns, rather than a single generic statewide page, tend to build stronger long-term rankings and a lower blended cost per case.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value Ranges in Arizona",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in the Phoenix metro commonly run $30 to $85, while exclusive, screened leads with confirmed injury and liability detail often run $75 to $250 or more, with Tucson and Arizona's smaller markets typically pricing meaningfully lower given reduced firm competition. On the case value side, minor soft-tissue injury claims with clear liability often settle somewhere in the $10,000 to $40,000 range, moderate injuries requiring surgery or extended treatment frequently land between $50,000 and $200,000, and catastrophic injury or wrongful death cases can reach well into seven figures when a well-insured defendant is involved, though actual outcomes always depend on the specific facts of each case.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Arizona PI Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm accident date, location, and basic circumstances during first contact.",
+          "Screen for documented injury severity and current treatment status.",
+          "Verify insurance coverage for all involved parties as early as possible.",
+          "Confirm the claim falls within Arizona's statute of limitations.",
+          "Flag Spanish-speaking claimants immediately for bilingual staff routing.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Sourcing Arizona Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is treating Arizona as a single undifferentiated market and applying identical Phoenix-level pricing expectations and follow-up scripts to Tucson and rural leads, missing the meaningfully different competitive and cost dynamics between them. Firms also sometimes underinvest in Spanish-language intake despite Arizona's significant bilingual population, effectively pricing themselves out of a meaningful share of the state's available case volume. Failing to confirm actual insurance policy limits early, rather than assuming a standard minimum-coverage scenario, is another common oversight that can lead to under-resourcing a case that's actually worth significantly more than initially estimated.",
+      },
+      {
+        type: "heading",
+        text: "Working With Arizona's Insurance Landscape",
+      },
+      {
+        type: "paragraph",
+        text: "Arizona's relatively low state-mandated minimum liability limits mean a meaningful share of at-fault drivers carry only minimal coverage, making it especially important for firms to confirm a claimant's own uninsured and underinsured motorist coverage early in intake rather than assuming the at-fault party's policy alone will cover the full claim. Firms experienced in stacking a client's own UM/UIM coverage on top of a minimally insured defendant's policy often recover meaningfully more for clients than firms that treat policy limits as a hard ceiling on case value.",
+      },
+      {
+        type: "paragraph",
+        text: "This distinction is worth raising directly with new clients during the very first consultation, since many Arizona residents don't realize their own auto policy could become a meaningful source of recovery until a firm explains how UM/UIM coverage actually works in practice.",
+      },
     ],
     faqs: [
       {
@@ -387,6 +429,44 @@ export const howToGenerateCluster3Articles: Article[] = [
         type: "paragraph",
         text: "Florida's personal injury advertising market is among the most saturated in the country, with heavy television, billboard, and digital spend from large firms in every major metro. Smaller and mid-sized firms often find better returns focusing on underserved sub-niches — specific injury types, specific suburbs, or specific languages — rather than competing head-on for the broadest, most expensive keywords against the state's largest advertisers.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value Ranges in Florida",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in Miami, Orlando, and Tampa commonly run $40 to $110 given the market's intense competition, while exclusive, liability-screened leads often run $90 to $300 or more, with the Panhandle and smaller Florida metros typically pricing 25 to 40 percent lower. On settlement value, minor soft-tissue injury claims with clear liability often resolve in the $10,000 to $40,000 range, moderate injuries requiring surgery frequently land between $60,000 and $250,000, and catastrophic injuries or wrongful death cases involving a well-insured defendant can reach seven figures, though Florida's stricter 50% fault bar means these figures only apply once liability is clearly established well above that threshold.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process Under Florida's Fault Bar",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly who received a citation and whether a police report was filed.",
+          "Identify independent witnesses separate from either driver as early as possible.",
+          "Confirm whether the injury meets Florida's serious injury threshold to step outside PIP.",
+          "Screen out cases where fault appears close to or above the 50% line.",
+          "Document photos and physical evidence before it degrades or disappears.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Buying Florida PI Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is continuing to apply pre-2023 screening habits, treating a borderline-liability lead as worth pursuing simply because it would have been viable under the old pure comparative negligence rule, when it may now be a complete loss under the 50% bar. Firms also sometimes fail to verify a caller hasn't already retained counsel, a persistent issue in Florida's saturated advertising market where prospects are bombarded with competing firm outreach. Underestimating how much PIP thresholds affect early case strategy, rather than confirming upfront whether an injury actually qualifies to step outside the no-fault system, is another common and costly oversight.",
+      },
+      {
+        type: "heading",
+        text: "Understanding How PIP Interacts With a Liability Claim",
+      },
+      {
+        type: "paragraph",
+        text: "Florida's no-fault PIP coverage pays a portion of initial medical bills regardless of fault, but it doesn't replace a liability claim against an at-fault party once damages exceed PIP limits or the injury meets the state's serious injury threshold. Firms should confirm during intake whether medical treatment has already exhausted available PIP benefits and whether the injury's severity clears that threshold, since a claim that never qualifies to step outside the no-fault system has meaningfully different value and strategy than one that does.",
+      },
     ],
     faqs: [
       {
@@ -516,6 +596,48 @@ export const howToGenerateCluster3Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because highway accident leads cost more upfront, tracking signed-case rate and, critically, average settlement value against the standard auto accident category is the only way to confirm the premium is worth paying. A firm that pays 40% more per lead but sees average case value increase by 100% has made a good trade; a firm paying the same premium without a corresponding lift in case value has simply overpaid for a label.",
+      },
+      {
+        type: "heading",
+        text: "Typical Cost and Settlement Ranges for This Category",
+      },
+      {
+        type: "paragraph",
+        text: "Shared highway accident leads commonly run $50 to $130, while exclusive, severity-screened leads with confirmed injury and vehicle damage detail often run $100 to $350 or more, reflecting both the added screening cost and the category's stronger average case value. On settlement value, moderate highway-collision injuries requiring surgery or extended physical therapy frequently land between $75,000 and $300,000, while catastrophic injuries involving permanent disability or a commercial carrier defendant with substantial policy limits can reach well into seven figures, though actual outcomes always depend on documented liability, coverage, and the specific facts of the case.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Script for Highway Accident Calls",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask for estimated speed and number of vehicles involved immediately.",
+          "Confirm whether emergency transport or hospitalization occurred.",
+          "Identify whether a commercial or trucking vehicle was involved.",
+          "Request vehicle damage photos or a description of total-loss status.",
+          "Flag multi-party liability disputes for early attorney review.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With This Case Category",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is paying a premium for leads labeled as highway-specific without verifying the provider actually captures speed, vehicle count, and injury severity at the point of intake, effectively paying more for what amounts to standard auto accident volume with a different label attached. Firms also sometimes route highway accident calls through the same fast, low-touch intake process used for minor fender-benders, missing the opportunity to demonstrate the specialized expertise a seriously injured prospect comparing several firms is actually looking for. Underestimating the complexity of multi-party or commercial carrier cases during initial screening, rather than flagging them early for a more experienced attorney's review, is another common and costly oversight." ,
+      },
+      {
+        type: "heading",
+        text: "Working With Accident Reconstruction and Trucking Experts",
+      },
+      {
+        type: "paragraph",
+        text: "High-speed and multi-vehicle highway collisions often benefit from early involvement of an accident reconstruction expert to establish sequence of events and speed, particularly when liability is disputed among several drivers. Commercial trucking cases add another layer, frequently requiring review of driver logs, maintenance records, and federal motor carrier compliance history, since violations in these areas can meaningfully strengthen a liability argument beyond the collision itself. Firms that build relationships with experts in both areas ahead of time move cases forward faster than those scrambling to find qualified experts after a complex case has already been signed.",
+      },
+      {
+        type: "paragraph",
+        text: "Maintaining a short list of pre-vetted reconstruction and trucking compliance experts, along with a general sense of their typical turnaround time and fee structure, also makes it easier to move quickly once a genuinely strong highway accident case comes in.",
       },
     ],
     faqs: [
@@ -651,6 +773,48 @@ export const howToGenerateCluster3Articles: Article[] = [
         type: "paragraph",
         text: "Beyond its major metros, Texas has enormous rural stretches and a large bilingual population throughout the state, both of which create opportunities for firms willing to invest specifically in underserved geography and Spanish-language content. Rural Texas often has meaningfully less legal marketing competition than any of the state's big four metros, even though absolute search volume is lower.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value Across Texas Metros",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in Houston and Dallas commonly run $35 to $95 given the concentration of large, well-funded firms in both markets, while exclusive, liability-screened leads often run $75 to $250 or more. Austin pricing has climbed toward similar levels as the metro has grown, while San Antonio and Texas's mid-sized metros typically price 20 to 35 percent lower given reduced competition. On case value, standard auto accident claims with clear liability often settle in the $15,000 to $60,000 range for moderate injuries, while commercial trucking and oilfield accident cases, given Texas's high concentration of energy and logistics activity, frequently reach well into six or seven figures given the substantially higher commercial policy limits typically involved.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Statewide Intake Process",
+      },
+      {
+        type: "list",
+        items: [
+          "Apply a single 51%-bar liability screening standard across every metro consistently.",
+          "Flag commercial trucking or oilfield involvement immediately for specialized handling.",
+          "Confirm which specific metro the incident occurred in for routing and reporting.",
+          "Offer Spanish-language intake by default given the state's bilingual population.",
+          "Document photos and witness information before evidence degrades.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Building Texas-Wide Volume",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying Houston or Dallas pricing expectations uniformly across the entire state, overpaying for volume in less competitive metros where a meaningfully lower cost per lead should be achievable. Firms also sometimes treat trucking and oilfield accident leads identically to standard auto accident volume, missing the specialized screening and higher-value handling these cases warrant given their typically larger commercial insurance policies. Underinvesting in Spanish-language capacity despite Texas's large bilingual population, particularly in South Texas and border communities, is another common oversight that leaves meaningful case volume on the table for competitors willing to serve that audience properly.",
+      },
+      {
+        type: "heading",
+        text: "Building Metro-Specific Referral Networks",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond purchased leads and organic content, firms serving multiple Texas metros benefit from building referral relationships with local medical providers, chiropractors, and smaller firms handling case types outside their specialty in each specific market. Because Texas's major metros function as genuinely separate legal and referral communities rather than one unified statewide network, a referral relationship built in Houston rarely translates to Dallas or Austin, making metro-by-metro relationship building a worthwhile long-term investment alongside any purchased lead strategy.",
+      },
+      {
+        type: "paragraph",
+        text: "Assigning a specific team member or partner to own each metro's local relationships, rather than treating referral development as an afterthought handled inconsistently by whoever has time, tends to produce noticeably stronger results across a multi-city Texas practice.",
+      },
     ],
     faqs: [
       {
@@ -785,6 +949,44 @@ export const howToGenerateCluster3Articles: Article[] = [
       {
         type: "paragraph",
         text: "Rather than evaluating each channel by its raw lead volume or per-lead cost alone, tracking cost-per-signed-case across every channel from the start gives a firm the clearest picture of where marketing dollars are actually producing results. This is particularly important when comparing channels with very different cost structures, like SEO's high upfront, low marginal cost against a purchased lead program's more linear, pay-as-you-go pricing.",
+      },
+      {
+        type: "heading",
+        text: "Typical Cost Ranges Across Lead Generation Channels",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads commonly run $30 to $85 depending on market competitiveness, while exclusive, screened leads with confirmed injury and liability detail often run $75 to $250 or more, and warm transfers, given the added agent labor involved, frequently run $150 to $400 or higher for well-qualified calls. PPC cost per click for competitive personal injury keywords can run anywhere from $20 to well over $100 in the most saturated major metros, meaning actual cost per lead through paid search often lands in a similar range to purchased leads once typical landing page conversion rates are factored in. Organic SEO carries minimal per-lead marginal cost once rankings are established, but requires substantial upfront content and technical investment before producing meaningful volume.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process That Works Across Channels",
+      },
+      {
+        type: "list",
+        items: [
+          "Respond to every new lead within minutes, regardless of source.",
+          "Apply the same liability and injury severity screening consistently across channels.",
+          "Log source and outcome for every lead to track true channel performance.",
+          "Route higher-value cases to your most experienced intake staff or attorneys.",
+          "Follow up at least five to eight times before marking a lead unresponsive.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Generating Personal Injury Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is judging a channel purely on cost per lead rather than cost per signed case, which can make an expensive but highly targeted source look worse than a cheap but poorly converting one until the full picture is tracked properly. Firms also commonly under-invest in follow-up speed and consistency, losing winnable cases to faster-responding competitors regardless of how strong the original lead source was. Abandoning organic SEO too early, before it has had a realistic amount of time to mature, is another common mistake that leaves firms permanently dependent on paid and purchased channels with no lower-cost long-term foundation underneath them.",
+      },
+      {
+        type: "heading",
+        text: "Building Intake Capacity to Match Lead Volume",
+      },
+      {
+        type: "paragraph",
+        text: "Generating strong lead volume accomplishes little if a firm's intake capacity can't keep pace, and firms scaling up purchased leads or paid advertising spend should plan staffing growth alongside marketing growth rather than treating them as separate decisions. A firm that doubles lead volume without adding intake capacity typically sees response times slip and signed-case rate decline, effectively wasting a meaningful share of the increased marketing investment on leads that simply sit too long before anyone follows up.",
       },
     ],
     faqs: [
@@ -929,6 +1131,40 @@ export const howToGenerateCluster3Articles: Article[] = [
         type: "paragraph",
         text: "The firms seeing the strongest results in 2026 tend to share a few common traits: disciplined tracking of cost-per-acquisition rather than cost-per-lead, willingness to pay a premium for genuinely verified sources, and intake processes fast enough to actually capitalize on higher-quality volume once it arrives. Firms still measuring success by raw lead count, without connecting it to signed-case outcomes, are increasingly at a competitive disadvantage as the overall market has shifted toward quality-first sourcing.",
       },
+      {
+        type: "heading",
+        text: "Typical 2026 Cost Benchmarks Worth Knowing",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in 2026 commonly run $35 to $95, up from more modest figures a few years ago, while exclusive, genuinely verified leads with confirmed injury and liability detail often run $85 to $275 or more in competitive metro markets. Warm transfers, given the added agent screening and briefing labor involved, frequently command $175 to $450 for well-qualified calls. PPC cost per click for competitive personal injury terms has also climbed, often running $25 to well over $120 in the most saturated major metros, reinforcing why firms increasingly track blended cost-per-acquisition across channels rather than judging any single channel by sticker price alone.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Quarterly Audit Process",
+      },
+      {
+        type: "list",
+        items: [
+          "Pull cost-per-acquisition by source for the trailing 90 days.",
+          "Compare current response times against your documented service standard.",
+          "Ask each lead provider what's changed in their verification process this year.",
+          "Review whether any channel's cost has crept up without a matching quality increase.",
+          "Reallocate a modest test budget toward any newly promising channel or provider.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Adapting Too Slowly",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is continuing to renew a lead provider contract purely out of inertia, without periodically re-benchmarking their pricing and quality against current market standards, which can leave a firm quietly overpaying for underperforming volume for months before anyone notices. Firms also sometimes chase the newest marketing trend, such as a specific AI search optimization tactic, without first confirming their fundamentals, like fast intake response and genuine lead screening, are already solid, effectively building a new feature on top of a shaky foundation. Failing to track signed-case outcomes by source consistently, relying instead on a general sense of which channels feel like they're working, is another common gap that makes it hard to make confident, data-backed budget decisions each quarter.",
+      },
+      {
+        type: "paragraph",
+        text: "Building a simple recurring calendar reminder to run this audit, rather than treating it as an occasional ad hoc project, helps firms catch these gaps early and consistently rather than only noticing a problem once cost-per-acquisition has already drifted meaningfully out of line with expectations.",
+      },
     ],
     faqs: [
       {
@@ -1063,6 +1299,40 @@ export const howToGenerateCluster3Articles: Article[] = [
         type: "paragraph",
         text: "Because a meaningful share of Tampa-area accident victims are out-of-state visitors, intake scripting should proactively address common tourist concerns: whether the case can be handled without frequent trips back to Florida, how communication will work across time zones, and what documents the client needs to gather before returning home. Addressing these concerns clearly and early often meaningfully improves conversion with this specific caller segment.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value in the Tampa Market",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in the Tampa Bay metro commonly run $35 to $90, sitting below Miami's pricing but above Florida's smaller markets, while exclusive, liability-screened leads often run $75 to $220 or more depending on injury severity and case type. St. Petersburg, Clearwater, and suburban communities like Brandon typically price 15 to 25 percent lower than Tampa's downtown core given reduced firm competition. On settlement value, standard auto accident claims with moderate injury and clear liability often resolve between $25,000 and $100,000, while severe weather-related premises liability and multi-vehicle interstate collisions can reach significantly higher depending on documented damages and available insurance coverage.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Local Intake Checklist for Tampa-Area Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm whether the claimant is a local resident, seasonal visitor, or out-of-state tourist.",
+          "Ask about citation status, witnesses, and police report availability immediately.",
+          "Identify whether the incident occurred on I-275, I-4, or a local surface street.",
+          "For weather-related claims, document property maintenance history where possible.",
+          "Explain the remote-case-handling process clearly to any out-of-state caller.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Tampa Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is marketing generically to \"Tampa\" without building dedicated content or campaigns for St. Petersburg, Clearwater, and the area's fast-growing suburbs, missing lower-competition volume available just outside the downtown core. Firms also sometimes fail to prepare intake staff for the specific needs of tourist claimants, losing conversion when a caller worried about needing to fly back to Florida repeatedly doesn't get a clear, reassuring answer on the first call. Underestimating severe weather's role as a distinct case source, treating every premises liability inquiry identically regardless of whether it followed a storm event, is another local nuance worth addressing directly in both content and screening.",
+      },
+      {
+        type: "paragraph",
+        text: "Building a simple internal tag for storm-related claims makes it easier to track this case source's performance separately over time, rather than letting it blend into general premises liability numbers where its distinct seasonal pattern and typical case value get lost in the broader average.",
+      },
     ],
     faqs: [
       {
@@ -1188,6 +1458,44 @@ export const howToGenerateCluster3Articles: Article[] = [
           "Pricing that seems low relative to the category's typical premium, which often signals the leads aren't genuinely pre-screened.",
           "No willingness to share how injury severity is verified before a lead is labeled catastrophic and delivered at premium pricing.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Case Value Ranges",
+      },
+      {
+        type: "paragraph",
+        text: "Genuinely screened catastrophic injury leads commonly run $150 to $500 or more, reflecting both the intensive screening required and the category's dramatically higher case value compared to standard personal injury volume. On settlement value, cases involving permanent partial disability or significant but survivable injury often settle in the $250,000 to $1,000,000 range, while cases involving permanent total disability, severe traumatic brain injury, or wrongful death with a well-insured defendant can reach well into eight figures, particularly when multiple liable parties or a commercial defendant with substantial policy limits are involved. Actual outcomes always depend on documented liability, available coverage, and the specific long-term care needs established through medical and vocational expert testimony.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Catastrophic Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Involve an attorney directly in the first substantive conversation, not just intake staff.",
+          "Document hospitalization length, treatment plan, and expected long-term prognosis carefully.",
+          "Identify every potential liable party, not just the most obvious one.",
+          "Confirm available insurance coverage across all identified defendants early.",
+          "Allow extra time for the family to process information without feeling rushed.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With This Category",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying the same fast, high-volume intake process used for standard personal injury leads to catastrophic cases, which can come across as dismissive to a family dealing with a life-altering event and cost a firm a case it was otherwise well-positioned to win. Firms also sometimes fail to bring in life-care planning or vocational experts early enough, undervaluing a case's true long-term cost before settlement negotiations begin. Underinvesting in visible catastrophic case results and dedicated practice-area content, relying instead on general personal injury marketing to also attract this category, is another common gap that leaves firms competing less effectively against specialists who market catastrophic experience directly.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating Life-Care Planning and Expert Testimony",
+      },
+      {
+        type: "paragraph",
+        text: "Catastrophic cases almost always require expert testimony to properly value future medical care, lost earning capacity, and quality-of-life impact, and firms that engage life-care planners, vocational experts, and treating physicians early in the case, rather than only once settlement negotiations begin, tend to build a more thoroughly documented and ultimately more persuasive damages picture. Waiting too long to bring in this expertise risks scrambling to assemble a complete record under time pressure as a filing deadline or negotiation window approaches.",
       },
     ],
     faqs: [
@@ -1330,6 +1638,44 @@ export const howToGenerateCluster3Articles: Article[] = [
       {
         type: "paragraph",
         text: "Beyond raw inquiry volume, tracking which custody sub-type is converting best — initial determinations, modifications, or interstate relocation disputes — helps a firm refine both its content strategy and its paid campaign targeting over time. A firm that discovers its modification content converts at a much higher rate than its general custody content, for example, has a clear signal about where to invest further content development.",
+      },
+      {
+        type: "heading",
+        text: "Typical Cost Ranges Across Custody Sub-Types",
+      },
+      {
+        type: "paragraph",
+        text: "Shared custody leads commonly run $25 to $65, while exclusive leads specifically screened for contested status and safety flags often run $50 to $150 or more, with interstate relocation disputes and cases involving unfitness allegations frequently pricing toward the higher end given their added legal complexity. Retainer amounts follow a similarly wide range: an uncontested custody agreement between cooperative parents might involve a flat fee of $1,500 to $3,500, while a contested modification with expert evaluations, multiple hearings, and extended discovery can run $10,000 to $30,000 or more depending on how long the dispute continues and how much conflict is involved.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Custody Inquiries",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm which parent is calling and whether the other party has counsel.",
+          "Ask directly whether the matter is contested or uncontested.",
+          "Screen for any safety concerns, protective orders, or urgent risk factors.",
+          "Confirm jurisdiction, since custody rules vary by state and sometimes county.",
+          "Set a follow-up call with an attorney promptly given the emotional urgency involved.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing for Custody Cases",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is writing custody content in an overly clinical, procedural tone that fails to acknowledge the genuine emotional weight a searching parent is carrying, missing an opportunity to build trust before the first phone call even happens. Firms also sometimes price every custody lead identically regardless of contested status, effectively overpaying for straightforward uncontested matters or underpaying for complex contested cases relative to their true value. Failing to train intake staff specifically on safety-related red flags, treating every custody call as a routine scheduling matter, is another serious gap that can leave a vulnerable client without the urgent guidance they actually need.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating With Co-Parenting Counselors and Evaluators",
+      },
+      {
+        type: "paragraph",
+        text: "Contested custody cases frequently involve a court-appointed custody evaluator or guardian ad litem, and firms familiar with how a specific jurisdiction's evaluators typically approach their assessments can prepare clients more effectively for this process. Building working familiarity with local co-parenting counselors and family therapists also gives firms a valuable referral resource to recommend when a client's situation would benefit from professional support alongside the legal process, which can improve both case outcomes and long-term client goodwill.",
       },
     ],
     faqs: [

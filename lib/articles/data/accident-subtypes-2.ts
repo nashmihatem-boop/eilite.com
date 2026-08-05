@@ -74,6 +74,14 @@ export const accidentSubtypes2Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Lyft Accident Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Shared or general rideshare-labeled leads often run $30 to $75, while leads specifically screened for Lyft platform involvement and confirmed active-trip status can run $75 to $200 or more given the higher potential case value tied to the active-ride insurance tier. Firms should treat this premium as reasonable given how much confirmed app status affects realistic case value, rather than comparing it directly against pricing for a standard, non-rideshare auto accident lead that carries a much lower coverage ceiling.",
+      },
+      {
+        type: "heading",
         text: "Compliance and Data Privacy When Handling Rideshare Cases",
       },
       {
@@ -111,6 +119,22 @@ export const accidentSubtypes2Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because rideshare accidents occurring during an active trip typically involve substantially higher policy limits than a standard personal auto policy, the case value ceiling on a well-documented Lyft accident claim is often meaningfully higher than a comparable standard car accident case. Firms tracking cost per signed case by lead type frequently find that despite the higher acquisition cost, rideshare leads produce a favorable blended return once that higher case value ceiling is factored in.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Lyft Accident Cases",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is assuming Lyft's data request process mirrors Uber's exactly and using the same template letter or contact channel, which often causes delays since the two companies maintain separate legal request procedures and points of contact. Firms also sometimes fail to confirm app status early in intake, treating every Lyft-related inquiry as automatically covered by the higher active-trip liability tier when in reality a driver who was merely logged in and waiting carries meaningfully lower available coverage.",
+      },
+      {
+        type: "heading",
+        text: "Working With Multiple Insurance Layers on the Same Claim",
+      },
+      {
+        type: "paragraph",
+        text: "A single Lyft accident can implicate several distinct insurance policies simultaneously: Lyft's contingent or primary coverage depending on trip status, the driver's personal auto policy, and potentially the other involved driver's policy in a multi-vehicle collision. Firms comfortable coordinating claims across these layers, rather than pursuing only the most obvious policy, often secure meaningfully better outcomes for clients whose injuries exceed what a single coverage layer alone would provide, particularly in cases involving catastrophic or long-term injuries that exceed what any single available policy's limits could cover entirely on its own. Mapping out every potentially applicable policy early in the case, rather than stopping once one viable source of recovery is identified, is worth the extra investigative effort for higher-severity claims.",
       },
     ],
     faqs: [
@@ -204,6 +228,14 @@ export const accidentSubtypes2Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Intersection Accident Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Unscreened intersection accident leads often run $20 to $60, while leads pre-screened for confirmed evidence, camera footage, a police citation, or witness contact information, can run $60 to $150 or more given their substantially higher likelihood of converting into a viable, resolvable case. Firms should view this premium as a reasonable trade against the intake time saved by not having to independently investigate whether a given inquiry has any real evidentiary basis at all.",
+      },
+      {
+        type: "heading",
         text: "Working With Accident Reconstruction for Disputed Cases",
       },
       {
@@ -257,6 +289,22 @@ export const accidentSubtypes2Articles: Article[] = [
       {
         type: "paragraph",
         text: "Traffic camera footage is often retained for only a limited window before being overwritten, and witness memories fade quickly as well. A firm that moves promptly to request footage and document the scene once a lead comes in, rather than waiting until formal representation paperwork is finalized, preserves options that might otherwise close within days of the accident.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Intersection Cases",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is delaying the evidence-preservation request until after a full intake packet is complete, losing valuable time on camera footage that may only be retained for a matter of days. Firms also sometimes decline a case too quickly based on an initial lack of obvious evidence, without first canvassing nearby businesses or residences for camera systems that might have captured the intersection, missing evidence that a more thorough initial investigation would have uncovered.",
+      },
+      {
+        type: "heading",
+        text: "Handling Multi-Vehicle Intersection Pileups",
+      },
+      {
+        type: "paragraph",
+        text: "Intersection accidents involving three or more vehicles introduce additional complexity beyond a standard two-car dispute, since establishing the sequence of impacts and each driver's individual contribution to the crash often requires more extensive reconstruction work. Firms handling these cases should expect a longer investigation timeline and budget accordingly for expert involvement, since the added complexity, while sometimes increasing overall case value across multiple potentially liable parties, also meaningfully increases the resources needed to build a persuasive, well-supported claim.",
       },
     ],
     faqs: [

@@ -105,6 +105,42 @@ export const divorceLeadTypeClusterArticles: Article[] = [
         type: "paragraph",
         text: "High-net-worth or highly contested divorces generally justify a higher maximum exclusive lead price than routine, uncontested matters, since the fee difference between case types can be substantial. Segmenting your framework by rough case complexity, where your lead provider allows this kind of filtering, produces a more accurate allocation than treating all divorce leads as a single undifferentiated category.",
       },
+      {
+        type: "heading",
+        text: "Building in a Contingency Reserve for Testing New Sources",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the core allocation between exclusive and shared delivery, firms benefit from setting aside a modest reserve, perhaps 10-15% of total lead budget, specifically for testing new providers or formats without disrupting the primary, proven allocation. This reserve gives a firm room to explore whether a new source might outperform current channels without risking the reliability of the core pipeline that's already generating predictable results.",
+      },
+      {
+        type: "heading",
+        text: "Accounting for Intake Staff Turnover in the Framework",
+      },
+      {
+        type: "paragraph",
+        text: "A framework built around a specific intake team's speed and closing ability can quietly become outdated when staff turnover occurs, since a newly hired intake coordinator rarely performs at the same level as an experienced one during their first several weeks. Firms should build in a brief adjustment period after any significant staffing change, temporarily leaning more heavily toward exclusive delivery until the new team member's performance stabilizes and the original allocation assumptions can be safely reapplied.",
+      },
+      {
+        type: "heading",
+        text: "Documenting the Framework So It Survives Staff Changes",
+      },
+      {
+        type: "paragraph",
+        text: "A lead allocation framework that exists only in one partner's head disappears the moment that person is unavailable or leaves the firm. Writing down the actual calculation, current assumptions, and the specific triggers that should prompt a review ensures the framework survives staffing changes and gives new decision-makers a clear starting point rather than having to rebuild the entire analysis from scratch.",
+      },
+      {
+        type: "paragraph",
+        text: "This documentation doesn't need to be elaborate, a single shared page covering the current split, the underlying math, and the date of the last review is often enough to keep the framework functioning as genuine institutional knowledge rather than something that quietly erodes as the people who built it move on to other responsibilities.",
+      },
+      {
+        type: "heading",
+        text: "Involving Intake Staff in Building the Framework",
+      },
+      {
+        type: "paragraph",
+        text: "The attorneys and staff actually working leads day to day often have direct insight into which sources feel higher quality, where prospects seem most engaged, and what response patterns are realistic, insight that's easy to overlook when a framework is built purely from spreadsheet data by firm leadership disconnected from daily intake work. Involving intake staff in reviewing and refining the framework periodically produces a more accurate, practically grounded allocation than one built in isolation from the people actually executing on it every day.",
+      },
     ],
     faqs: [
       {
@@ -250,6 +286,38 @@ export const divorceLeadTypeClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "Firms moving from shared to exclusive leads don't need an abrupt cutover — gradually shifting budget over four to eight weeks while comparing performance side by side lets you validate the improvement before fully committing, and gives your intake team time to adjust to a potentially different lead volume and pace.",
+      },
+      {
+        type: "heading",
+        text: "How Firm Size Should Influence the Decision",
+      },
+      {
+        type: "paragraph",
+        text: "Solo practitioners and very small firms generally have the least capacity to compete on the speed shared leads demand, since a single missed call while in court or with another client can mean losing the prospect entirely, making exclusive delivery the more forgiving choice for firms without dedicated intake staff. Larger firms with multiple attorneys and dedicated intake personnel have more flexibility to experiment with shared leads, though even these firms should validate the economics with real data rather than assuming their larger size automatically makes shared leads viable.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Comparison as Your Practice Grows",
+      },
+      {
+        type: "paragraph",
+        text: "A firm's ideal exclusive-to-shared ratio isn't fixed permanently; as intake capacity grows, case values shift, or a firm expands into new geographic markets, the comparison worth revisiting periodically rather than locking in a decision made when the firm looked meaningfully different. Building a habit of reassessing this choice every six months to a year keeps lead allocation aligned with the firm's actual current capabilities rather than assumptions that may no longer hold true.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that treat this as a living decision, rather than a one-time setup task completed early on and never revisited, tend to capture more value from their lead spend as their practice matures and market conditions inevitably shift over time.",
+      },
+      {
+        type: "heading",
+        text: "Communicating the Model Choice to Referral Partners" },
+      { type: "paragraph", text: "Firms that also receive referrals from other attorneys or professionals sometimes overlook that these referral sources benefit from understanding how the firm handles purchased lead volume alongside referred business, particularly around response time and prioritization. Being transparent that referred clients receive the same fast, attentive intake as exclusive leads reassures referral partners their clients won't be treated as lower priority than paid acquisition channels, which helps preserve those valuable relationships over the long run." },
+      {
+        type: "heading",
+        text: "Weighing Contract Length Against Flexibility",
+      },
+      {
+        type: "paragraph",
+        text: "Providers sometimes offer better per-lead pricing in exchange for a longer volume commitment, and firms should weigh this against the value of staying flexible while still validating a new source or model. A shorter initial term at a slightly higher price, with the option to negotiate better terms once genuine performance data exists, generally protects a firm better than locking into a long-term agreement before confirming the model actually fits their specific intake capabilities and case mix.",
       },
     ],
     faqs: [
@@ -400,6 +468,38 @@ export const divorceLeadTypeClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "Because shared leads are priced lower per contact, the total volume needed to hit a given case target is often substantially higher than with exclusive delivery, which means the cumulative spend can end up comparable once true conversion rates are factored in — a nuance easy to miss when comparing only the sticker price per lead.",
+      },
+      {
+        type: "heading",
+        text: "Where Shared Leads Fit Alongside Other Growth Channels",
+      },
+      {
+        type: "paragraph",
+        text: "Firms exploring shared leads as a scaling tool shouldn't treat it as a replacement for a broader growth strategy that includes organic content, referral relationships, and exclusive lead volume, but rather as one additional lever worth testing once the core pipeline is already stable. Layering a shared-lead experiment on top of an already functioning intake process, rather than launching it as a firm's primary growth strategy from day one, reduces the risk if the economics ultimately don't work out for a given market or team.",
+      },
+      {
+        type: "heading",
+        text: "Setting a Clear Trial Period Before Committing Long-Term",
+      },
+      {
+        type: "paragraph",
+        text: "Given how heavily a shared-lead strategy's success depends on operational execution, firms should set a defined trial period, typically four to six weeks of consistent volume, with clear success criteria established in advance rather than judging results informally as they come in. This disciplined approach prevents a firm from either abandoning a genuinely promising strategy too early due to a single slow week, or continuing to invest in an approach that the data clearly shows isn't working for their specific team and market.",
+      },
+      {
+        type: "paragraph",
+        text: "Documenting the specific criteria for success before the trial begins, rather than deciding afterward what counts as a good result, keeps the evaluation honest and prevents the natural tendency to retroactively justify a decision the firm has already emotionally committed to.",
+      },
+      {
+        type: "heading",
+        text: "What Happens When a Shared-Lead Strategy Succeeds Long-Term",
+      },
+      {
+        type: "paragraph",
+        text: "For the minority of firms whose shared-lead trial genuinely outperforms expectations, the next challenge becomes maintaining that same speed and quality as volume scales further, since the operational discipline that worked for a modest test batch doesn't automatically hold at three or four times the volume. Firms in this position should treat continued scaling as its own gradual process, adding staffing and capacity incrementally while monitoring win rate closely, rather than assuming success at a small scale guarantees the same results once volume grows substantially larger and the same operational demands multiply accordingly.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that scale thoughtfully in this way, rather than doubling volume overnight after one encouraging month, protect the win rate and intake quality that made the initial results promising in the first place.",
       },
     ],
     faqs: [

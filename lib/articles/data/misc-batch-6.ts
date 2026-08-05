@@ -10,7 +10,7 @@ export const miscBatch6Articles: Article[] = [
     metaDescription:
       "A marketing-specific view of legal funnel building, showing how content should evolve across a prospect's research journey to convert more of them.",
     category: "Law Firm Marketing",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-09-13",
     updatedDate: "2026-08-05",
     relatedSlugs: ["build-a-law-firm-client-acquisition-funnel-that-converts", "content-marketing"],
@@ -127,6 +127,37 @@ export const miscBatch6Articles: Article[] = [
         type: "paragraph",
         text: "A funnel that spans website architecture, content, paid campaigns, and intake tends to work best with one person or team accountable for the whole thing end to end, even if different specialists execute different pieces. Without a single owner, it's common for each piece to be optimized in isolation without anyone tracking whether the full funnel, taken together, is actually converting better.",
       },
+      {
+        type: "heading",
+        text: "Aligning Marketing and Intake on Funnel Definitions",
+      },
+      {
+        type: "paragraph",
+        text: "A funnel only functions as a coherent system if marketing and intake staff share the same understanding of what happens at each stage and how a prospect should be handed off between them. Firms where marketing considers a form submission the end of its responsibility, while intake assumes marketing already qualified the lead thoroughly, often see prospects fall through a genuine gap in ownership that neither team notices until conversion data reveals the problem months later.",
+      },
+      {
+        type: "heading",
+        text: "Handling Funnel Leakage Between Stages",
+      },
+      {
+        type: "paragraph",
+        text: "Some drop-off between funnel stages is normal and expected, but a sudden, unexplained spike in leakage at a specific transition, a much lower rate of visitors moving from consideration content to a landing page, for example, deserves investigation rather than being written off as ordinary variation. Comparing leakage rates month over month at each transition helps a firm distinguish normal fluctuation from a genuine, fixable problem worth addressing.",
+      },
+      {
+        type: "heading",
+        text: "Localizing the Funnel for Multi-Office Firms",
+      },
+      {
+        type: "paragraph",
+        text: "Firms with multiple office locations benefit from building at least some location-specific content into the middle and bottom funnel stages, rather than relying entirely on a single generic version of the funnel for every market the firm serves. A prospect searching for a local firm responds better to content and landing pages that reference their specific city or region than to a version that reads as though it could apply to any of the firm's offices interchangeably.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Funnel Performance With the Whole Team",
+      },
+      {
+        type: "paragraph",
+        text: "Sharing funnel performance data in a regular team meeting, rather than keeping it confined to whoever owns marketing reporting, helps intake staff and attorneys understand how their own work fits into the broader system and often surfaces valuable frontline observations, a specific objection prospects keep raising repeatedly, a confusing or unclear step somewhere in the process, that pure analytics data alone would likely never fully reveal on its own without that added context." },
     ],
     faqs: [
       {
@@ -168,7 +199,7 @@ export const miscBatch6Articles: Article[] = [
     metaDescription:
       "B2B-facing law firms face different lead generation dynamics than consumer practice areas, with longer sales cycles and different decision-makers to reach.",
     category: "Legal Leads",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-09-13",
     updatedDate: "2026-08-05",
     relatedSlugs: ["buy-targeted-legal-leads-for-your-business", "b2b-legal-lead-generation-for-high-quality-partnership"],
@@ -291,6 +322,37 @@ export const miscBatch6Articles: Article[] = [
         type: "paragraph",
         text: "Larger business clients may have in-house counsel involved even when engaging outside counsel for a specific matter, which changes the sales conversation considerably — outside counsel is often being evaluated on specialized expertise and capacity rather than general legal knowledge the in-house team already has. Recognizing this dynamic early in a lead conversation helps tailor the pitch appropriately.",
       },
+      {
+        type: "heading",
+        text: "Building a Sales Process That Matches B2B Buying Behavior",
+      },
+      {
+        type: "paragraph",
+        text: "Consumer-style intake, a single fast phone call aimed at quick conversion, tends to feel rushed and out of step with how business decision-makers actually evaluate a legal services provider, since most B2B purchases involve at least some deliberate internal discussion before a decision is made. Firms adapting their sales process for this audience typically build in a structured follow-up sequence, a proposal or capabilities document, and enough patience to let the buyer's internal process run its natural course rather than pushing for an immediate commitment during the first conversation.",
+      },
+      {
+        type: "heading",
+        text: "Handling Leads From Companies Outside Your Target Size Range",
+      },
+      {
+        type: "paragraph",
+        text: "A purchased B2B lead source will occasionally surface companies meaningfully smaller or larger than a firm's ideal client profile, either too small to generate a matter worth the firm's typical engagement minimums, or large enough to require resources and experience the firm doesn't currently have. Having a clear, honest process for handling these mismatches, referring undersized leads elsewhere or being transparent about capacity limitations with oversized ones, protects the firm's reputation better than either ignoring the mismatch or overpromising capability the firm doesn't actually have.",
+      },
+      {
+        type: "heading",
+        text: "Nurturing Leads That Aren't Ready to Engage Yet",
+      },
+      {
+        type: "paragraph",
+        text: "A meaningful share of B2B legal leads represent a genuine future need rather than an immediate one, a company that will need employment law guidance once it grows past a certain headcount, for instance, and firms that build a structured, low-pressure nurture sequence for this segment, periodic relevant content, occasional check-ins, stay positioned to win the engagement once the need actually becomes active, rather than losing touch with a prospect who wasn't ready months earlier.",
+      },
+      {
+        type: "heading",
+        text: "Tracking B2B Lead Sources Separately From Consumer Channels",
+      },
+      {
+        type: "paragraph",
+        text: "Firms serving both business and consumer clients should maintain separate tracking and reporting for each lead type, since blending B2B and consumer performance data into a single dashboard obscures the very different sales cycles, conversion rates, and matter values each category involves, making it far harder to judge whether either channel is genuinely performing well on its own terms." },
     ],
     faqs: [
       {

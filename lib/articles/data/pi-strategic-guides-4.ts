@@ -125,6 +125,38 @@ export const piStrategicGuides4Articles: Article[] = [
           "Allowing case management backlogs to persist for months without adjusting generation targets to match.",
         ],
       },
+      {
+        type: "heading",
+        text: "Building Firm-Wide Reporting That Everyone Actually Uses",
+      },
+      {
+        type: "paragraph",
+        text: "A shared dashboard spanning lead source, intake performance, and case resolution outcomes only produces value if firm leadership actually reviews it on a regular cadence, rather than building it once and letting it go unchecked for months. Firms that build a brief, recurring cross-functional meeting, even a monthly 30-minute review with marketing, intake, and case management leadership present, into their standard operating rhythm tend to catch and correct misalignment considerably faster than firms relying on data that exists but goes unreviewed.",
+      },
+      {
+        type: "heading",
+        text: "Scaling Coordination as a Firm Grows",
+      },
+      {
+        type: "paragraph",
+        text: "The coordination that works informally for a five-person firm, where everyone naturally overhears what everyone else is doing, breaks down as a firm grows past a certain size, making formal processes and designated communication channels increasingly necessary rather than optional. Firms that proactively build this structure ahead of significant growth, rather than waiting until coordination problems become obvious and costly, tend to scale more smoothly through the specific growth stages where marketing, intake, and case management naturally start to drift apart without deliberate effort to keep them connected.",
+      },
+      {
+        type: "heading",
+        text: "Why Multi-Office Firms Face Additional Coordination Complexity",
+      },
+      {
+        type: "paragraph",
+        text: "Firms operating across multiple offices or markets face an additional layer of coordination complexity, since lead generation performance, intake capacity, and case management throughput can all vary meaningfully by location, and a firm-wide average can mask a specific office that's badly out of balance even while overall numbers look healthy. Building location-level visibility into the same shared reporting system, rather than relying solely on a blended firm-wide view, helps leadership catch office-specific problems before they compound into a larger systemic issue affecting the firm's overall growth trajectory.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the System as Practice Areas Shift",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm's practice mix evolves, taking on a new case type, expanding into a new region, or scaling back a previously significant practice area, the generation, intake, and case management coordination built around the old mix often needs deliberate revisiting rather than simply continuing on autopilot. Firms that treat this coordination system as something to actively maintain and adjust, rather than a one-time setup, stay better aligned as their business genuinely changes over time.",
+      },
     ],
     faqs: [
       {
@@ -276,6 +308,38 @@ export const piStrategicGuides4Articles: Article[] = [
       {
         type: "paragraph",
         text: "Intake shouldn't operate as a silo — flagging high-value or time-sensitive cases for immediate attorney involvement, and communicating capacity constraints back to marketing when volume is exceeding what intake can properly handle, keeps this stage connected to the firm's broader generation and case management strategy rather than functioning as an isolated bottleneck no one is actively managing.",
+      },
+      {
+        type: "heading",
+        text: "Handling After-Hours and Weekend Intake Coverage",
+      },
+      {
+        type: "paragraph",
+        text: "A significant share of personal injury inquiries arrive outside standard business hours, particularly in the evening or on weekends when a prospect finally has time to research representation after an accident, and firms without genuine after-hours coverage are effectively ceding this volume to competitors willing to answer. Building reliable evening and weekend coverage, whether through staggered staff shifts, a dedicated after-hours team, or a reputable legal-specific answering service, closes a gap that many firms underestimate until they actually measure what share of their inquiries arrive outside a standard nine-to-five window.",
+      },
+      {
+        type: "heading",
+        text: "Why Recorded Calls Are an Underused Training Resource",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that record intake calls, with appropriate consent and disclosure, and actually review a sample of them regularly gain a genuinely powerful training resource that written scripts alone can't replicate, since hearing exactly how a real prospect responded to a specific question reveals nuances a script review never surfaces. Using these recordings in regular team training sessions, highlighting both strong examples and coachable moments, tends to improve intake performance more effectively than script updates alone, since staff learn best from real, concrete examples rather than abstract guidance.",
+      },
+      {
+        type: "heading",
+        text: "Adjusting Intake Approach for Different Case Severity Levels",
+      },
+      {
+        type: "paragraph",
+        text: "A catastrophic injury inquiry and a minor fender-bender inquiry both deserve prompt, empathetic handling, but they warrant meaningfully different intake depth, a catastrophic case often benefits from involving an attorney directly and quickly, while a more routine case can move through a standard non-attorney screening process without the same urgency. Training intake staff to recognize these severity signals early, and to escalate appropriately rather than applying one uniform process regardless of case type, helps a firm allocate its most experienced staff time toward the cases where that expertise matters most.",
+      },
+      {
+        type: "heading",
+        text: "Why Written Follow-Up Reinforces a Strong Phone Conversation",
+      },
+      {
+        type: "paragraph",
+        text: "A strong phone conversation alone sometimes isn't enough to secure a signed retainer, particularly when a prospect wants to review terms in writing or discuss the decision with a family member before committing. Sending a clear, professional written follow-up immediately after a promising call, summarizing what was discussed and outlining the next step, reinforces the trust built during the conversation and gives a hesitant prospect something concrete to reference rather than relying purely on memory of a phone call before deciding whether to move forward.",
       },
     ],
     faqs: [
@@ -443,6 +507,38 @@ export const piStrategicGuides4Articles: Article[] = [
       {
         type: "paragraph",
         text: "Conversion analysis works best when marketing's source-level data and intake's stage-level data live in one connected view, rather than two separate reports that are never compared directly. This combined view is what makes it possible to say, with confidence, that a specific channel's leads convert well at contact but poorly at consultation booking — an insight neither data set alone would clearly reveal.",
+      },
+      {
+        type: "heading",
+        text: "Why Seasonal and Cyclical Patterns Complicate Simple Comparisons",
+      },
+      {
+        type: "paragraph",
+        text: "Personal injury lead volume and conversion can shift meaningfully across the year, weather-related accidents cluster in certain seasons, and even holiday timing can affect how quickly prospects respond to outreach, which means comparing a single month's conversion data against another month without accounting for these natural cycles can lead to the wrong conclusion about whether a specific fix actually worked. Firms that track conversion trends over a rolling multi-month window, rather than reacting to any single month's numbers in isolation, make more reliable decisions about which changes are genuinely driving improvement.",
+      },
+      {
+        type: "heading",
+        text: "Setting Conversion Benchmarks Specific to Your Firm",
+      },
+      {
+        type: "paragraph",
+        text: "Generic industry conversion benchmarks are a reasonable starting reference point, but a firm's own historical performance, tracked consistently over time, ultimately matters more than comparing against an external average that may not reflect the firm's specific practice mix, geography, or lead sources. Firms that build their own internal benchmark using several months of consistent data have a much more accurate baseline for judging whether a new initiative actually represents genuine improvement or just normal month-to-month variation.",
+      },
+      {
+        type: "heading",
+        text: "Why Small, Incremental Tests Beat Sweeping Overhauls",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that change multiple parts of their conversion chain simultaneously, a new script, a new lead source, and a new follow-up cadence all at once, lose the ability to know which specific change actually drove any resulting improvement or decline. Testing one meaningful change at a time, holding everything else constant for a long enough period to gather reliable data, produces slower but far more actionable insight than a sweeping overhaul that leaves a firm unable to explain why results shifted the way they did.",
+      },
+      {
+        type: "heading",
+        text: "Documenting What's Been Tried to Avoid Repeating Past Mistakes",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that don't keep a record of past conversion experiments, what was tried, when, and what the result was, risk repeating an experiment that already failed months or years earlier simply because institutional memory faded or staff turned over. A simple shared log of tested changes and outcomes, reviewed before launching a new initiative, prevents this kind of wasted effort and helps a firm build genuinely on what it has already learned rather than starting from scratch each time.",
       },
     ],
     faqs: [

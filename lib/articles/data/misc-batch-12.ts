@@ -245,6 +245,44 @@ export const miscBatch12Articles: Article[] = [
         type: "paragraph",
         text: "Ask a prospective [lead provider](/buy-leads) directly how their intake screening handles custody-specific inquiries — whether it distinguishes urgent safety-related matters from standard modification requests, and whether the leads delivered include enough context for a firm to prepare appropriately before the first call. A provider treating custody leads identically to general family law inquiries is missing the specificity this category genuinely requires.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Fee Ranges for Custody Cases",
+      },
+      {
+        type: "paragraph",
+        text: "Shared custody leads commonly run $25 to $65, while exclusive leads with confirmed urgency level and case type detail often run $50 to $150 or more, with safety-concern flagged leads sometimes commanding a premium given the specialized, immediate handling they require. On the fee side, an uncontested modification with cooperative parents might run $1,500 to $3,500 as a flat fee, while a contested case involving a guardian ad litem, custody evaluation, and multiple hearings can run $10,000 to $30,000 or more depending on how long the dispute continues.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Custody Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Answer within the same hour whenever possible, given how anxious this population is.",
+          "Acknowledge the emotional situation genuinely before moving into logistics.",
+          "Screen specifically for safety concerns requiring immediate attorney escalation.",
+          "Explain general fee ranges honestly rather than avoiding the cost conversation.",
+          "Use a gentle, patient follow-up cadence rather than an aggressive sales sequence.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Custody Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying the same fast, transactional intake process used for routine legal matters to custody inquiries, which can come across as dismissive to a parent experiencing genuine fear about their relationship with their child. Firms also sometimes fail to screen for safety concerns early enough, treating every custody call with identical urgency regardless of whether allegations of abuse or immediate danger are present. Giving up on a custody prospect after a single unanswered follow-up attempt, rather than understanding this population's tendency to deliberate extensively before re-engaging, is another common way firms lose winnable cases in this genuinely sensitive category.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating With Guardians ad Litem and Custody Evaluators",
+      },
+      {
+        type: "paragraph",
+        text: "Contested custody cases frequently involve a court-appointed guardian ad litem or custody evaluator whose recommendations can carry significant weight with the judge, and firms familiar with how a specific evaluator typically approaches their assessment can prepare parents more effectively for interviews and home visits. Explaining this process clearly and honestly to an already anxious parent, including what to expect and how to present themselves genuinely rather than performatively, is a service that goes beyond pure legal advocacy but meaningfully affects how well the case ultimately proceeds.",
+      },
     ],
     faqs: [
       {

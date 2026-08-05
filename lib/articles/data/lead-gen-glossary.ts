@@ -226,6 +226,36 @@ export const leadGenGlossaryArticles: Article[] = [
         type: "paragraph",
         text: "Purchased leads tend to work best in practice areas where consumers actively search for help at the moment of need — personal injury, family law, criminal defense, bankruptcy, and similar consumer-facing matters. Practice areas built more on long-term referral relationships, such as complex corporate or estate planning work, tend to see less return from this channel, since the buying decision there is rarely driven by an urgent online search.",
       },
+      {
+        type: "heading",
+        text: "How Lead Data Points Vary by Practice Area",
+      },
+      {
+        type: "paragraph",
+        text: "The specific details included with a delivered lead vary meaningfully by practice area, and understanding what to expect helps firms judge whether a provider's data is genuinely useful. A personal injury lead typically includes accident date, injury type, and whether the prospect has already sought medical treatment. A family law lead often includes whether the matter is contested, whether minor children are involved, and general case type. A bankruptcy lead frequently includes rough income level and debt amount. Firms should confirm upfront which specific fields a provider captures for their practice area, since a lead missing the details most relevant to case evaluation offers less real value regardless of its price.",
+      },
+      {
+        type: "heading",
+        text: "Building an Intake Process Before Scaling Volume",
+      },
+      {
+        type: "list",
+        items: [
+          "Assign clear ownership for who calls new leads and how quickly.",
+          "Set a target response time, ideally under five minutes for real-time leads.",
+          "Build a basic follow-up cadence for leads that don't answer the first call.",
+          "Track outcome for every lead, not just the ones that convert.",
+          "Review conversion data monthly before deciding whether to increase spend.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Frequently Overlooked Compliance Basics",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond confirming a provider's general consent practices, firms should understand that TCPA compliance ultimately extends to how the firm itself uses the delivered contact information, not just how the lead was originally captured. Maintaining internal do-not-call list compliance, respecting any stated contact preferences, and keeping basic records of when and how each lead was contacted all matter regardless of how compliant the original lead source was. This shared responsibility is often underappreciated by firms new to purchased leads, who sometimes assume compliance is entirely the provider's concern once a lead has been delivered.",
+      },
     ],
     faqs: [
       {
@@ -362,6 +392,44 @@ export const leadGenGlossaryArticles: Article[] = [
         type: "paragraph",
         text: "Qualification requirements — minimum injury severity for personal injury leads, income thresholds for bankruptcy leads, or specific charge types for criminal defense — layer on top of every other dimension discussed above. A provider that lets you set detailed qualification criteria upfront generally produces better-matched leads regardless of whether you're buying shared or exclusive, but tight qualification criteria combined with shared delivery can sometimes narrow the buyer pool so much that delivery volume drops sharply. It's worth discussing expected monthly volume alongside qualification criteria before finalizing a configuration, since an overly narrow filter on a shared contract can leave you paying for a program that simply doesn't deliver enough leads to be useful.",
       },
+      {
+        type: "heading",
+        text: "Typical Price Ranges Across These Dimensions",
+      },
+      {
+        type: "paragraph",
+        text: "Combining these dimensions produces a wide practical price range: a general, shared, batch-delivered lead might run $10 to $25, while a highly segmented, exclusive, real-time warm transfer for the same practice area can run $75 to $300 or more. Understanding roughly where a specific combination should fall helps buyers sanity-check a quote, since a provider charging exclusive-tier pricing for what's actually shared, batch-delivered volume is either overcharging or misrepresenting what's being sold.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Process for Testing Lead Type Combinations",
+      },
+      {
+        type: "list",
+        items: [
+          "Start with one practice area and geography to control for other variables.",
+          "Test two configurations at a time, changing only one dimension between them.",
+          "Run each test for a defined batch size before drawing conclusions.",
+          "Track cost per signed case, not just cost per lead, for each configuration.",
+          "Scale the winning configuration before testing the next variable.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Comparing Lead Types",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is comparing prices across fundamentally different lead types as though they're interchangeable, treating a $15 shared data lead and a $150 exclusive warm transfer as simply \"more expensive\" rather than recognizing they represent entirely different products with different conversion expectations. Firms also sometimes change multiple variables at once when testing, such as switching from shared to exclusive while also changing geography, making it impossible to isolate which specific change actually drove a performance difference. Failing to account for how qualification criteria interact with delivery volume, setting filters so narrow that a shared contract can't deliver meaningful monthly volume, is another common and frustrating outcome for firms new to configuring purchased leads.",
+      },
+      {
+        type: "heading",
+        text: "Documenting Your Firm's Preferred Configuration Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm tests and refines its lead-buying approach, keeping a simple internal record of which combinations were tried, what results they produced, and why a particular configuration was ultimately chosen helps preserve institutional knowledge beyond any single marketing decision-maker's memory. This becomes especially valuable when staff turnover occurs or when a firm revisits its lead strategy a year or two later, since the reasoning behind a past decision is often more useful than the raw historical data alone.",
+      },
     ],
     faqs: [
       {
@@ -476,6 +544,36 @@ export const leadGenGlossaryArticles: Article[] = [
       {
         type: "paragraph",
         text: "Beyond written confirmation, look at the provider's overall business model. A provider that sells almost entirely on volume, advertising very low per-lead pricing across the board, is structurally less likely to be running a genuine exclusive program, since exclusive sourcing requires capturing enough total consumer demand to sell each contact only once. Providers with a track record of transparent reporting — showing you delivery timestamps, source pages, and consent records for every lead — are generally more trustworthy on exclusivity claims than those who treat the sourcing process as a black box.",
+      },
+      {
+        type: "heading",
+        text: "How Exclusivity Interacts With Practice Area Case Value",
+      },
+      {
+        type: "paragraph",
+        text: "The exclusivity decision isn't uniform even within a single firm's practice mix. A personal injury firm might reasonably pay a substantial exclusivity premium for catastrophic injury leads, where a single signed case can be worth six figures in fees, while applying shared delivery to lower-value soft-tissue injury inquiries where the case economics simply don't support the same per-lead investment. Mapping exclusivity strategy against actual average case value by sub-category, rather than applying one blanket policy across an entire practice area, tends to produce a more efficient overall lead budget.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Framework for Testing Both Models",
+      },
+      {
+        type: "list",
+        items: [
+          "Run a defined batch of shared leads and track contact and signed-case rate.",
+          "Run a comparable batch of exclusive leads in the same practice area and geography.",
+          "Calculate true cost per signed case for each, not just cost per lead.",
+          "Factor in intake team speed-to-contact for both batches honestly.",
+          "Choose the model with the lower effective acquisition cost for that specific case type.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in This Decision",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is defaulting to shared leads purely because the sticker price looks more affordable, without running the actual cost-per-signed-case math that often favors exclusive delivery once conversion rate differences are factored in. Firms also sometimes apply exclusive-only or shared-only policies uniformly across every practice area and case type, missing the opportunity to match exclusivity level to actual case value on a more granular basis. Failing to verify exclusivity claims independently, simply trusting a provider's marketing language without asking prospects directly whether they've spoken to other firms, is another common gap that can leave a firm paying an exclusive premium for effectively shared volume.",
       },
     ],
     faqs: [

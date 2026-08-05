@@ -275,6 +275,36 @@ export const leadBuyingBasicsArticles: Article[] = [
         type: "paragraph",
         text: "The right balance depends on your firm's current growth stage, available capital, and how quickly you need to fill open capacity. For the practical process of testing paid lead sources specifically, see our guide to [buying attorney leads](/learning-center/buying-attorney-leads).",
       },
+      {
+        type: "heading",
+        text: "Typical Cost Ranges Across Both Approaches",
+      },
+      {
+        type: "paragraph",
+        text: "Organic investment commonly runs $2,000 to $8,000 monthly for a firm actively building content and technical SEO, with that spend producing minimal direct lead volume in the first few months before gradually ramping up over six months to a year. Paid channels vary enormously by practice area, but shared leads commonly run $20 to $60, exclusive leads $40 to $200 or more, and PPC cost per click often running $20 to over $100 in competitive legal markets. Understanding these rough ranges helps firms set realistic budget expectations rather than assuming either approach delivers meaningful volume at minimal cost.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Framework for Allocating a Limited Budget",
+      },
+      {
+        type: "list",
+        items: [
+          "Calculate current intake capacity and how much volume is needed to fill it.",
+          "Allocate enough paid budget to meet near-term volume needs first.",
+          "Direct remaining budget toward organic content and technical SEO foundations.",
+          "Track cost per signed case separately for each channel from day one.",
+          "Shift the ratio gradually toward organic as it begins producing measurable volume.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Balancing These Approaches",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is abandoning organic investment prematurely because it hasn't produced visible results within the first few months, not accounting for the realistic multi-month timeline this channel typically requires before rankings mature. Firms also sometimes over-invest in paid channels indefinitely without building any organic foundation, remaining permanently dependent on ongoing spend that never produces the compounding, lower-cost growth organic content eventually delivers. Failing to track cost per signed case separately by channel, relying on a single blended acquisition cost figure, is another common gap that makes it hard to know which specific investment is actually paying off and which needs adjustment.",
+      },
     ],
     faqs: [
       {

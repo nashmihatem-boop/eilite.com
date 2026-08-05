@@ -99,6 +99,38 @@ export const miscTopics1Articles: Article[] = [
         type: "paragraph",
         text: "Choosing a specific, decision-relevant topic — rather than a broad overview of your practice area — and promoting it through email and social channels tends to produce the strongest results for a firm's first attempt. For the broader strategic context this fits into, see our guide to [hosting educational webinars](/learning-center/how-lawyers-find-new-clients-proven-strategies-3).",
       },
+      {
+        type: "heading",
+        text: "Building a Consistent Webinar Cadence Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "A single successful webinar produces a one-time bump in leads, but firms that commit to a regular cadence, a quarterly session on a rotating set of relevant topics, for instance, build compounding value both in accumulated content and in a growing base of past attendees who remember the firm favorably from a prior session. This consistency also makes each subsequent webinar easier to produce, since a firm develops reusable promotional templates, a refined format, and a clearer sense of which topics resonate with their specific audience over time.",
+      },
+      {
+        type: "heading",
+        text: "Involving Guest Speakers to Expand Reach",
+      },
+      {
+        type: "paragraph",
+        text: "Co-hosting a webinar with a complementary professional, a financial advisor for an estate planning topic, or a medical provider for a personal injury-adjacent session, gives both parties access to each other's audience and lends additional credibility to the content. This approach also distributes the promotional workload, since the guest speaker typically promotes the session to their own contact list as well, expanding registration beyond what the firm's own marketing reach would produce alone.",
+      },
+      {
+        type: "heading",
+        text: "What a Typical Webinar Program Costs to Run",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the video platform subscription, often $50 to $200 a month depending on attendee capacity, the primary cost is staff time: planning content, designing promotional materials, and managing follow-up typically requires several hours per session for a firm handling this internally. Firms that outsource promotion or production to a marketing agency should expect this to add a few hundred to low thousands of dollars per session depending on scope, though many firms find the in-house approach perfectly manageable once the format becomes familiar.",
+      },
+      {
+        type: "heading",
+        text: "Handling Technical Difficulties Without Losing Attendee Trust",
+      },
+      {
+        type: "paragraph",
+        text: "Audio issues, screen-sharing failures, or a dropped connection can happen even with careful preparation, and how a presenter handles these hiccups matters more than avoiding them entirely, since a calm, good-humored recovery reads as far more professional than a flustered one. Running a full technical rehearsal before the live session, and having a co-host or staff member monitoring chat and technical issues in the background, lets the presenting attorney focus entirely on content rather than troubleshooting during the actual session.",
+      },
     ],
     faqs: [
       {
@@ -224,6 +256,30 @@ export const miscTopics1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Effective attorney lead marketing weaves together content, paid channels, retargeting, and purchased leads into a coherent journey rather than a collection of disconnected tactics. For a broader view of how these channels fit together, see our guide to [lead generation for lawyers](/learning-center/lead-generation-for-lawyers).",
+      },
+      {
+        type: "heading",
+        text: "Building a Consistent Visual and Message Identity Across Stages",
+      },
+      {
+        type: "paragraph",
+        text: "While messaging should adapt to a prospect's decision stage, a firm's visual branding, tone, and core value proposition should stay recognizably consistent across every touchpoint, so a prospect who first encountered the firm through early-stage content recognizes it later when they see a retargeting ad or land on a late-stage consultation page. Firms that let messaging drift too far from a consistent core identity across the funnel risk confusing prospects who don't realize they're interacting with the same firm at different points in their research, quietly undermining the trust that consistent, recognizable branding is meant to build over repeated exposure.",
+      },
+      {
+        type: "heading",
+        text: "Adjusting the Framework for Practice Areas With Longer Decision Cycles",
+      },
+      {
+        type: "paragraph",
+        text: "Practice areas like estate planning or business law typically involve decision cycles measured in months rather than days, meaning the early and mid-stage content investment matters proportionally more than it would for a high-urgency practice area like personal injury, where prospects often move from research to contact within hours. Firms should calibrate how much budget and attention each decision stage receives based on their specific practice area's realistic timeline, rather than applying the same stage-weighting formula uniformly across every type of legal matter.",
+      },
+      {
+        type: "heading",
+        text: "Training Marketing Staff to Think in Terms of Decision Stages",
+      },
+      {
+        type: "paragraph",
+        text: "Marketing staff accustomed to measuring success purely through impressions, clicks, and cost-per-lead sometimes need deliberate training to start thinking in terms of decision stage alignment, since this framework requires a different mental model than simply optimizing for the cheapest possible lead. Firms that invest in this training, walking staff through real examples of stage-mismatched campaigns and their disappointing results, tend to build a marketing function that thinks more strategically about the full prospect journey rather than optimizing narrowly for surface-level channel metrics that look good in a dashboard but don't translate into signed clients.",
       },
     ],
     faqs: [

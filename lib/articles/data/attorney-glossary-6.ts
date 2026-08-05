@@ -114,6 +114,38 @@ export const attorneyGlossary6Articles: Article[] = [
         type: "paragraph",
         text: "A firm is generally ready to layer in paid lead generation once it has a defined intake process capable of handling additional volume, a clear sense of what a case is actually worth to calculate reasonable cost-per-lead tolerances, and enough attorney capacity to take on new matters without becoming a bottleneck that wastes the very leads it's paying for.",
       },
+      {
+        type: "heading",
+        text: "Understanding the Terminology Before Talking to Providers",
+      },
+      {
+        type: "paragraph",
+        text: "Firms new to purchasing leads often encounter unfamiliar terms during initial provider conversations, exclusive versus shared delivery, real-time versus aged leads, warm transfer versus cold lead, and walking into these conversations without a working understanding of this vocabulary makes it harder to ask sharp, informed questions or spot a vague, evasive answer. Spending a small amount of time learning this basic terminology before the first vendor call pays off considerably in the quality of the conversation that follows.",
+      },
+      {
+        type: "heading",
+        text: "Building an Internal Glossary as the Firm Grows",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm's marketing and intake team grows beyond a single person handling everything, maintaining a simple internal reference document defining the firm's own terms, what counts as a qualified lead, how cost-per-acquisition is calculated, which channels are currently active, keeps everyone working from the same shared understanding rather than each team member developing their own informal definitions over time. This kind of basic internal documentation becomes increasingly valuable as more people touch the lead generation and intake process.",
+      },
+      {
+        type: "heading",
+        text: "Where to Go Next After Understanding the Basics",
+      },
+      {
+        type: "paragraph",
+        text: "Once the foundational concepts covered here feel comfortable, the next step for most firms is a focused look at one or two specific channels most relevant to their practice area and growth stage, rather than trying to become an expert in every possible channel simultaneously. A personal injury firm evaluating paid leads for the first time, for instance, gets more value diving deep into pay-per-lead and warm transfer specifics than spreading initial research time thin across channels less relevant to a high-urgency practice area.",
+      },
+      {
+        type: "heading",
+        text: "Avoiding Analysis Paralysis When Just Getting Started",
+      },
+      {
+        type: "paragraph",
+        text: "Firms new to structured lead generation sometimes spend so much time researching every possible option that they delay actually testing anything, which is its own real cost given how much faster a small, live test teaches a firm about what actually works compared to endless additional research. Setting a reasonable research deadline, then committing to a modest first test even with imperfect information, tends to produce more useful learning than waiting for complete certainty before taking any action at all.",
+      },
     ],
     faqs: [
       {
@@ -265,6 +297,46 @@ export const attorneyGlossary6Articles: Article[] = [
       {
         type: "paragraph",
         text: "A reputable provider should walk through targeting setup, delivery method, and reporting access clearly before your first lead ever arrives, and should be reachable for questions once the program is live. A provider that's difficult to reach during onboarding is unlikely to become easier to reach if a problem arises later.",
+      },
+      {
+        type: "heading",
+        text: "Building a Structured Scorecard for Comparing Providers",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than relying on a subjective, after-the-fact impression of which provider felt better, firms evaluating several options benefit from a simple written scorecard covering the core criteria discussed here, exclusivity terms, verification practices, targeting granularity, reporting quality, and test-period pricing, scored consistently across each provider under consideration. This structured approach removes much of the recency bias and gut-feel that can otherwise skew a decision toward whichever provider pitched most recently or most persuasively, rather than the one that actually scores best against the firm's real requirements.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting Provider Relationships Periodically",
+      },
+      {
+        type: "paragraph",
+        text: "Choosing a provider isn't a one-time decision a firm makes and then forgets about; lead quality, pricing, and service levels can all shift over the life of a vendor relationship, sometimes gradually enough that a firm doesn't notice the decline until performance has meaningfully eroded. Building in a periodic review, at minimum annually, and ideally tied to contract renewal timing, keeps a firm from continuing an underperforming relationship out of pure inertia rather than genuine ongoing value.",
+      },
+      {
+        type: "heading",
+        text: "What a Strong Long-Term Provider Relationship Looks Like",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the initial evaluation criteria, the strongest long-term provider relationships tend to feature transparent, proactive communication about performance trends, a willingness to adjust targeting or pricing as a firm's needs evolve, and a track record of standing behind replacement or credit policies without requiring excessive documentation or pushback. Firms that find a provider meeting these standards consistently over time often find it worth paying a modest premium to maintain that relationship rather than constantly chasing the lowest advertised price across a rotating set of unproven vendors.",
+      },
+      {
+        type: "heading",
+        text: "Involving Intake Staff in the Provider Selection Process",
+      },
+      {
+        type: "paragraph",
+        text: "Firm leadership choosing a lead provider without input from the intake staff who will actually work the resulting leads day to day miss valuable frontline perspective on what genuinely makes a lead easy or difficult to convert. Including intake staff in provider evaluation discussions, or at minimum gathering their feedback during a test period, often surfaces practical quality issues, confusing case details, unresponsive contacts, mismatched geography, that a purely numbers-based evaluation might miss entirely.",
+      },
+      {
+        type: "heading",
+        text: "Why Written Agreements Matter More Than Verbal Understandings",
+      },
+      {
+        type: "paragraph",
+        text: "Every commitment discussed during the sales process, exclusivity, pricing, replacement policy, targeting parameters, should appear in the actual written agreement before a firm commits meaningful budget, since verbal assurances made during a sales conversation carry little weight if a dispute arises later. Firms that insist on seeing these specifics in writing before signing protect themselves far more effectively than those relying on a general sense of trust built during initial conversations with a sales representative.",
       },
     ],
     faqs: [

@@ -121,6 +121,44 @@ export const divorceProvenGrowthClusterArticles: Article[] = [
         type: "paragraph",
         text: "Firms new to Arizona-specific content marketing should expect several months before organic content meaningfully contributes to lead volume, given how competitive Phoenix-area search terms have become. Pairing early-stage content investment with a purchased lead channel bridges this gap, providing volume while the longer-term organic strategy builds toward sustainable, lower-cost results.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Costs Across Arizona",
+      },
+      {
+        type: "paragraph",
+        text: "Divorce lead pricing in Arizona varies meaningfully by region and exclusivity: Phoenix metro exclusive leads often run $60 to $150 given the market's intense competition, Tucson and secondary metros typically price somewhat lower, often $35 to $90, and rural county leads can be substantially cheaper still, though volume is correspondingly lower. Leads confirming residency status and covenant marriage status, where applicable, tend to command a premium given how much that context helps a firm prepare for the actual consultation. Firms entering the Arizona market for the first time often start with a Tucson or secondary-metro test batch before committing to Phoenix's more expensive, competitive volume.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Checklist for Entering the Arizona Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm whether target leads fall within Arizona's 90-day residency window before scheduling a full consultation.",
+          "Build at least one piece of content addressing covenant marriage dissolution specifically, even briefly.",
+          "Identify two or three referral partners serving Arizona's relocation or retiree population.",
+          "Test lead volume in a secondary market like Tucson before committing to Phoenix-level spend.",
+          "Set a realistic multi-month timeline for organic content to start contributing meaningful volume.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Working With Arizona's Snowbird Population",
+      },
+      {
+        type: "paragraph",
+        text: "Arizona's substantial seasonal resident population — retirees who split time between Arizona and a colder-climate home state — adds a layer of complexity to both residency qualification and scheduling. A snowbird considering divorce may need to establish Arizona residency deliberately before filing, or may prefer to file in their other home state depending on which jurisdiction offers a more favorable outcome for their specific situation. Firms serving retirement communities like Sun City or Green Valley should be prepared to discuss this jurisdictional choice knowledgeably during an initial consultation, since it's a genuinely common question this specific demographic raises that a firm without seasonal-resident experience might not anticipate.",
+      },
+      {
+        type: "heading",
+        text: "Building a Realistic First-Year Budget",
+      },
+      {
+        type: "paragraph",
+        text: "A firm new to Arizona-focused marketing should plan for a first-year budget that front-loads paid acquisition — PPC and purchased leads — more heavily than organic content investment, simply because organic visibility takes months to build in Phoenix's competitive search landscape. A reasonable split might allocate 60 to 70 percent of the first year's marketing budget to paid channels, gradually shifting toward a more balanced mix as content matures and referral relationships develop. Firms that split spend evenly from day one, before organic channels have had time to produce any meaningful volume, often experience early results that look weaker than the true long-term potential of the mix they're building toward.",
+      },
     ],
     faqs: [
       {
@@ -270,6 +308,44 @@ export const divorceProvenGrowthClusterArticles: Article[] = [
         type: "paragraph",
         text: "Colorado's steady population growth over the past decade has pushed paid search and lead costs upward across most of the Front Range, meaning firms should expect ongoing budget increases simply to maintain flat lead volume year over year, independent of any changes to their own marketing strategy. Building this expectation into annual planning avoids the surprise of rising costs being mistaken for declining channel performance.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Costs Across Colorado",
+      },
+      {
+        type: "paragraph",
+        text: "Colorado divorce lead pricing reflects the state's regional variation: Denver proper exclusive leads often run $50 to $130, surrounding suburbs like Aurora or Lakewood typically price somewhat lower, often $30 to $80, and mountain resort communities show more seasonal pricing variation tied to when second-home owners are actually present. Colorado Springs and other secondary metros generally sit between Denver and the smaller suburban markets in cost. Firms should expect to pay noticeably more for Denver proper volume than for a comparable lead in a less saturated suburb, which is part of why many firms find suburban targeting a more cost-efficient entry point into the broader Denver metro market.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Checklist for Colorado Sub-Market Entry",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm the 91-day residency and waiting period is understood by intake staff and reflected accurately in content.",
+          "Test suburban Denver targeting (Aurora, Lakewood, Littleton) before committing to Denver-proper pricing.",
+          "Build content addressing equitable distribution accurately, correcting the common assumption of an automatic 50/50 split.",
+          "For mountain-community-serving firms, plan content and paid spend around ski and summer season timing.",
+          "Develop at least one piece of content addressing business valuation or equity compensation if serving Denver or Boulder.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How Referral Relationships Complement Paid Acquisition Here",
+      },
+      {
+        type: "paragraph",
+        text: "Colorado's financial planning and CPA community, particularly in Denver and Boulder given the concentration of equity-compensated tech professionals, represents a genuinely valuable referral channel for firms handling higher-asset divorces. A financial advisor helping a client understand their post-divorce financial picture often needs to refer them to a family law attorney who can competently handle complex asset division, and firms that build visible expertise in this area — through content, CLE presentations, or direct relationship-building with local advisors — position themselves as the natural referral choice. This channel develops more slowly than paid acquisition but tends to produce higher-trust, higher-value referrals once established, complementing rather than replacing a firm's paid lead strategy.",
+      },
+      {
+        type: "heading",
+        text: "Adjusting Strategy as Front Range Growth Continues",
+      },
+      {
+        type: "paragraph",
+        text: "Colorado's Front Range corridor, stretching from Fort Collins through Denver to Colorado Springs and Pueblo, continues to absorb new residents at a pace that keeps reshaping local competition year over year. Firms that revisit their sub-market targeting annually, rather than assuming a suburb that was cost-efficient two years ago still offers the same relative advantage today, stay ahead of the gradual saturation that tends to follow sustained population growth in any specific area.",
+      },
     ],
     faqs: [
       {
@@ -418,6 +494,44 @@ export const divorceProvenGrowthClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "As with any growth strategy, tracking signed-case rate and cost per signed case by specific tactic — fault-ground content, multilingual marketing, rural county expansion — rather than judging the overall program as a single blended number, reveals which specific investments are actually producing Georgia's promised differentiation and which need further refinement.",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Costs Across Georgia",
+      },
+      {
+        type: "paragraph",
+        text: "Divorce lead pricing in Georgia varies by region and specialty: metro Atlanta exclusive leads often run $50 to $130 given the market's competitive advertising landscape, while leads from rural Georgia counties typically price considerably lower given reduced competition, though volume is correspondingly smaller. Leads confirming multilingual need or a specific fault-ground interest tend to command a modest premium, since that context helps a firm route the case to appropriately prepared staff before the first conversation happens. Firms building a rural-county or multilingual specialty often find better cost efficiency entering through that specific niche than competing directly for metro Atlanta's broadest, most contested divorce keywords.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Checklist for the Georgia Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Build at least one piece of content clearly explaining Georgia's 13 fault grounds and when they matter strategically.",
+          "Confirm intake captures fault versus no-fault intent early, since it affects both routing and case preparation.",
+          "If serving a wider rural radius, clearly list which specific counties the firm actually covers.",
+          "For firms with multilingual capacity, make that capability prominent in both content and paid ad copy.",
+          "Test a modest lead volume in a specific underserved county before expanding statewide targeting.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why Positioning Against High-Volume Advertisers Takes Patience",
+      },
+      {
+        type: "paragraph",
+        text: "Building a genuine niche — fault-ground expertise, multilingual service, or rural county coverage — doesn't produce the same immediate volume a firm might get from directly competing on Atlanta's broadest, most expensive divorce keywords, and firms should set expectations accordingly. The tradeoff is that niche positioning typically produces higher-converting, less price-sensitive leads once it gains traction, since prospects searching for something specific — a Spanish-speaking divorce attorney, or a firm serving a particular rural county — have already self-selected into a smaller, better-matched pool by the time they find the firm's content. Firms that abandon a developing niche strategy after only a few weeks, expecting Atlanta-metro-level volume immediately, often miss the differentiated advantage that patience with this approach eventually delivers.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Niche Performance Annually",
+      },
+      {
+        type: "paragraph",
+        text: "Georgia's demographic makeup continues to shift, particularly metro Atlanta's international population, and a niche that was genuinely underserved a few years ago may attract more competitors over time as its value becomes apparent to other firms. Revisiting which niches still offer meaningful differentiation on an annual basis, rather than assuming an initial competitive advantage holds indefinitely, helps a firm decide whether to double down on an existing specialty or begin developing a new one before competition catches up.",
       },
     ],
     faqs: [

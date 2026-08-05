@@ -136,6 +136,51 @@ export const miscBatch15Articles: Article[] = [
         type: "paragraph",
         text: "Firms new to digital marketing often make the mistake of launching every channel simultaneously, making it impossible to tell which one is actually responsible for any given result. A more disciplined approach launches one or two channels first, gives them enough time and budget to produce a fair sample of data, and only then adds the next channel — preserving the ability to attribute results accurately as the overall program grows in complexity.",
       },
+      {
+        type: "heading",
+        text: "A Sample First 6-Month Rollout Sequence",
+      },
+      {
+        type: "list",
+        items: [
+          "Month 1: launch a modest PPC campaign and a small purchased-lead test batch to establish immediate baseline data.",
+          "Month 2: complete Google Business Profile optimization and publish core practice-area landing pages.",
+          "Month 3: review initial PPC and lead performance, reallocating budget toward the stronger-performing channel.",
+          "Month 4: begin publishing supporting content addressing common client questions, building toward SEO momentum.",
+          "Month 5: layer in social media presence, referencing published content rather than starting from scratch.",
+          "Month 6: conduct a full review comparing cost-per-signed-case across every active channel, setting the next six months' budget allocation based on real data.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes That Waste Digital Marketing Budget",
+      },
+      {
+        type: "list",
+        items: [
+          "Launching every channel simultaneously, making it impossible to attribute results to any single one.",
+          "Sending paid traffic to a generic homepage instead of a dedicated, message-matched landing page.",
+          "Judging SEO or content performance after only a few weeks, before it's had time to mature.",
+          "Failing to track cost per signed case by channel, relying only on raw lead or click volume.",
+          "Copying a competitor's visible channel mix without understanding their actual underlying performance data.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Mix as the Firm's Needs Change",
+      },
+      {
+        type: "paragraph",
+        text: "A channel mix that made sense for a firm's first year rarely stays optimal indefinitely, since practice area focus, local competition, and even platform algorithms all shift over time. Building a habit of revisiting channel allocation at least twice a year, rather than setting a strategy once and leaving it unexamined, helps a firm stay aligned with what's actually working rather than what worked when the strategy was first built.",
+      },
+      {
+        type: "heading",
+        text: "Assigning Clear Internal Ownership",
+      },
+      {
+        type: "paragraph",
+        text: "Digital marketing efforts that are nobody's explicit responsibility tend to drift, even at firms with a genuinely sound strategy on paper. Naming a specific person, whether a partner, office manager, or dedicated marketing hire, as the clear owner of tracking performance and coordinating vendors keeps the strategy from quietly stalling once initial enthusiasm fades and day-to-day case work takes priority over marketing review.",
+      },
     ],
     faqs: [
       {

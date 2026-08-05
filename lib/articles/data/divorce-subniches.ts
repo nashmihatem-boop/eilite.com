@@ -221,7 +221,23 @@ export const divorceSubnichesArticles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Because military divorce cases often involve a pension division component that plays out over a longer timeline than a standard uncontested matter, a short attribution window can understate how well a given lead source is actually performing. Firms should track conversion over a full quarter rather than a single month, and weigh results by average case value rather than raw lead count alone, since a smaller number of officer-rank cases with substantial pension assets can outperform a larger volume of lower-value enlisted cases on total revenue even at a higher blended cost-per-lead. Comparing a purchased lead channel against base legal assistance referrals using this same extended, value-weighted framework gives a much more honest picture of which channel is actually worth the ongoing investment.",
+        text: "Because military divorce cases often involve a pension division component that plays out over a longer timeline than a standard uncontested matter, a short attribution window can understate how well a given lead source is actually performing. Firms should track conversion over a full quarter rather than a single month, and weigh results by average case value rather than raw lead count alone, since a smaller number of officer-rank cases with substantial pension assets can outperform a larger volume of lower-value enlisted cases on total revenue even at a considerably higher blended cost-per-lead once fully accounted for. Comparing a purchased lead channel against base legal assistance referrals using this same extended, value-weighted framework gives a much more honest picture of which channel is actually worth the ongoing investment.",
+      },
+      {
+        type: "heading",
+        text: "Working With Military Pension Valuation Specialists",
+      },
+      {
+        type: "paragraph",
+        text: "Accurately valuing a military pension for division purposes often requires a specialist familiar with the specific formulas the Defense Finance and Accounting Service uses, since these calculations differ meaningfully from valuing a civilian 401(k) or traditional pension plan. Firms building a genuine practice in this niche benefit from an established relationship with one or two of these specialists, rather than searching for one under time pressure once a case is already underway, since a delayed or inaccurate valuation can meaningfully affect settlement negotiations and final case outcomes for the client relying on the firm's expertise in this specialized area.",
+      },
+      {
+        type: "heading",
+        text: "Serving National Guard and Reserve Families",
+      },
+      {
+        type: "paragraph",
+        text: "National Guard and Reserve service members present a genuinely distinct case profile from active duty personnel, since their divorce cases may involve periods of civilian employment interspersed with active duty deployments, each carrying different legal protections and pension implications. Firms marketing to this niche should avoid assuming every military-affiliated prospect is active duty, and should build content and intake screening that accounts for this reserve and guard population specifically, since their legal needs and case timelines can differ meaningfully from a full-time active duty service member's situation and require a somewhat different approach to both case strategy and client communication throughout the process. Firms unfamiliar with this distinction risk applying active-duty assumptions to a case where they simply don't apply, creating avoidable confusion for the client early in the relationship.",
       },
     ],
     faqs: [

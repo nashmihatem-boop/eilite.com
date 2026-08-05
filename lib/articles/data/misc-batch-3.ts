@@ -104,6 +104,44 @@ export const miscBatch3Articles: Article[] = [
         type: "paragraph",
         text: "Whether purchased leads are worth the investment isn't a one-time decision — market conditions, provider quality, and a firm's own intake efficiency all shift over time. Revisiting the cost-per-signed-case calculation on a regular cadence, rather than assuming an initial positive or negative result holds indefinitely, helps a firm catch both declining provider quality and internal process improvements that might justify scaling volume further.",
       },
+      {
+        type: "heading",
+        text: "A Worked ROI Calculation",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm spending $6,000 in a month on a purchased lead source, receiving 40 leads that convert into 6 signed cases. That's a raw cost per lead of $150 and a cost per signed case of $1,000. If the firm's average personal injury case nets $8,000 in fees after typical costs, that $1,000 acquisition cost represents roughly 12.5% of case revenue — a ratio most firms would consider clearly worthwhile. Now compare a second scenario: the same $6,000 spend produces only 2 signed cases due to slow intake response, pushing cost per signed case to $3,000, or 37.5% of case revenue — a meaningfully worse but not necessarily unprofitable outcome, depending on the firm's overall margin structure and other costs. Running this exact calculation monthly, rather than relying on a general sense of whether leads \"feel\" worth it, is what actually answers the question for a specific firm.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Monthly Tracking Template",
+      },
+      {
+        type: "list",
+        items: [
+          "Total spend with the lead source for the month.",
+          "Total leads delivered, contacted, and consultations scheduled.",
+          "Total signed cases and their combined estimated case value.",
+          "Calculated cost per lead, cost per consultation, and cost per signed case.",
+          "A brief note on any process changes made that month, to track what's driving changes in these numbers over time.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Accounting for Case Value Variance Within the Calculation",
+      },
+      {
+        type: "paragraph",
+        text: "Not every signed personal injury case carries the same value, and a firm relying on a single average case value figure can get a misleading picture if a lead source happens to produce an unusually high or low share of catastrophic versus minor-injury cases in a given month. Tracking case value distribution alongside raw signed-case count, even informally, helps a firm distinguish between a lead source that's genuinely underperforming and one that simply had a below-average month for case severity by chance. Firms evaluating a source over a longer window — a full quarter rather than a single month — get a more reliable read on true performance, since severity mix tends to average out over a larger sample of cases.",
+      },
+      {
+        type: "heading",
+        text: "Making the Final Call as a Firm Owner",
+      },
+      {
+        type: "paragraph",
+        text: "Ultimately, the decision to continue, scale, or drop a purchased lead source should rest on this kind of documented, calculated evidence rather than gut feeling about whether the leads seem to be working out. Firm owners who build the habit of reviewing this data monthly, even briefly, make more confident and better-informed decisions than those relying on intake staff's general impressions or a vague sense of whether the phone has been ringing enough lately.",
+      },
     ],
     faqs: [
       {
@@ -234,6 +272,52 @@ export const miscBatch3Articles: Article[] = [
       {
         type: "paragraph",
         text: "A [pay-per-lead program](/buy-leads) configured for this specific practice area can complement organic growth and referral relationships. For deeper guidance on screening and marketing this category, see our guides to [bankruptcy attorney leads](/learning-center/bankruptcy-attorney-leads) and [bankruptcy lawyer marketing](/learning-center/bankruptcy-lawyer-marketing).",
+      },
+      {
+        type: "heading",
+        text: "Typical Bankruptcy Lead Pricing",
+      },
+      {
+        type: "paragraph",
+        text: "Bankruptcy leads commonly price in the $20 to $60 range for shared leads and $40 to $100 for exclusive delivery, reflecting the category's lower average case value compared to contingency-based practice areas. Leads confirming a specific urgency trigger — an active garnishment, a scheduled foreclosure sale, or a pending lawsuit — often price toward the higher end of that range given their stronger, more immediate conversion potential. Aged leads, sold weeks after the original inquiry, price considerably lower but convert at a fraction of the rate of fresh volume, making them best suited to firms with strong dialer capacity rather than those buying smaller batches for quick wins.",
+      },
+      {
+        type: "heading",
+        text: "A Sample Empathetic Intake Opening",
+      },
+      {
+        type: "paragraph",
+        text: "A calm, non-judgmental opening might sound like: \"Thank you for reaching out — I know it isn't always an easy call to make, and I want you to know you're in a safe place to talk through your options.\" This kind of opening, delivered genuinely rather than as a scripted line, signals to an often-anxious prospect that they've reached a firm that understands the emotional weight of their situation, not just the legal mechanics. Intake staff who rush past this acknowledgment and move straight into debt and asset questions often lose the trust-building opportunity that a few extra seconds of genuine warmth provides.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing This Category",
+      },
+      {
+        type: "list",
+        items: [
+          "Using shame-adjacent language (\"debt problems,\" \"financial failure\") instead of framing bankruptcy as a legitimate legal tool.",
+          "Failing to distinguish Chapter 7 and Chapter 13 content, leaving prospects confused about which applies to them.",
+          "Rushing intake calls without acknowledging the emotional weight of the prospect's situation.",
+          "Underinvesting in referral relationships with credit counselors, missing a well-qualified, low-cost lead source.",
+          "Setting unrealistic short-term growth expectations and abandoning organic and referral channels before they mature.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Following Up Without Adding Pressure",
+      },
+      {
+        type: "paragraph",
+        text: "Bankruptcy prospects who don't schedule a consultation on the first call often need a gentler, less frequent follow-up cadence than more transactional practice areas, given how much emotional weight this decision can carry. A brief, warm check-in a few days later, rather than repeated same-day calls, tends to preserve trust and keep the door open for a prospect who simply needs more time to feel ready to move forward.",
+      },
+      {
+        type: "heading",
+        text: "Training New Intake Staff on This Category's Tone",
+      },
+      {
+        type: "paragraph",
+        text: "Because tone matters so much for bankruptcy intake specifically, firms benefit from including dedicated training on this practice area's particular communication style when onboarding new staff, rather than assuming general intake training automatically transfers. Reviewing recorded calls together, discussing what worked well and what came across as rushed or judgmental, helps new staff internalize the right approach faster than a written script alone, since tone and genuine warmth are difficult to fully capture in text.",
       },
     ],
     faqs: [

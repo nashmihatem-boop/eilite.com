@@ -191,6 +191,14 @@ export const marketingChannelsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Paid Social Advertising as a Distinct Consideration",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond organic posting, paid social advertising, boosted posts or targeted ad campaigns on platforms like Facebook or Instagram, functions somewhat differently from PPC search advertising, since it reaches people based on demographic and interest targeting rather than active search intent. This makes paid social generally less effective at capturing an urgent, ready-to-hire prospect than search ads, but genuinely useful for building broader awareness and retargeting website visitors who didn't convert on their first visit, keeping the firm visible as that prospect continues considering their options.",
+      },
+      {
+        type: "heading",
         text: "Reviews and Reputation Management Are Part of the Same System",
       },
       {
@@ -239,6 +247,22 @@ export const marketingChannelsArticles: Article[] = [
           "Ignoring or responding defensively to negative comments instead of addressing them professionally and promptly.",
           "Treating every platform identically instead of tailoring content and tone to where a specific audience actually spends time.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Handling a Public Complaint or Negative Comment",
+      },
+      {
+        type: "paragraph",
+        text: "A negative comment or public complaint on a firm's social media page requires a careful, professional response, both because of the reputational stakes and because attorney-client confidentiality rules generally prevent a firm from discussing case-specific details publicly, even in response to a former client's public criticism. A short, calm acknowledgment inviting the person to continue the conversation privately, without confirming or denying any details of a representation, is generally the safest approach. Firms that respond defensively, argue publicly, or disclose confidential information in an attempt to defend themselves risk compounding the reputational damage well beyond the original complaint itself.",
+      },
+      {
+        type: "heading",
+        text: "Short-Form Video as a Growing Opportunity",
+      },
+      {
+        type: "paragraph",
+        text: "Short, informative video content answering common legal questions has become an increasingly effective format across platforms, often outperforming static text posts in both reach and engagement. A 60-second video explaining a specific, narrow question, what to do immediately after a car accident, how a specific state's alimony framework generally works, tends to perform better than a broad, generic overview, mirroring the same specificity principle that works well for written content and SEO. Firms without in-house video production capability can often start simply, a smartphone, good lighting, and a clear script, rather than assuming professional production is required to see meaningful engagement from this format across most platforms.",
       },
     ],
     faqs: [
@@ -354,11 +378,35 @@ export const marketingChannelsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Training Intake to Capture the Full Value of Exclusivity",
+      },
+      {
+        type: "paragraph",
+        text: "Paying a premium for exclusivity only produces its full value if intake staff actually respond fast enough to matter. An exclusive lead sitting unanswered for an hour still hasn't been called by a competitor, but that window of maximum prospect engagement narrows the longer a firm waits, and a delayed response risks the prospect losing interest, getting distracted, or simply deciding to look elsewhere despite the absence of a competing call. Training staff to treat exclusive leads with genuine urgency, not just cheaper shared volume, protects the return on the added spend.",
+      },
+      {
+        type: "heading",
         text: "Calculating Cost Per Acquisition on Exclusive Leads",
       },
       {
         type: "paragraph",
         text: "The right comparison across providers is never the sticker price per lead — it's cost per signed case. A firm should track total spend on exclusive leads from a given provider against the number of those leads that actually became signed, retained cases over a meaningful sample period. This figure, not the advertised per-lead cost, is what determines whether a specific provider's exclusive leads represent genuine value for your practice.",
+      },
+      {
+        type: "heading",
+        text: "Concrete Price Ranges Across Practice Areas",
+      },
+      {
+        type: "paragraph",
+        text: "Putting real numbers to the pricing factors above: exclusive personal injury leads commonly run $100 to $400, with catastrophic injury cases reaching $600 or more. Exclusive divorce and family law leads run $60 to $250 depending on contested status and asset complexity. Mass tort leads, given their potential case value, often run $150 to $500 or higher. Traffic, minor consumer disputes, and other lower-value legal categories typically price at the bottom of the spectrum, often $20 to $60. These ranges shift with market competitiveness, and firms should always confirm current pricing directly with a provider for their specific practice area and geography rather than treating these as fixed numbers.",
+      },
+      {
+        type: "heading",
+        text: "A Worked Comparison: Shared vs. Exclusive Economics",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a personal injury firm comparing a $60 shared lead against a $200 exclusive lead. If the shared lead converts at 6% due to competition from other firms receiving the same contact, that's $1,000 per signed case. If the exclusive lead converts at 22%, reflecting the full, undivided attention of a prospect not simultaneously fielding calls from competitors, that's roughly $910 per signed case, a better outcome despite more than triple the sticker price. This gap tends to widen further in practice areas with intense competition and short decision windows, which is exactly why cost-per-lead alone is such a misleading way to compare shared and exclusive sources for most firms.",
       },
     ],
     faqs: [

@@ -68,6 +68,14 @@ export const agencySelectionArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Assessing Cultural and Communication Fit",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond technical expertise, the day-to-day working relationship depends heavily on communication style and responsiveness, factors that are harder to evaluate from a proposal alone but matter enormously once a contract is signed. Paying attention to how quickly an agency responds during the sales process, how clearly they explain technical concepts without condescension, and whether they seem genuinely curious about your firm's specific goals rather than pushing a standard package, often previews how the actual working relationship will feel.",
+      },
+      {
+        type: "heading",
         text: "Evaluate Contract Terms Carefully",
       },
       {
@@ -94,6 +102,22 @@ export const agencySelectionArticles: Article[] = [
       {
         type: "paragraph",
         text: "A thorough due diligence process before signing protects against the most common and costly agency relationship problems. Weight legal-specific expertise, compliance awareness, transparent pricing, and account ownership heavily, and treat any resistance to these requests as a meaningful signal about how the relationship will go once a contract is signed. For the specific evaluation criteria relevant to branding work specifically, see our guide to [choosing a law firm branding agency](/learning-center/law-firm-branding-agency).",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Selecting an Agency",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is choosing based primarily on the sales pitch and initial rapport with an account executive, without confirming that the same level of attention and expertise will actually carry through to the team executing day-to-day work. Firms also sometimes skip calling references directly, relying instead on polished case studies the agency itself selected and presented, which naturally excludes any client relationship that didn't go well.",
+      },
+      {
+        type: "heading",
+        text: "Evaluating an Agency's Reporting Quality Beyond the Numbers",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond confirming that an agency reports on leads and cases rather than vanity metrics, firms should look at how clearly that data is presented and whether the agency proactively explains what's driving a given month's results, rather than sending a dense spreadsheet a firm has to interpret alone. An agency that walks through performance changes with plain-language context, and flags concerns before a firm has to ask about them, tends to be a genuinely better long-term partner than one that only responds reactively when results decline unexpectedly during a given reporting period.",
       },
     ],
     faqs: [
@@ -191,6 +215,14 @@ export const agencySelectionArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Asking About Team Stability and Account Turnover",
+      },
+      {
+        type: "paragraph",
+        text: "Agency account teams sometimes turn over more frequently than firms expect, and a new account manager unfamiliar with a firm's history and goals can quietly disrupt momentum even when the agency's overall capabilities remain strong. Asking directly about typical account manager tenure, and what the transition process looks like when a change does happen, gives a firm a more realistic picture of what ongoing continuity to actually expect from the relationship.",
+      },
+      {
+        type: "heading",
         text: "Warning Signs During the Sales Process",
       },
       {
@@ -208,6 +240,22 @@ export const agencySelectionArticles: Article[] = [
       {
         type: "paragraph",
         text: "Rather than searching for an externally validated \"best\" list, build your own criteria based on practice area fit, budget, and internal capacity, then evaluate specific candidates against that criteria. Document the criteria in writing before starting your search, since it's easy to be swayed by a polished pitch and lose sight of what actually matters for your firm. For a complete due diligence checklist, see our guide to [choosing a marketing agency for lawyers](/learning-center/marketing-agency-for-lawyers).",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make During the Search",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is starting the search without first agreeing internally on budget range and priority goals, resulting in proposals that are difficult to compare because each candidate was given slightly different information about what the firm actually needs. Firms also sometimes let the search drag on for months chasing a theoretically perfect match, when a solid, well-vetted choice made promptly usually outperforms an extended search that delays getting a genuinely functional marketing program started at all.",
+      },
+      {
+        type: "heading",
+        text: "Transitioning Between Agencies Without Losing Momentum",
+      },
+      {
+        type: "paragraph",
+        text: "Firms switching from one agency to another should plan the handoff carefully, confirming account access, historical performance data, and campaign settings transfer cleanly rather than starting completely from scratch with the new provider. A short overlap period, where the outgoing agency remains available to answer questions while the new one gets up to speed, tends to preserve more of the prior investment's value than an abrupt, disorganized cutover between providers.",
       },
     ],
     faqs: [

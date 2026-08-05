@@ -117,6 +117,38 @@ export const bestXCluster9Articles: Article[] = [
         type: "paragraph",
         text: "Outgrowing a platform usually shows up as a specific, recurring friction point — reporting that can't answer questions leadership actually needs answered, integrations that require manual workarounds, or a support team that can't keep pace with your firm's growth. Switching software is disruptive, so it's worth confirming the friction is a genuine platform limitation rather than a training or process gap before committing to a migration.",
       },
+      {
+        type: "heading",
+        text: "Data Migration Considerations Before Switching",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that decide to switch platforms should confirm exactly what historical data, lead source history, past consultation records, communication logs, can be exported cleanly from the old system before committing to a new one, since losing this history undermines exactly the kind of long-term attribution and performance tracking that made the switch worthwhile in the first place. Requesting a sample data export from a prospective new vendor, and confirming your current vendor's export capabilities, before making a final decision protects against a disruptive, incomplete transition.",
+      },
+      {
+        type: "heading",
+        text: "Involving IT and Security Review for Larger Firms",
+      },
+      {
+        type: "paragraph",
+        text: "Larger firms handling significant client data volume should involve IT and, where applicable, a formal security review as part of intake software selection, confirming the vendor's data encryption practices, breach notification policies, and compliance with any applicable state bar data handling guidance. Smaller firms without dedicated IT staff can still ask a vendor directly about these practices, since a reputable provider should have clear, documented answers readily available rather than treating basic security questions as an unusual or burdensome request.",
+      },
+      {
+        type: "heading",
+        text: "Piloting New Software With a Single Practice Area First",
+      },
+      {
+        type: "paragraph",
+        text: "Firms with multiple practice areas sometimes find it easier to pilot a new intake platform with a single practice area or office location before rolling it out firm-wide, limiting the disruption if the software doesn't perform as expected while still generating real usage data to inform a broader rollout decision. This staged approach also gives staff in the pilot group time to become genuinely proficient with the new system, creating internal champions who can help train colleagues once the platform expands to the rest of the firm.",
+      },
+      {
+        type: "heading",
+        text: "Keeping a Simple Change Log as the Firm Adds Tools",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm adopts additional intake and marketing tools over time, keeping a simple internal log of what was added, when, and why helps future staff and leadership understand the reasoning behind the current tech stack rather than inheriting a confusing patchwork of tools with no documented history. This small habit pays real dividends whenever the firm eventually revisits its software choices, since it removes the guesswork about what past decisions were actually trying to solve.",
+      },
     ],
     faqs: [
       {
@@ -264,6 +296,38 @@ export const bestXCluster9Articles: Article[] = [
       {
         type: "paragraph",
         text: "A newer firm with no organic visibility and limited case backlog often needs to lean more heavily on paid volume initially, using that revenue to fund longer-term investments in content and reputation. A more established firm with strong organic rankings and a healthy referral base may get more incremental value from investing in intake process improvements or expanding into a new practice area than from additional paid spend. Revisiting this mix periodically, rather than setting it once and leaving it unchanged for years, keeps a firm's marketing investment aligned with its actual current needs.",
+      },
+      {
+        type: "heading",
+        text: "Why Consistency Matters More Than Any Single Tactic",
+      },
+      {
+        type: "paragraph",
+        text: "Firms chasing whatever tactic currently trends in legal marketing discussions, a new social platform, a trending content format, often see weaker results than firms that pick a reasonable, well-researched mix and execute it consistently over an extended period. Marketing performance in nearly every channel compounds with sustained, steady effort, and firms that switch strategies every few months rarely stay with any single approach long enough to see its genuine potential play out, mistaking normal ramp-up time for the strategy simply not working.",
+      },
+      {
+        type: "heading",
+        text: "Avoiding the Trap of Copying a Larger Competitor's Strategy",
+      },
+      {
+        type: "paragraph",
+        text: "A smaller firm attempting to replicate a much larger competitor's marketing approach, matching their content volume, their ad spend, their brand advertising, often ends up spread too thin across every channel to execute any single one well. Smaller firms typically get better results concentrating resources on a narrower, well-chosen set of channels suited to their actual budget and capacity, rather than attempting to compete across every front a larger, better-resourced competitor is active in simultaneously.",
+      },
+      {
+        type: "heading",
+        text: "Setting Internal Expectations Before Launching a New Strategy",
+      },
+      {
+        type: "paragraph",
+        text: "Firm leadership and marketing staff should agree upfront on realistic timelines and success criteria before launching a new marketing initiative, since misaligned expectations, leadership expecting results within weeks while the strategy genuinely needs months, are a common source of internal friction that leads to abandoning promising strategies too early. A brief written plan outlining expected timeline, budget, and how success will be measured, agreed to before launch, keeps everyone aligned and reduces the temptation to judge a long-term strategy against a short-term timeline it was never designed to meet.",
+      },
+      {
+        type: "heading",
+        text: "Why an Outside Perspective Occasionally Helps",
+      },
+      {
+        type: "paragraph",
+        text: "Firms deep in their own day-to-day marketing execution sometimes lose the ability to evaluate their own strategy objectively, continuing an underperforming tactic simply because it's familiar or because no one has stepped back to question it recently. Bringing in an outside consultant or agency for a periodic strategic review, even without engaging them for ongoing execution, can surface blind spots and stale assumptions that internal staff, close to the daily work, are less likely to notice on their own.",
       },
     ],
     faqs: [

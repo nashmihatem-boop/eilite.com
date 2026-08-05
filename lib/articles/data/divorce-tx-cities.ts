@@ -124,6 +124,44 @@ export const divorceTxCitiesArticles: Article[] = [
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that captures language preference and general asset complexity produces better-matched leads in this internationally diverse, high-asset market. For Texas's statewide framework, see our guide to [divorce attorney leads in Texas](/learning-center/how-to-get-quality-divorce-attorney-leads-in-texas).",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in Houston",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in the Houston metro commonly run $25 to $65, while exclusive leads flagging executive compensation or non-English language preference often run $50 to $150 or more given the added case value and screening involved. On the retainer side, a standard uncontested Texas divorce might run $2,000 to $4,000 as a flat fee, while a contested Houston case involving stock options, deferred energy-sector bonuses, or a privately held business can require a retainer of $10,000 to $30,000 or more, with total fees climbing further if forensic valuation experts need to be engaged.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Houston Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly about language preference rather than assuming from geography or surname.",
+          "Screen for executive compensation, stock options, or business ownership early.",
+          "Note any immigration status considerations relevant to the case.",
+          "Confirm the case will be filed within Harris County or a specific surrounding county.",
+          "Route bilingual prospects to bilingual staff immediately rather than a standard queue.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Houston Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is buying generic Texas-wide leads without confirming Houston-specific screening for language preference and asset complexity, resulting in a mismatch between the case's actual needs and the intake team's preparation. Firms also sometimes underinvest in multilingual capacity despite Houston's exceptional diversity, missing a meaningful share of the local market that a competitor with genuine bilingual intake would capture instead. Failing to flag executive compensation cases early, treating an energy-sector stock option divorce with the same process as a standard filing, is another common oversight that can lead to undervaluing a case's true complexity and required attorney time.",
+      },
+      {
+        type: "heading",
+        text: "Building Relationships With Business Valuation Experts",
+      },
+      {
+        type: "paragraph",
+        text: "Houston's concentration of privately held energy companies and executive compensation packages means firms working this market benefit significantly from maintaining relationships with qualified business valuation experts and forensic accountants familiar with oil and gas industry compensation structures specifically. A firm that has to search for a qualified expert only after signing a complex case loses valuable time compared to one with an established relationship ready to engage immediately, which can meaningfully affect how quickly a case moves toward resolution.",
+      },
     ],
     faqs: [
       {
@@ -257,6 +295,44 @@ export const divorceTxCitiesArticles: Article[] = [
       {
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that captures general asset complexity, particularly equity compensation, helps route Austin prospects to attorneys with relevant valuation experience. For Texas's statewide framework, see our guide to [divorce attorney leads in Texas](/learning-center/how-to-get-quality-divorce-attorney-leads-in-texas).",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in Austin",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in the Austin metro commonly run $25 to $60, while exclusive leads flagging tech industry employment or equity compensation often run $50 to $140 or more given the specialized valuation work these cases typically require. On the retainer side, a standard uncontested Texas divorce might run $2,000 to $4,000 as a flat fee, while a contested Austin case involving unvested stock options, RSUs, or early-stage startup equity can require a retainer of $8,000 to $25,000 or more, with total fees climbing further if a business valuation expert needs to assess illiquid startup equity with no established market price.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Austin Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask about employer type and whether equity compensation is part of the marital estate.",
+          "Confirm approximate length of Texas residency for recent transplants.",
+          "Note any recently acquired property given Austin's fast-appreciating housing market.",
+          "Gauge whether the filing is likely contested or uncontested.",
+          "Route equity-compensation cases to attorneys with relevant valuation experience.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Austin Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying a generic Texas intake script that only asks about \"assets involved\" broadly, missing the specific equity compensation detail that meaningfully affects both case value and which attorney should handle the matter. Firms also sometimes treat every Austin lead as equivalent regardless of employer type, missing an opportunity to prioritize and price tech-sector, equity-heavy leads differently from a standard filing. Underestimating how much Austin's rapid growth has intensified firm competition, continuing to rely on an outdated content and pricing strategy built for a less competitive market, is another common misstep in this fast-changing metro.",
+      },
+      {
+        type: "heading",
+        text: "Working With Valuation Experts on Startup Equity",
+      },
+      {
+        type: "paragraph",
+        text: "Valuing pre-IPO or early-stage startup equity presents a genuinely different challenge than valuing publicly traded stock, since there's often no established market price to reference and valuation depends heavily on the company's most recent funding round, projected trajectory, and any transfer restrictions on the shares themselves. Firms that build relationships with valuation experts specifically experienced in startup and venture-backed equity, rather than generalists more comfortable with public company stock, tend to negotiate more accurate and defensible settlements for clients holding this increasingly common asset type in Austin's tech-driven economy.",
       },
     ],
     faqs: [
@@ -413,6 +489,44 @@ export const divorceTxCitiesArticles: Article[] = [
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that can target specific fast-growing suburbs and distinguish Fort Worth from Dallas proper produces better-matched leads in this large, varied metroplex. For Texas's statewide framework, see our guide to [divorce attorney leads in Texas](/learning-center/how-to-get-quality-divorce-attorney-leads-in-texas).",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges Across DFW",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads across the DFW metroplex commonly run $20 to $55, while exclusive leads with confirmed city or suburb targeting often run $45 to $120 or more, with fast-growing, higher-income suburbs like Frisco and Plano typically pricing above older, more established parts of Dallas or Fort Worth. On the retainer side, a standard uncontested Texas divorce might run $2,000 to $4,000 as a flat fee, while a contested DFW case involving significant real estate holdings, corporate retirement plans, or a closely held business can require a retainer of $7,000 to $20,000 or more depending on asset complexity.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for DFW Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm which specific city or suburb the prospect resides in.",
+          "Determine whether the case falls under Dallas County or Fort Worth's Tarrant County.",
+          "Ask about general household income and asset scope, including real estate.",
+          "Screen for recent relocation and unfamiliarity with Texas's filing requirements.",
+          "Route the case to an attorney who practices in the relevant county's courts.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the DFW Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is buying an undifferentiated \"DFW\" lead feed without confirming city-level targeting, resulting in leads routed to attorneys who don't practice in the relevant county's court system. Firms also sometimes apply a single generic qualification script across the entire metroplex, missing meaningful income and asset differences between fast-growing suburbs like Frisco and more established areas, which affects both case value and appropriate pricing. Underestimating how much DFW's sheer size rewards precise, city-level targeting over broad volume is another common strategic misstep that leads to wasted intake time on poorly matched leads.",
+      },
+      {
+        type: "heading",
+        text: "Building Referral Relationships Across the Metroplex",
+      },
+      {
+        type: "paragraph",
+        text: "Given DFW's genuinely diversified economy, firms benefit from building referral relationships with financial advisors, CPAs, and estate planning attorneys across multiple sub-markets rather than concentrating entirely in one city, since a diversified corporate base means potential referral partners are similarly spread across Dallas, Fort Worth, and the growing suburban corridor. A firm that builds this kind of distributed referral network tends to generate a steadier stream of high-trust inquiries than one relying on a single geographic cluster of relationships, particularly given how much of DFW's population growth continues to shift toward its outer suburbs.",
+      },
     ],
     faqs: [
       {
@@ -550,6 +664,44 @@ export const divorceTxCitiesArticles: Article[] = [
       {
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that flags military affiliation at intake helps route San Antonio prospects to attorneys prepared for the specific procedural considerations military divorce involves. For Texas's statewide framework, see our guide to [divorce attorney leads in Texas](/learning-center/how-to-get-quality-divorce-attorney-leads-in-texas).",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in San Antonio",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in San Antonio commonly run $15 to $40, meaningfully below Austin, Dallas, and Houston given the market's lower cost of living and reduced firm competition, while exclusive leads flagging military affiliation often run $30 to $85 given the specialized procedural knowledge these cases require. On the retainer side, a standard uncontested Texas divorce might run $1,500 to $3,000 as a flat fee, while a contested military divorce involving pension division under USFSPA rules or deployment-related custody disputes can require a retainer of $4,000 to $12,000 or more depending on procedural complexity.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for San Antonio Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly about military affiliation and current duty status.",
+          "Confirm whether deployment history affects custody or timeline considerations.",
+          "Screen for military pension or retirement benefits requiring specialized division.",
+          "Explain SCRA protections and how they may affect the case timeline.",
+          "Prioritize efficient, volume-friendly intake given the market's lower average case value.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the San Antonio Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying a generic Texas intake script that never asks about military affiliation, missing one of the single most locally relevant qualification criteria in a market anchored by a major joint base. Firms also sometimes price San Antonio leads identically to Austin or Dallas leads despite the market's generally lower average case value, leading to an unfavorable cost-per-acquisition relative to what the local case economics actually support. Underestimating how much a volume-oriented, efficient intake model outperforms a boutique, high-touch approach in this specific market is another common strategic misalignment for firms newly expanding into San Antonio.",
+      },
+      {
+        type: "heading",
+        text: "Building Relationships With Base Legal Assistance Offices",
+      },
+      {
+        type: "paragraph",
+        text: "While military legal assistance offices can't refer specific attorneys, servicemembers and their spouses often seek general guidance there before searching for civilian counsel, and firms that build a genuine reputation within San Antonio's military community, through veteran and military spouse organizations, base-adjacent community events, or simply consistent, knowledgeable service to past military clients, tend to see steady referral volume that complements purchased leads well. Word of mouth travels efficiently within tight-knit military communities, making reputation-building in this specific population a particularly high-leverage investment for firms serious about this market.",
       },
     ],
     faqs: [

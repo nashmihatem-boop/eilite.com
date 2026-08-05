@@ -261,6 +261,36 @@ export const findNewClientsCluster5Articles: Article[] = [
         type: "paragraph",
         text: "A well-written case study doesn't have to live only on a dedicated web page. The same underlying content, reworked appropriately, can inform a newsletter item, a short social media post highlighting the general lesson learned, or a talking point during an initial consultation with a prospect facing a similar situation, extending the value of the original writing effort well beyond the page it was first published on.",
       },
+      {
+        type: "heading",
+        text: "A Practical Process for Launching a Case Study Program",
+      },
+      {
+        type: "list",
+        items: [
+          "Review your state bar's specific rules on presenting case results before writing anything.",
+          "Identify three to five recent matters that illustrate common, relatable challenges.",
+          "Draft each using the situation-challenge-approach-outcome structure consistently.",
+          "Have a compliance-aware reviewer check every piece before publishing.",
+          "Publish on a steady monthly cadence rather than in one large initial batch.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Building This Content Library",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is treating case study writing as a one-time project completed in a single burst rather than an ongoing habit tied to closing out matters, which leads to a stale library that stops growing after the initial enthusiasm fades. Firms also sometimes skip the compliance review step for seemingly low-risk case studies, assuming a matter without a dramatic settlement figure carries less regulatory scrutiny, when disclaimer and anonymization requirements typically apply regardless of case value. Publishing case studies that all sound identical in structure and tone without any genuine differentiation between them is another common issue that undermines the format's core purpose of demonstrating real, varied expertise across different situations.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Whether Case Studies Are Actually Converting Prospects",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond general SEO traffic, tracking which specific case study pages prospects viewed before contacting the firm, whether through a simple \"how did you hear about us\" intake question or more detailed analytics tracking, reveals which specific stories and practice areas are actually resonating with real prospects rather than just generating passive page views. Firms that identify their strongest-converting case studies can use those as a model for future content, doubling down on the specific angles, challenges, or practice areas that demonstrably build the most trust with the audience they're trying to reach.",
+      },
     ],
     faqs: [
       {

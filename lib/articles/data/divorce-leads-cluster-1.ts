@@ -140,6 +140,35 @@ export const divorceLeadsCluster1Articles: Article[] = [
           "Staff who can answer detailed questions about traffic sources without deflecting.",
         ],
       },
+      {
+        type: "heading",
+        text: "What Divorce Leads Typically Cost in Dollar Terms",
+      },
+      {
+        type: "paragraph",
+        text: "Concrete numbers help firms budget realistically. Shared divorce leads, sold to three or four competing firms at once, commonly run $20 to $50 depending on market and screening depth. Exclusive leads sold to a single firm typically price between $75 and $250, with the higher end reflecting more thorough phone screening and tighter case-type filtering. High-asset divorce leads, given the significantly larger fee potential, can command $200 to $500 or more when sold exclusively with strong qualifying detail already captured. Firms should treat these figures as a starting point for negotiation, not a fixed price, since volume commitments and market conditions both push actual pricing up or down from these general ranges.",
+      },
+      {
+        type: "heading",
+        text: "Building an Intake Script That Improves Conversion",
+      },
+      {
+        type: "paragraph",
+        text: "A purchased lead's value is only ever as good as the intake conversation that follows it, and firms that build a deliberate script around a handful of key questions consistently out-convert firms winging each call. An effective script opens by acknowledging the prospect's situation before pivoting into logistics, confirms jurisdiction and rough asset scope early to route the call to the right attorney, and closes every call with a specific, scheduled next step rather than a vague invitation to follow up later. Firms that role-play this script periodically with staff, rather than writing it once and never revisiting it, tend to see conversion hold steady even as staff turnover happens.",
+      },
+      {
+        type: "heading",
+        text: "Common Objections and How to Handle Them",
+      },
+      {
+        type: "list",
+        items: [
+          "Cost concerns: address fee structure directly and early rather than waiting for the prospect to ask, since evasiveness here reads as a red flag.",
+          "Uncertainty about whether divorce is the right decision: acknowledge this is common and offer a low-pressure consultation rather than pushing for immediate commitment.",
+          "Comparison shopping with other firms: differentiate on specific experience with similar cases rather than competing purely on price.",
+          "Fear of conflict or a difficult spouse: reassure with concrete detail about how the firm handles contested, high-conflict matters specifically.",
+        ],
+      },
     ],
     faqs: [
       {
@@ -281,6 +310,38 @@ export const divorceLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "The value of exclusivity isn't uniform across every divorce case type. High-asset and contested cases, where prospects are more likely to be comparison-shopping among several firms, benefit the most from removing that competitive pressure. Straightforward uncontested filings, where the prospect has often already decided to move forward and simply needs a firm to handle paperwork, see a smaller conversion lift from exclusivity — worth factoring in when deciding how much of your lead budget to allocate toward exclusive delivery versus a lower-cost shared alternative.",
+      },
+      {
+        type: "heading",
+        text: "What Exclusive Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing depends heavily on market and case type, but exclusive divorce leads commonly range from $75 to $250 per lead, compared to $20 to $50 for shared leads sold to multiple competing firms. High-asset or contested cases sold exclusively can push toward the top of that range, or higher in dense, competitive metro markets, given the significantly larger potential fee involved. Firms new to buying exclusive leads should request a sample batch at standard pricing before negotiating any volume discount, since committing to a large discount before validating quality can lock in an unfavorable long-term arrangement with an underperforming source.",
+      },
+      {
+        type: "heading",
+        text: "Negotiating Terms With an Exclusive Lead Provider",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond price, several contract terms materially affect how much value a firm actually gets from an exclusive arrangement. Negotiate a clear, specific credit policy for leads with invalid contact information or that fall outside your firm's practice area or jurisdiction, since without this a firm effectively pays full exclusive price for leads it can never act on. Ask whether pricing can flex with volume commitments, and whether a short initial trial period at standard rates is available before committing to a longer contract. Providers confident in their own lead quality are generally willing to accommodate a reasonable trial period, while resistance to this request is itself a useful signal worth weighing.",
+      },
+      {
+        type: "heading",
+        text: "A Worked Example: Calculating the Premium's Payoff",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm comparing a $40 shared lead converting at 8% against a $150 exclusive lead converting at 22%. The shared lead costs $500 per signed case before intake labor; the exclusive lead costs roughly $682 per signed case on the same basis. On this simplified math alone, the shared lead looks cheaper — but if the exclusive lead's average case value runs meaningfully higher, given less price-sensitive, better-qualified prospects, the exclusive source can still produce a stronger net return per dollar spent. Running this calculation with a firm's own actual numbers, rather than assuming exclusivity is automatically worth the premium, is the only reliable way to make this decision well.",
+      },
+      {
+        type: "heading",
+        text: "When a Firm Should Stick With Shared Leads Instead",
+      },
+      {
+        type: "paragraph",
+        text: "Exclusivity isn't automatically the right call for every firm. A smaller practice still building out its intake process, or one testing a new geography or case type it hasn't served before, may get more value from lower-cost shared leads while it validates demand and refines its response process, only shifting budget toward exclusive volume once intake speed and script quality are already solid. Paying a premium for exclusivity before a firm can reliably capitalize on the speed advantage it buys often means paying more for a benefit the firm isn't yet positioned to fully capture.",
       },
     ],
     faqs: [
@@ -427,6 +488,38 @@ export const divorceLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because military divorce is a smaller, more specialized niche than general divorce, fewer providers offer genuinely dedicated sourcing for it. Ask any provider claiming military-specific leads how they identify military status — self-reported at intake, or inferred from search terms — since the former is more reliable. Confirm whether leads are filtered by branch, duty station, or deployment status, and request a small test batch before committing to ongoing volume.",
+      },
+      {
+        type: "heading",
+        text: "The VA Disability Offset Issue Firms Must Understand",
+      },
+      {
+        type: "paragraph",
+        text: "One of the most consequential and frequently misunderstood issues in military divorce is the interaction between VA disability compensation and divisible military retired pay. Federal law generally excludes VA disability benefits from being treated as marital property subject to division, and when a veteran waives a portion of retired pay to receive VA disability compensation instead, that waived amount can no longer be divided under USFSPA, sometimes significantly reducing what a former spouse actually receives even when a state court order calls for a specific percentage of retired pay. Firms marketing to this niche without a genuine, current understanding of this issue, and how courts in their jurisdiction have handled it post-Howell v. Howell, risk giving prospects inaccurate expectations during the very first consultation.",
+      },
+      {
+        type: "heading",
+        text: "Survivor Benefit Plan Elections in Detail",
+      },
+      {
+        type: "paragraph",
+        text: "Survivor Benefit Plan elections determine whether a former spouse continues receiving a share of retired pay after the servicemember's death, and getting this election wrong, or missing the strict deadline to make it, can permanently eliminate a former spouse's survivor coverage regardless of what the divorce decree intended. Firms serving this niche should treat SBP election deadlines as a standard checklist item in every applicable case, since this detail is easy for a generalist attorney unfamiliar with military divorce to overlook entirely, and the consequences of missing it are effectively irreversible once the deadline passes." ,
+      },
+      {
+        type: "heading",
+        text: "Structuring the First Consultation for Military Families",
+      },
+      {
+        type: "paragraph",
+        text: "A first consultation with a military family benefits from a structure slightly different from a standard divorce intake. Beyond the usual asset and custody discussion, attorneys should proactively walk through jurisdiction and legal residence questions, explain the 10/10 rule and its practical implications in plain language, and flag SBP and VA disability offset issues early even if detailed analysis comes later, so the client understands from the outset that these factors will meaningfully shape their case. Prospects who leave a first consultation feeling like the firm genuinely understands military-specific issues, rather than treating their case as a standard divorce with a uniform attached, are considerably more likely to sign and to refer other military families later.",
+      },
+      {
+        type: "heading",
+        text: "Fee Structures Common in Military Divorce Practice",
+      },
+      {
+        type: "paragraph",
+        text: "Fee arrangements in this niche generally follow standard divorce billing practices, hourly rates or flat fees for uncontested matters, but firms should account for added complexity when scoping a quote. Pension division calculations, coordination with DFAS paperwork, and SCRA-related scheduling delays can extend a case's timeline and total hours beyond what a comparable civilian divorce would require, and firms that underprice a military case by treating it as routine often find themselves absorbing that extra complexity as unbilled time. Clearly explaining upfront why military cases can carry a modest premium over a standard divorce, tied to specific, tangible complexity rather than a vague surcharge, helps prospects understand the value being provided rather than perceiving it as an arbitrary markup.",
       },
     ],
     faqs: [
@@ -585,6 +678,44 @@ export const divorceLeadsCluster1Articles: Article[] = [
         type: "paragraph",
         text: "No channel delivers perfect quality on every lead — even strong referral relationships occasionally send a prospect outside your practice focus. The goal isn't zero waste, but a consistent, acceptable ratio of qualified to unqualified leads by source, tracked over time so any meaningful decline gets caught and addressed before it quietly erodes your overall return.",
       },
+      {
+        type: "heading",
+        text: "What Quality Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing scales with how much verification and screening sits behind a lead. Unvetted aggregator leads can run as low as $10 to $25, reflecting their minimal screening and correspondingly weaker signed-case rate. Phone-verified leads from a reputable pay-per-lead provider typically run $40 to $120 depending on exclusivity and case complexity, while genuinely high-intent PPC-driven inquiries a firm generates itself often cost $60 to $200 per lead once ad spend is fully accounted for. Firms new to comparing sources should calculate blended cost per signed case across a real sample from each channel rather than relying on a provider's advertised per-lead price, since that sticker price alone says almost nothing about actual value delivered.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Quality Scorecard Template",
+      },
+      {
+        type: "list",
+        items: [
+          "Contact success: could staff reach the prospect on the first or second attempt using the information provided?",
+          "Case fit: did the matter align with the firm's actual practice focus and jurisdiction?",
+          "Qualifying detail: did the lead arrive with useful context, or require staff to rebuild basic facts from scratch?",
+          "Consultation outcome: did the lead convert to a scheduled consultation, and ultimately to a signed engagement?",
+          "Time to contact: how quickly did staff actually reach out relative to when the lead arrived?",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building a Feedback Loop With Your Lead Provider",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that only communicate with a lead provider when something goes visibly wrong miss the chance to shape quality proactively. Sharing scorecard data on a regular cadence, even informally, gives a provider concrete signal about which types of leads are converting well and which aren't, and a provider genuinely invested in the relationship will often adjust targeting or screening in response. This kind of structured feedback loop, rather than sporadic complaints, is what separates firms that steadily improve a lead source's performance over time from those stuck re-litigating the same quality complaints every few months without any real change.",
+      },
+      {
+        type: "heading",
+        text: "How Many Lead Sources a Growing Firm Should Use",
+      },
+      {
+        type: "paragraph",
+        text: "Relying entirely on a single source, however strong, leaves a firm exposed if that source's quality dips or volume dries up unexpectedly. Most firms benefit from maintaining two or three complementary sources at once, ideally spanning at least one owned channel like SEO or referrals alongside a purchased channel, which provides both a natural performance benchmark and resilience against any single source's fluctuations. Adding too many sources at once, however, makes it genuinely hard to isolate which one is driving results, so firms should introduce new sources deliberately, one at a time, giving each enough volume and time to produce a meaningful read before layering in another.",
+      },
     ],
     faqs: [
       {
@@ -738,6 +869,48 @@ export const divorceLeadsCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Federal tax treatment of spousal support has changed materially in recent years for agreements executed after 2018, and many prospects arrive with outdated assumptions carried over from older articles or a friend's experience with a pre-2019 divorce. Content that clearly explains current tax treatment, and how it factors into negotiating a fair support amount, addresses a genuine point of confusion and builds credibility with prospects who are actively trying to understand their real financial picture.",
       },
+      {
+        type: "heading",
+        text: "What Spousal Support Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing for this niche generally runs comparable to, or slightly below, general divorce lead pricing given lower search competition for the more specific terminology involved. Modification and enforcement leads, being narrower and higher-intent, often cost $35 to $100 through a dedicated pay-per-lead source, while initial-award inquiries arriving through general divorce content or campaigns fall closer to standard divorce lead pricing. Firms building a dedicated enforcement content strategy sometimes find organic search cost per lead considerably lower than paid alternatives once the content ranks, since enforcement-specific search terms carry meaningfully less competition than broad divorce keywords.",
+      },
+      {
+        type: "heading",
+        text: "Comparing the Three Sub-Niches at a Glance",
+      },
+      {
+        type: "table",
+        headers: ["Inquiry type", "Typical urgency", "Attorney time required", "Best-fit channel"],
+        rows: [
+          ["Initial award", "Moderate — tied to divorce timeline", "Higher — part of broader divorce case", "General divorce content and paid search"],
+          ["Modification", "Moderate to high — often triggered by a recent life change", "Lower — narrower, focused scope", "Dedicated modification content"],
+          ["Enforcement", "High — recipient often not receiving owed support", "Lower to moderate — contempt or garnishment action", "Dedicated enforcement content and reviews"],
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing This Niche",
+      },
+      {
+        type: "list",
+        items: [
+          "Folding all three sub-types into one generic spousal support page instead of dedicated content for each.",
+          "Failing to ask at intake whether an inquiry is an initial award, modification, or enforcement matter.",
+          "Pricing consultations identically across sub-types despite very different scope and attorney time required.",
+          "Ignoring outdated prospect assumptions about tax treatment instead of proactively addressing them in content.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building Referral Relationships Around This Niche",
+      },
+      {
+        type: "paragraph",
+        text: "Spousal support modification and enforcement matters often surface during conversations with financial advisors, accountants, and divorce mediators who encounter a client's changed circumstances before that client ever thinks to contact an attorney. Building genuine referral relationships with these professionals, rather than relying solely on paid or organic search traffic, can produce a steady stream of well-qualified modification and enforcement inquiries at effectively no per-lead cost. Firms that invest time in these relationships, through periodic check-ins or educational content shared directly with referral partners, often find this channel becomes one of their most efficient sources for this specific sub-niche over time, complementing rather than replacing paid and organic volume.",
+      },
     ],
     faqs: [
       {
@@ -889,6 +1062,43 @@ export const divorceLeadsCluster1Articles: Article[] = [
         type: "paragraph",
         text: "A value analysis is only as reliable as the assumptions behind it, so recording exactly how signed-case rate, average fee, and intake time were calculated — including the sample size and time period used — makes it possible to revisit and update the figures confidently later, rather than starting from scratch or working from numbers nobody fully trusts anymore.",
       },
+      {
+        type: "heading",
+        text: "A Worked Numeric Example",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a source delivering contested divorce leads at $120 each, with a 20% signed-case rate and an average net fee of $4,500. Across 50 leads, total spend is $6,000, producing roughly 10 signed cases worth $45,000 in fees, before intake staff time is subtracted. If intake for 50 leads consumes 25 hours at a fully loaded staff cost of $40 per hour, that's another $1,000, bringing total cost to $7,000 against $45,000 in generated fees. This source's genuine value per lead comes out to roughly $760 net, a figure far more useful for comparing against alternative sources than the $120 sticker price alone ever could be.",
+      },
+      {
+        type: "heading",
+        text: "Incorporating Referral and Lifetime Value",
+      },
+      {
+        type: "paragraph",
+        text: "A pure per-case value calculation understates a lead's true worth whenever that client is likely to generate future business, whether through a later modification matter, an estate planning need that surfaces post-divorce, or referrals to friends and family going through their own family law situations. Firms with a strong track record of referral generation should apply a reasonable multiplier to their base value calculation for case types known to produce above-average referral activity, rather than treating every signed case as a one-time transaction with no ongoing relationship value attached.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes When Analyzing Lead Value",
+      },
+      {
+        type: "list",
+        items: [
+          "Using a single blended value figure across all case types instead of segmenting by type and source.",
+          "Ignoring intake staff time entirely, which meaningfully understates the true cost behind low-converting sources.",
+          "Running the analysis once and never revisiting it as source quality or firm capacity changes over time.",
+          "Comparing sources purely on sticker price rather than the fully calculated net value per lead.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Sharing Value Analysis Results Across the Firm",
+      },
+      {
+        type: "paragraph",
+        text: "A value analysis that lives only in a managing partner's spreadsheet delivers far less benefit than one shared openly with intake staff and attorneys handling consultations. When staff understand which lead types and sources tend to be most valuable, they can prioritize follow-up accordingly and flag anomalies, such as a normally strong source suddenly producing unusually poor-fit inquiries, faster than a purely top-down quarterly review would catch on its own. This kind of shared visibility turns lead value analysis into an ongoing, firm-wide discipline rather than an isolated exercise a single person revisits occasionally.",
+      },
     ],
     faqs: [
       {
@@ -1036,6 +1246,43 @@ export const divorceLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Organic SEO, referral programs, and purchased leads each have different cost structures and time horizons, which makes a naive side-by-side ROI comparison misleading if it doesn't also account for sunk versus ongoing costs. SEO content produced two years ago that still generates leads today has a very different cost profile than a purchased lead paid for the same month it converts, and a fair comparison should reflect that difference rather than treating all spend as equivalent.",
+      },
+      {
+        type: "heading",
+        text: "A Worked ROI Example",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm spending $8,000 in a given month on a purchased divorce lead program, generating 80 leads at $100 each. Of those, 35 convert to scheduled consultations, and 12 ultimately sign, at an average fee of $3,200. That's $38,400 in collected fees against $8,000 in direct spend, a raw ROI of roughly 4.8x. Once staff time on the 23 unconverted consultations is added, say 11.5 hours at a fully loaded $45 hourly rate, or about $520, the fully loaded ROI drops slightly to roughly 4.5x. This distinction between raw and fully loaded ROI matters most when comparing a purchased source against organic channels, where a similar hidden labor cost often gets overlooked entirely.",
+      },
+      {
+        type: "heading",
+        text: "Setting Minimum ROI Thresholds in Practice",
+      },
+      {
+        type: "paragraph",
+        text: "Many firms find a minimum threshold somewhere between 3x and 5x fully loaded ROI to be a reasonable bar for continuing to invest in a given source, though the right number depends heavily on overhead structure and how much attorney capacity is genuinely available to absorb additional consultations. A firm operating near full capacity might reasonably set a higher threshold, since every consultation slot given to a mediocre source is a slot not available for a potentially stronger one, while a firm with meaningful open capacity can tolerate a lower threshold to keep growing volume overall.",
+      },
+      {
+        type: "heading",
+        text: "Common Pitfalls That Distort ROI Data",
+      },
+      {
+        type: "list",
+        items: [
+          "Judging a source's ROI too early, before enough cases from that cohort have had time to resolve.",
+          "Comparing raw ROI across sources without normalizing for fully loaded intake and staff time costs.",
+          "Attributing a signed case to the wrong source when a prospect interacts with multiple channels before converting.",
+          "Letting a handful of outsized high-asset cases distort what should be a representative, typical ROI figure.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Who Should Own ROI Tracking at a Growing Firm",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm scales beyond a handful of partners handling their own marketing decisions, ROI tracking benefits from having one clearly designated owner, whether that's an office manager, a marketing coordinator, or a managing partner, rather than being loosely shared across several people who each assume someone else is keeping the dashboard current. This person doesn't need to be a data specialist, but should have the authority to pull spend and collections figures from accounting and case management systems consistently, and enough visibility into intake operations to flag when a source's numbers look off before a full quarter passes without anyone noticing the drift.",
       },
     ],
     faqs: [
@@ -1185,6 +1432,43 @@ export const divorceLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Many regions have a local collaborative practice group or bar association training track that certifies attorneys in the collaborative model. Prospects and referral partners alike often specifically look for this credential, making membership and visible participation in these groups a meaningful trust signal that's difficult for firms without genuine training to replicate credibly.",
+      },
+      {
+        type: "heading",
+        text: "What Collaborative Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Because this niche carries lower search volume than general divorce, per-lead pricing through paid channels can actually come in below broad divorce keywords in some markets, often in the $50 to $150 range for a well-qualified inquiry, since fewer firms compete directly for collaborative-specific terminology. Referral-driven leads from financial neutrals or therapist partners typically cost nothing directly, though they require an ongoing investment of relationship-building time. Firms should weigh a dedicated collaborative-specific paid campaign against the reality that pure volume in this niche is inherently limited in most markets, meaning even a well-targeted campaign may deliver a comparatively small number of leads per month relative to general divorce marketing.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing This Niche",
+      },
+      {
+        type: "list",
+        items: [
+          "Marketing collaborative divorce as simply 'cheaper' or 'friendlier' without addressing the real team-based cost structure.",
+          "Using the same broad divorce landing page and messaging for collaborative-specific paid campaigns.",
+          "Neglecting to build referral relationships with financial neutrals and collaboratively trained therapists.",
+          "Skipping the phone screening step to confirm both spouses are genuinely open to the collaborative process.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building a Local Collaborative Network From Scratch",
+      },
+      {
+        type: "paragraph",
+        text: "Firms new to this niche without existing referral relationships can start by joining a local collaborative practice group or bar association training track, which typically includes networking events specifically designed to connect attorneys with financial neutrals and mental health professionals working in the same model. Attending consistently, rather than joining once and disengaging, matters considerably, since referral relationships in this niche tend to build slowly through repeated professional contact and demonstrated competence in actual collaborative cases, not through a single introductory meeting or a one-time marketing outreach effort.",
+      },
+      {
+        type: "heading",
+        text: "Balancing Collaborative Marketing With a Broader Practice",
+      },
+      {
+        type: "paragraph",
+        text: "Few firms operate as a pure collaborative divorce practice exclusively, and most attorneys offering this service also handle mediation and litigation for clients where collaboration isn't a fit or ultimately breaks down. Marketing this niche effectively means clearly signaling collaborative expertise without implying it's the only service offered, since a prospect who starts collaborative and later needs litigation support, following a disqualification event, benefits from staying with a firm capable of transitioning smoothly rather than needing to search for entirely new counsel at an already stressful moment.",
       },
     ],
     faqs: [
@@ -1338,6 +1622,43 @@ export const divorceLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Contested divorce prospects are sometimes contacting a firm during an active, high-conflict moment — a recent filing by the other spouse, an emergency custody concern, or a sudden asset dispute. Intake staff trained to recognize and appropriately triage these higher-urgency situations, rather than treating every inquiry with the same standard scheduling process, both serves the prospect better and improves the odds of converting a time-sensitive lead before a competing firm responds first.",
+      },
+      {
+        type: "heading",
+        text: "What Contested Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Given the elevated competition this case type attracts, pricing runs meaningfully higher than uncontested divorce leads. Shared contested leads commonly range from $60 to $150, while exclusive contested leads, particularly those involving high-asset disputes or custody conflicts, often price between $150 and $400 or more in competitive metro markets. Firms should budget accordingly and evaluate this spend against the case type's typically larger retainers and longer engagement value, rather than comparing sticker price directly against cheaper uncontested or shared-lead alternatives that carry very different underlying case economics.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Pursuing Contested Volume",
+      },
+      {
+        type: "list",
+        items: [
+          "Chasing contested lead volume without the senior attorney bandwidth to actually staff those consultations well.",
+          "Comparing contested lead cost directly against uncontested pricing without adjusting for the different case economics.",
+          "Failing to clearly explain retainer size and replenishment terms before a prospect signs, creating friction later.",
+          "Treating every contested inquiry as equally urgent instead of triaging genuinely time-sensitive situations first.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building a Litigation Track Record Prospects Can Verify",
+      },
+      {
+        type: "paragraph",
+        text: "Because contested divorce prospects are often specifically evaluating whether a firm can credibly go to trial, publishing verifiable detail, general case outcome summaries where compliant with advertising rules, attorney trial experience and years in practice, and specific litigation credentials, gives prospects concrete evidence rather than generic marketing language claiming aggressive representation. Firms that can point to a genuine, documented track record in contested proceedings tend to convert this comparison-shopping audience at a noticeably higher rate than firms relying on vague positioning alone.",
+      },
+      {
+        type: "heading",
+        text: "Preparing Clients for a Longer Engagement",
+      },
+      {
+        type: "paragraph",
+        text: "Contested cases can stretch across many months, sometimes longer than a year for particularly complex asset division or custody disputes, and clients who understand this reality upfront tend to stay more engaged and less frustrated than those expecting a quick resolution. Firms benefit from setting a realistic timeline expectation during the first consultation, explaining the general phases a contested case typically moves through, discovery, negotiation, and potentially trial preparation, so a client experiencing a slow-moving stretch understands it as a normal part of the process rather than a sign something has gone wrong with their representation, and continues to trust the firm's guidance throughout.",
       },
     ],
     faqs: [
@@ -1502,6 +1823,43 @@ export const divorceLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because Atlanta spans so many distinct counties with different competitive intensity and case economics, tracking cost-per-signed-case at the county or sub-market level, rather than one blended metro-wide number, reveals which specific areas are actually producing the strongest returns — information that's invisible in aggregate reporting but directly useful for deciding where to concentrate the next quarter's marketing budget.",
+      },
+      {
+        type: "heading",
+        text: "What Atlanta Divorce Leads Typically Cost in Dollar Terms",
+      },
+      {
+        type: "paragraph",
+        text: "Given Atlanta's size and advertising competitiveness, firms should expect per-lead pricing toward the higher end of Georgia's overall range. Shared divorce leads in Fulton or DeKalb counties commonly run $35 to $70, while exclusive leads in these same high-competition counties can price between $100 and $300 depending on case type and screening depth. Outer suburban and exurban counties, with less advertising saturation, often see meaningfully lower pricing, sometimes 20% to 40% below core-county rates, which is part of why firms willing to serve a wider service radius can find genuinely favorable acquisition economics outside Atlanta's most contested advertising battlegrounds.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Atlanta Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Bidding on broad 'Atlanta divorce attorney' terms without narrowing to specific counties or sub-markets with better economics.",
+          "Ignoring Georgia's fault-ground divorce framework in content and intake, missing an easy local credibility signal.",
+          "Comparing Atlanta lead costs directly against smaller-market benchmarks without adjusting for the metro's larger case volume and values.",
+          "Underinvesting in referral relationships with financial advisors and therapists across the fast-growing suburban counties.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Adapting Intake Scripts to Georgia-Specific Details",
+      },
+      {
+        type: "paragraph",
+        text: "An intake script written for a generic no-fault state misses details that genuinely matter for a Georgia divorce, and prospects familiar with their own situation notice quickly when a firm's questions feel generic. Capturing whether a prospect is pursuing a fault or no-fault filing, roughly which county the case will be filed in, and whether marital misconduct is likely to factor into an alimony discussion, all help route the case appropriately and signal to the prospect that the firm genuinely understands Georgia's specific framework rather than treating every state's divorce law as interchangeable.",
+      },
+      {
+        type: "heading",
+        text: "Why Response Speed Matters Even More in a Saturated Market",
+      },
+      {
+        type: "paragraph",
+        text: "In a market as competitive as metro Atlanta, a prospect who submits an inquiry is very likely also reaching out to, or at least researching, several other firms simultaneously. Firms that respond within minutes rather than hours meaningfully outperform slower competitors here specifically because the sheer number of alternative options available to an Atlanta-based prospect makes patience an unaffordable luxury that smaller or slower-moving firms in less competitive markets might otherwise get away with.",
       },
     ],
     faqs: [

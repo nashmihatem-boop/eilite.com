@@ -124,6 +124,52 @@ export const buyPiLeadsCluster2Articles: Article[] = [
         type: "paragraph",
         text: "Most established PI firms don't rely on a single acquisition channel — purchased leads typically supplement organic search visibility, referral relationships with medical providers and other attorneys, and any brand advertising already in place. Treating a pay-per-lead program as one component of a broader strategy, rather than the sole source of new cases, tends to produce more resilient, predictable growth over time.",
       },
+      {
+        type: "heading",
+        text: "Typical Price Ranges by Format and Severity",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads commonly run $30 to $85 depending on market competitiveness, while exclusive, screened leads with confirmed injury and liability detail often run $75 to $250 or more. Warm transfers, given the added agent labor involved in pre-qualifying the prospect before handoff, frequently run $150 to $400 or higher, particularly for high-severity case types. Catastrophic injury leads, given their dramatically higher case value potential, can justify pricing several multiples above standard soft-tissue or moderate-injury leads within the same delivery format.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Process for Structuring a First Purchase",
+      },
+      {
+        type: "list",
+        items: [
+          "Start with a defined test batch in one practice sub-area and geography.",
+          "Confirm exclusivity terms and consent documentation in writing before purchasing.",
+          "Track contact rate, consultation rate, and signed-case rate separately.",
+          "Calculate cost per signed case, not just cost per lead, after the test.",
+          "Scale gradually based on measured results rather than provider promises.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Buying Personal Injury Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is committing to a large monthly volume commitment based on a sales call rather than a properly sized test batch, leaving a firm locked into an underperforming source before enough data exists to judge it fairly. Firms also sometimes blend leads of wildly different severity and case value into one cost-per-lead average, obscuring the fact that a source performing well for catastrophic cases might be mediocre for routine soft-tissue claims, or vice versa. Failing to size purchased volume against actual case management capacity, buying more leads than the firm can properly investigate and pursue, is another common and costly misstep that undermines both client outcomes and marketing ROI simultaneously.",
+      },
+      {
+        type: "heading",
+        text: "Building a Long-Term Vendor Relationship After a Successful Test",
+      },
+      {
+        type: "paragraph",
+        text: "Once a provider has demonstrated consistent quality through a properly run test, treating that relationship as a genuine long-term partnership, rather than constantly shopping for a marginally cheaper alternative, tends to produce better results over time. Providers often reserve their best-screened volume and most flexible terms for firms with a demonstrated history of reliable payment and clear communication, a form of value that rarely shows up when comparing raw per-lead price quotes across competing vendors in isolation.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that periodically test a second source alongside their primary relationship, without abandoning what's already working, maintain a useful pricing and quality benchmark while still preserving the stability that a proven partnership provides.",
+      },
+      {
+        type: "paragraph",
+        text: "This balanced approach tends to serve growing PI practices better than either extreme of total vendor loyalty or constantly chasing the lowest advertised price.",
+      },
     ],
     faqs: [
       {
@@ -273,6 +319,48 @@ export const buyPiLeadsCluster2Articles: Article[] = [
       {
         type: "paragraph",
         text: "Response speed remains as critical to conversion as ever, exclusivity still commands a justified price premium, and testing at a modest scale before committing to a larger contract remains the soundest way to evaluate any provider. The fundamentals of buying well haven't shifted even as the specific standards and available options have continued to mature.",
+      },
+      {
+        type: "heading",
+        text: "Typical 2026 Pricing Benchmarks Worth Knowing",
+      },
+      {
+        type: "paragraph",
+        text: "Shared personal injury leads in 2026 commonly run $35 to $95, reflecting the market's generally higher baseline verification standards compared to a few years ago, while exclusive, thoroughly screened leads often run $85 to $275 or more in competitive metro markets. Warm transfers, given the added screening labor and rising demand, frequently command $175 to $450 for well-qualified calls, with pricing continuing to climb toward the higher end of these ranges as verification standards and buyer expectations both continue to rise industry-wide.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Process for Re-Evaluating Providers This Year",
+      },
+      {
+        type: "list",
+        items: [
+          "Request a current breakdown of a provider's fraud detection and consent verification methods.",
+          "Ask specifically what's changed in their process over the past twelve months.",
+          "Compare current pricing against a fresh quote from at least one alternative provider.",
+          "Confirm whether warm transfer delivery is now available if it wasn't previously.",
+          "Run a modest test batch even with an existing, trusted provider relationship.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Adapting to These Changes",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is continuing to renew a provider contract based on a relationship built years ago without re-benchmarking current pricing and verification standards against what's now available elsewhere in a meaningfully different market. Firms also sometimes assume that because a provider was strong in the past, it has automatically kept pace with rising industry standards, when in reality some providers have stagnated while competitors have invested heavily in better screening technology and warm transfer capacity. Failing to track signed-case rate consistently over time, relying instead on a general sense that a provider is \"working,\" makes it hard to notice a gradual quality decline before it meaningfully affects the firm's bottom line.",
+      },
+      {
+        type: "heading",
+        text: "Preparing for Continued Market Evolution Beyond 2026",
+      },
+      {
+        type: "paragraph",
+        text: "The trajectory toward higher baseline verification, growing warm transfer demand, and wider pricing spreads between premium and lower-quality providers shows no clear sign of reversing, which means firms that build a habit of periodic provider re-evaluation, rather than treating vendor selection as a one-time decision, will likely stay better positioned as the market continues to mature. Building this review into a firm's regular quarterly or annual marketing planning cycle, rather than only reconsidering vendor relationships when a problem becomes obvious, helps firms stay ahead of shifts rather than reacting to them after falling behind.",
+      },
+      {
+        type: "paragraph",
+        text: "A brief standing agenda item, reviewing current provider pricing, verification standards, and signed-case rate alongside broader marketing budget decisions, keeps this discipline consistent rather than dependent on any single person remembering to revisit it.",
       },
     ],
     faqs: [

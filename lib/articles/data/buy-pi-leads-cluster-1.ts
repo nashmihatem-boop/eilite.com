@@ -126,6 +126,14 @@ export const buyPiLeadsCluster1Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Exclusive Personal Injury Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Exclusive personal injury leads commonly range from $75 to $200 for standard auto accident cases with clear liability, climbing to $200 to $500 or more for catastrophic injury or commercial trucking cases given their substantially higher potential case value. Firms should treat these as general starting benchmarks rather than fixed targets, since specific geography, delivery method, and screening depth all shift pricing meaningfully within any given case category and market.",
+      },
+      {
+        type: "heading",
         text: "How Exclusive Leads Fit Alongside Other Acquisition Channels",
       },
       {
@@ -139,6 +147,22 @@ export const buyPiLeadsCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Even a well-performing exclusive lead channel deserves periodic re-evaluation — a monthly or quarterly review of cost per signed case, contact rate, and consultation show rate confirms the channel is still delivering the value it did when you first started, rather than assuming past performance guarantees continued results.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Buying Exclusive Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is assuming the word \"exclusive\" on a provider's website is sufficient proof without confirming the specific enforcement mechanism in writing, only to discover months later that the definition was looser than assumed. Firms also sometimes treat exclusivity as a reason to relax response speed, when in reality a slow callback still loses the prospect to whichever firm the person finds next on their own, exclusivity or not, since the prospect's underlying need for legal help doesn't simply disappear while waiting.",
+      },
+      {
+        type: "heading",
+        text: "Understanding the Return and Dispute Window",
+      },
+      {
+        type: "paragraph",
+        text: "Even well-screened exclusive leads occasionally arrive with a disconnected number, a duplicate submission, or a claimant who turns out to already be represented, and a firm's ability to get credit for these depends entirely on the return policy agreed to upfront. Confirming the specific dispute window, what documentation is required, and how quickly credits are actually issued, before the first purchase, avoids an unpleasant surprise the first time a genuinely invalid lead needs to be disputed with the provider. Getting this policy in writing protects both sides of the ongoing business relationship.",
       },
     ],
     faqs: [

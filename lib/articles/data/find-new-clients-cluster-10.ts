@@ -103,6 +103,38 @@ export const findNewClientsCluster10Articles: Article[] = [
         type: "paragraph",
         text: "This channel is unlikely to become a firm's primary source of new clients on its own, but as one piece of a broader local visibility strategy, it can meaningfully reinforce trust and awareness among prospects who are also encountering the firm through other channels like search or referrals. Treating it as a complementary, relationship-building layer rather than a standalone lead source sets the right expectations from the start.",
       },
+      {
+        type: "heading",
+        text: "Assigning Ownership Without Overloading a Single Staff Member",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that try to maintain a Nextdoor presence without a clearly designated owner often let it lapse entirely within a few months, since no formal deadline or metric forces regular attention the way a paid campaign's monthly budget report does. Assigning this responsibility to a specific staff member, even at a modest weekly time commitment, and building a brief check-in into an existing marketing meeting keeps the channel genuinely active rather than becoming another good intention that quietly fades.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating Messaging With the Firm's Broader Brand Voice",
+      },
+      {
+        type: "paragraph",
+        text: "Because Nextdoor rewards a genuinely neighborly, low-key tone rather than polished marketing copy, firms should resist the temptation to reuse the same promotional language from their website or paid ads verbatim in this setting. Staff engaging on behalf of the firm benefit from a brief style guide specific to this channel, conversational, helpful, and light on self-promotion, so responses read as genuinely community-minded rather than an obvious extension of the firm's advertising voice.",
+      },
+      {
+        type: "heading",
+        text: "How Multi-Office Firms Should Approach Multiple Neighborhoods",
+      },
+      {
+        type: "paragraph",
+        text: "Firms with offices across several distinct communities face a genuine choice between maintaining separate, neighborhood-specific profiles for each location or a single firm-wide presence, and the neighborhood-specific approach generally performs better given how localized these platforms are by design. A firm serving five different metro-area communities that only engages under one generic citywide profile misses the platform's core advantage: showing up as a genuine, known participant within each specific neighborhood rather than an outside firm addressing the city broadly.",
+      },
+      {
+        type: "heading",
+        text: "Setting a Realistic Timeline for This Channel to Mature",
+      },
+      {
+        type: "paragraph",
+        text: "Firms should expect a genuine ramp-up period, often several months, before a neighborhood app presence starts producing recognizable client volume, since trust within a community builds gradually through repeated, authentic interaction rather than appearing overnight after a single post. Treating the first quarter as a foundation-building phase, rather than judging the channel's viability too early, gives it a fair chance to demonstrate whether it's genuinely worth the ongoing time investment for a specific firm's practice and community.",
+      },
     ],
     faqs: [
       {
@@ -240,6 +272,38 @@ export const findNewClientsCluster10Articles: Article[] = [
       {
         type: "paragraph",
         text: "A firm doesn't need to choose between this relationship-based channel and more traditional search or content marketing aimed directly at employees — the two work well together, with HR relationships often producing a smaller but steadier stream of well-qualified referrals that complements the higher-volume, more variable flow from direct consumer channels reached through search, content, and paid campaigns.",
+      },
+      {
+        type: "heading",
+        text: "Maintaining Relationships Once They're Established",
+      },
+      {
+        type: "paragraph",
+        text: "Building an initial HR relationship is only the first step; maintaining it requires periodic, genuine check-ins rather than only reaching out when the firm needs something. A brief quarterly update sharing relevant legal developments, a short note congratulating a contact on a promotion or new role, or an invitation to a firm-hosted educational session all keep the relationship warm without feeling transactional, which matters considerably for a channel that depends on sustained trust rather than a single transaction.",
+      },
+      {
+        type: "heading",
+        text: "Recognizing When This Channel Isn't a Good Fit",
+      },
+      {
+        type: "paragraph",
+        text: "Not every firm should invest in this channel. Practice areas with little natural overlap with employment matters, or firms without the staff bandwidth to sustain months of relationship-building before seeing any return, are often better served concentrating that time on faster-payback channels instead. Being honest about this fit upfront prevents a firm from investing significant time into a channel unlikely to produce a meaningful return given its specific practice focus and available capacity.",
+      },
+      {
+        type: "heading",
+        text: "Assigning a Dedicated Relationship Owner Within the Firm",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that see the strongest results from this channel typically designate one attorney or business development staff member as the primary relationship owner for HR and employer partnerships, rather than treating it as a diffuse responsibility shared loosely across the team. This person becomes the consistent point of contact HR professionals get to know over time, which matters considerably in a relationship-driven channel where familiarity and trust with a specific individual, not just the firm's brand generally, often determines whether a referral actually happens.",
+      },
+      {
+        type: "heading",
+        text: "Documenting Referral Sources to Prove the Channel's Value Internally",
+      },
+      {
+        type: "paragraph",
+        text: "Because this channel's payoff arrives slowly and unevenly, firms benefit from carefully documenting every referral traced back to an HR or employer relationship, since this data becomes the evidence needed to justify continued investment of staff time when the channel's value isn't immediately obvious from month-to-month results alone. A firm that can point to a handful of specific, signed cases traced directly back to a particular HR relationship built over eighteen months has a far easier time securing continued buy-in from firm leadership than one relying on a vague sense that the effort is probably worthwhile.",
       },
     ],
     faqs: [
@@ -385,6 +449,30 @@ export const findNewClientsCluster10Articles: Article[] = [
       {
         type: "paragraph",
         text: "It's tempting to feature only the firm's largest, most impressive settlements, but a page that also includes more modest, representative outcomes across a range of case types tends to build more trust with prospects evaluating whether their own, possibly smaller, case would still receive genuine attention from the firm.",
+      },
+      {
+        type: "heading",
+        text: "Using Case Results to Support Practice-Area-Specific Landing Pages",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond a standalone results page, embedding a small number of highly relevant case outcomes directly on each practice-area landing page gives visitors immediate, contextual proof exactly where they're already evaluating whether to contact the firm, rather than requiring an extra click to a separate page they may never visit. This targeted placement often produces a stronger conversion impact than a single, comprehensive results page alone, since it meets prospects with relevant proof at the exact moment they're deciding whether to reach out.",
+      },
+      {
+        type: "heading",
+        text: "Building an Internal Process to Capture Results Consistently",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that rely on someone remembering to update the results page after a case closes tend to see the page fall behind actual practice activity within a matter of months. Building a simple, standard step into the case closing checklist, confirming consent and drafting a brief results summary, ensures new outcomes get captured consistently rather than depending on an individual attorney's memory or initiative months after a case wraps up.",
+      },
+      {
+        type: "heading",
+        text: "Using Results Pages to Support SEO Beyond Direct Conversion",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond their direct conversion value, well-structured case result entries, each addressing a specific case type, location, and outcome, can also capture organic search traffic from prospects researching similarly specific situations, functioning simultaneously as trust-building content and as a genuine source of long-tail organic visibility. Firms that write each result with enough specific, natural detail to be genuinely useful to a searcher, rather than a bare one-line entry, tend to see this page contribute meaningfully to organic traffic over time, not just serve as a conversion tool for visitors who arrive through other channels.",
       },
     ],
     faqs: [

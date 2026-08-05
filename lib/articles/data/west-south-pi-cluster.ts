@@ -279,6 +279,36 @@ export const westSouthPiClusterArticles: Article[] = [
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that can distinguish commercial trucking cases and target specific fast-growing suburbs separately from core Dallas or Fort Worth traffic produces better-matched leads in this large, varied metroplex. For the statewide Texas framework, see our guide to [personal injury leads in Texas](/learning-center/how-to-generate-quality-personal-injury-attorney-leads-in-texas).",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value in DFW",
+      },
+      {
+        type: "paragraph",
+        text: "Shared passenger vehicle leads in the DFW metroplex commonly run $30 to $80, while exclusive leads with confirmed liability detail often run $60 to $180 or more. Commercial trucking leads price substantially higher, frequently $150 to $500 or more given their much stronger case value potential. On settlement value, standard passenger vehicle claims with moderate injury often resolve between $20,000 and $80,000, while commercial trucking cases involving serious injury and a well-insured carrier defendant can reach well into six or seven figures given the significantly higher policy limits commercial carriers typically maintain.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for DFW PI Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm whether a commercial vehicle was involved immediately.",
+          "Identify which sub-market (Dallas, Fort Worth, or a specific suburb) applies.",
+          "Screen for basic liability indicators given Texas's 51% comparative fault bar.",
+          "Ask about weather conditions if the incident occurred during a seasonal event.",
+          "Route trucking cases to attorneys experienced with commercial carrier litigation.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the DFW Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is buying an undifferentiated DFW-wide lead feed without confirming whether commercial trucking cases are flagged and priced separately, missing the opportunity to prioritize these substantially higher-value cases appropriately. Firms also sometimes apply identical marketing and pricing across Dallas and Fort Worth despite their genuinely different court systems and competitive dynamics, leaving efficiency on the table in whichever sub-market is currently less saturated. Failing to screen for basic liability indicators at intake, given how much Texas's 51% comparative fault bar affects case viability, is another common oversight that wastes attorney time on cases that may ultimately have no recovery value.",
+      },
     ],
     faqs: [
       {
@@ -421,6 +451,44 @@ export const westSouthPiClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that can distinguish industrial and commercial vehicle cases from standard passenger auto accidents adds real value in a market with this much industrial activity. For the statewide Texas framework, see our guide to [personal injury leads in Texas](/learning-center/how-to-generate-quality-personal-injury-attorney-leads-in-texas).",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value in Houston",
+      },
+      {
+        type: "paragraph",
+        text: "Shared standard auto accident leads in Houston commonly run $30 to $75, while exclusive leads with confirmed liability detail often run $60 to $170 or more. Industrial and petrochemical-related leads involving genuine third-party liability price substantially higher, frequently $200 to $600 or more given their much stronger settlement potential and the specialized screening required. On settlement value, standard auto claims with moderate injury often resolve between $20,000 and $75,000, while industrial accident cases involving serious injury, multiple liable parties, and toxic exposure can reach well into six or seven figures depending on documented damages and available insurance coverage.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Houston PI Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm whether the injury occurred at a workplace, refinery, or industrial site.",
+          "Ask about the employer's identity and whether workers' comp coverage applies.",
+          "Identify all potentially liable parties, not just the most obvious one.",
+          "Flag port-related commercial vehicle involvement for specialized handling.",
+          "Note whether the incident coincided with a severe weather event.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Houston Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is treating every workplace injury lead as a standard workers' compensation matter without confirming whether the employer actually opted into Texas's optional workers' comp system, missing viable third-party claims that could produce significantly higher recovery. Firms also sometimes fail to investigate multiple potentially liable parties in industrial accidents, settling for a narrower single-defendant case theory when equipment manufacturers, contractors, or chemical suppliers may also bear responsibility. Underestimating how much hurricane season and severe weather events affect lead volume, maintaining a flat year-round marketing budget rather than one that can flex during predictable seasonal spikes, is another common oversight in this specific market.",
+      },
+      {
+        type: "heading",
+        text: "Working With Occupational Medicine and Toxicology Experts",
+      },
+      {
+        type: "paragraph",
+        text: "Cases involving petrochemical exposure or industrial accidents often require expert testimony from occupational medicine physicians or toxicologists to establish the connection between a workplace incident and the claimant's specific injuries, particularly for exposure-related illnesses that may not manifest immediately. Firms that build relationships with qualified experts in these specific fields ahead of time, rather than searching for one only after signing a promising case, move through case development more efficiently and build a stronger evidentiary record for negotiation or trial.",
       },
     ],
     faqs: [
@@ -572,6 +640,40 @@ export const westSouthPiClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that can account for these specific demographic and seasonal factors produces better-matched leads than a generic Southern California approach. For the statewide California framework, see our guide to [personal injury leads in California](/learning-center/how-to-acquire-high-quality-personal-injury-leads-in-california).",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Settlement Value in San Diego",
+      },
+      {
+        type: "paragraph",
+        text: "Shared standard auto accident leads in San Diego County commonly run $30 to $80, while exclusive leads with confirmed liability detail often run $65 to $180 or more. Military-affiliated and cross-border cases, given their smaller pool and more specialized handling requirements, frequently price similarly or somewhat higher depending on the specific complexity involved. On settlement value, standard auto claims with moderate injury often resolve between $20,000 and $80,000, while cases involving clear liability and a well-insured defendant can reach significantly higher depending on documented damages, though cross-border cases involving Mexican insurance carriers sometimes see extended timelines that affect overall case economics.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for San Diego PI Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm ZIP-code-level location to verify genuine San Diego County origin.",
+          "Ask whether either party is active-duty military for SCRA considerations.",
+          "Screen for cross-border elements, including Mexican insurance coverage.",
+          "Note whether the incident occurred in a tourist or coastal area during peak season.",
+          "Route specialized cases to attorneys with relevant military or cross-border experience.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the San Diego Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is accepting broad Southern California or \"SoCal\" leads labeled as San Diego-specific without verifying genuine ZIP-code-level origin, resulting in leads that don't actually reflect local market conditions or court venues. Firms also sometimes miss SCRA considerations entirely by failing to ask about military affiliation during intake, only discovering the issue later when it affects case timeline or procedure. Underestimating the summer tourist season's effect on coastal-area accident volume, maintaining flat marketing spend year-round rather than adjusting for this predictable seasonal pattern, is another common oversight specific to this market.",
+      },
+      {
+        type: "paragraph",
+        text: "Building a simple seasonal calendar that flags both peak summer tourist demand and predictable military deployment cycles helps firms plan marketing spend and staffing more accurately than treating every month of the year identically.",
       },
     ],
     faqs: [

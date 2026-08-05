@@ -222,6 +222,34 @@ export const miscBatch10Articles: Article[] = [
         type: "paragraph",
         text: "Sometimes the right response to a capacity mismatch isn't better routing — it's temporarily reducing lead volume until staffing catches up. Firms that treat lead spend as a dial to turn down as well as up, rather than a commitment that only ever increases, protect case quality and client experience during periods of genuine capacity strain.",
       },
+      {
+        type: "heading",
+        text: "Balancing Experienced Attorneys Against Newer Hires",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm grows, routing decisions increasingly need to account for the real experience gap between a founding partner with years of trial experience and a newly hired associate still building case-handling judgment. Sending a genuinely complex, high-value catastrophic injury case to an inexperienced attorney simply because they had capacity available risks both the case outcome and the client relationship, while routing every complex case to the firm's most senior attorney regardless of their current workload can quietly create a bottleneck that slows down the entire firm's intake-to-signed-case pipeline.",
+      },
+      {
+        type: "heading",
+        text: "Using Case Outcome Data to Refine Routing Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond initial routing criteria, tracking actual case outcomes, settlement value, time to resolution, client satisfaction, by which attorney or team handled a given case type reveals whether current routing assumptions still hold up in practice. A firm that assumed a particular team was well-suited to moderate-severity auto accident cases might discover, once outcome data accumulates, that a different internal alignment actually produces stronger results, information that's only available by closing the loop between routing decisions and downstream case performance.",
+      },
+      {
+        type: "heading",
+        text: "Typical Warning Signs a Capacity Model Needs Updating" },
+      { type: "paragraph", text: "A capacity model that accurately reflected the firm's staffing a year ago can quietly become outdated as attorneys leave, new hires ramp up, or the firm's case mix shifts toward more complex, time-intensive matters. Signs the model needs a fresh look include consistently missing projected capacity targets in either direction, growing attorney complaints about being over- or under-utilized, or noticing that actual case cycle times have drifted meaningfully from what the model originally assumed." },
+      {
+        type: "heading",
+        text: "Involving Support Staff in the Capacity Conversation",
+      },
+      {
+        type: "paragraph",
+        text: "Attorney capacity alone doesn't determine how much lead volume a firm can genuinely absorb well, since paralegals, case managers, and intake coordinators all represent real constraints of their own that a purely attorney-focused capacity model can easily overlook. A firm with plenty of attorney bandwidth but an overstretched support staff will still see cases move slowly and client communication suffer, which is why a genuinely useful capacity model accounts for the full team handling a case, not just the attorney whose name appears on the file at the end of the process.",
+      },
     ],
     faqs: [
       {

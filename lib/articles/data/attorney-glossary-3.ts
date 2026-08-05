@@ -92,6 +92,58 @@ export const attorneyGlossary3Articles: Article[] = [
         type: "paragraph",
         text: "Before committing to meaningful lead volume across several practice areas at once, it's worth confirming your firm's internal systems can actually keep pace — intake staff trained on the specific questions each practice area requires, clear routing so leads reach the right attorney without delay, and a way to track outcomes separately by category. Firms that scale purchased volume faster than their internal systems can absorb it often see conversion rates drop even when lead quality itself hasn't changed, simply because the operational side can't keep up.",
       },
+      {
+        type: "heading",
+        text: "Typical Price Ranges by Practice Area",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing across a multi-practice program varies considerably by category: personal injury and mass tort leads often run $75 to $300 or more per exclusive lead given high case value, family law and estate planning leads commonly price in the $30 to $100 range, and business formation or general consultation leads often sit toward the lower end, sometimes $20 to $60, given their typically smaller case value and shorter sales cycle. A firm requesting a quote across several practice areas at once should expect — and be suspicious of a provider who doesn't offer — this kind of category-specific pricing spread, since a single blended rate across such different economics usually means one or more categories are being under- or over-priced relative to their actual value.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Vendor Evaluation Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Request a sample lead record from each practice area you're considering, not just your primary specialty.",
+          "Ask directly how many other firms in your market currently receive leads in each practice area.",
+          "Confirm reporting can be filtered and exported by practice area for your own internal tracking.",
+          "Clarify billing structure — a single consolidated invoice versus separate billing per practice area.",
+          "Ask what happens administratively if you want to pause volume in one practice area while continuing others.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes General Practice Firms Make",
+      },
+      {
+        type: "list",
+        items: [
+          "Assuming a provider's overall reputation guarantees quality in every individual practice area they offer.",
+          "Committing to volume across all practice areas simultaneously instead of testing sequentially.",
+          "Failing to renegotiate practice-area-specific pricing as case mix and market conditions shift over time.",
+          "Not revisiting which practice areas are worth continued lead spend as the firm's own focus evolves.",
+          "Letting a single underperforming practice area's poor economics go unnoticed within blended reporting.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Renegotiating as Your Practice Mix Evolves",
+      },
+      {
+        type: "paragraph",
+        text: "A firm's practice mix rarely stays static — a growing business law caseload might justify shifting more lead budget there, while a declining interest in a particular niche might warrant scaling back volume in that category entirely. Revisiting practice-area allocation with your provider every six months or so, backed by your own cost-per-signed-case data, keeps a multi-practice lead relationship aligned with where the firm actually wants to grow rather than continuing a static arrangement set up months or years earlier under different circumstances.",
+      },
+      {
+        type: "heading",
+        text: "Documenting the Relationship in Writing",
+      },
+      {
+        type: "paragraph",
+        text: "Given how many moving parts a multi-practice-area lead arrangement involves — different pricing tiers, different exclusivity terms, different volume commitments — putting the full agreement in writing, rather than relying on a series of email exchanges or verbal understandings, protects both sides if a dispute arises later. A clear written record of what was agreed for each practice area also makes the periodic renegotiation conversation faster and more grounded in fact than relying on memory of how the relationship started months or years earlier.",
+      },
     ],
     faqs: [
       {
@@ -223,6 +275,44 @@ export const attorneyGlossary3Articles: Article[] = [
         type: "paragraph",
         text: "A general practice firm with limited marketing budget faces a real tradeoff between spreading spend thin across every practice area versus concentrating budget on the two or three areas that currently generate the most profitable signed cases. Many successful general practice firms lead their marketing spend with their strongest-converting practice areas while relying more heavily on referrals and word-of-mouth for lower-volume services, rather than trying to market every offering with equal intensity.",
       },
+      {
+        type: "heading",
+        text: "A Sample Intake Routing Flowchart",
+      },
+      {
+        type: "list",
+        items: [
+          "Step 1: initial contact answered by a designated intake coordinator, not whichever attorney happens to be free.",
+          "Step 2: two or three quick screening questions identify the general practice area involved.",
+          "Step 3: the inquiry is logged and routed to the attorney who owns that specific practice area.",
+          "Step 4: that attorney or their staff follows up within an agreed internal response-time standard.",
+          "Step 5: if the matter spans multiple practice areas, the coordinator flags it for a joint or lead-attorney assignment rather than leaving ownership ambiguous.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What Cross-Practice Referrals Within the Firm Look Like",
+      },
+      {
+        type: "paragraph",
+        text: "A client who originally came in for an estate planning matter might also need business succession planning, or a family law client might separately need help with a real estate transaction tied to the divorce settlement. Firms with clear internal awareness of which attorneys handle which areas can surface these cross-practice opportunities naturally during a client relationship, effectively generating new matters from existing clients without any additional marketing spend. Building a simple internal habit — checking in on a client's broader legal needs at natural case milestones — turns a general practice's breadth into a genuine growth advantage rather than just a positioning challenge to manage around.",
+      },
+      {
+        type: "heading",
+        text: "Training Attorneys to Recognize Referral Opportunities",
+      },
+      {
+        type: "paragraph",
+        text: "Even with strong internal awareness of the firm's full service range, individual attorneys sometimes miss a cross-practice opportunity simply because it falls outside what they're actively focused on during a client conversation. A brief, periodic reminder — a short internal list of the firm's practice areas circulated to all attorneys, or a standing agenda item at a team meeting — keeps this awareness fresh. Firms that build this into a regular habit, rather than assuming attorneys will naturally remember every service the firm offers, tend to capture meaningfully more of this low-cost, high-trust internal referral business over time.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Practice Area Performance Annually",
+      },
+      {
+        type: "paragraph",
+        text: "An annual review comparing revenue, lead cost, and conversion rate across every practice area a general practice firm offers helps leadership make more deliberate decisions about where to invest marketing dollars, which attorneys to hire or develop further, and which lower-performing service lines might be worth scaling back or discontinuing altogether. Firms that skip this kind of structured review tend to keep offering the same broad mix of services indefinitely, regardless of whether each one still makes sound business sense for the firm's current size and goals.",
+      },
     ],
     faqs: [
       {
@@ -352,6 +442,61 @@ export const attorneyGlossary3Articles: Article[] = [
       {
         type: "paragraph",
         text: "Click and impression metrics tell a firm how an ad is performing at the top of the funnel, but only tracking calls, form submissions, and eventual signed cases back to their original ad source reveals which formats are genuinely worth the spend. Firms that stop measuring at clicks or leads, without connecting that data to actual case outcomes, often continue funding an underperforming format simply because its surface-level metrics look reasonable.",
+      },
+      {
+        type: "heading",
+        text: "Typical Budget Allocation by Firm Size",
+      },
+      {
+        type: "paragraph",
+        text: "Budget allocation typically scales with firm size and practice area competitiveness rather than following a single universal rule. A solo or small firm might reasonably start with a monthly search advertising budget in the low thousands, concentrated on a handful of the highest-intent keywords in their local market, while a larger firm competing in a major metro for a high-value practice area like personal injury can easily justify monthly search spend well into five figures. Regardless of size, most firms see better results starting concentrated on one or two formats and expanding only once cost-per-signed-case data justifies the additional spend, rather than spreading a modest budget thin across every available format from day one.",
+      },
+      {
+        type: "table",
+        headers: ["Firm Size", "Typical Monthly Search Budget", "Recommended Starting Format"],
+        rows: [
+          ["Solo / small firm", "$1,000-$5,000", "Search (PPC), narrow keyword focus"],
+          ["Mid-size firm", "$5,000-$20,000", "Search plus retargeting"],
+          ["Large / competitive metro firm", "$20,000+", "Search, retargeting, and display/social combined"],
+        ],
+      },
+      {
+        type: "heading",
+        text: "A Practical First-Campaign Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Start with a narrow list of the highest-intent, most specific keywords rather than broad match terms.",
+          "Build a dedicated landing page matching the ad's specific message, not a generic homepage.",
+          "Set up call tracking so every ad-driven phone call is attributed correctly.",
+          "Define a clear daily or monthly budget cap before launch to avoid an unexpectedly large first-week spend.",
+          "Plan to review performance weekly for the first month, since early data often reveals quick, high-impact adjustments.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Understanding Quality Score and Why It Affects Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Search platforms generally factor in a quality or relevance score, based on how well an ad, keyword, and landing page align with what the searcher is looking for, when determining both ad placement and actual cost-per-click. A firm running a generic ad pointing to an unrelated homepage often pays more per click than a competitor running a tightly matched, specific ad pointing to a genuinely relevant landing page, even when both are bidding the same amount. Investing time in tight keyword-to-ad-to-landing-page alignment isn't just a conversion best practice — it directly reduces the price paid per click, which compounds meaningfully over a sustained campaign.",
+      },
+      {
+        type: "heading",
+        text: "Testing Ad Copy Systematically",
+      },
+      {
+        type: "paragraph",
+        text: "Running two or three variations of ad copy simultaneously, rather than a single version, lets a firm identify which specific messaging — leading with experience, leading with a free consultation offer, leading with responsiveness — resonates best with a given audience before committing budget at scale. Platforms typically report performance by ad variation directly, making this kind of test straightforward to set up and read. Firms that skip this step and run only one ad version indefinitely miss an easy, low-cost way to meaningfully improve click-through and conversion rates over time.",
+      },
+      {
+        type: "heading",
+        text: "Deciding Between In-House Management and an Agency",
+      },
+      {
+        type: "paragraph",
+        text: "Managing internet advertising directly gives a firm full control over messaging and budget decisions but requires real time investment in ongoing optimization, while an agency brings specialized platform expertise at the cost of a management fee, typically a percentage of ad spend or a flat monthly retainer. Firms with the internal bandwidth and interest to learn campaign management directly often start in-house on a modest budget, while firms prioritizing speed to a well-optimized campaign, or lacking the staff time to manage it properly, often find an experienced legal-advertising agency worth the added cost.",
       },
     ],
     faqs: [

@@ -127,6 +127,37 @@ export const intakeConversionArticles: Article[] = [
         type: "paragraph",
         text: "Improving intake is often the highest-leverage investment a firm can make, since it improves the return on every existing lead source simultaneously. For a deeper framework on screening leads specifically, see our guide to [qualifying legal leads](/learning-center/how-to-qualify-legal-leads-a-6-step-framework-for-attorneys).",
       },
+      {
+        type: "heading",
+        text: "Handling Intake Outside Normal Business Hours",
+      },
+      {
+        type: "paragraph",
+        text: "A meaningful share of legal inquiries, particularly in urgent practice areas like personal injury or criminal defense, arrive evenings, weekends, or overnight, precisely when a firm's standard office hours have already ended. Firms without some form of after-hours coverage, whether a live answering service, an on-call rotation, or at minimum a fast callback commitment for messages left overnight, lose a genuine share of otherwise-winnable cases to competitors who do answer. Even a modest investment in after-hours coverage often pays for itself quickly once a firm calculates how many of its highest-value cases actually originated from an evening or weekend inquiry.",
+      },
+      {
+        type: "heading",
+        text: "Building a Feedback Loop Between Intake and Marketing",
+      },
+      {
+        type: "paragraph",
+        text: "Intake staff hear directly from prospects about what messaging resonated, what confused them, and which objections come up repeatedly, information that rarely makes its way back to whoever manages the firm's marketing and advertising. Building a simple, regular channel for this feedback, even an informal monthly conversation between intake and marketing, helps marketing messaging stay grounded in what prospects are actually saying rather than drifting away from real-world intake conversations over time.",
+      },
+      {
+        type: "heading",
+        text: "Coaching Intake Staff With Real Call Examples",
+      },
+      {
+        type: "paragraph",
+        text: "Generic intake training only goes so far — reviewing actual recorded calls together, both strong examples and ones where a prospect was lost, gives staff concrete, specific lessons that abstract advice about \"building rapport\" or \"asking good questions\" can't fully convey on its own. Firms that build a regular cadence of call review into their intake process, even just a handful of calls reviewed together each month, tend to see steadier, more consistent improvement in conversion than those relying on training delivered once at hiring and never revisited again."
+      },
+      {
+        type: "heading",
+        text: "Setting Realistic Expectations for New Intake Staff",
+      },
+      {
+        type: "paragraph",
+        text: "A new intake hire typically needs several weeks of real calls, feedback, and coaching before their conversion rate reaches the level of an experienced team member, and firms that measure a new hire's performance too early, or against the same benchmark as a seasoned staff member, risk drawing the wrong conclusions about whether that hire is actually a good fit for the role." },
     ],
     faqs: [
       {

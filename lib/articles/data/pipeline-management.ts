@@ -139,6 +139,44 @@ export const pipelineManagementArticles: Article[] = [
         type: "paragraph",
         text: "Pipeline management is only as reliable as the consistency of the people entering and acting on the data, which means new intake staff need explicit training on stage definitions, data entry standards, and follow-up expectations from day one, rather than picking up inconsistent habits informally from existing staff.",
       },
+      {
+        type: "heading",
+        text: "A Worked Example of Stage-by-Stage Diagnosis",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm reviewing pipeline data and finding: 100 leads entered the pipeline this month, 78 reached initial contact, 35 scheduled a consultation, 28 completed it, and 9 signed. Converting these into stage-by-stage rates: 78% contact rate, 45% contact-to-consultation-scheduled rate, 80% consultation-show rate, and 32% consultation-to-signed rate. Scanning across these numbers, the contact-to-consultation-scheduled rate stands out as unusually low compared to the others, suggesting the gap isn't happening at initial response or at the consultation itself, but somewhere in between — perhaps a weak scheduling process, unclear next steps offered during the first call, or too much time elapsing between contact and the actual scheduling attempt. This kind of stage-by-stage view pinpoints exactly where to focus improvement effort, something a single blended 9% overall conversion rate could never reveal on its own.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Weekly Pipeline Review Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Review any lead sitting at a stage for longer than your firm's defined maximum dwell time.",
+          "Confirm every active lead has a clearly assigned owner and a scheduled next action.",
+          "Spot-check a handful of recent stage transitions for data entry accuracy and consistency.",
+          "Compare this week's stage-by-stage conversion rates against the trailing four-week average.",
+          "Flag any lead source showing a sudden shift in conversion pattern for deeper investigation.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why Stage Definitions Should Rarely Change",
+      },
+      {
+        type: "paragraph",
+        text: "Once pipeline stages are defined, resist the temptation to redefine them frequently, since changing stage definitions midstream makes historical comparison unreliable and confuses staff who've built habits around the existing structure. If a stage genuinely needs refinement, document the change clearly, communicate it to the whole team, and note the date of the change so future reporting can account for the shift rather than treating pre- and post-change data as directly comparable.",
+      },
+      {
+        type: "heading",
+        text: "Sharing Pipeline Insights Beyond the Marketing Team",
+      },
+      {
+        type: "paragraph",
+        text: "Pipeline data has value well beyond whoever manages marketing spend — attorneys benefit from seeing which stages their own follow-up habits affect, and firm leadership benefits from a clear, current view of expected near-term signed-case volume for staffing and cash flow planning. Sharing a simple, regularly updated summary of pipeline health across the firm, rather than keeping it siloed with a single marketing-focused staff member, builds broader organizational buy-in for the discipline pipeline tracking requires and helps the whole team understand how their individual actions affect overall firm growth.",
+      },
     ],
     faqs: [
       {

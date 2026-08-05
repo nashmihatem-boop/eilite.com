@@ -194,6 +194,14 @@ export const cityStatePages4Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Building Content Around Wrong-Way and Highway Incidents",
+      },
+      {
+        type: "paragraph",
+        text: "Phoenix's extensive freeway network sees a steady stream of highway-related collisions, including occasional high-profile wrong-way driver incidents that generate significant local news coverage and search interest. Firms building content that addresses highway accident liability, evidence preservation on fast-moving freeway collisions, and how Arizona's comparative negligence framework applies to multi-vehicle highway pileups tend to capture a genuinely engaged, locally-relevant search audience that generic accident content misses entirely.",
+      },
+      {
+        type: "heading",
         text: "Phoenix Metro vs. the Rest of Arizona",
       },
       {
@@ -266,6 +274,22 @@ export const cityStatePages4Articles: Article[] = [
         type: "paragraph",
         text: "This article provides general information about Arizona's legal framework and isn't legal advice — confirm current specifics with a licensed Arizona attorney.",
       },
+      {
+        type: "heading",
+        text: "What Arizona PI Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Shared Phoenix-metro auto accident leads commonly run $40 to $100, while exclusive leads run $100 to $280, with warm transfers running $180 to $450. Tucson and smaller Arizona markets typically price 15% to 30% below comparable Phoenix-metro rates given lower competition. During peak snowbird season, roughly November through March, firms should expect pricing to run toward the higher end of these ranges given the temporary surge in both traffic accident volume and advertising competition for that same window.",
+      },
+      {
+        type: "heading",
+        text: "Handling Arizona's Uninsured and Underinsured Motorist Claims",
+      },
+      {
+        type: "paragraph",
+        text: "Arizona has a meaningfully higher uninsured driver rate than many other states, making underinsured and uninsured motorist coverage questions a recurring, important part of case screening. A lead indicating the at-fault driver had minimal or no insurance shouldn't be treated as automatically low-value, since the injured party's own UM/UIM coverage may still provide a meaningful recovery path. Firms should train intake staff to ask specifically about the injured party's own policy limits, not just the at-fault driver's coverage, since this detail can meaningfully change how a case should be valued and pursued from the very first consultation.",
+      },
     ],
     faqs: [
       {
@@ -322,6 +346,14 @@ export const cityStatePages4Articles: Article[] = [
       {
         type: "paragraph",
         text: "Illinois courts generally divide marital property based on a range of statutory factors — contributions to the marriage, each spouse's economic circumstances, and duration, among others — rather than a strict 50/50 split. Content that walks through these factors in plain language tends to resonate with prospects trying to understand what to realistically expect.",
+      },
+      {
+        type: "heading",
+        text: "Working With Illinois's Financial and Legal Professional Community",
+      },
+      {
+        type: "paragraph",
+        text: "Chicago's dense concentration of financial advisors, CPAs, and business attorneys serving the metro's professional class represents a genuine referral opportunity for firms handling higher-asset divorce work. These professionals often have early visibility into a client's marital situation, particularly when equity compensation or business ownership is involved, making sustained relationship-building with this community a valuable complement to paid acquisition in a market as competitive as Chicago's.",
       },
       {
         type: "heading",
@@ -408,6 +440,22 @@ export const cityStatePages4Articles: Article[] = [
       {
         type: "paragraph",
         text: "This article provides general information about Illinois's family law framework and isn't legal advice — confirm current specifics with a licensed Illinois family law attorney.",
+      },
+      {
+        type: "heading",
+        text: "What Illinois Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads across the Chicago metro commonly run $35 to $80, while exclusive leads price between $80 and $220. Leads involving contested custody, business valuation, or significant equity compensation can command $175 to $400 or more when sold exclusively. Downstate Illinois markets typically run 25% to 40% below core Chicago-metro rates for comparable case types, reflecting both lower average case values and a less saturated advertising landscape outside the metro area.",
+      },
+      {
+        type: "heading",
+        text: "Building Content Around Illinois's Parenting Plan Requirements",
+      },
+      {
+        type: "paragraph",
+        text: "Illinois requires divorcing parents with minor children to file a parenting plan addressing decision-making responsibilities and parenting time, either through mutual agreement or, if the parents can't agree, through a plan the court establishes. Prospects researching Illinois divorce with children often specifically want to understand what this process involves, how disagreements get resolved, and what happens if one parent doesn't cooperate. Firms that publish clear, specific content addressing this requirement capture a genuinely common source of prospect confusion that generic divorce content typically leaves unaddressed, building trust before a prospect ever picks up the phone.",
       },
     ],
     faqs: [

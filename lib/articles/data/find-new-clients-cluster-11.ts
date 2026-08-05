@@ -330,6 +330,35 @@ export const findNewClientsCluster11Articles: Article[] = [
         type: "paragraph",
         text: "Start with the low-effort, high-impact tactics before investing in the more resource-intensive, longer-payoff strategies, layering in additional channels as capacity allows. Revisit the ranking periodically, since a channel that once required heavy effort — like an SEO program that's now mature — may shift into the \"low effort to maintain\" category once the initial build-out is complete. For the complete channel overview, see our guide to [how lawyers find new clients](/learning-center/how-lawyers-find-new-clients-proven-strategies).",
       },
+      {
+        type: "heading",
+        text: "Assigning Ownership for Each Tier",
+      },
+      {
+        type: "paragraph",
+        text: "A ranked list only translates into real results if someone at the firm is actually responsible for executing each tier, and firms without clear ownership often find the low-effort tactics quietly languish despite being the easiest to implement, simply because no one specifically owns following through. Even at a solo or small firm, explicitly assigning, if only to oneself, a specific task and deadline for each low-effort item turns an abstract priority list into concrete, trackable progress rather than a good intention that never gets fully executed.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make When Prioritizing Channels",
+      },
+      {
+        type: "list",
+        items: [
+          "Jumping to higher-effort strategies because they feel more sophisticated, while basic fundamentals like call answering remain neglected.",
+          "Abandoning a moderate-effort channel too early, before enough data has accumulated to judge it fairly against its typical payoff timeline.",
+          "Treating this ranking as static rather than revisiting it as the firm's own capacity and market conditions change over time.",
+          "Underestimating how much ongoing maintenance even a supposedly 'low effort' tactic requires to sustain its results indefinitely.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Revisiting Priorities After a Significant Firm Change",
+      },
+      {
+        type: "paragraph",
+        text: "A merger, a new practice area launch, or a significant change in intake staffing capacity are all good moments to revisit this entire priority ranking from scratch, since the effort-versus-impact calculus for any given tactic can shift meaningfully once a firm's underlying capacity and goals have changed. Firms that treat this ranking as a one-time exercise completed early on, rather than a living framework revisited at these natural inflection points, often continue investing according to priorities that no longer reflect their actual current situation.",
+      },
     ],
     faqs: [
       {

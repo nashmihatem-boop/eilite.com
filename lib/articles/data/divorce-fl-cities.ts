@@ -258,6 +258,40 @@ export const divorceFlCitiesArticles: Article[] = [
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that addresses residency timing and captures general income structure helps route Orlando prospects appropriately, and pairing that with intake scripts built around the same two questions shortens the path from first contact to signed retainer. For Florida's statewide framework, see our guide to [divorce attorney leads in Florida](/learning-center/how-to-generate-quality-divorce-attorney-leads-in-florida).",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in Orlando",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in the Orlando metro commonly run $20 to $55, while exclusive leads with confirmed residency length and income structure often run $45 to $130 or more, with Kissimmee and Osceola County typically pricing lower than downtown Orlando and Winter Park given their different case profile and competition level. On the retainer side, an uncontested divorce between newer Florida residents with modest assets might run $1,500 to $3,000 as a flat fee, while a contested case involving disputed hospitality-industry income verification or more complex asset division can require $6,000 to $18,000 or more depending on how much documentation review and negotiation the income dispute requires.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Orlando-Area Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm approximate length of Florida residency in the first minute of the call.",
+          "Ask about employment type to flag tips, commissions, or seasonal income.",
+          "Identify which sub-market (Orange, Seminole, or Osceola County) applies.",
+          "Set realistic timeline expectations given any pending residency threshold.",
+          "Route income-dispute-heavy cases to attorneys comfortable with that analysis.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Orlando Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying a single Central Florida campaign without differentiating between downtown Orlando's more established, asset-complex cases and Kissimmee's newer-relocation, hospitality-income cases, missing meaningful differences in both cost and case value between these sub-markets. Firms also sometimes fail to ask about residency length early enough, investing a full consultation's worth of time before discovering a prospect isn't yet eligible to file. Underestimating how much tourism-industry income variability affects support calculations, applying a standard salaried-income approach to a case involving seasonal or tip-based earnings, is another common oversight that can lead to inaccurate initial guidance and lost client trust.",
+      },
+      {
+        type: "paragraph",
+        text: "Building a short reference sheet for intake staff covering both residency timing rules and how to ask about variable income sensitively helps standardize this part of the conversation, rather than leaving it to whichever staff member happens to remember the relevant nuances that day.",
+      },
     ],
     faqs: [
       {
@@ -396,6 +430,36 @@ export const divorceFlCitiesArticles: Article[] = [
       {
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that captures general marriage length and asset profile helps route Tampa's meaningful share of later-in-life divorce cases appropriately, and pairing paid leads with organic local SEO takes advantage of the market's comparatively lower competition. For Florida's statewide framework, see our guide to [divorce attorney leads in Florida](/learning-center/how-to-generate-quality-divorce-attorney-leads-in-florida).",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Fee Ranges in Tampa Bay",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in the Tampa Bay area commonly run $18 to $50, meaningfully below Miami and Orlando given the market's lower competition, while exclusive leads with confirmed marriage length and asset profile often run $40 to $110 or more, with gray divorce and long-marriage cases typically pricing toward the higher end given their stronger case value. On the fee side, a straightforward uncontested divorce might run $1,500 to $3,000 as a flat fee, while a contested long-marriage case involving pension division, retirement account analysis, and possibly expert valuation can require a retainer of $6,000 to $20,000 or more depending on asset complexity.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Tampa Bay Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm which sub-market (Tampa, St. Petersburg, or Clearwater) applies.",
+          "Ask about approximate marriage length to flag potential gray divorce cases.",
+          "Screen for retirement accounts, pensions, or Social Security involvement.",
+          "Note whether an existing estate plan will need to be revisited.",
+          "Route long-marriage, asset-heavy cases to attorneys with relevant experience.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Tampa Bay Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is treating Tampa, St. Petersburg, and Clearwater as one undifferentiated market despite their genuinely different competitive dynamics and typical case profiles, missing an opportunity to allocate budget more efficiently across the three. Firms also sometimes fail to ask about marriage length and retirement assets early enough, routing a complex pension-division case to an attorney without the relevant experience simply because the case wasn't flagged at intake. Underinvesting in referral relationships with financial advisors and estate planning attorneys, relying purely on paid leads despite Tampa's strong potential for this channel given its retiree population, is another common missed opportunity in this specific market.",
       },
     ],
     faqs: [
@@ -536,6 +600,40 @@ export const divorceFlCitiesArticles: Article[] = [
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that targets delivery specifically to Broward County, distinct from Miami-Dade, produces better court-system-matched leads, and capturing marine or waterfront asset flags at intake helps route higher-complexity cases to the right attorney faster. For Florida's statewide framework, see our guide to [divorce attorney leads in Florida](/learning-center/how-to-generate-quality-divorce-attorney-leads-in-florida).",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in Fort Lauderdale",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in Broward County commonly run $25 to $65, sitting between Tampa's more affordable pricing and Miami's premium rates, while exclusive leads flagged for marine or waterfront assets often run $60 to $170 or more given the specialized valuation work these cases require. On the retainer side, a standard uncontested Broward County divorce might run $1,800 to $3,500 as a flat fee, while a contested case involving a vessel, marina property, or a marine-industry business valuation can require a retainer of $8,000 to $25,000 or more depending on how many experts need to be engaged.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Fort Lauderdale Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly whether the marital estate includes a vessel or marine-industry business.",
+          "Confirm the case will be filed in Broward County specifically.",
+          "Screen for waterfront real estate or other specialized asset categories.",
+          "Route marine-asset cases to attorneys with marine surveyor relationships.",
+          "Set expectations early about extended timelines for expert-heavy cases.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Fort Lauderdale Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is folding Fort Lauderdale volume into an undifferentiated South Florida campaign that doesn't distinguish Broward County's court procedures from Miami-Dade's, leading to leads that arrive without the county-specific context intake needs. Firms also sometimes market exclusively to the area's traditional high-asset waterfront audience, missing the growing segment of younger professionals and families relocating to Broward County for its relative affordability compared to Miami-Dade. Failing to ask about marine or waterfront assets until well into a case, rather than at the very first intake call, is another common oversight that delays bringing in the right valuation experts and can extend a case's timeline unnecessarily.",
+      },
+      {
+        type: "paragraph",
+        text: "Building a short intake checklist specifically for Fort Lauderdale, covering both county confirmation and asset-type screening, helps standardize this process across staff rather than depending on institutional memory alone.",
+      },
     ],
     faqs: [
       {
@@ -674,6 +772,36 @@ export const divorceFlCitiesArticles: Article[] = [
       {
         type: "paragraph",
         text: "A [lead provider](/buy-leads) that captures general asset complexity and residency status helps route Palm Beach County's distinctly high-value cases to appropriately experienced attorneys, and planning spend around the market's seasonal rhythm helps firms avoid overpaying during slower periods. For Florida's statewide framework, see our guide to [divorce attorney leads in Florida](/learning-center/how-to-generate-quality-divorce-attorney-leads-in-florida).",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in West Palm Beach",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in Palm Beach County commonly run $30 to $75, and exclusive leads with confirmed asset complexity or prenup status often run $80 to $250 or more, among the highest rates in Florida given the concentration of high-net-worth prospects and firms' willingness to bid aggressively for this audience. On the retainer side, even a relatively standard case in this market often starts at $5,000 to $10,000 given the county's overall wealth level, while a complex case involving business valuation, forensic accounting, or a contested prenuptial agreement can require a retainer of $25,000 to $75,000 or more, with total fees climbing well beyond that as expert discovery extends the litigation timeline.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for West Palm Beach Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask whether the prospect maintains residency in another state.",
+          "Confirm whether a prenuptial or postnuptial agreement exists.",
+          "Gauge marital estate complexity: business interests, multiple properties, trusts.",
+          "Route domicile disputes to attorneys experienced with residency questions.",
+          "Set realistic timeline expectations given how long expert-heavy cases can run.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the West Palm Beach Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is accepting shared or resold leads for what are often extremely high-value cases, where losing a single complex case to a competing firm after significant intake investment represents a substantial lost opportunity that a lower-value market wouldn't carry. Firms also sometimes skip residency and domicile screening despite how common seasonal dual-state living is among this population, missing a genuinely important early qualifying question. Underinvesting in referral relationships with wealth managers and estate planning attorneys, who often learn about marital strain well before a prospect searches online, is another missed opportunity in a market where trust-based channels carry outsized value.",
       },
     ],
     faqs: [

@@ -109,6 +109,14 @@ export const miscBatch8Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Overflow Handling When All Lines Are Busy",
+      },
+      {
+        type: "paragraph",
+        text: "Even with good staffing plans, call-only campaigns will occasionally generate more simultaneous calls than a firm's live staff can answer, and having a defined overflow plan protects against wasting that expensive volume entirely. Options include routing overflow to an after-hours answering service trained on basic qualification, offering an immediate callback request rather than a voicemail, or, for firms working with a larger provider, configuring the campaign itself to pause delivery when the firm's lines are at capacity. Firms without any overflow plan at all simply lose those calls to a busy signal or unanswered ring, an outcome that defeats the entire purpose of paying a premium for immediate, live connection.",
+      },
+      {
+        type: "heading",
         text: "Structuring Intake Scripts for Live Inbound Calls",
       },
       {
@@ -122,6 +130,22 @@ export const miscBatch8Articles: Article[] = [
       {
         type: "paragraph",
         text: "Using dedicated tracking numbers for each call-only campaign or provider lets firms attribute signed cases accurately back to their source, which is essential for the cost-per-acquisition comparisons that ultimately determine whether the format is worth continuing long term. Firms that skip dedicated tracking numbers and rely on staff simply asking \"how did you hear about us\" during the call typically get meaningfully less reliable attribution data than automated call tracking technology provides.",
+      },
+      {
+        type: "heading",
+        text: "What Call-Only Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Call-only personal injury leads commonly run $80 to $250 per connected, qualifying call, sitting above standard form-based leads ($40 to $150) but generally below a fully screened warm transfer ($150 to $600), reflecting the format's position between the two: a live, self-initiated call without the additional pre-screening a warm transfer includes. Catastrophic injury or commercial vehicle campaigns push these figures higher given the substantially greater case value. Firms should confirm exactly what minimum call duration or qualifying criteria a provider applies before billing, since this detail meaningfully affects what that quoted price actually buys.",
+      },
+      {
+        type: "heading",
+        text: "Staffing for Peak Call Volume Windows",
+      },
+      {
+        type: "paragraph",
+        text: "Call-only campaigns often produce uneven volume throughout the day, with predictable spikes during commute hours and lunch breaks when people are more likely to notice and act on an ad after witnessing or being involved in an accident. Firms running call-only campaigns benefit from reviewing their actual hourly call volume data and staffing intake coverage to match those peaks specifically, rather than spreading staff evenly across all business hours regardless of when calls actually arrive. Missing calls during a genuine peak window wastes premium call-only spend more than a similar miss during a naturally quiet stretch of the day.",
       },
     ],
     faqs: [
@@ -207,6 +231,14 @@ export const miscBatch8Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Why Some Providers Exited This Format Entirely",
+      },
+      {
+        type: "paragraph",
+        text: "Not every provider that offered call-only delivery a few years ago still does today. Some exited the format as tightened consent and disclosure requirements raised the operational cost of running compliant call-generation campaigns, while others shifted focus toward warm transfers or ping-post models offering similar immediacy with what they viewed as more defensible compliance structures. Firms that worked with a call-only provider previously and haven't checked in recently should confirm that provider is still actively offering the format, and hasn't quietly pivoted its business model in a way the firm's own team hasn't yet noticed.",
+      },
+      {
+        type: "heading",
         text: "How Pricing Has Trended Going Into 2026",
       },
       {
@@ -243,6 +275,14 @@ export const miscBatch8Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "How AI Search Is Changing Where Call-Only Traffic Comes From",
+      },
+      {
+        type: "paragraph",
+        text: "As more consumers use AI-powered search and chat tools to research legal questions before deciding to call an attorney, the advertising and content strategies that feed call-only campaigns are adapting alongside these newer discovery surfaces. Providers generating call-only volume are increasingly optimizing landing pages and ad creative to perform well both in traditional search results and in how AI tools summarize and reference content, though traditional paid search and direct-response advertising still account for the large majority of call-only volume heading into 2026. Firms evaluating a provider's traffic sources should ask specifically how this mix is evolving, since a provider still relying entirely on channels that are gradually losing share may see call volume or quality shift meaningfully over the coming year.",
+      },
+      {
+        type: "heading",
         text: "Why Some Firms Still Avoid Call-Only Delivery",
       },
       {
@@ -269,6 +309,22 @@ export const miscBatch8Articles: Article[] = [
           "Use dedicated call tracking numbers to measure conversion and cost per signed case accurately.",
           "Review call recordings from the trial period to assess genuine caller quality before scaling spend.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Concrete Pricing to Expect in 2026",
+      },
+      {
+        type: "paragraph",
+        text: "Well-targeted, properly screened call-only personal injury leads commonly run $80 to $250 per connected, qualifying call in 2026, with catastrophic injury or commercial vehicle campaigns pricing higher, sometimes $300 to $500 or more given the substantially greater case value involved. This sits above older, less-targeted call-feed pricing from a few years ago, which often ran closer to $50 to $120 for generic, minimally screened volume. Firms comparing a current quote against an older benchmark should account for this shift rather than assuming today's higher prices represent the same product at a worse price.",
+      },
+      {
+        type: "heading",
+        text: "Regulatory Changes Affecting This Format",
+      },
+      {
+        type: "paragraph",
+        text: "Tightened federal consent requirements around one-to-one consent for outbound-generated contacts have pushed more of the personal injury lead market, including call-only providers, toward stronger, more explicit documentation practices. While call-only delivery itself generally avoids the outbound-consent concerns that apply to form-based leads, since the caller initiates contact directly, providers still need to maintain proper call-recording disclosures and legitimate advertising practices behind the campaigns generating that call volume. Firms should confirm any provider's current compliance posture reflects this evolving regulatory landscape rather than assuming practices from a few years ago still fully apply today.",
       },
     ],
     faqs: [

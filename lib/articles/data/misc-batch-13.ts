@@ -143,6 +143,30 @@ export const miscBatch13Articles: Article[] = [
         type: "paragraph",
         text: "Software that fit a five-attorney firm well may genuinely constrain a twenty-attorney firm's operations, whether through user limits, reporting depth, or integration capability. Building a habit of reassessing the stack against current firm size, rather than assuming an early choice will scale indefinitely, keeps the software supporting growth instead of quietly limiting it.",
       },
+      {
+        type: "heading",
+        text: "Security and Data Handling Considerations",
+      },
+      {
+        type: "paragraph",
+        text: "Client acquisition software often handles sensitive prospect and client information, names, contact details, and sometimes case-specific details shared during initial intake conversations, making basic security due diligence a genuine requirement rather than an optional nicety. Firms should confirm a vendor's data encryption practices, backup procedures, and breach notification policies before committing to a platform that will store this kind of information, particularly for tools handling call recordings or written intake notes that could contain confidential client details.",
+      },
+      {
+        type: "heading",
+        text: "Trial Periods and Proof-of-Concept Testing",
+      },
+      {
+        type: "paragraph",
+        text: "Before committing to an annual contract, requesting a genuine trial period, ideally 30 days or more with real data flowing through the system, gives a firm a much clearer sense of whether a tool actually fits daily workflow than a guided sales demo alone can provide. Vendors confident in their product's value are generally willing to offer this kind of trial, while resistance to a meaningful trial period is itself worth treating as a caution sign during evaluation.",
+      },
+      {
+        type: "heading",
+        text: "Budgeting for Ongoing Support and Maintenance",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the base subscription cost, firms should budget realistically for the ongoing time investment needed to keep software configured correctly as practice areas, staff, and lead sources change over time, since a tool set up once and never revisited tends to drift out of alignment with how the firm actually operates. Assigning clear internal ownership for this maintenance, rather than assuming the software will simply keep working correctly indefinitely, protects the original investment over the long run and prevents the slow, quiet drift that eventually leaves a firm working around a tool instead of genuinely benefiting from it.",
+      },
     ],
     faqs: [
       {
@@ -302,6 +326,30 @@ export const miscBatch13Articles: Article[] = [
       {
         type: "paragraph",
         text: "Sharing a simple monthly summary of pipeline metrics with attorneys and staff, not just firm leadership, builds broader organizational awareness of how marketing, intake, and case outcomes connect — and often surfaces useful frontline observations from staff closest to the day-to-day intake process that leadership alone might miss.",
+      },
+      {
+        type: "heading",
+        text: "Why Cash Flow Planning Depends on Pipeline Predictability",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond staffing, a firm's broader financial planning, payroll commitments, lease obligations, decisions about hiring or expansion, all depend on reasonably predictable revenue, which in turn depends on a reasonably predictable pipeline of signed cases. Firms with genuinely volatile intake often find themselves making reactive financial decisions, delaying a planned hire during a slow month or overcommitting during a strong one, in ways that a steadier pipeline would have prevented by providing a more reliable basis for forward planning across every part of the business, not just marketing, from staffing decisions to lease negotiations and nearly everything else in between.",
+      },
+      {
+        type: "heading",
+        text: "Building Pipeline Stability Into New Attorney Onboarding",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm brings on new attorneys, incorporating pipeline management awareness into onboarding, explaining how leads are sourced, how intake works, and what role each attorney plays in maintaining consistent conversion, helps new hires understand their part in the broader system from day one, rather than treating lead flow as something that happens independently of their own performance and follow-up habits once a case actually lands on their desk.",
+      },
+      {
+        type: "heading",
+        text: "Why Pipeline Stability Is a Genuine Competitive Advantage, Not Just an Internal Convenience",
+      },
+      {
+        type: "paragraph",
+        text: "Firms with a genuinely stable pipeline can commit more confidently to marketing investments, staffing decisions, and even case acceptance criteria than firms lurching between feast and famine, since predictable revenue supports more deliberate, less reactive decision-making across the entire business. Over time, this operational stability compounds into a genuine competitive advantage, a firm that isn't scrambling to fill gaps can invest more thoughtfully in the quality improvements that further strengthen its position relative to less stable competitors still lurching from one unpredictable month to the next.",
       },
     ],
     faqs: [

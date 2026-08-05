@@ -162,7 +162,7 @@ export const rideshareDuplicatesArticles: Article[] = [
     content: [
       {
         type: "paragraph",
-        text: "Within the broader rideshare accident category, case value varies significantly based on which insurance tier applies and the severity of injury involved — identifying and prioritizing the higher-value cases within this growing category improves overall return on lead generation investment.",
+        text: "Within the broader rideshare accident category, case value varies significantly based on which insurance tier applies and the severity of injury involved — identifying and prioritizing the higher-value cases within this growing category improves overall return on lead generation investment for firms willing to screen carefully.",
       },
       {
         type: "heading",
@@ -198,7 +198,7 @@ export const rideshareDuplicatesArticles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "While prioritizing higher-value cases makes sense, maintaining reasonable overall rideshare case volume ensures a firm builds genuine expertise and reputation in this growing, increasingly important practice niche.",
+        text: "While prioritizing higher-value cases makes sense, maintaining reasonable overall rideshare case volume ensures a firm builds genuine expertise and reputation in this growing, increasingly important practice niche, rather than only handling an occasional case whenever one happens to arrive.",
       },
       {
         type: "heading",
@@ -216,6 +216,14 @@ export const rideshareDuplicatesArticles: Article[] = [
       {
         type: "paragraph",
         text: "This comparison is why confirming app status at the time of the accident matters so much for acquisition strategy, not just case management — a lead source that can flag likely coverage tier at intake helps firms prioritize follow-up effort toward the cases most likely to justify it.",
+      },
+      {
+        type: "heading",
+        text: "Working With Accident Reconstruction Experts on Complex Claims",
+      },
+      {
+        type: "paragraph",
+        text: "Multi-vehicle rideshare accidents, particularly those involving a third-party driver striking a vehicle actively transporting a passenger, often benefit from accident reconstruction expertise to establish clear fault and sequence of events, especially when liability is disputed between the rideshare driver, a third-party driver, and potentially multiple insurers. Firms building genuine expertise in higher-value rideshare cases benefit from maintaining relationships with reconstruction experts experienced specifically in multi-party commercial and rideshare liability scenarios, since these cases frequently involve more complex fault allocation than a standard two-vehicle collision would ever require.",
       },
       {
         type: "heading",
@@ -261,6 +269,22 @@ export const rideshareDuplicatesArticles: Article[] = [
       {
         type: "paragraph",
         text: "Given the premium pricing on rideshare-specific leads, tracking cost per signed case for this category separately from your broader personal injury acquisition spend is worthwhile. Firms that make this comparison sometimes find that a modest volume of well-screened, higher-coverage-tier rideshare leads produces a better return than a larger volume of undifferentiated accident leads that happen to include some rideshare cases mixed in.",
+      },
+      {
+        type: "heading",
+        text: "What High-Value Rideshare Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Shared rideshare accident leads commonly run $60 to $150, while exclusive leads with confirmed app status run $150 to $400. Leads specifically pre-screened and confirmed to fall within the higher-coverage actively-transporting period can command $300 to $700 or more when sold exclusively, given the substantially larger pool of available insurance coverage compared to a Period 0 case limited to a driver's personal policy. Warm transfers, where a screened prospect with confirmed high-value indicators is connected live, typically sit at the top of these ranges. Firms should confirm a provider's pricing tiers correspond to genuine, verifiable screening rather than a flat rideshare premium applied without real, meaningful differentiation by coverage period.",
+      },
+      {
+        type: "heading",
+        text: "Deciding Whether to Build a Dedicated Rideshare Practice",
+      },
+      {
+        type: "paragraph",
+        text: "Firms seeing consistent volume and strong case values from rideshare leads eventually face a genuine business decision: continue treating this as a supplemental case type within a general auto accident practice, or invest in building genuine, marketed rideshare-specific expertise, dedicated content, attorney training on the specific insurance and liability issues involved, and targeted campaigns. This investment tends to pay off for firms in metro areas with substantial rideshare usage and enough case volume to justify the specialization, while firms in smaller markets with lighter rideshare activity may find the supplemental approach more practical, treating rideshare cases as a valuable but secondary part of a broader auto accident practice rather than a standalone specialty worth dedicated marketing investment and attorney training time.",
       },
     ],
     faqs: [

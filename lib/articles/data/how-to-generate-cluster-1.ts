@@ -244,6 +244,38 @@ export const howToGenerateCluster1Articles: Article[] = [
           "Failing to track long-term case outcomes separately for this category, which makes it difficult to know whether marketing spend here is actually paying off given the longer case timelines involved.",
         ],
       },
+      {
+        type: "heading",
+        text: "What Serious Injury Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing for this category runs well above general personal injury volume, often several hundred dollars per exclusive, well-screened lead, and sometimes considerably more for cases with documented catastrophic injury and clear liability. Firms should resist anchoring to a single number and instead model cost against average settlement value for the specific injury types they handle, since a $400 lead that converts to a seven-figure case represents a dramatically different return than the same price paid for a case that settles modestly.",
+      },
+      {
+        type: "heading",
+        text: "Handling the First Consultation for High-Stakes Cases",
+      },
+      {
+        type: "paragraph",
+        text: "The initial consultation for a serious injury prospect carries more weight than in lower-value case types, since the prospect is often evaluating several firms carefully rather than signing with whichever one calls back first. Attorneys who use this meeting to walk through a realistic case roadmap, likely timeline, the role of medical experts, and how litigation versus settlement decisions get made, tend to build more confidence than those who focus the conversation narrowly on fee percentages alone.",
+      },
+      {
+        type: "heading",
+        text: "Working With Life-Care Planners and Economists Early",
+      },
+      {
+        type: "paragraph",
+        text: "Because catastrophic injury damages often hinge on projected future medical costs and lost earning capacity, engaging a life-care planner and economist early in the case, rather than waiting until settlement negotiations begin, tends to produce stronger documentation and a more defensible damages calculation. Firms that maintain standing relationships with these experts can move faster once a serious injury case is signed, which matters given how document-intensive this category becomes.",
+      },
+      {
+        type: "heading",
+        text: "Nurturing Prospects Who Aren't Ready to Sign Immediately",
+      },
+      {
+        type: "paragraph",
+        text: "Some serious injury prospects reach out while still early in treatment, before the full scope of their injury or long-term prognosis is clear, and pressuring an immediate signing decision in these situations can backfire. Firms that build a patient, informative nurture sequence, sharing relevant content about the legal process without pushing for a premature commitment, tend to retain more of this early-stage volume than firms treating every inquiry as needing to close on the first call. This is particularly true in catastrophic injury cases, where the prospect and family are often still absorbing the medical reality before they're ready to focus on litigation strategy at all.",
+      },
     ],
     faqs: [
       {
@@ -376,6 +408,38 @@ export const howToGenerateCluster1Articles: Article[] = [
           ["Verification", "Is insurance and carrier information confirmed before delivery, or left for your intake team to establish?"],
         ],
       },
+      {
+        type: "heading",
+        text: "What Truck Accident Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Given the elevated case value and relatively thin search volume, exclusive truck accident leads often run into the hundreds of dollars each, notably higher than a standard car accident lead in the same market. Firms should evaluate this cost against average settlement value for commercial trucking claims rather than comparing it directly to passenger-vehicle lead pricing, since the two categories simply aren't priced on the same scale for good reason." ,
+      },
+      {
+        type: "heading",
+        text: "Working With Accident Reconstruction Experts Early",
+      },
+      {
+        type: "paragraph",
+        text: "Trucking cases often turn on technical questions, following distance, braking capability, load weight, and blind-spot visibility, that a qualified accident reconstruction expert can address far more persuasively than testimony alone. Firms that engage a reconstruction expert soon after signing, while physical evidence and scene conditions are still fresh, tend to build a stronger record than those who wait until closer to litigation or mediation.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in This Category",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is marketing generic accident-attorney messaging without any trucking-specific content, missing the chance to signal genuine expertise to a prospect who is often aware they're facing a well-resourced commercial defendant. Firms also sometimes delay sending an evidence preservation letter, allowing electronic logging device data or dashcam footage to be overwritten before it can be secured, which can meaningfully weaken an otherwise strong case.",
+      },
+      {
+        type: "heading",
+        text: "Comparing Provider Pricing Models for This Category",
+      },
+      {
+        type: "paragraph",
+        text: "Some providers price trucking leads as a flat rate regardless of injury severity, while others tier pricing based on confirmed injury type, commercial insurance limits, or fault clarity captured at intake. Firms with strong intake capacity to further qualify a flat-rate lead themselves may find that model more cost-effective, while firms wanting more pre-filtering upstream, at a higher per-lead cost, may prefer a tiered provider that does more of the qualification work before delivery. Neither model is inherently better; the right fit depends on how much screening capacity a firm's own intake team can realistically absorb without slowing down response time to genuinely urgent cases.",
+      },
     ],
     faqs: [
       {
@@ -412,7 +476,7 @@ export const howToGenerateCluster1Articles: Article[] = [
       "A local guide to generating child custody leads in Orlando, accounting for Florida's custody framework.",
     metaDescription: "Generating child custody leads in Orlando means working within Florida's custody framework and local court practices. A local guide to that landscape.",
     category: "Local SEO & City Guides",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: divRel,
@@ -502,6 +566,30 @@ export const howToGenerateCluster1Articles: Article[] = [
         type: "paragraph",
         text: "A significant share of Orlando custody inquiries arise alongside a pending or recent divorce, while others involve unmarried parents establishing timesharing for the first time. Firms that build separate, clearly labeled content paths for each scenario — rather than assuming every custody prospect is also a divorce prospect — tend to capture a broader share of local search demand and route inquiries to the right intake process more efficiently.",
       },
+      {
+        type: "heading",
+        text: "What Custody Leads Typically Cost in Orlando",
+      },
+      {
+        type: "paragraph",
+        text: "Because custody searches carry high urgency and Orlando is a competitive advertising market, exclusive custody leads here often price noticeably above general family law inquiries, and firms should expect that premium rather than treating it as a red flag on its own. Weighing this cost against the category's typically strong conversion rate, urgent prospects tend to retain counsel quickly once they've found a firm they trust, usually justifies the higher spend relative to slower-moving, more exploratory family law categories.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing Custody Services",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is using outdated \"custody\" terminology exclusively in ad copy and landing pages without also capturing the \"timesharing\" searches that reflect Florida's actual legal framework, narrowing reach unnecessarily. Firms also sometimes fail to distinguish standalone custody matters from custody paired with an active divorce during intake, which can lead to mismatched expectations about scope and fee structure once the consultation actually begins.",
+      },
+      {
+        type: "heading",
+        text: "Building Content for Both Terminology Sets",
+      },
+      {
+        type: "paragraph",
+        text: "Because a meaningful share of the local search audience still types \"custody\" even though Florida law uses \"timesharing,\" the strongest-performing content tends to use both terms naturally rather than picking one and ignoring the other. Pages that open with the familiar term and then clearly transition into accurate legal terminology tend to capture both search behavior and build credibility, since a prospect who sees only unfamiliar legal jargon may bounce before ever learning the firm actually handles exactly what they're looking for. This dual-terminology approach also helps intake staff, since prospects calling in often use the informal term during the first few minutes of a call, and staff who can fluidly bridge both vocabularies without correcting the caller put the prospect at ease faster, which matters especially in a category where prospects are often already stressed before they ever make contact with a firm for the first time.",
+      },
     ],
     faqs: [
       {
@@ -538,7 +626,7 @@ export const howToGenerateCluster1Articles: Article[] = [
       "Practical, generation-focused tactics for building a collaborative divorce lead pipeline.",
     metaDescription: "Collaborative divorce attracts a different client than contested litigation, requiring a distinct marketing message. Tactics for building this pipeline.",
     category: "Family Law",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: [...divRel, "generating-collaborative-divorce-leads-for-family-law-firms"],
@@ -628,6 +716,30 @@ export const howToGenerateCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Because fit matters so much more in collaborative divorce than in general family law, a purchased lead source should ideally ask at least a basic screening question about both spouses' willingness to participate voluntarily, rather than simply capturing contact information from anyone who searched the term. A firm that receives leads without this pre-screening should expect to spend more time during intake determining fit before investing in a full consultation.",
       },
+      {
+        type: "heading",
+        text: "What Collaborative Divorce Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Given the narrower search volume and more deliberate, informed nature of this audience, collaborative divorce leads often carry pricing closer to a specialized legal niche than to broad divorce volume, and firms should expect fewer available leads per month relative to standard divorce marketing at any given spend level. Evaluating this category on cost-per-signed-case rather than cost-per-lead matters especially here, since a smaller volume of well-matched, higher-fee collaborative engagements can outperform a larger volume of mismatched general divorce inquiries.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in This Niche",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is marketing collaborative divorce without clearly distinguishing it from mediation, leaving prospects confused about which process they're actually inquiring about and producing a mismatch discovered only during the consultation. Firms also sometimes underinvest in the referral relationships that drive much of this niche's volume, treating collaborative divorce as a pure paid-marketing play when in practice professional community involvement tends to generate the most consistently well-matched leads over time.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Success in a Narrow Niche",
+      },
+      {
+        type: "paragraph",
+        text: "Because collaborative divorce naturally produces lower monthly lead volume than general family law marketing, firms should set realistic benchmarks rather than judging this channel against the same volume expectations as broader divorce advertising. Tracking cost per signed engagement, professional referral volume alongside purchased lead volume, and consultation-to-retainer conversion specifically for this niche gives a much clearer picture of whether the investment is paying off than comparing raw lead counts against a general family law campaign that's targeting an entirely different, much larger audience. Firms new to this niche should give the channel a full quarter or two before drawing firm conclusions, given how much slower and more deliberate this audience's decision cycle tends to be, and given how much of this niche's volume ultimately arrives through relationships rather than a single ad click, meaning early results often understate what the channel will eventually produce once referral sources mature.",
+      },
     ],
     faqs: [
       {
@@ -664,7 +776,7 @@ export const howToGenerateCluster1Articles: Article[] = [
       "A statewide guide to New Jersey divorce lead generation, covering equitable distribution and residency rules.",
     metaDescription: "New Jersey divorce leads are shaped by the state's equitable distribution rules and residency requirements. A statewide guide to that legal framework.",
     category: "Local SEO & City Guides",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: divRel,
@@ -758,6 +870,30 @@ export const howToGenerateCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Given the concentration of high-net-worth households in parts of Northern New Jersey, firms serving that sub-market often see divorce cases involving business ownership, executive compensation, and multi-property portfolios. Building dedicated content and intake questions around these scenarios — rather than relying on general equitable distribution explanations — helps a firm both attract and properly qualify this higher-value segment of the state's divorce market.",
       },
+      {
+        type: "heading",
+        text: "What Divorce Leads Typically Cost in New Jersey",
+      },
+      {
+        type: "paragraph",
+        text: "Pricing varies sharply by region, with Northern New Jersey leads, given the New York City proximity and higher average marital estate value, often costing well above what firms pay in Southern New Jersey for a comparable inquiry. Firms serving the full state should budget separately by region rather than applying one blended number, since a Northern corridor lead priced like a Southern New Jersey lead usually signals weak targeting rather than a bargain.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in This Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is applying a single statewide budget and messaging strategy without adjusting for how differently Northern and Southern New Jersey behave, leaving a firm either overpaying in the south or underbidding in the more competitive north. Firms also sometimes skip residency screening in border-adjacent search traffic, absorbing inquiries from prospects who may actually be closer to filing in New York or Pennsylvania and don't yet realize New Jersey's residency requirement doesn't apply to their situation.",
+      },
+      {
+        type: "heading",
+        text: "Serving Prospects Near State Borders",
+      },
+      {
+        type: "paragraph",
+        text: "New Jersey's proximity to New York and Pennsylvania means a meaningful share of search traffic in border-adjacent counties actually comes from residents of those neighboring states, who may be researching options broadly before realizing New Jersey's residency requirement doesn't apply to them. Firms serving these border regions benefit from content that clearly states the residency requirement upfront, rather than only mentioning it deep in an FAQ section, since this saves both the firm and the prospect wasted time on an inquiry that was never going to be eligible to file in New Jersey in the first place. Firms that serve multiple nearby states can also turn these mismatched inquiries into referral opportunities rather than dead ends, if they maintain relationships with counsel licensed where the prospect actually needs to file, turning what would otherwise be a wasted inquiry into modest referral revenue and future goodwill.",
+      },
     ],
     faqs: [
       {
@@ -794,7 +930,7 @@ export const howToGenerateCluster1Articles: Article[] = [
       "A statewide guide to North Carolina divorce lead generation, covering the state's unique one-year separation rule.",
     metaDescription: "North Carolina divorce leads must account for the state's one-year separation requirement before filing. A statewide guide to that legal framework.",
     category: "Local SEO & City Guides",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: divRel,
@@ -883,6 +1019,30 @@ export const howToGenerateCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Charlotte and Raleigh represent North Carolina's largest and most competitive family law markets, while Greensboro, Winston-Salem, and smaller metros often see lower advertising costs and less saturated search results. Firms with capacity to serve a wider geographic footprint can often improve overall lead economics by balancing spend across both the high-competition major metros and the comparatively underserved smaller markets.",
       },
+      {
+        type: "heading",
+        text: "What Divorce Leads Typically Cost in North Carolina",
+      },
+      {
+        type: "paragraph",
+        text: "Charlotte and Raleigh command meaningfully higher lead pricing than smaller North Carolina metros given denser attorney competition, while the mandatory year-long separation period also affects how firms should think about cost relative to conversion timeline. A lead priced attractively but never converting within a normal few-month window isn't necessarily underperforming, it may simply be a prospect still mid-separation, which is worth factoring into how a firm interprets raw cost-per-lead figures in this state specifically.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With the Separation Requirement",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is judging lead quality purely on short-term conversion, discarding a source as weak when in reality many leads are still progressing through their mandatory separation year and simply aren't yet ready to file. Firms also sometimes fail to market separation agreement drafting as a distinct, earlier-stage service, missing the opportunity to capture and begin billing a prospect months before the eventual divorce filing itself.",
+      },
+      {
+        type: "heading",
+        text: "Building Trust During the Waiting Period",
+      },
+      {
+        type: "paragraph",
+        text: "Because North Carolina's one-year separation requirement creates an unusually long gap between a prospect's first inquiry and their eventual filing, firms have a genuine opportunity to build trust over that period rather than treating it purely as dead time to wait out. Regular, low-pressure check-ins that offer genuinely useful information, what to document during separation, how support obligations work informally before filing, how a separation agreement protects both parties, keep a firm top of mind and often result in the prospect returning to sign with the firm that stayed helpfully engaged throughout the year rather than one that went silent after the initial call. A well-designed nurture sequence tied to separation-year milestones costs relatively little to maintain and can meaningfully outperform a one-time follow-up attempt in this specific market, since it keeps the relationship warm across a decision timeline most other states simply don't require, and it positions the firm as a genuine resource rather than a one-time vendor.",
+      },
     ],
     faqs: [
       {
@@ -919,7 +1079,7 @@ export const howToGenerateCluster1Articles: Article[] = [
       "A statewide guide to Ohio divorce lead generation, covering the state's dissolution and divorce tracks.",
     metaDescription: "Ohio offers both dissolution and traditional divorce tracks, each attracting a different type of client. A statewide guide to generating leads on both.",
     category: "Local SEO & City Guides",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: divRel,
@@ -1013,6 +1173,30 @@ export const howToGenerateCluster1Articles: Article[] = [
           "How does the provider verify Ohio's residency requirement before delivering a lead as qualified?",
         ],
       },
+      {
+        type: "heading",
+        text: "What Divorce Leads Typically Cost in Ohio",
+      },
+      {
+        type: "paragraph",
+        text: "Columbus, Cleveland, and Cincinnati each carry different pricing given varying levels of attorney competition, with Columbus often the most competitive of the three given its size and growth. Because dissolution leads tend to convert faster and more predictably than contested divorce leads, some firms find it reasonable to pay a comparable or even higher price for well-qualified dissolution volume despite the generally lower fee ceiling on that faster-moving case type.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing Both Tracks",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is running a single generic \"Ohio divorce attorney\" campaign that fails to speak to either dissolution or contested divorce prospects specifically, diluting message relevance for both audiences at once. Firms also sometimes apply contested-divorce pricing expectations to dissolution inquiries, creating sticker shock for prospects who are specifically seeking a faster, lower-cost resolution and may walk away if the fee structure doesn't reflect that difference clearly upfront.",
+      },
+      {
+        type: "heading",
+        text: "Handling Prospects Uncertain Which Track Fits",
+      },
+      {
+        type: "paragraph",
+        text: "Many prospects arrive without knowing dissolution exists as an option at all, having searched generically for \"divorce\" simply because that's the word they know. Intake staff trained to ask a few quick clarifying questions, whether both spouses already generally agree on property, custody, and support, can usually identify the right track within the first few minutes of a call. Firms that build this triage step explicitly into their intake script, rather than leaving it to whichever staff member happens to answer, tend to route prospects more consistently and avoid the awkward mid-consultation realization that a case actually fits a completely different, faster, and less expensive path than the one originally discussed. This small intake investment often pays for itself many times over in avoided mismatched consultations and clearer prospect expectations from the very first conversation, and it tends to shorten the overall path from initial inquiry to signed engagement letter across both tracks alike, which ultimately improves the return on every single dollar a firm spends generating the original inquiry in the first place, regardless of which of the two tracks a given prospect ultimately turns out to need.",
+      },
     ],
     faqs: [
       {
@@ -1053,7 +1237,7 @@ export const howToGenerateCluster1Articles: Article[] = [
       "A local guide to Orlando divorce lead generation, building on Florida's statewide alimony reform.",
     metaDescription: "Generating divorce leads in Orlando means building on Florida's statewide alimony reform and local court expectations. A local guide to that landscape.",
     category: "Local SEO & City Guides",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: [...divRel, "generating-quality-divorce-attorney-leads-in-jacksonville"],
@@ -1155,6 +1339,30 @@ export const howToGenerateCluster1Articles: Article[] = [
           "Check that marketing content reflects current, post-2023 alimony law rather than outdated permanent-alimony assumptions.",
         ],
       },
+      {
+        type: "heading",
+        text: "What Divorce Leads Typically Cost in Orlando",
+      },
+      {
+        type: "paragraph",
+        text: "Orlando's divorce lead pricing sits among the more competitive in Florida given the metro's population growth and tourism-driven advertising density, and firms should expect to pay a premium relative to smaller Central Florida markets. Because alimony reform content remains relatively underserved, firms investing early in accurate, current pages on the topic may see a more favorable blended cost across organic and paid channels than firms relying on paid search alone in this crowded market.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Post-Reform",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is leaving old permanent-alimony content live on a firm's website long after the 2023 reform, which actively misleads prospects and can undermine credibility once a knowledgeable reader notices the discrepancy. Firms also sometimes fail to ask about hospitality or seasonal income sources during intake, missing an opportunity to flag support and distribution complications early that a variable-income household in this market frequently presents.",
+      },
+      {
+        type: "heading",
+        text: "Serving Prospects With Variable, Seasonal Income",
+      },
+      {
+        type: "paragraph",
+        text: "Orlando's concentration of tourism, hospitality, and entertainment-industry employment means a meaningfully higher share of divorce prospects here have income that fluctuates by season or depends heavily on tips and commissions, complicating both support calculations and asset division discussions in ways that a straightforward salaried-income case wouldn't present. Firms that ask targeted intake questions about income structure early, rather than assuming a standard pay stub will tell the full story, are better positioned to set accurate expectations and avoid disputes over income documentation later in the case. This same familiarity also helps during negotiations, since opposing counsel unfamiliar with seasonal income patterns can otherwise undervalue or misrepresent a spouse's true earning capacity, potentially shortchanging a client who depends heavily on tip or commission income for their real standard of living and long-term financial stability well after the divorce itself is finalized and the case file has been formally closed by the court and archived. Building a short reference guide for staff on how to document and present this type of income consistently saves time on every case involving it going forward.",
+      },
     ],
     faqs: [
       {
@@ -1196,7 +1404,7 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaDescription:
       "A local guide to San Diego divorce lead generation, accounting for California's community property rules and the region's large military population.",
     category: "Local SEO & City Guides",
-    readTime: "6 min read",
+    readTime: "7 min read",
     publishedDate: "2026-10-12",
     updatedDate: "2026-08-05",
     relatedSlugs: [...divRel, "acquiring-military-divorce-clients-a-strategic-guide-for-law-firms"],
@@ -1289,6 +1497,30 @@ export const howToGenerateCluster1Articles: Article[] = [
           "Is targeting granular enough to cover both the urban core and communities near Camp Pendleton, rather than treating the metro as a single zone?",
           "Does the provider's marketing accurately describe California as a community property state rather than using generic equitable-distribution language?",
         ],
+      },
+      {
+        type: "heading",
+        text: "What Divorce Leads Typically Cost in San Diego",
+      },
+      {
+        type: "paragraph",
+        text: "San Diego's combination of high cost of living and dense attorney competition pushes lead pricing above many other California metros, and military-affiliated leads specifically may command a premium given the specialized expertise required to serve them well. Firms should weigh this cost against the metro's typically higher average case value, driven by regional real estate prices and the frequent presence of pension assets tied to military service, both of which support higher representation fees than a lower-cost market would.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Military Cases",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is treating a military-affiliated inquiry like a standard civilian divorce lead, missing early questions about deployment status, pension type, or SCRA protections that materially affect how the case should proceed. Firms also sometimes underinvest in relationships with base legal assistance offices, missing a steady referral channel that requires little paid spend but consistently produces well-matched, already-informed prospects.",
+      },
+      {
+        type: "heading",
+        text: "Handling Frequent Relocation and Jurisdiction Questions",
+      },
+      {
+        type: "paragraph",
+        text: "Military families move considerably more often than the general population, and a spouse or servicemember researching divorce in San Diego may have only recently arrived, or may be preparing for a transfer that raises genuine questions about where the case should even be filed. Firms comfortable explaining how state residency and jurisdiction rules interact with military orders, and coordinating with counsel in another state when necessary, build meaningful trust with a segment of the local market that a generalist, relocation-unaware firm often struggles to serve confidently. Demonstrating this specific expertise in marketing content, not just during the consultation, helps a firm stand out well before a military-affiliated prospect ever picks up the phone, since many begin researching quietly online long before reaching out to any attorney directly, often while still weighing how a pending divorce might interact with an upcoming deployment, a PCS transfer to another duty station entirely, or a spouse's own relocation plans back to a hometown elsewhere. Firms that address these scenarios directly in their content signal real, practical familiarity that a generic civilian-focused page simply can't match.",
       },
     ],
     faqs: [

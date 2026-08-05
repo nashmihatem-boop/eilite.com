@@ -247,6 +247,40 @@ export const buildASystemClusterArticles: Article[] = [
         type: "paragraph",
         text: "Even a well-built lead management system benefits from a periodic audit — spot-checking a sample of recent leads to confirm follow-up actually happened on schedule, and that stage transitions were logged accurately. This kind of audit surfaces process breakdowns long before they show up as a noticeable drop in overall signed-case rate.",
       },
+      {
+        type: "heading",
+        text: "Typical Costs of Building This Infrastructure",
+      },
+      {
+        type: "paragraph",
+        text: "Legal-specific CRM platforms with the automated capture, task reminders, and stage-based reporting this kind of system requires commonly run $50 to $150 per user monthly, with more comprehensive platforms including call tracking integration and advanced reporting running higher, sometimes $200 to $400 per user for larger firms with more complex workflow needs. Beyond the software subscription itself, firms should budget for implementation time, since properly configuring stage definitions, automated reminders, and reporting dashboards to match a specific firm's actual intake process typically takes several weeks of dedicated setup work, whether handled internally or through a vendor's onboarding team.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Rollout Process for a New System",
+      },
+      {
+        type: "list",
+        items: [
+          "Map your current lead lifecycle stages before selecting or configuring any software.",
+          "Choose a CRM that supports automated capture from all your actual lead sources.",
+          "Define clear ownership and expected timeframes for each stage in writing.",
+          "Run the new system in parallel with existing tracking for a short overlap period.",
+          "Audit a sample of leads after 30 days to confirm the system is working as designed.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Building This System",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is investing in a sophisticated CRM platform without first mapping out the firm's actual lead lifecycle stages and ownership structure, resulting in software configured around generic defaults rather than the firm's real workflow. Firms also sometimes roll out a new system without adequate staff training, leading to inconsistent adoption where some leads get properly tracked while others still fall through informal, undocumented processes. Neglecting the periodic audit step entirely, assuming the system is working correctly simply because it was set up properly at launch, is another common gap that lets process breakdowns accumulate silently until they show up as a noticeable, harder-to-diagnose decline in overall conversion.",
+      },
+      {
+        type: "paragraph",
+        text: "Scheduling this audit as a recurring calendar event, rather than relying on someone to remember to do it eventually, helps ensure the system stays genuinely reliable well beyond its initial launch.",
+      },
     ],
     faqs: [
       {

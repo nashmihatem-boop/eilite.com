@@ -98,6 +98,52 @@ export const miscTopics7Articles: Article[] = [
           "Prices that change significantly after a firm has already committed budget, without a clear, agreed-upon reason.",
         ],
       },
+      {
+        type: "heading",
+        text: "Specific Dollar Ranges Worth Knowing by Practice Area",
+      },
+      {
+        type: "paragraph",
+        text: "As a general planning reference, shared personal injury and mass tort leads commonly run $30 to $85, with exclusive versions running $75 to $300 or more given their substantial case value potential. Medical malpractice leads, given their especially high case value and rigorous screening requirements, often run even higher, sometimes exceeding $200 for exclusive, well-documented leads. Family law and employment law leads typically sit in a moderate range, often $20 to $65 for shared and $45 to $150 for exclusive delivery. Bankruptcy and estate planning leads generally run lowest, often $15 to $45 for shared leads, reflecting their smaller, more predictable fee structures relative to contingency-based litigation categories.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Framework for Setting Your Own Budget",
+      },
+      {
+        type: "list",
+        items: [
+          "Identify your practice area's general cost tier using the table above as a starting reference.",
+          "Request current quotes from two or three providers serving your specific market.",
+          "Factor in exclusivity and delivery format before comparing prices across quotes.",
+          "Set a target cost-per-signed-case, not just cost-per-lead, before testing.",
+          "Adjust budget expectations after a properly sized test batch, not before.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Budgeting for Legal Leads",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is anchoring budget expectations to a figure heard secondhand from another firm or an outdated article, without confirming that figure reflects current market conditions in the specific geography and practice area a firm actually serves. Firms also sometimes compare quotes across fundamentally different delivery formats as though they're equivalent, treating a warm transfer quote and a shared data lead quote as directly comparable when they represent very different products with different conversion expectations. Failing to separate budget and performance tracking by practice area for firms handling multiple case types is another common gap that obscures which specific area is genuinely profitable and which is quietly underperforming within a blended overall number.",
+      },
+      {
+        type: "heading",
+        text: "How Seasonal and Economic Factors Shift Pricing Within a Tier",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the baseline practice-area tiers, legal lead pricing can shift meaningfully with broader seasonal and economic patterns. Bankruptcy and debt relief lead costs often rise during periods of economic uncertainty as more consumers search for these services simultaneously, driving up both demand and competition among firms. Family law inquiries sometimes see a modest seasonal bump after the holidays as couples reassess their relationships heading into a new year. Personal injury demand tends to stay comparatively steady year-round but can spike locally after a severe weather event or a stretch of increased traffic accidents. Firms that understand their specific practice area's seasonal rhythm can budget more accurately rather than being surprised by a cost increase that was actually predictable in hindsight.",
+      },
+      {
+        type: "paragraph",
+        text: "Building a simple seasonal calendar noting these known demand patterns, and reviewing it annually alongside budget planning, helps firms allocate marketing spend more intelligently across the year rather than applying a flat monthly budget regardless of predictable fluctuations in cost and competition.",
+      },
+      {
+        type: "paragraph",
+        text: "Even a rough, informal version of this calendar, built from a firm's own historical data over just a year or two, tends to outperform generic industry assumptions about seasonality that may not reflect a specific local market's actual patterns.",
+      },
     ],
     faqs: [
       {
@@ -231,6 +277,52 @@ export const miscTopics7Articles: Article[] = [
       {
         type: "paragraph",
         text: "Ask directly whether a prospective provider can filter and route leads by these specific sub-categories rather than delivering one undifferentiated family law feed. A provider unable to distinguish a protective order inquiry from a routine adoption question is effectively asking your intake team to do work the provider itself should be doing at the point of lead capture — worth factoring into how you evaluate overall value, not just headline cost per lead.",
+      },
+      {
+        type: "heading",
+        text: "Typical Fee Ranges Across Family Law Sub-Categories",
+      },
+      {
+        type: "paragraph",
+        text: "Fee structures vary considerably across these sub-categories, and understanding the range helps firms judge whether a given lead price makes sense relative to its revenue potential. An uncontested custody modification might run a flat fee of $1,500 to $3,500, while a contested custody dispute involving a guardian ad litem or custody evaluation can run $6,000 to $20,000 or more. Child support modifications often run $1,000 to $2,500 for a straightforward matter. Adoption cases vary enormously by type, with a simple stepparent adoption sometimes running $1,500 to $3,000, while a contested or international adoption can run well into five figures given the additional legal and procedural complexity involved. Protective order representation, while often billed at a lower flat fee or even offered pro bono in some circumstances, generates significant referral and reputation value that extends well beyond the direct fee collected.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process Across Family Law Sub-Categories",
+      },
+      {
+        type: "list",
+        items: [
+          "Identify which specific sub-category the inquiry relates to within the first minute.",
+          "Apply the appropriate urgency level immediately, especially for protective orders.",
+          "Ask the sub-category-specific qualifying questions outlined above.",
+          "Route the lead to an attorney with relevant experience in that specific area.",
+          "Set follow-up cadence and tone appropriate to that sub-category's typical timeline.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Marketing Across Sub-Categories",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is building a single generic \"family law\" marketing page and expecting it to capture and convert prospects across every sub-category equally well, when a prospect searching for adoption help responds very differently to content than one facing an urgent custody emergency. Firms also sometimes apply identical follow-up pacing across all sub-categories, treating a patient, long-decision-cycle adoption inquiry with the same urgency-driven cadence built for protective orders, which can feel pushy and off-putting to a prospect who isn't in crisis. Underinvesting in same-day response capability for protective order inquiries specifically, given how directly this affects both client safety and firm reputation, is another common and consequential gap in an otherwise well-run family law practice.",
+      },
+      {
+        type: "heading",
+        text: "Building a Referral Network Specific to Each Sub-Category",
+      },
+      {
+        type: "paragraph",
+        text: "Different family law sub-categories tend to draw referrals from different professional communities, and firms that recognize this can build more targeted, effective referral relationships than a single generic outreach effort. Adoption and guardianship referrals often come through social workers, adoption agencies, and other attorneys handling related matters, while custody and support cases frequently originate from therapists, mediators, and financial advisors working with families navigating separation. Protective order referrals sometimes come through domestic violence advocacy organizations and victim support services, relationships that require a particularly sensitive, trust-based approach to build. Mapping out which professional communities feed each sub-category, and investing relationship-building time accordingly, tends to produce a more efficient referral strategy than treating all family law referral sources as interchangeable.",
+      },
+      {
+        type: "paragraph",
+        text: "A firm that assigns a specific attorney or staff member to own outreach within each of these professional communities, rather than leaving relationship-building informal and inconsistent, tends to see steadier referral flow across its full range of family law sub-categories over time.",
+      },
+      {
+        type: "paragraph",
+        text: "Periodic check-ins with these referral partners, even a brief quarterly call or coffee meeting, help sustain the relationship well beyond an initial introduction.",
       },
     ],
     faqs: [

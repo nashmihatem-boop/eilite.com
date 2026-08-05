@@ -266,6 +266,37 @@ export const findNewClientsClusterArticles: Article[] = [
         type: "paragraph",
         text: "The attorneys who get the most out of networking usually have some kind of lightweight system for staying in touch — a shared spreadsheet or CRM tag noting who they met, when, and what was discussed, plus a recurring reminder to check in every few months. Without this, even genuinely good relationships fade simply from lack of follow-through, not lack of goodwill. A quarterly check-in call, a relevant article forwarded with a personal note, or a coffee catch-up costs little time but keeps you top of mind when a referral opportunity actually arises.",
       },
+      {
+        type: "heading",
+        text: "Measuring Networking ROI Against Its Time Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Because networking consumes real hours that could otherwise go toward billable work, it's worth periodically estimating its return the same way you would any other business investment — roughly how many referrals a given relationship or group has produced over a year, weighed against the time invested attending events and following up. This doesn't need to be a precise calculation, but even a rough sense of which relationships are genuinely paying off helps redirect limited time toward the connections that matter most rather than continuing out of habit or obligation.",
+      },
+      {
+        type: "heading",
+        text: "Networking Etiquette Mistakes That Undermine Trust",
+      },
+      {
+        type: "paragraph",
+        text: "Pitching services too aggressively at a first meeting, treating every new contact as an immediate sales opportunity rather than the start of a genuine relationship, tends to backfire in professional networking circles where reputations spread quickly. Attorneys who focus early conversations on genuinely understanding the other person's practice or business, rather than immediately steering toward their own pitch, build the kind of trust that produces referrals months or years later rather than an uncomfortable interaction nobody wants to repeat.",
+      },
+      {
+        type: "heading",
+        text: "Building Networking Into a Firm-Wide Habit, Not Just a Partner's Job",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that treat networking as solely the founding partner's responsibility miss the referral potential of associates and other staff building their own professional relationships over time. Encouraging junior attorneys to join at least one relevant group early in their career, and giving them genuine credit and recognition when their networking produces a referral, builds a broader, more resilient referral pipeline than depending entirely on one or two senior people's personal networks.",
+      },
+      {
+        type: "heading",
+        text: "Passing Down Relationships When an Attorney Leaves",
+      },
+      {
+        type: "paragraph",
+        text: "When an attorney with strong networking relationships leaves a firm, those referral connections can quietly leave too unless there's a deliberate handoff process, introducing remaining colleagues to key contacts well before the departure rather than leaving the relationship to fade on its own." },
     ],
     faqs: [
       {
@@ -391,6 +422,36 @@ export const findNewClientsClusterArticles: Article[] = [
         type: "paragraph",
         text: "Because the return on a single talk shows up gradually, it helps to keep a simple log of who attended, who followed up afterward, and which relationships eventually produced a referral. Over a year or two, this record usually makes clear which types of events and topics are worth prioritizing versus which ones consumed time without a meaningful return.",
       },
+      {
+        type: "heading",
+        text: "Negotiating Honoraria and Speaking Fees",
+      },
+      {
+        type: "paragraph",
+        text: "Many bar association and CLE speaking engagements don't pay a fee at all, treating the exposure and credibility itself as the compensation, while larger industry conferences or corporate training sessions sometimes do offer an honorarium. Attorneys early in building their speaking reputation generally do better accepting unpaid opportunities that build visibility and relationships, then gradually becoming more selective or negotiating fees once genuine demand for their specific expertise has been established through a track record of well-received sessions." },
+      {
+        type: "heading",
+        text: "Building a Reusable Speaker Bio and One-Pager",
+      },
+      {
+        type: "paragraph",
+        text: "Having a polished, ready-to-send speaker bio and a simple one-page overview of past topics and audience feedback makes it considerably easier for event organizers to say yes quickly, rather than needing to research an unfamiliar attorney from scratch before extending an invitation. Keeping this material updated after every engagement, adding new topics and any positive feedback received, compounds into an increasingly persuasive pitch for future speaking opportunities without requiring much ongoing effort.",
+      },
+      {
+        type: "heading",
+        text: "Handling Q&A Without Giving Specific Legal Advice",
+      },
+      {
+        type: "paragraph",
+        text: "Audience questions during a CLE or public talk sometimes drift toward a specific personal legal situation, and attorneys need a graceful, practiced way to redirect these questions toward general principles rather than inadvertently creating an attorney-client relationship or giving advice without proper context. A simple, prepared response acknowledging the question is a great one worth discussing individually, then offering to connect after the session, handles this common situation professionally without embarrassing the person who asked.",
+      },
+      {
+        type: "heading",
+        text: "Following Up With Attendees After the Session",
+      },
+      {
+        type: "paragraph",
+        text: "A brief follow-up email to attendees within a day or two of the presentation, sharing slides or additional resources referenced during the talk, keeps the relationship warm and gives attendees a natural, low-pressure reason to reply if they have a further question or a referral in mind. This simple habit converts far more of the room into lasting professional contacts than letting the connection end the moment the session concludes, which is exactly what happens with most one-time speaking engagements." },
     ],
     faqs: [
       {
@@ -532,6 +593,28 @@ export const findNewClientsClusterArticles: Article[] = [
         type: "paragraph",
         text: "A loose outline of the three or four points you want to cover tends to produce a far more natural, trustworthy delivery than a word-for-word script read off a screen. Practicing the same answer a few times in your own words, rather than memorizing exact phrasing, keeps the tone conversational — which matters, since viewers are evaluating not just what you say but how naturally and confidently you say it.",
       },
+      {
+        type: "heading",
+        text: "Captioning and Accessibility Considerations",
+      },
+      {
+        type: "paragraph",
+        text: "Adding captions to every video serves two genuinely important purposes beyond accessibility for viewers who are deaf or hard of hearing: a large share of social media viewers watch with sound off by default, and captions also give search engines readable text to index, which can support the same page's organic search visibility. Most video editing and social platforms now offer reasonably accurate automated captioning, though reviewing and correcting legal terminology the software commonly mishears is genuinely worth the extra few minutes of careful, deliberate effort before publishing anything at all to the firm's website or its various social media channels." },
+      {
+        type: "heading",
+        text: "Repurposing Video Across Multiple Platforms",
+      },
+      {
+        type: "paragraph",
+        text: "A single well-produced video rarely needs to exist in only one format or platform — a longer explainer can be cut into several short clips for social media, key quotes can become simple text-overlay graphics, and the full audio can even be repurposed as a podcast episode or blog post transcript. Firms that build this repurposing step into their standard video workflow get considerably more mileage from each individual recording session than those treating every platform as requiring entirely separate content.",
+      },
+      {
+        type: "heading",
+        text: "Building a Simple Content Calendar for Video",
+      },
+      {
+        type: "paragraph",
+        text: "Planning topics a month or two in advance, built around the questions clients ask most often during actual intake calls and consultations, keeps a video program from stalling out due to a lack of ideas. Reviewing recent client questions with intake staff periodically is often the single easiest, most reliable source of fresh, genuinely relevant topics a firm's audience actually wants answered, and it costs nothing beyond a short recurring conversation." },
     ],
     faqs: [
       {
@@ -658,6 +741,37 @@ export const findNewClientsClusterArticles: Article[] = [
         type: "paragraph",
         text: "Once a niche is established, purchased leads become more valuable because they can be filtered specifically for that case type rather than accepted broadly. A [pay-per-lead or warm transfer program](/buy-leads) configured around your specific niche criteria adds volume that matches your positioning exactly, rather than diluting it with cases outside your focus.",
       },
+      {
+        type: "heading",
+        text: "Handling Referrals Outside Your Niche Gracefully",
+      },
+      {
+        type: "paragraph",
+        text: "A firm known for a specific niche will still inevitably receive inquiries and referrals for matters outside that focus, and how those are handled affects the firm's broader reputation just as much as how niche cases are handled. Politely declining while offering a genuine, specific referral to a trusted colleague, rather than a vague brush-off, preserves the relationship and often generates reciprocal referrals later, keeping the door open even when the firm itself isn't the right fit for that particular matter.",
+      },
+      {
+        type: "heading",
+        text: "Building a Referral Network for Cases Outside Your Focus",
+      },
+      {
+        type: "paragraph",
+        text: "Niche firms benefit from cultivating relationships with a small, trusted set of attorneys handling adjacent practice areas, creating a reliable two-way referral pipeline rather than scrambling to find somewhere to send an off-focus inquiry each time one arrives. This network also reinforces the niche positioning itself, since consistently referring out matters outside your stated focus signals genuine discipline and expertise rather than a firm simply taking whatever work comes through the door.",
+      },
+      {
+        type: "heading",
+        text: "When to Expand Beyond Your Original Niche",
+      },
+      {
+        type: "paragraph",
+        text: "A successful niche practice sometimes reaches a natural ceiling where further growth requires either expanding geographically or adding an adjacent niche, and recognizing this inflection point matters as much as the original decision to specialize. Firms that expand deliberately, applying the same disciplined, content-and-reputation-driven approach to a second niche rather than reverting to broad generalist marketing, tend to sustain the same efficiency advantages that made the original specialization successful in the first place.",
+      },
+      {
+        type: "heading",
+        text: "Tracking Whether Niche Positioning Is Actually Working",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond overall revenue growth, firms should track more specific indicators — search rankings for niche keywords, referral volume specifically citing the niche, and consultation conversion rate on niche-focused pages versus general pages — to confirm the positioning is genuinely driving results rather than assuming it works simply because it feels like the right strategic direction." },
     ],
     faqs: [
       {

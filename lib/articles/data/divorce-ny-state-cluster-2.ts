@@ -112,6 +112,34 @@ export const divorceNyStateCluster2Articles: Article[] = [
         type: "paragraph",
         text: "Manhattan and the broader New York City area see a concentration of professional practices — law firms, medical practices, financial advisory businesses — where goodwill tied to the individual owner's reputation is often the central valuation dispute. Upstate and suburban regions see more family-owned retail, restaurant, and light manufacturing businesses, where tangible assets and historical financial performance tend to carry more weight than personal goodwill. Firms should calibrate their content and valuation approach expectations to which type of business ownership is most common in their specific service area.",
       },
+      {
+        type: "heading",
+        text: "Structuring Buyouts to Protect Business Continuity",
+      },
+      {
+        type: "paragraph",
+        text: "Once a business's value is established, the harder practical question is often how the non-owner spouse gets paid their share without forcing a sale or crippling the business's cash flow. Structured buyouts paid over several years, offsetting the business owner's share against other marital assets like the marital home, or a combination of both are all common approaches, and attorneys who can discuss these structuring options confidently during a consultation demonstrate a level of practical expertise that purely academic valuation knowledge doesn't fully capture.",
+      },
+      {
+        type: "heading",
+        text: "Working With Business Owners Who Resist Full Financial Disclosure",
+      },
+      {
+        type: "paragraph",
+        text: "Business owner divorces sometimes involve a spouse who controls the business's books and is reluctant to provide full financial transparency, whether from genuine privacy concerns or an attempt to understate value. Attorneys experienced in this niche know how to use formal discovery tools, subpoenas for business records, depositions of accountants or bookkeepers, to compel disclosure when informal cooperation isn't forthcoming, and firms marketing to this segment should be prepared to discuss this reality candidly with prospects worried about exactly this scenario.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms should also plan for the reality that discovery-related delays on hard-to-obtain financial records can extend a business owner case's timeline considerably beyond what a standard divorce would take, and setting this expectation clearly with a prospect during the very first consultation helps prevent frustration months into an already complex engagement that already carries significant financial and emotional stakes for everyone involved on both sides of the matter.",
+      },
+      {
+        type: "heading",
+        text: "Building Referral Relationships With CPAs and Wealth Advisors",
+      },
+      {
+        type: "paragraph",
+        text: "Accountants and wealth advisors serving small business owners throughout New York frequently become aware of a client's marital difficulties well before that client contacts a divorce attorney directly, making these professionals a genuinely valuable referral source for firms building a business-owner-focused divorce practice. Cultivating these relationships deliberately, including educating CPAs on what triggers a genuinely complex valuation dispute versus a straightforward one, tends to produce a steadier, higher-trust referral pipeline than relying purely on paid search competing for the same expensive business-owner-related keywords across a crowded statewide market.",
+      },
     ],
     faqs: [
       {
@@ -246,6 +274,34 @@ export const divorceNyStateCluster2Articles: Article[] = [
       {
         type: "paragraph",
         text: "New York treats inheritances and gifts received by one spouse individually as separate property, but the appreciation of that separate property during the marriage can become a contested issue depending on whether marital funds or effort contributed to that appreciation. This distinction — separate property versus the appreciation of separate property — is a genuinely common source of confusion and dispute, and content addressing it specifically demonstrates a level of detail most general divorce content skips entirely.",
+      },
+      {
+        type: "heading",
+        text: "Typical Pricing for New York Divorce Leads and Transfers",
+      },
+      {
+        type: "paragraph",
+        text: "New York City divorce leads, particularly exclusive or warm-transferred volume, commonly rank among the most expensive in the country, often exceeding $150 for well-screened, high-asset prospects given the market's intense competition and high average case value. Upstate and smaller New York metros typically see meaningfully lower pricing, sometimes less than half of New York City rates for comparable exclusivity and screening depth, which is part of why firms should evaluate cost per signed case separately by region rather than assuming a single statewide benchmark applies.",
+      },
+      {
+        type: "heading",
+        text: "Building Content Around New York's Unique Legal Terminology",
+      },
+      {
+        type: "paragraph",
+        text: "New York uses some legal terminology that differs from neighboring states, referring to a divorce complaint rather than a petition in many contexts, and using specific statutory language around maintenance rather than the term alimony common elsewhere. Content and advertising that uses New York's actual legal terminology, rather than generic national language, both ranks better for the state-specific searches prospects actually use and signals genuine familiarity with New York's specific court system to a prospect comparing several firms.",
+      },
+      {
+        type: "paragraph",
+        text: "Attorneys practicing across multiple New York courthouses should also stay current on any local rules or individual judge preferences that differ from the statewide framework, since these procedural nuances can meaningfully affect case strategy even when the underlying substantive law is identical across the state.",
+      },
+      {
+        type: "heading",
+        text: "Handling High-Net-Worth Manhattan Cases Distinctly",
+      },
+      {
+        type: "paragraph",
+        text: "Manhattan's concentration of finance, real estate, and professional services wealth means firms serving this specific submarket regularly encounter co-op and condo ownership structures, hedge fund or private equity compensation, and multi-property portfolios that require valuation expertise well beyond what a standard divorce practice typically needs. Firms genuinely equipped to handle this complexity should make that expertise explicit in their marketing rather than assuming prospects will simply infer it, since this affluent, sophisticated audience actively researches and compares firms based on demonstrated experience with exactly these asset types before ever picking up the phone.",
       },
     ],
     faqs: [

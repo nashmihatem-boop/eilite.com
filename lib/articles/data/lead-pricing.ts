@@ -230,6 +230,36 @@ export const leadPricingArticles: Article[] = [
         type: "paragraph",
         text: "A complete pricing evaluation weighs the quoted price against exclusivity, screening quality, intake efficiency, and replacement policy together, arriving at a true cost-per-signed-case figure that's the only number that actually reflects a program's value to your firm. Our [Buy Leads](/buy-leads) and [Buy Warm Transfers](/buy-warm-transfers) pages detail our own approach to each of these factors.",
       },
+      {
+        type: "heading",
+        text: "A Worked Example Bringing These Factors Together",
+      },
+      {
+        type: "paragraph",
+        text: "Consider two providers quoting $100 and $140 per exclusive personal injury lead. Provider A's cheaper leads have a 60% valid contact rate and a fair credit policy for invalid leads, while Provider B's pricier leads have a 90% valid contact rate but a stingy credit policy that only covers clearly disconnected numbers. After accounting for credits, Provider A's effective cost per usable lead comes out to roughly $167 ($100 divided by 0.60), while Provider B's comes to about $156 ($140 divided by 0.90). Despite the higher sticker price, Provider B is actually the better deal once contact rate and credit policy are factored in. Layering in intake staff time — Provider A's lower-quality leads likely require more follow-up attempts per contact — would widen this gap further in Provider B's favor. This kind of complete calculation, not the headline price alone, is what should drive the actual purchasing decision.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Provider Comparison Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Request the quoted price per lead or transfer for your specific practice area and exclusivity preference.",
+          "Ask for typical valid contact rate data, ideally from a reference client in a similar practice area.",
+          "Get the credit and replacement policy in writing, including specific qualifying criteria and any per-period cap.",
+          "Confirm contract length and any volume discount tiers, along with early-exit terms if performance disappoints.",
+          "Calculate an estimated cost-per-signed-case using your own typical conversion assumptions before committing to a trial.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why Comparing Providers Side by Side Requires Consistent Assumptions",
+      },
+      {
+        type: "paragraph",
+        text: "When comparing multiple providers' pricing, it's easy to unintentionally compare apples to oranges — one provider's quote might already reflect a generous credit policy baked into a slightly higher headline price, while another's lower headline price assumes an aggressive, hard-to-qualify-for credit standard that rarely actually applies in practice. Firms should normalize comparisons by walking through the same hypothetical scenario with each provider — say, a batch of 20 leads with a specific number of invalid contacts — and asking each provider to walk through exactly how their pricing and credit policy would apply to that scenario. This concrete, scenario-based comparison surfaces real differences that a simple side-by-side price comparison often misses entirely, and it gives a firm a documented basis for the eventual purchasing decision rather than a vague impression formed from separate, inconsistent sales conversations.",
+      },
     ],
     faqs: [
       {

@@ -139,6 +139,40 @@ export const bestXCluster2Articles: Article[] = [
         type: "paragraph",
         text: "For firms looking to supplement PPC and organic efforts with additional volume, a vetted [pay-per-lead program](/buy-leads) can fill gaps without requiring the ongoing campaign management that PPC demands. Evaluating a lead source with the same rigor as any advertising vendor — checking exclusivity, verification, and actual conversion data — keeps this channel held to the same standard as the rest of a firm's advertising mix.",
       },
+      {
+        type: "heading",
+        text: "A Practical Framework for Auditing Current Advertising",
+      },
+      {
+        type: "list",
+        items: [
+          "Pull cost-per-signed-case by channel for the trailing 90 days.",
+          "Compare each channel's messaging against the specific differentiation your firm actually offers.",
+          "Confirm required disclaimers appear consistently across every active campaign.",
+          "Check whether landing pages still match what current ads promise.",
+          "Identify which channel is producing the strongest return relative to spend.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Advertising Investment",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is judging campaign success by click-through rate or cost-per-click alone, without connecting spend all the way through to signed cases and actual case value, which can make a genuinely profitable but lower-CTR campaign look weaker than a flashier one that's actually losing money. Firms also sometimes let successful campaigns run unchanged for years, missing the compounding gains that come from continuous testing and refinement based on real conversion data. Relying on a single advertising channel exclusively, rather than building a coordinated mix of paid, organic, and purchased-lead volume, is another common vulnerability that leaves a firm overly exposed to rising costs or performance shifts in any one channel.",
+      },
+      {
+        type: "heading",
+        text: "How Video and Visual Content Have Changed Legal Advertising",
+      },
+      {
+        type: "paragraph",
+        text: "Video testimonials, short-form social content, and attorney introduction videos have become an increasingly important part of well-performing legal advertising, since prospects comparing several firms often respond more strongly to seeing and hearing an attorney directly than to reading text alone. Firms investing in even modest, professionally produced video content, used consistently across landing pages and social advertising, tend to build trust faster with prospects who are making a genuinely high-stakes decision about who will represent them.",
+      },
+      {
+        type: "paragraph",
+        text: "This doesn't require a Hollywood production budget; a clear, well-lit video recorded on a smartphone with decent audio, showing genuine personality and expertise, often outperforms an overly polished but generic-feeling production that fails to convey any real sense of who the attorney actually is.",
+      },
     ],
     faqs: [
       {
@@ -301,6 +335,52 @@ export const bestXCluster2Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because SEO takes months to produce meaningful results, firms actively building out this channel often pair it with faster channels — PPC or a vetted [pay-per-lead program](/buy-leads) — to maintain lead volume during the ramp-up period. Judging SEO's success purely on short-term lead volume, before rankings have had time to mature, tends to produce premature and inaccurate conclusions about whether the investment is working.",
+      },
+      {
+        type: "heading",
+        text: "Building a Practical Checklist to Test Any 'Best SEO' Claim",
+      },
+      {
+        type: "list",
+        items: [
+          "Run the firm's site through a page speed and core web vitals checker.",
+          "Review the last three months of published content for genuine, non-templated depth.",
+          "Check Google Business Profile completeness and recent review activity.",
+          "Ask directly whether reporting ties rankings to leads and signed cases.",
+          "Request a specific example of how a past ranking improvement translated into new business.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Evaluating SEO Claims",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is accepting a provider's marketing language, including the phrase \"best lawyer SEO\" itself, at face value without requesting the specific, verifiable evidence that should back up such a claim. Firms also sometimes judge SEO performance by ranking position alone, celebrating a first-page ranking for a keyword that generates little to no actual lead volume, while overlooking less glamorous but more commercially valuable rankings further down the results page. Abandoning an SEO investment after only a few months due to slow visible progress, rather than understanding the realistic multi-month timeline this channel requires, is another common and costly pattern that wastes the initial investment before it has a chance to mature.",
+      },
+      {
+        type: "heading",
+        text: "How Local Competition Affects What 'Best' Actually Requires",
+      },
+      {
+        type: "paragraph",
+        text: "What qualifies as genuinely strong SEO work varies significantly by market competitiveness — a solo practitioner in a smaller market may achieve strong rankings with a modest, consistent content investment, while a firm competing in a dense, high-value metro area for personal injury or mass tort terms may need a substantially more comprehensive technical, content, and link-building strategy just to reach page one. Firms should calibrate expectations, and provider claims, against their own specific market's competitive intensity rather than assuming a universal standard applies equally everywhere.",
+      },
+      {
+        type: "heading",
+        text: "Signs an SEO Program Is Genuinely on Track",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond raw ranking position, a handful of practical signals help a firm judge whether its SEO investment is progressing normally rather than stalling. Organic traffic to practice-area pages should show a gradual upward trend over successive months, even before rankings hit page one. New content should be indexed and appearing in search results within a reasonable window after publication, generally days rather than months. And critically, at least some portion of organic traffic should be converting into trackable leads or consultation requests, confirming the traffic reaching the site actually matches genuine prospect intent rather than attracting visitors unlikely to ever become clients.",
+      },
+      {
+        type: "paragraph",
+        text: "Reviewing these signals monthly, rather than only checking overall ranking position sporadically, gives firm leadership a clearer, earlier read on whether an SEO investment is genuinely progressing as expected.",
+      },
+      {
+        type: "paragraph",
+        text: "A simple monthly dashboard tracking these few key indicators, shared consistently with firm leadership, also makes it much easier to have an informed conversation with an SEO provider or agency about progress, rather than relying entirely on the provider's own self-reported summary.",
       },
     ],
     faqs: [

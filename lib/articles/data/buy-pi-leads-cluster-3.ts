@@ -59,6 +59,14 @@ export const buyPiLeadsCluster3Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Verified Personal Injury Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Fully verified, exclusive personal injury leads with fraud screening, consent certification, and basic case-merit details typically run $75 to $250 or more depending on injury severity and case complexity, meaningfully above the $20 to $50 range common for unscreened, shared volume. Firms new to this category should request a modest trial batch before committing to ongoing spend, comparing actual signed-case conversion against the premium paid to confirm the verification investment is genuinely paying off for their own specific practice and case mix.",
+      },
+      {
+        type: "heading",
         text: "How Consent Certification Actually Protects Your Firm",
       },
       {
@@ -114,6 +122,22 @@ export const buyPiLeadsCluster3Articles: Article[] = [
       {
         type: "paragraph",
         text: "Verification data is only useful if intake staff actually see and use it. Leads should arrive with verification status, consent documentation, and any captured case details visible directly in the CRM record intake staff work from, rather than buried in a separate report no one checks in real time. Firms that build this into their workflow from day one tend to get more consistent value from verified leads than firms that treat verification as a background compliance checkbox disconnected from the actual intake conversation.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Evaluating Verification Claims",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is accepting a provider's verbal assurance of \"full verification\" without asking for specifics, only to discover later that verification meant a basic phone number check rather than the fraud detection, consent certification, and compliance screening the term implies at a genuinely reputable source. Firms also sometimes assume verification is a one-time vendor claim rather than an ongoing standard, failing to periodically re-confirm that a long-standing provider is still applying the same rigor as when the relationship first began.",
+      },
+      {
+        type: "heading",
+        text: "Building a Long-Term Relationship With a Verified Lead Provider",
+      },
+      {
+        type: "paragraph",
+        text: "Once a provider's verification standards have been confirmed and tested through an initial trial, firms benefit from treating the relationship as an ongoing partnership rather than a purely transactional arrangement renegotiated from scratch every few months. Sharing feedback about which verified leads actually converted well, and which didn't despite passing every screening check, helps a good provider refine their sourcing and screening criteria over time, ultimately producing better-matched volume for the firm as the relationship matures over successive months and quarters.",
       },
     ],
     faqs: [
@@ -225,6 +249,14 @@ export const buyPiLeadsCluster3Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Mistake: Overlooking How Practice Area Focus Affects Fit",
+      },
+      {
+        type: "paragraph",
+        text: "A general personal injury lead provider may deliver a mix of case types, standard auto accidents, slip-and-fall, dog bites, that doesn't match a firm specializing narrowly in a specific niche like trucking accidents or medical malpractice. Firms should confirm a provider's actual sourcing mix aligns with their real practice focus before committing to volume, rather than assuming a generic \"personal injury leads\" label automatically means a good fit for a specialized, higher-value practice focus like these particular niches.",
+      },
+      {
+        type: "heading",
         text: "Building a Fair Evaluation Process From the Start",
       },
       {
@@ -259,6 +291,22 @@ export const buyPiLeadsCluster3Articles: Article[] = [
           "A minimum evaluation period (typically four to eight weeks) agreed to before drawing conclusions.",
           "Return and credit policy for invalid leads reviewed and understood upfront.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Mistake: Not Aligning Lead Spend With Intake Capacity",
+      },
+      {
+        type: "paragraph",
+        text: "Firms sometimes purchase more leads than their intake team can actually respond to promptly, especially during an enthusiastic initial ramp-up with a new provider, which quietly erodes conversion across the entire batch rather than just the excess volume. Confirming realistic intake capacity before committing to a given monthly volume, and scaling purchases in step with actual staffing rather than ahead of it, protects the return on every dollar spent rather than diluting it across more leads than the firm can properly serve. This exact mismatch is often the real hidden culprit when a firm wrongly concludes a genuinely solid lead source simply wasn't working out well.",
+      },
+      {
+        type: "heading",
+        text: "Mistake: Failing to Document What 'Working' Actually Means",
+      },
+      {
+        type: "paragraph",
+        text: "Firms sometimes start a trial with a new lead source without first agreeing internally on what success actually looks like, whether that's a specific cost-per-signed-case target, a minimum consultation-booked rate, or another concrete benchmark, resulting in a subjective, hard-to-resolve debate once results come in. Defining this threshold in writing before the trial begins gives everyone involved a shared, objective standard to evaluate the source against, rather than relying on differing gut impressions of whether the results felt good enough.",
       },
     ],
     faqs: [

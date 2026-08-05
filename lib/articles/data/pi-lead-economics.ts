@@ -50,6 +50,14 @@ export const piLeadEconomicsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "How Consent Documentation Affects Price",
+      },
+      {
+        type: "paragraph",
+        text: "Leads generated with properly documented consent, certified through a platform like Jornaya or TrustedForm, typically cost more than undocumented leads, and that added cost is generally worth paying. A firm buying leads without clear consent documentation takes on real TCPA exposure if a contacted prospect later disputes having agreed to be reached, a risk that's straightforward to avoid simply by treating documented consent as a baseline requirement rather than an optional add-on when comparing providers.",
+      },
+      {
+        type: "heading",
         text: "Geographic and Vehicle-Type Variation",
       },
       {
@@ -106,6 +114,30 @@ export const piLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "A single \"average\" cost figure for personal injury leads obscures more than it reveals, given how much these factors vary. A more useful comparison looks at cost-per-signed-case within a specific severity and geography segment, rather than an industry-wide average that mixes radically different lead types together. Our [Buy Leads](/buy-leads) page details how pricing is structured by these specific factors.",
+      },
+      {
+        type: "heading",
+        text: "Actual Dollar Figures Across the Range",
+      },
+      {
+        type: "paragraph",
+        text: "Putting concrete numbers to the table above: shared, general-severity, form-based leads commonly run $40 to $100. Exclusive, general-severity leads run $100 to $250. Shared, catastrophic-severity leads run $150 to $350, while exclusive, catastrophic-severity warm transfers can command $400 to $900 or more given the exceptional case value involved in matters like traumatic brain injury or wrongful death. Commercial trucking and motorcycle accident leads typically price 20% to 50% above comparable standard auto accident leads within the same exclusivity and severity tier, reflecting their generally higher settlement potential. Firms should treat these as planning ranges rather than fixed quotes, since actual pricing shifts with local market competition and a given provider's specific screening depth.",
+      },
+      {
+        type: "heading",
+        text: "How to Build Your Own Internal Benchmark Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "Industry-wide pricing ranges are a useful starting point, but the most valuable benchmark a firm can build is its own historical data: what it has actually paid, by segment, and what signed-case rate and average fee that spend produced. Maintaining even a simple running log of this data by source and segment, reviewed quarterly, lets a firm negotiate from a position of real evidence rather than relying entirely on general market ranges, and makes it much easier to spot when a specific provider's pricing or quality has quietly drifted away from what the firm has historically experienced.",
+      },
+      {
+        type: "heading",
+        text: "Negotiating Pricing With Volume and Loyalty",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that consistently buy meaningful, predictable volume from a single provider often have real room to negotiate better pricing over time, particularly once a track record of steady purchasing and reasonable dispute rates is established. Providers value predictable revenue and reduced churn, and a firm willing to commit to a defined, ongoing volume in exchange for improved per-lead pricing or better dispute terms is often in a stronger negotiating position than a firm buying opportunistically and inconsistently from many different sources over time.",
       },
     ],
     faqs: [
@@ -195,6 +227,14 @@ export const piLeadEconomicsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Accounting for Intake Labor in the True Cost",
+      },
+      {
+        type: "paragraph",
+        text: "The quoted per-lead price is never the full story, since every lead also consumes staff time to contact, qualify, and follow up on, regardless of whether it ultimately converts. A firm spending 15 minutes of intake staff time per lead at a fully loaded cost of $30 an hour is adding roughly $7.50 in labor to every lead's true cost, an amount that matters more for high-volume, lower-priced shared leads than for smaller-volume exclusive or warm transfer programs. Including this labor cost in any cost-per-signed-case calculation, rather than treating it as invisible overhead, gives a more honest picture of what a lead program actually costs to run.",
+      },
+      {
+        type: "heading",
         text: "How Firm Size Should Shape Your Pricing Expectations",
       },
       {
@@ -228,6 +268,22 @@ export const piLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Rather than asking a provider for a generic price, specify your exact criteria — severity range, exclusivity, geography, delivery format — and ask for pricing against that specific configuration. Our [Buy Leads](/buy-leads) and [Buy Warm Transfers](/buy-warm-transfers) pages let you configure delivery against these exact variables.",
+      },
+      {
+        type: "heading",
+        text: "Actual Price Benchmarks by Configuration",
+      },
+      {
+        type: "paragraph",
+        text: "With the caveats above in mind, here are concrete figures to anchor expectations. Shared, general-severity form leads: $40 to $100. Exclusive, general-severity form leads: $100 to $250. Shared warm transfers: $150 to $350. Exclusive warm transfers for catastrophic-severity cases: $400 to $900 or more. Commercial trucking and motorcycle cases typically add a 20% to 50% premium over comparable standard auto pricing within the same tier. Major metros like Los Angeles, Miami, or Chicago tend to sit toward the top of each range, while smaller regional markets sit toward the bottom. Use these as planning benchmarks, then confirm actual current pricing directly with any provider you're evaluating.",
+      },
+      {
+        type: "heading",
+        text: "A Worked Example of Working Backward From Case Value",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm with an average signed personal injury case worth $4,500 in fees, converting one in six qualified consultations into a signed client. That's a maximum sustainable cost of roughly $750 per signed case, if the firm wants acquisition cost to stay under about 17% of case value. Working backward through a 20% consultation-to-signed rate and a further contact-to-consultation rate of 40%, the firm can afford to pay up to roughly $60 per lead at that blended conversion chain. Comparing that ceiling against actual provider quotes, rather than reacting to sticker price in isolation, is what turns this framework from an abstract idea into a specific, actionable number for that firm's next budget conversation.",
       },
     ],
     faqs: [
@@ -352,6 +408,14 @@ export const piLeadEconomicsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Getting a Second Opinion From Peer Firms",
+      },
+      {
+        type: "paragraph",
+        text: "Before committing to a meaningful budget, talking with another firm in a comparable market and practice mix, ideally not a direct local competitor, about their actual experience with purchased leads can surface practical details a vendor's sales pitch won't mention: realistic conversion rates, common early mistakes, and honest feedback on specific providers. This kind of peer conversation often provides a more grounded, credible basis for the decision than marketing materials alone.",
+      },
+      {
+        type: "heading",
         text: "When to Pause or Renegotiate a Lead Program",
       },
       {
@@ -365,6 +429,22 @@ export const piLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Personal injury leads are generally worth it for firms with fast, disciplined intake and clear case-acceptance criteria, and a poor investment for firms without that operational foundation regardless of lead quality. For the pricing factors that determine what you should expect to pay, see our guide to [how much personal injury leads cost](/learning-center/how-much-do-personal-injury-attorney-leads-cost).",
+      },
+      {
+        type: "heading",
+        text: "A Concrete Worked Example",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm testing exclusive leads at $175 each, buying 30 over a month for $5,250. With disciplined intake responding within five minutes, the firm converts 22%, producing roughly 7 signed cases at an average fee of $3,800, or $26,600 in eventual fee revenue against $5,250 in lead spend, before intake labor. If that same firm let response times slip to 45 minutes due to competing priorities, conversion might fall to 10%, producing only 3 signed cases and $11,400 in revenue from the identical spend. This gap illustrates concretely why the answer to \"are these leads worth it\" often has less to do with the leads themselves and more to do with whether the firm's own execution captures the value the leads are capable of producing.",
+      },
+      {
+        type: "heading",
+        text: "Weighing the Opportunity Cost of This Decision",
+      },
+      {
+        type: "paragraph",
+        text: "Committing budget to purchased leads means that money isn't available for other growth investments, additional intake staff, content production, or referral relationship building, so the real question isn't simply whether purchased leads produce a positive return in isolation, but whether they produce the best return relative to the alternatives available to a specific firm at its current stage. A firm with strong existing referral flow and limited intake capacity might get a better marginal return investing in a second intake hire than in additional purchased volume, while a firm with underutilized intake capacity and no existing referral network is likely better served by purchased leads first.",
       },
     ],
     faqs: [

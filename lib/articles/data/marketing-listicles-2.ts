@@ -114,6 +114,29 @@ export const marketingListicles2Articles: Article[] = [
           "Treating the funnel as a one-time project rather than something reviewed and refined on an ongoing basis.",
         ],
       },
+      {
+        type: "heading",
+        text: "Mapping Funnel Content to Search Intent Types",
+      },
+      {
+        type: "paragraph",
+        text: "Search queries generally fall into a few broad intent categories, informational (\"what happens after a car accident\"), navigational (searching for your firm by name), and transactional (\"car accident lawyer near me\"), and each maps naturally to a different funnel stage. Building content deliberately for each intent type, rather than producing generic pages that don't clearly target any one of them, helps a prospect find genuinely relevant content at whichever stage of their research they currently sit in.",
+      },
+      {
+        type: "heading",
+        text: "Using a CRM to Track Prospects Across Stages",
+      },
+      {
+        type: "paragraph",
+        text: "A funnel only stays coherent in practice if a firm can actually see where each individual prospect currently sits within it, which requires a CRM configured to tag leads by stage and update that status as the relationship progresses. Without this visibility, staff often rely on memory or scattered notes to track where a given prospect stands, which breaks down quickly once lead volume grows beyond what one person can track informally.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting Funnel Design as the Firm Grows",
+      },
+      {
+        type: "paragraph",
+        text: "A funnel built for a solo practitioner handling every stage personally looks meaningfully different from one built for a firm with dedicated marketing and intake staff, and firms that scale without revisiting their original funnel design often end up with a structure that no longer matches how the firm actually operates. Periodically reassessing whether each stage still has a clear owner, and whether handoffs between stages are still working smoothly, keeps the funnel functional and effective as the underlying firm continues to change shape and grow over time." },
     ],
     faqs: [
       {
@@ -255,6 +278,36 @@ export const marketingListicles2Articles: Article[] = [
         type: "paragraph",
         text: "When a prospect pushes back specifically on cost, resisting the urge to immediately discount is usually the better approach — instead, clarifying exactly what's included in the fee and how it compares to the risk or cost of not addressing the legal matter at all often resolves the objection more durably than a price concession, which can also undermine perceived value.",
       },
+      {
+        type: "heading",
+        text: "Handling Consultations With Multiple Decision-Makers",
+      },
+      {
+        type: "paragraph",
+        text: "Some consultations involve more than one decision-maker, a spouse weighing in on a family law matter, an adult child helping an aging parent evaluate an estate planning decision, and attorneys who address every participant directly, rather than focusing exclusively on the primary client, tend to build trust with the whole group rather than leaving a secondary decision-maker feeling sidelined and potentially raising last-minute objections after the meeting ends.",
+      },
+      {
+        type: "heading",
+        text: "Recording Consultations for Training Purposes",
+      },
+      {
+        type: "paragraph",
+        text: "With appropriate consent and compliance with applicable recording laws, reviewing recorded consultations, both ones that converted and ones that didn't, reveals specific, concrete patterns that generic conversion advice can't capture for a particular firm's own practice area and client base. Firms that build a regular habit of this kind of review tend to identify and correct small, fixable issues in their consultation approach faster than firms relying on instinct or occasional anecdotal feedback alone.",
+      },
+      {
+        type: "heading",
+        text: "Coaching Attorneys Consistently Across the Firm",
+      },
+      {
+        type: "paragraph",
+        text: "Conversion rates often vary meaningfully between individual attorneys at the same firm, and rather than treating this as simply an unchangeable difference in personal style, firms that pair a struggling attorney with a strong performer for a few observed or shadowed consultations tend to close that gap faster than generic coaching advice ever could. Making this kind of peer coaching a normal, non-punitive part of firm culture, rather than something reserved for underperformance reviews, encourages attorneys to seek it out proactively and consistently over time." },
+      {
+        type: "heading",
+        text: "Handling Consultations for Highly Emotional Matters",
+      },
+      {
+        type: "paragraph",
+        text: "Practice areas involving genuine personal crisis, divorce, criminal defense, a serious injury, require a consultation approach that leads with empathy well before moving into logistics or fee discussion, since a prospect in this state often can't fully absorb procedural details until they feel genuinely heard. Attorneys who rush past this emotional acknowledgment in favor of efficiency frequently see lower conversion in these practice areas specifically, even when their legal advice and fee structure are perfectly reasonable." },
     ],
     faqs: [
       {
@@ -390,6 +443,36 @@ export const marketingListicles2Articles: Article[] = [
         type: "paragraph",
         text: "Automation tools handling client communication and case information should meet the same confidentiality and data security standards as any other part of a firm's tech stack. Confirming a vendor's data handling practices, encryption standards, and compliance certifications before adopting a tool is a worthwhile diligence step, particularly for automations that touch sensitive client information rather than purely administrative tasks like appointment reminders.",
       },
+      {
+        type: "heading",
+        text: "Balancing Automation With Attorney Availability Signals",
+      },
+      {
+        type: "paragraph",
+        text: "Automated communication should generally avoid implying an attorney is immediately, personally available around the clock, since setting that expectation and then failing to meet it can damage trust more than never having made the promise at all. Clear, honest automated messaging, confirming receipt and giving a realistic response window rather than suggesting instant personal attention, tends to manage expectations better than vague reassurance that oversells actual availability.",
+      },
+      {
+        type: "heading",
+        text: "Sunsetting Automations That Aren't Working",
+      },
+      {
+        type: "paragraph",
+        text: "Not every automation a firm tries ends up earning its keep, and firms benefit from being willing to retire a tool or sequence that isn't producing measurable value after a fair trial period, rather than continuing to pay for and maintain it simply because it's already in place. Periodically reviewing the full list of active automations against their actual measured impact keeps a firm's tech stack lean and genuinely useful rather than accumulating unused or underperforming subscriptions over time.",
+      },
+      {
+        type: "heading",
+        text: "Assigning Ownership of the Firm's Automation Stack",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm adopts more automation tools over time, it's easy for no single person to actually own monitoring and maintaining the full stack, leading to broken workflows, outdated templates, or duplicate tools nobody remembers to consolidate. Naming a specific person responsible for periodically auditing every active automation, even in a small firm where that's a part-time responsibility layered onto another role, keeps the system from quietly degrading as tools accumulate and staff turnover occurs." },
+      {
+        type: "heading",
+        text: "Piloting New Automation With a Small Test Group",
+      },
+      {
+        type: "paragraph",
+        text: "Before rolling a new automation out firm-wide, testing it with a small subset of leads or a single intake staff member for a few weeks surfaces problems, awkward phrasing, incorrect triggers, unexpected timing, while the impact of any issue is still limited, rather than discovering the same problems only after the tool is already handling every incoming prospect." },
     ],
     faqs: [
       {

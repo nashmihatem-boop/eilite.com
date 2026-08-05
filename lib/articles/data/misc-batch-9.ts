@@ -227,6 +227,30 @@ export const miscBatch9Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "What Damages Can Be Recovered in a Car Accident Lawsuit",
+      },
+      {
+        type: "paragraph",
+        text: "Damages in a car accident lawsuit typically fall into a few broad categories: economic damages like medical bills, lost wages, and vehicle repair costs, which are generally the most straightforward to document and calculate; and non-economic damages like pain and suffering, which are harder to quantify precisely and often depend on the severity and lasting impact of the injury. In cases involving especially reckless conduct, such as drunk driving, some states also allow punitive damages intended to punish the at-fault driver rather than simply compensate the victim, though these are awarded far less frequently than economic or non-economic damages.",
+      },
+      {
+        type: "heading",
+        text: "The Role of Insurance Companies Throughout the Process",
+      },
+      {
+        type: "paragraph",
+        text: "Even after a lawsuit is filed, the at-fault driver's insurance company typically remains heavily involved, often providing the attorney defending the case and controlling settlement authority up to the policy limits. Understanding that you're generally negotiating against an insurance company's legal team, not the individual driver personally, helps explain why these cases can move slowly and why insurers sometimes wait until close to a trial date before making a more serious settlement offer, once the cost and uncertainty of an actual trial becomes more immediate and concrete.",
+      },
+      {
+        type: "heading",
+        text: "Mediation and Alternative Paths to Resolution",
+      },
+      {
+        type: "paragraph",
+        text: "Many car accident lawsuits go through mediation, a structured negotiation session with a neutral third party, before ever reaching trial, and some courts require this step as part of standard litigation procedure. Mediation gives both sides a genuine opportunity to resolve the case with more control over the outcome than a jury trial would provide, and a significant share of cases that don't settle earlier in discovery do resolve at or shortly after mediation, making it a meaningful checkpoint worth understanding as your case progresses through the process.",
+      },
+      {
+        type: "heading",
         text: "Making the Decision to File",
       },
       {

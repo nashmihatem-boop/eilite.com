@@ -96,6 +96,44 @@ export const firmGrowthArticles: Article[] = [
         type: "paragraph",
         text: "Growth that lasts comes from addressing demand, intake, and operations together rather than treating marketing spend as the only lever. For the specific tactics that work well for smaller firms with limited resources, see our guide to [small law firm marketing](/learning-center/small-law-firm-marketing).",
       },
+      {
+        type: "heading",
+        text: "A Worked Example: Diagnosing a Real Bottleneck",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm generating 80 leads a month, contacting 60 of them, booking 25 consultations, and signing 10 new clients. Looking at each transition: 75% of leads get contacted (a reasonable rate), roughly 42% of contacted leads book a consultation, and 40% of consultations convert to signed clients. If this firm's leadership assumed the problem was lead volume and doubled marketing spend without addressing anything else, they'd likely see contact rate drop as intake staff strain to handle the increased volume, potentially producing fewer, not more, signed clients despite the higher spend. The actual highest-leverage fix here is probably the contact-to-consultation step, where over half of contacted leads aren't booking — worth investigating through call recordings or a review of the actual conversation before assuming more top-of-funnel volume is the answer.",
+      },
+      {
+        type: "heading",
+        text: "Practical Intake Capacity Benchmarks",
+      },
+      {
+        type: "list",
+        items: [
+          "A single dedicated intake staffer handling calls attentively can typically manage 15 to 30 substantive conversations per day, depending on average call length.",
+          "Response time under five minutes during business hours is a reasonable target for maximizing contact rate.",
+          "A consultation booking rate below 50% of contacted leads often signals a scripting or follow-up gap worth investigating.",
+          "A consultation-to-signed-client rate below 30% frequently points to a pricing transparency or closing-conversation issue.",
+          "Case backlog growing faster than case resolution rate for more than two consecutive months signals a capacity problem worth addressing before adding more volume.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building a Simple Capacity Model",
+      },
+      {
+        type: "paragraph",
+        text: "A rough capacity model doesn't need sophisticated software to start — a spreadsheet tracking how many active cases each attorney or paralegal currently handles, compared to a reasonable maximum based on typical case complexity and duration, gives a firm an early warning system before capacity actually becomes a visible problem. Updating this model monthly, and comparing projected new case volume against current available capacity, helps a firm make hiring or process-improvement decisions proactively rather than reactively once service quality has already started slipping. Firms that build this habit early, even informally, tend to have much smoother growth trajectories than those that only notice a capacity problem once client complaints or missed deadlines make it impossible to ignore. The model doesn't need to be perfect to be useful — even a rough estimate updated consistently beats no visibility into capacity at all.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Diagnostic Regularly, Not Just Once",
+      },
+      {
+        type: "paragraph",
+        text: "A firm's actual bottleneck shifts over time — fixing an intake problem might reveal a downstream case-capacity constraint that wasn't visible before, since the leads that used to stall at intake are now flowing through to a stage that's suddenly seeing more volume than it's used to. Running this bottleneck diagnostic quarterly, rather than treating it as a one-time exercise, keeps a growing firm focused on whichever constraint is currently limiting growth rather than continuing to address a problem that's already been solved.",
+      },
     ],
     faqs: [
       {
@@ -206,6 +244,52 @@ export const firmGrowthArticles: Article[] = [
       {
         type: "paragraph",
         text: "Institutional development builds compounding, durable growth over years, while paid channels including [pay-per-lead programs](/buy-leads) fill nearer-term volume needs. Firms that build both simultaneously tend to be more resilient to any single channel's fluctuations than firms relying heavily on either alone.",
+      },
+      {
+        type: "heading",
+        text: "A Sample Development Skills Curriculum for Associates",
+      },
+      {
+        type: "list",
+        items: [
+          "Year 1: shadow a senior attorney at networking events and community involvement, observing before participating directly.",
+          "Year 2: begin contributing to firm content — a blog post, a CLE presentation, co-authoring with a mentor.",
+          "Year 3: take on an independent speaking engagement or community leadership role with firm support.",
+          "Year 4: begin building and documenting personal referral relationships, tracked in the firm's shared system.",
+          "Ongoing: regular check-ins with a designated mentor specifically about development progress, separate from case-related supervision.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What Good Mentorship for Business Development Looks Like",
+      },
+      {
+        type: "paragraph",
+        text: "Effective development mentorship goes beyond simply telling an associate to \"get more involved\" — it means a senior attorney actively including a junior colleague in real relationship-building activities, introducing them directly to referral contacts, and giving specific, actionable feedback on early attempts at content or public speaking rather than vague encouragement. Firms that pair each associate with a specific development mentor, distinct from their primary case supervisor, tend to see faster skill-building than firms that leave development learning entirely informal and self-directed. This mentorship relationship works best when it's built into regular calendar time — a standing monthly check-in specifically about development progress — rather than left to happen only when both parties happen to have a free moment.",
+      },
+      {
+        type: "heading",
+        text: "How to Introduce Development Expectations Without Overwhelming New Associates",
+      },
+      {
+        type: "paragraph",
+        text: "New associates are often already stretched thin building core legal skills and managing billable hour expectations, so introducing development responsibilities gradually, rather than all at once in year one, tends to produce better long-term engagement than an overwhelming initial expectation. Starting with low-commitment activities — attending an industry event, contributing a paragraph to a firm newsletter — before working up to more substantial commitments like an independent speaking engagement gives associates room to build genuine comfort and skill rather than treating development as an unwelcome additional burden layered on top of an already demanding first few years of practice.",
+      },
+      {
+        type: "heading",
+        text: "Measuring Whether the Curriculum Is Actually Working",
+      },
+      {
+        type: "paragraph",
+        text: "A firm rolling out a structured development curriculum should track participation and skill progression, not just eventual revenue, especially in the early years when a formal program is still new. Simple metrics — how many associates completed each year's expected activities, how confidence and comfort with development tasks changed based on periodic self-assessment or mentor feedback — give a firm useful signal about whether the curriculum itself needs adjustment, well before enough time has passed to see the revenue impact of associates who went through the full multi-year program.",
+      },
+      {
+        type: "heading",
+        text: "Adjusting the Curriculum as the Firm Grows",
+      },
+      {
+        type: "paragraph",
+        text: "A development curriculum built for a five-attorney firm won't necessarily fit unchanged once the firm reaches fifteen or twenty attorneys, since the mentorship ratio, available speaking and content opportunities, and even the definition of what counts as meaningful development activity can all shift with scale. Revisiting the curriculum every few years, rather than treating the original version as permanent, keeps it genuinely useful as the firm's size and needs evolve well beyond its original starting point.",
       },
     ],
     faqs: [
@@ -325,6 +409,59 @@ export const firmGrowthArticles: Article[] = [
       {
         type: "paragraph",
         text: "The specific timeline varies by practice area, market, and available capital, but skipping steps — particularly operational foundation and intake process — tends to create problems that compound as a firm scales. For the ongoing growth framework once these foundations are in place, see our guide to [how to grow a law firm](/learning-center/how-to-grow-a-law-firm).",
+      },
+      {
+        type: "heading",
+        text: "A Practical First 90 Days Checklist for a New Firm",
+      },
+      {
+        type: "list",
+        items: [
+          "Weeks 1-2: set up core case management, billing, and trust accounting systems before taking on any client work.",
+          "Weeks 1-2: define a clear, even if simple, intake process — who answers calls, how leads are logged, what happens next.",
+          "Weeks 3-4: reach out directly to former colleagues and professional contacts to announce the new practice.",
+          "Month 2: begin building a basic website and Google Business Profile, even before a full marketing budget exists.",
+          "Month 2-3: handle the first client engagements with careful attention to documentation and communication protocol, since these early experiences shape word-of-mouth reputation disproportionately.",
+          "Month 3: review what's working from initial network outreach and start planning the next phase of organic and paid marketing investment.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Early-Stage Mistakes Beyond Operations",
+      },
+      {
+        type: "list",
+        items: [
+          "Underpricing services to win early clients, then struggling to raise rates later without losing those same clients.",
+          "Taking on any case that comes in, regardless of fit, diluting the firm's ability to build a clear reputation.",
+          "Delaying marketing investment until the firm \"has more time,\" which often means starting months later than ideal.",
+          "Not setting up basic financial tracking, making it hard to know whether the firm is actually profitable early on.",
+          "Trying to build every system perfectly before taking on any clients, delaying revenue unnecessarily.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Balancing Perfectionism Against Momentum in the Early Months",
+      },
+      {
+        type: "paragraph",
+        text: "New firm founders sometimes fall into one of two opposite traps: moving so fast that basic systems never get properly built, or delaying client work indefinitely while trying to perfect every process before taking on a single case. The more sustainable approach sits between these extremes — building genuinely solid foundations for the highest-stakes systems (trust accounting, basic compliance, a simple intake process) while accepting that marketing content, detailed case management workflows, and other lower-stakes systems can improve iteratively alongside actual client work rather than needing to be perfect from day one.",
+      },
+      {
+        type: "heading",
+        text: "Learning From Early Missteps Without Losing Momentum",
+      },
+      {
+        type: "paragraph",
+        text: "Nearly every new firm makes some early missteps — an underpriced engagement, a missed follow-up, an intake process gap that let a promising lead slip through. What separates firms that recover well from those that don't is usually how quickly the founder identifies the specific gap and fixes the underlying process, rather than treating each misstep as an isolated incident to move past without changing anything. Keeping a simple running list of \"things that went wrong and what we changed\" during the first year creates a genuinely useful reference as the firm scales and inevitably brings on staff who weren't there to learn those lessons firsthand.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Sequence as the Firm Matures",
+      },
+      {
+        type: "paragraph",
+        text: "The five-step sequence outlined here doesn't stop applying once a firm reaches an initial stable size — a firm expanding into a new practice area or opening a second office effectively restarts parts of this sequence at a smaller scale, needing its own focused early marketing, its own operational adjustments, and its own network-driven initial client base within that new area. Recognizing this pattern helps an established firm approach expansion with the same deliberate sequencing that served it well during the original startup phase, rather than assuming existing systems will automatically extend to a genuinely new part of the business.",
       },
     ],
     faqs: [

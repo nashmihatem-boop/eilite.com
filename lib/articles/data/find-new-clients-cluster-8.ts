@@ -128,7 +128,7 @@ export const findNewClientsCluster8Articles: Article[] = [
       "An annual client appreciation event strengthens past-client relationships and creates natural opportunities for referral conversations in a low-pressure setting.",
     metaDescription: "An annual client appreciation event strengthens past-client relationships and creates natural referral conversation opportunities.",
     category: "Law Firm Marketing",
-    readTime: "8 min read",
+    readTime: "6 min read",
     publishedDate: "2026-08-22",
     updatedDate: "2026-08-05",
     relatedSlugs: cr8,
@@ -215,6 +215,22 @@ export const findNewClientsCluster8Articles: Article[] = [
       {
         type: "paragraph",
         text: "The most common mistake is letting the event drift into a thinly veiled sales pitch, whether through a presentation about the firm's services or staff who spend the evening angling for referrals rather than genuinely socializing. Another common mistake is treating the event as a one-time experiment rather than committing to it as a recurring practice, which undercuts the cumulative relationship-building value that makes this tactic worthwhile in the first place. Firms that get real value from appreciation events tend to treat them as a standing part of their annual calendar rather than a reactive, occasional idea.",
+      },
+      {
+        type: "heading",
+        text: "Handling a Guest List That Outgrows a Single Venue",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm's client base grows, a single small gathering may no longer comfortably accommodate everyone worth inviting, and firms facing this growth face a real choice: expand to a larger venue and accept a less intimate atmosphere, or split the guest list across multiple smaller events held on different dates. Many growing firms find that splitting into two or three smaller gatherings, perhaps organized by practice area or referral relationship type, preserves the intimate quality that makes these events effective in the first place, even as overall attendance grows year over year.",
+      },
+      {
+        type: "heading",
+        text: "Following Up With Clients Who Couldn't Attend",
+      },
+      {
+        type: "paragraph",
+        text: "Not every invited client will be able to attend on a given date, and simply letting those relationships go unacknowledged wastes an opportunity these clients would likely appreciate. A brief personal note or small gesture sent to non-attendees, acknowledging that they were missed and expressing hope to see them next time, keeps the relationship warm even without the in-person interaction, and costs very little relative to the goodwill it generates among clients who genuinely wanted to attend but simply couldn't make the date work.",
       },
     ],
     faqs: [

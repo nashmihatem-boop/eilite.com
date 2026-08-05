@@ -273,6 +273,14 @@ export const miscBatch5Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Documenting the Funnel So It Doesn't Live Only in One Person's Head",
+      },
+      {
+        type: "paragraph",
+        text: "A funnel that only one person fully understands, usually whoever built it originally, creates real risk if that person is unavailable or leaves the firm. Writing down each stage's goals, the content or tools supporting it, and how success is measured ensures the funnel survives staff turnover and gives new team members a clear reference rather than requiring them to piece the system together from scattered institutional memory.",
+      },
+      {
+        type: "heading",
         text: "Aligning Marketing and Intake Teams Around the Same Funnel",
       },
       {
@@ -322,6 +330,22 @@ export const miscBatch5Articles: Article[] = [
       {
         type: "paragraph",
         text: "A firm just beginning to formalize its funnel doesn't need every tool and system at once — starting with basic call tracking and a simple spreadsheet-based intake log is often enough to surface the first round of improvements before investing in more sophisticated software.",
+      },
+      {
+        type: "heading",
+        text: "A Worked Example of Funnel-Stage Diagnosis",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm with 2,000 monthly website visitors, 40 of whom submit an inquiry (a 2% visitor-to-inquiry rate), 25 of whom schedule a consultation (a 62.5% inquiry-to-consultation rate), and 8 of whom sign as clients (a 32% consultation-to-signed rate). Comparing these figures against reasonable benchmarks for the practice area reveals where the real opportunity sits, if the visitor-to-inquiry rate is unusually low, the consideration-stage content likely needs work; if the inquiry-to-consultation rate lags, intake follow-up speed or process needs attention. Running this diagnostic with real numbers, rather than a general sense that \"the funnel isn't working,\" turns a vague concern into a specific, actionable improvement target.",
+      },
+      {
+        type: "heading",
+        text: "Budgeting Across the Four Stages",
+      },
+      {
+        type: "paragraph",
+        text: "A firm building out a full funnel might reasonably allocate $1,500 to $4,000 a month toward awareness-stage SEO and content, $500 to $2,000 toward consideration-stage assets like case result pages and video testimonials (often a one-time or periodic production cost rather than ongoing), $2,000 to $10,000 toward decision-stage purchased lead volume depending on practice area, and $100 to $500 a month toward the CRM and call-tracking tools needed to measure the whole system end to end. Firms new to formal funnel-building don't need to fund every stage at full scale immediately, prioritizing the weakest stage first typically produces a better return than spreading a modest budget thin across all four stages at once.",
       },
     ],
     faqs: [

@@ -407,6 +407,36 @@ export const divorceStates1Articles: Article[] = [
         type: "paragraph",
         text: "This article provides general information about Pennsylvania's family law framework and isn't legal advice — confirm current specifics with a licensed Pennsylvania family law attorney.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Retainer Ranges in Pennsylvania",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce leads in Philadelphia commonly run $25 to $65, while exclusive leads with confirmed consent status and case complexity often run $50 to $140 or more, with Pittsburgh and Pennsylvania's smaller metros typically pricing lower given reduced firm competition. On the retainer side, a mutual-consent case on the 90-day track might run $1,500 to $3,000 as a flat fee, while a contested unilateral case requiring the full year of separation, or a fault-based matter, can require a retainer of $5,000 to $15,000 or more depending on asset complexity and custody involvement.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Pennsylvania Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly whether the spouse is likely to consent to the divorce.",
+          "Confirm whether the couple has already begun a separation period.",
+          "Screen for fault grounds versus a straightforward no-fault situation.",
+          "Note general asset scope and whether custody is involved.",
+          "Confirm which Pennsylvania region the case will be filed in.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Pennsylvania Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is quoting a generic timeline estimate before confirming whether a case is likely to proceed on the fast mutual-consent track or the considerably longer unilateral path, which can set inaccurate expectations that damage trust once the actual timeline becomes clear. Firms also sometimes treat Philadelphia and the rest of Pennsylvania as a single market despite meaningfully different competition levels and case profiles, missing opportunities to allocate budget more efficiently across the state's other regions. Failing to prioritize fast follow-up on contested, longer-track inquiries, where prospects are often actively comparing multiple firms, is another common oversight that can lose winnable cases to a faster-responding competitor.",
+      },
     ],
     faqs: [
       {
@@ -555,6 +585,44 @@ export const divorceStates1Articles: Article[] = [
       {
         type: "paragraph",
         text: "This article provides general information about Ohio's family law framework and isn't legal advice — confirm current specifics with a licensed Ohio family law attorney.",
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Cost and Fee Ranges in Ohio",
+      },
+      {
+        type: "paragraph",
+        text: "Shared divorce and dissolution leads across Ohio's major metros commonly run $20 to $55, while exclusive leads with confirmed dissolution-versus-divorce status often run $45 to $120 or more, with Columbus, Cleveland, and Cincinnati each pricing somewhat differently given their distinct competitive dynamics. On the fee side, an uncontested dissolution with an already-agreed separation agreement might run $1,200 to $2,500 as a flat fee, while a contested divorce involving custody disputes or significant asset division can require a retainer of $5,000 to $15,000 or more depending on complexity.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Intake Process for Ohio Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Ask directly whether both spouses have already agreed on terms.",
+          "Confirm whether the prospect anticipates dissolution or a contested divorce.",
+          "Screen for custody and asset complexity to gauge case scope.",
+          "Identify which specific Ohio metro or county applies.",
+          "Explain the divorce-versus-dissolution distinction clearly during the first call.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Ohio Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is buying generic \"Ohio family law\" leads without confirming whether a provider's intake distinguishes dissolution from contested divorce, resulting in mismatched pricing expectations and wasted consultation time explaining a distinction the lead source should have already captured. Firms also sometimes apply identical marketing across Columbus, Cleveland, and Cincinnati despite their genuinely different court systems and competitive landscapes, missing an opportunity to allocate budget more efficiently. Failing to explain the divorce-versus-dissolution distinction clearly in marketing content, leaving prospects confused about which process actually applies to their situation, is another common gap that produces less-qualified, more time-consuming initial consultations.",
+      },
+      {
+        type: "heading",
+        text: "Handling Cases That Convert From Dissolution to Divorce",
+      },
+      {
+        type: "paragraph",
+        text: "Because a dissolution can convert into a contested divorce if spouses later fail to finalize their separation agreement, firms should build this possibility into both client expectations and internal case tracking from the start rather than treating dissolution as a guaranteed fast-track outcome. Setting this expectation honestly during the initial consultation, explaining that dissolution requires continued cooperation through to filing, helps prevent client frustration if the process later shifts onto the longer, more adversarial divorce track.",
       },
     ],
     faqs: [

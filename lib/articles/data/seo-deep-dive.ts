@@ -231,6 +231,42 @@ export const seoDeepDiveArticles: Article[] = [
         type: "paragraph",
         text: "Individual attorney profiles that earn external links and mentions — from speaking engagements, published articles, bar association recognition — indirectly strengthen the firm's overall domain authority as well. Attorney SEO and firm SEO aren't competing priorities; they reinforce each other. For the firm-wide technical and strategic picture, see our guides to [law firm SEO](/learning-center/law-firm-seo) and [SEO for lawyers](/learning-center/seo-for-lawyers).",
       },
+      {
+        type: "heading",
+        text: "Building a Content Cadence Around a Single Attorney",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond a static bio page, attorneys who publish periodically under their own byline, whether short articles, case commentary, or answers to common client questions, build a body of content that search engines associate specifically with that individual's name over time. This doesn't require a heavy publishing schedule; even one substantive piece a quarter, consistently maintained over a couple of years, meaningfully strengthens an attorney's personal search footprint compared to a bio page that never changes after it's first published.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating Attorney SEO Across a Growing Firm",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm adds attorneys, maintaining consistent standards for bio page depth, directory completeness, and schema markup across every individual profile becomes a genuine coordination challenge, particularly since newer or junior attorneys often have thinner profiles than established partners. Assigning clear ownership, whether a marketing coordinator or a rotating responsibility among attorneys themselves, for keeping every profile current prevents the firm's overall attorney SEO program from becoming inconsistent as headcount grows.",
+      },
+      {
+        type: "heading",
+        text: "Typical Costs Associated With Attorney SEO",
+      },
+      {
+        type: "paragraph",
+        text: "Much of attorney-level SEO work, claiming and completing directory profiles, writing a thorough bio, maintaining LinkedIn, costs primarily staff or attorney time rather than direct advertising spend, making it one of the more accessible tactics even for firms with minimal marketing budgets. Firms wanting to accelerate this work sometimes hire a freelance writer for bio and article content, typically a few hundred dollars per piece, or a specialized legal marketing agency for more comprehensive individual attorney branding packages running into the low thousands.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Attorney Profiles After Every Career Milestone",
+      },
+      {
+        type: "paragraph",
+        text: "A bio page and directory profiles that accurately reflected an attorney's experience three years ago can quietly become outdated as they take on new case types, earn a notable result, or move into a leadership role within the firm or a bar association. Building a habit of reviewing and refreshing every profile after a significant career milestone, rather than only when someone happens to notice it's stale, keeps an attorney's search presence genuinely current and avoids the awkward impression an outdated bio can create for a prospect doing careful research before reaching out.",
+      },
+      {
+        type: "paragraph",
+        text: "This same review moment is also a natural opportunity to add a fresh headshot, update any listed case results within compliant bounds, and confirm directory contact details still route correctly, small details that collectively shape a prospect's first impression.",
+      },
     ],
     faqs: [
       {
@@ -352,6 +388,43 @@ export const seoDeepDiveArticles: Article[] = [
       {
         type: "paragraph",
         text: "Content marketing compounds slowly but supports every other channel a firm runs — it gives PPC landing pages credibility, gives social media something worth sharing, and gives referral partners something to point prospects toward before they ever call. For the search-visibility side specifically, see our guide to [SEO for lawyers](/learning-center/seo-for-lawyers).",
+      },
+      {
+        type: "heading",
+        text: "Building a Realistic Content Calendar",
+      },
+      {
+        type: "paragraph",
+        text: "Firms new to content marketing often start with an ambitious publishing schedule that stalls out within a few months once the initial enthusiasm fades and day-to-day case work takes priority. A more sustainable approach starts with a modest, genuinely achievable cadence, even a single well-researched article a month, maintained consistently over a full year, which tends to produce better compounding results than an ambitious plan abandoned after eight weeks.",
+      },
+      {
+        type: "heading",
+        text: "Typical Costs Across Different Production Models",
+      },
+      {
+        type: "paragraph",
+        text: "A freelance legal writer with genuine subject-matter familiarity commonly charges $150 to $600 per article depending on length and research depth, while a full-service content agency handling strategy, writing, and publishing typically runs $2,000 to $6,000 a month for a sustained, multi-article cadence. Firms producing content in-house avoid direct per-piece cost but should account for the real value of attorney or staff time spent writing and reviewing, which is rarely genuinely free once properly accounted for." },
+      { type: "heading", text: "Repurposing Content to Multiply Its Value" },
+      { type: "paragraph", text: "A single well-researched article doesn't need to live only as a blog post; the same underlying research and insight can become a short video, a series of social posts, or an email newsletter segment, extracting more value from the time already invested in the original piece. Firms with limited bandwidth for constant new content creation often see the biggest efficiency gains simply by repurposing existing strong content more aggressively rather than always chasing new topics from scratch." },
+      {
+        type: "heading",
+        text: "Building an Internal Review Process Before Publishing",
+      },
+      {
+        type: "paragraph",
+        text: "Even when content is written by a skilled freelance writer or agency, having an attorney review each piece before it publishes catches subtle inaccuracies a non-attorney writer might not recognize, and ensures the content reflects the firm's actual practice approach rather than generic, potentially misleading information. Building this review step into a firm's standard publishing workflow, rather than treating it as an optional final check, protects both accuracy and the firm's professional reputation.",
+      },
+      {
+        type: "paragraph",
+        text: "A brief, standardized review checklist, covering factual accuracy, compliance with advertising rules, and alignment with the firm's actual practice approach, makes this step faster and more consistent than an ad hoc read-through squeezed in between other work.",
+      },
+      {
+        type: "heading",
+        text: "Aligning Content Strategy With Practice Area Priorities",
+      },
+      {
+        type: "paragraph",
+        text: "Firms handling multiple practice areas should weight content investment toward whichever areas actually drive the most revenue or represent the greatest growth opportunity, rather than distributing effort evenly across every practice area regardless of its relative importance to the firm's business. A firm generating most of its revenue from personal injury but only a small share from estate planning, for instance, should generally allocate content resources accordingly rather than treating both areas as equally deserving of publishing time and budget.",
       },
     ],
     faqs: [
@@ -476,6 +549,42 @@ export const seoDeepDiveArticles: Article[] = [
       {
         type: "paragraph",
         text: "With a limited budget, the cost of a wasted marketing dollar is proportionally higher than it is for a large firm. Simple call tracking and a habit of asking every new client how they found you turns a small budget into a continuously improving system, rather than a series of one-off bets.",
+      },
+      {
+        type: "heading",
+        text: "Leveraging Personal Relationships as a Genuine Marketing Asset",
+      },
+      {
+        type: "paragraph",
+        text: "Solo and small firm attorneys often underestimate how much their own personal network, former colleagues, law school classmates, community connections, represents a genuine, underused marketing channel that costs nothing but a bit of proactive outreach. Reconnecting periodically with these contacts, sharing relevant updates about the practice, and simply staying visible within a professional community tends to generate referral opportunities that a larger, more impersonal firm structurally can't replicate as easily.",
+      },
+      {
+        type: "heading",
+        text: "Setting Realistic Growth Expectations With a Limited Budget",
+      },
+      {
+        type: "paragraph",
+        text: "Small firms competing against larger, better-funded competitors should set growth expectations accordingly, focused on steady, compounding progress in a specific niche rather than rapid, broad-market share gains that would require a budget the firm simply doesn't have. Patience paired with disciplined execution on the fundamentals, tracked consistently over time, tends to produce a more sustainable growth trajectory than sporadic bursts of spending on tactics the firm can't consistently sustain.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Budget Allocation as the Firm Grows",
+      },
+      {
+        type: "paragraph",
+        text: "A budget allocation that made sense for a brand-new solo practice looks different once that same firm has grown to include a couple of associates and a small but steady flow of signed cases. Revisiting the allocation periodically, shifting more toward paid leads or expanded content investment once cash flow supports it, rather than staying locked into the exact same shoestring approach indefinitely, helps a growing firm scale its marketing investment in step with its actual growing capacity to serve new clients.",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that treat this as a deliberate, periodic planning exercise, rather than an afterthought revisited only when something breaks, tend to grow their marketing investment smoothly alongside the rest of the practice rather than lurching between underinvestment and reactive overspending.",
+      },
+      {
+        type: "heading",
+        text: "Building Credibility Through Genuine Community Involvement",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond digital marketing, small firm attorneys who genuinely participate in their local community, bar association committees, local business groups, volunteer legal clinics, build visibility and trust that's difficult for a larger, less locally embedded firm to replicate. This kind of involvement takes time rather than money, making it a particularly good fit for solo and small firms operating with limited marketing budgets but real flexibility in how they spend their own time, and it often produces referral relationships that continue paying off for years after the initial involvement began, long after any single piece of paid advertising has stopped generating new inquiries.",
       },
     ],
     faqs: [

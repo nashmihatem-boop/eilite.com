@@ -113,6 +113,44 @@ export const piCityRemaining2Articles: Article[] = [
         type: "paragraph",
         text: "Tracking cost-per-signed-case by Arizona sub-region and season reveals which combination of channels and targeting produces the best results for your specific firm.",
       },
+      {
+        type: "heading",
+        text: "Typical Lead Costs Across Arizona's Sub-Markets",
+      },
+      {
+        type: "paragraph",
+        text: "Phoenix metro exclusive personal injury leads typically run $75 to $200 depending on injury severity, given the market's size and competitive intensity, while Tucson pricing often sits 20 to 40 percent lower for comparable severity and exclusivity. Rural and border community leads price lower still, though volume is correspondingly limited. Pricing across every sub-market climbs during the winter snowbird season as both traffic-related accident volume and competing firm demand rise simultaneously, so firms budgeting for this seasonal peak should plan for meaningfully higher cost per lead in December through March compared to the quieter summer months.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Seasonal Budget Calendar",
+      },
+      {
+        type: "list",
+        items: [
+          "Fall (September-November): begin ramping content and paid budget ahead of the winter population influx.",
+          "Winter (December-March): peak season — prioritize fast intake response and confirm capacity can handle the surge in both traffic and lead volume.",
+          "Spring (April-May): demand begins tapering as seasonal residents depart; a good window to test new sub-markets at lower competition.",
+          "Summer (June-August): typically the quietest period; useful for content development, referral relationship building, and refining intake processes ahead of the next peak.",
+          "Year-round: maintain baseline Tucson and rural market presence, since these markets show less pronounced seasonal swing than Phoenix.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Working With Insurance Adjusters in a Pure Comparative Negligence State",
+      },
+      {
+        type: "paragraph",
+        text: "Because Arizona doesn't bar recovery at any fault threshold, insurance adjusters in the state sometimes take a different negotiating posture than in a modified comparative negligence state, since even a claimant found significantly at fault retains some right to recovery. Firms new to Arizona, particularly those previously practicing in a bar-rule state, should adjust negotiation expectations accordingly rather than assuming a high comparative fault percentage effectively ends a case's value, as it might elsewhere. This distinction is also worth explaining clearly to clients during intake, since a prospect who assumes their own partial fault disqualifies them entirely from recovery may not realize Arizona law actually still allows a reduced recovery, and clarifying this early can be the difference between a prospect who proceeds with a claim and one who doesn't bother pursuing it at all.",
+      },
+      {
+        type: "heading",
+        text: "Building Local Credibility in a Growing, Transient Market",
+      },
+      {
+        type: "paragraph",
+        text: "Arizona's steady stream of new residents means a meaningful share of the personal injury lead pool consists of people who don't yet have an established relationship with a local attorney, unlike a more settled population where referrals dominate. Firms that build visible local credibility — community involvement, prominently displayed local reviews, clear communication of Arizona-specific experience — tend to convert this transient-population segment more effectively than firms relying purely on generic national branding that doesn't specifically signal local roots and familiarity with Arizona courts and insurance practices.",
+      },
     ],
     faqs: [
       {
@@ -246,6 +284,59 @@ export const piCityRemaining2Articles: Article[] = [
           "No ability to target by specific county or corridor within the sprawling metro.",
           "No screening aligned to Georgia's comparative negligence framework and applicable damages caps.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Typical Lead Costs Across Atlanta's Corridors",
+      },
+      {
+        type: "paragraph",
+        text: "Personal injury lead pricing in Atlanta reflects the metro's intensity: leads targeted broadly across the metro often run $100 to $250 given the concentration of well-funded competing firms, while leads focused on a specific corridor or county — Gwinnett or DeKalb rather than a generic \"Atlanta\" target — often price somewhat lower given the narrower, more specific competition for that geography. Leads confirming a specific accident location along a high-traffic corridor like I-285 or I-85 sometimes command a modest premium given the strong, well-documented case patterns these corridors reliably produce.",
+      },
+      {
+        type: "heading",
+        text: "A Practical First 90-Day Blueprint",
+      },
+      {
+        type: "list",
+        items: [
+          "Days 1-15: select a specific corridor or county to focus initial marketing and content investment.",
+          "Days 16-30: complete Google Business Profile optimization and publish core county-specific landing pages.",
+          "Days 31-60: launch a modest, tightly geo-targeted PPC campaign alongside a small purchased-lead test batch.",
+          "Days 61-75: begin outreach to two or three referral partners (chiropractors, body shops) in the target corridor.",
+          "Days 76-90: review cost-per-signed-case across all tested channels within the chosen corridor before deciding whether to expand geography.",
+          "Ongoing: only expand to a second corridor or county once the first shows a sustainable, profitable cost per signed case.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes New Entrants Make in This Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Competing broadly across metro Atlanta immediately instead of establishing a defensible corridor or county foothold first.",
+          "Using generic \"Atlanta\" targeting instead of county-specific content and campaigns.",
+          "Underestimating how much established, well-funded competitors will outspend a new entrant on broad keywords.",
+          "Scaling lead volume before confirming intake and case-handling capacity can support it.",
+          "Neglecting referral relationships, missing a lower-cost volume source that scales well with metro size.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why Multi-County Firms Need Distinct Local Reputation in Each Market",
+      },
+      {
+        type: "paragraph",
+        text: "A firm expanding from one Atlanta-area county into another shouldn't assume reputation built in the first county automatically transfers, since prospects in a different county often have no awareness of a firm's track record elsewhere in the sprawling metro. Building distinct local reviews, county-specific case results content, and separate community involvement in each new county entered helps establish the same kind of local credibility that supported growth in the original market, rather than relying on a single metro-wide reputation that may not actually reach prospects in a newly entered county.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating Marketing Investment With Attorney Hiring",
+      },
+      {
+        type: "paragraph",
+        text: "As a firm's Atlanta presence grows beyond a single corridor, marketing expansion should track closely with attorney and staff hiring rather than running ahead of actual case-handling capacity. A firm that generates strong lead volume across three counties but has only enough attorneys to properly staff one risks spreading case quality thin across all of them, which can quietly damage the exact local reputation the firm is working to build in each new market. Sequencing expansion so that hiring decisions and marketing investment move together, rather than treating them as separate workstreams, protects both growth pace and case quality as the practice scales across Atlanta's sprawling metro.",
       },
     ],
     faqs: [

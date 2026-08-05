@@ -133,6 +133,37 @@ export const piStrategicGuides1Articles: Article[] = [
         type: "paragraph",
         text: "A disconnect between the team generating leads and the team handling intake often produces avoidable losses, such as inconsistent messaging between an ad and the actual intake conversation, or leads arriving faster than intake can properly screen them. Regular coordination between these two functions, even informally, keeps the full system working together rather than operating as disconnected silos.",
       },
+      {
+        type: "heading",
+        text: "Building a Lead Sourcing Contingency Plan",
+      },
+      {
+        type: "paragraph",
+        text: "A firm depending heavily on a single channel, whether that's one purchased lead provider or one dominant organic keyword cluster, carries real risk if that specific source suddenly underperforms, changes pricing, or becomes unavailable. Maintaining at least a lightweight backup plan, a second vetted lead provider already vetted and ready to scale up, or a documented list of alternative channels worth testing quickly, protects a firm's case pipeline from a disruption in its primary source rather than leaving the firm scrambling to find a replacement from scratch during an actual crisis.",
+      },
+      {
+        type: "heading",
+        text: "Training New Intake Staff on the Full Strategic Picture",
+      },
+      {
+        type: "paragraph",
+        text: "New intake staff often receive training on how to handle a call but not necessarily on why the firm's lead generation strategy works the way it does, which channels tend to produce which kind of prospect, why certain screening questions matter more for one source than another. Staff who understand this broader context tend to apply judgment more effectively during genuinely ambiguous calls than those following a purely mechanical script without any sense of the strategy it supports.",
+      },
+      {
+        type: "heading",
+        text: "Common Strategic Mistakes That Undermine an Otherwise Sound Plan",
+      },
+      {
+        type: "paragraph",
+        text: "Even a well-designed multi-channel strategy can quietly underperform if a firm neglects to revisit case acceptance criteria as its practice evolves, continues funding a channel out of habit long after its returns have declined, or fails to maintain the coordination between marketing and intake that the whole system depends on. Periodically stepping back to review the strategy as a complete, connected system, rather than only optimizing individual pieces in isolation, catches these quiet failure modes before they meaningfully erode overall performance.",
+      },
+      {
+        type: "heading",
+        text: "Documenting the Strategy for Institutional Continuity",
+      },
+      {
+        type: "paragraph",
+        text: "When the strategic reasoning behind a firm's lead generation approach lives only in one person's head, staff turnover or a change in marketing leadership can quietly erase years of accumulated learning about what actually works. Writing down the core strategy, why specific channels were chosen, what screening criteria exist and why, protects that institutional knowledge and gives new staff a genuine, well-grounded, and reliably consistent foundation to build steadily from as they gradually take on ever greater responsibility within the growing firm over the following years." },
     ],
     faqs: [
       { q: "What's the most cost-effective PI lead generation channel?", a: "It depends on firm stage. SEO and content offer the lowest long-term cost but take time to build, while a vetted [pay-per-lead or warm transfer program](/buy-leads) provides more immediate, predictable volume at a higher per-lead cost — most firms benefit from combining both." },
@@ -274,6 +305,44 @@ export const piStrategicGuides1Articles: Article[] = [
         type: "paragraph",
         text: "Some firms build in-house marketing and SEO capability, while others rely primarily on outsourced agencies or purchased lead providers; the right mix often depends on firm size, since smaller firms typically get more consistent results outsourcing specialized marketing functions rather than building an in-house team without sufficient scale to justify it.",
       },
+      {
+        type: "heading",
+        text: "Modeling Different Growth Scenarios Before Committing Budget",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than committing to a single fixed spending plan, firms benefit from modeling a few different growth scenarios, conservative, moderate, and aggressive, each with corresponding lead volume, expected case count, and required staffing implications, before finalizing an actual budget. This exercise often reveals that an aggressive volume target requires hiring or capacity investments the firm hadn't fully accounted for, information far more useful to have before committing spend than after leads are already arriving faster than the firm can properly handle them.",
+      },
+      {
+        type: "heading",
+        text: "Communicating the Investment Strategy to Firm Partners",
+      },
+      {
+        type: "paragraph",
+        text: "A lead generation investment strategy that only lives in one partner's head is vulnerable to inconsistent decision-making and difficult to defend when spend needs firm-wide buy-in, particularly during a slower period when the temptation to cut marketing spend first can be strong even when the underlying strategy remains sound. Documenting the strategy clearly, including the reasoning behind case-type budget allocation and capacity planning, gives all partners a shared reference point for future decisions rather than relitigating the same questions repeatedly.",
+      },
+      {
+        type: "heading",
+        text: "Building Flexibility Into the Investment Plan",
+      },
+      {
+        type: "paragraph",
+        text: "Markets shift, case values change, and a firm's own capacity evolves, so a rigid, multi-year lead generation budget locked in without room for adjustment tends to age poorly. Building explicit checkpoints into the plan, quarterly reviews where spend can be reallocated based on actual results, keeps the strategy responsive to real conditions rather than committing the firm to assumptions that may no longer hold true by the time they're actually tested against reality.",
+      },
+      {
+        type: "heading",
+        text: "Learning From Other Firms' Investment Strategies",
+      },
+      {
+        type: "paragraph",
+        text: "While every firm's specific situation differs, talking with peers at similarly sized firms, whether through bar association connections or industry conferences, about how they've structured their own lead generation investment often surfaces practical lessons that a firm developing its strategy entirely in isolation would take considerably longer to learn through its own trial and error alone." },
+      {
+        type: "heading",
+        text: "Avoiding Analysis Paralysis When Getting Started",
+      },
+      {
+        type: "paragraph",
+        text: "It's possible to spend so much time modeling scenarios and building the perfect strategic framework that a firm never actually starts testing anything in the real market, where genuine data ultimately matters far more than any amount of careful upfront planning ever could on its own. A reasonable starting plan, launched promptly and refined based on real results as they come in, tends to outperform a theoretically perfect plan that takes months to finalize before any actual lead generation begins." },
     ],
     faqs: [
       { q: "How do I know how much to invest in personal injury lead generation?", a: "Start by calculating your firm's genuine case-handling capacity, then work backward to determine how much lead volume — and corresponding spend — that capacity can actually support without compromising case quality or client experience." },

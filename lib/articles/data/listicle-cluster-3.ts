@@ -144,7 +144,7 @@ export const listicleCluster3Articles: Article[] = [
     content: [
       {
         type: "paragraph",
-        text: "Generating individual leads is different from building a genuinely steady, predictable pipeline that keeps intake consistently full month after month. These seven strategies focus specifically on pipeline consistency rather than one-off lead generation.",
+        text: "Generating individual leads is different from building a genuinely steady, predictable pipeline that keeps intake consistently full month after month, year after year. These seven strategies focus specifically on pipeline consistency rather than one-off lead generation.",
       },
       {
         type: "heading",
@@ -168,6 +168,10 @@ export const listicleCluster3Articles: Article[] = [
       },
       {
         type: "paragraph",
+        text: "Firms often underestimate just how long genuinely useful evergreen content keeps paying off, sometimes continuing to generate steady inbound leads three, four, or more years after original publication, with only occasional light updates to keep facts current. This makes it one of the few marketing investments that actually appreciates in value over time rather than depreciating the moment spend stops, unlike a paid campaign that produces zero volume the day the budget is paused.",
+      },
+      {
+        type: "paragraph",
         text: "Content addressing enduring, common questions continues generating traffic and leads long after it's published, unlike a single ad campaign. A well-written page answering a genuinely common question in your practice area can keep producing organic leads for years with only occasional updates, making it one of the most cost-efficient long-term pipeline investments a firm can make.",
       },
       {
@@ -176,7 +180,7 @@ export const listicleCluster3Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "A structured, multi-touch follow-up process captures value from leads that don't convert on the first contact attempt. Many prospects need more than one touch before deciding, and a firm without a defined follow-up cadence effectively abandons a meaningful share of leads that would have converted with just a little more persistence.",
+        text: "A structured, multi-touch follow-up process captures value from leads that don't convert on the first contact attempt. Many prospects need more than one touch before deciding, and a firm without a defined follow-up cadence effectively abandons a meaningful share of leads that would have converted with just a little more consistent persistence.",
       },
       {
         type: "heading",
@@ -218,6 +222,14 @@ export const listicleCluster3Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Assigning Ownership for Pipeline Health",
+      },
+      {
+        type: "paragraph",
+        text: "These seven strategies work best when a specific person or small team owns overall pipeline health, rather than each channel being managed independently with no one responsible for how they fit together. That owner doesn't need to personally execute every strategy, but should hold the reporting cadence, the cross-channel comparison, and the authority to shift budget or attention toward whichever strategy needs it most in a given month. Without this kind of clear ownership, diversification tends to happen accidentally rather than deliberately, and the resulting pipeline often ends up less stable than a firm assumes simply because no one is actively managing it as a single, connected system over time.",
+      },
+      {
+        type: "heading",
         text: "Calculating Cost Per Acquisition Across a Diversified Pipeline",
       },
       {
@@ -235,6 +247,27 @@ export const listicleCluster3Articles: Article[] = [
           "No defined follow-up cadence for leads that don't convert immediately.",
           "Pipeline metrics reviewed inconsistently or not at all, making trends hard to spot early.",
           "No plan in place for known seasonal dips specific to your practice area.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Building a Realistic Budget Across a Diversified Pipeline",
+      },
+      {
+        type: "paragraph",
+        text: "A firm building out these seven strategies in practice might reasonably allocate $2,000 to $5,000 a month toward a content and SEO retainer, $3,000 to $15,000 a month toward purchased leads or warm transfers depending on practice area and volume needs, and a modest but consistent time investment, rather than a large direct cost, toward referral relationship building. Follow-up systemization and pipeline tracking typically require CRM or call-tracking software running $100 to $500 a month rather than a large standalone budget line. Firms new to this level of diversification don't need to fund every strategy at full scale immediately; starting with two or three of the seven and adding the rest gradually as each proves its value tends to produce steadier long-term results than attempting all seven simultaneously without the tracking discipline to manage them well.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes That Undermine Pipeline Diversification",
+      },
+      {
+        type: "list",
+        items: [
+          "Adding new channels faster than the firm can track and compare their individual performance.",
+          "Treating diversification as a one-time project instead of an ongoing discipline requiring ongoing review.",
+          "Underinvesting in follow-up systemization, wasting the value of otherwise well-diversified lead volume.",
+          "Ignoring known seasonal patterns and reacting to predictable dips as if they were surprises each year.",
         ],
       },
     ],

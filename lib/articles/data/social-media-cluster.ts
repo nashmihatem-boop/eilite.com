@@ -269,6 +269,30 @@ export const socialMediaClusterArticles: Article[] = [
         type: "paragraph",
         text: "Choosing one or two platforms to genuinely commit to, rather than spreading thin effort across five, tends to produce better results for most firms. For guidance on the compliance considerations that apply across every platform, see our guide to [lawyers and social media ethics](/learning-center/lawyers-and-social-media).",
       },
+      {
+        type: "heading",
+        text: "Revisiting Platform Choice as a Firm's Practice Mix Changes",
+      },
+      {
+        type: "paragraph",
+        text: "A platform strategy built around a firm's practice mix several years ago may no longer reflect its current focus, particularly for firms that have expanded into new practice areas or shifted emphasis toward higher-value case types since their original social media strategy was set. Revisiting platform choice whenever practice focus changes meaningfully, rather than continuing to invest in a platform chosen for a practice area the firm no longer emphasizes, keeps social media effort aligned with where the firm's actual growth priorities currently sit.",
+      },
+      {
+        type: "heading",
+        text: "Coordinating Social Content With Other Marketing Channels",
+      },
+      {
+        type: "paragraph",
+        text: "Social media performs best when it isn't treated as a completely separate initiative from a firm's website content, email marketing, and paid campaigns. A blog post can be repurposed into several social posts, a client testimonial featured on the website can also appear on social with appropriate disclosure, and a paid campaign's messaging can be reinforced through organic social content covering the same topic. Firms that coordinate these efforts, rather than running each channel in isolation with no shared planning, get more value from the same underlying content investment.",
+      },
+      {
+        type: "heading",
+        text: "Planning Content Around a Realistic Production Calendar",
+      },
+      {
+        type: "paragraph",
+        text: "Firms that plan social content a few weeks ahead using a simple shared calendar tend to maintain more consistent posting than those creating content reactively, day by day, which often leads to gaps whenever the person responsible gets busy with other work. Building this planning habit early, even a basic spreadsheet listing upcoming topics and target dates, makes the difference between a platform presence that compounds steadily over time and one that starts strong before quietly fading within a few months.",
+      },
     ],
     faqs: [
       {
@@ -410,6 +434,30 @@ export const socialMediaClusterArticles: Article[] = [
       {
         type: "paragraph",
         text: "LinkedIn works best as one component of a broader, deliberate referral-building effort. For the complete framework, see our guide to [referral programs for law firms](/learning-center/referral-programs).",
+      },
+      {
+        type: "heading",
+        text: "Building LinkedIn Presence Across Multiple Attorneys at a Firm",
+      },
+      {
+        type: "paragraph",
+        text: "A firm's LinkedIn referral potential multiplies when more than one attorney maintains an active, genuine presence rather than relying on a single rainmaker's individual network. Encouraging associates and partners alike to build their own professional networks, while providing light coaching on effective posting and outreach habits, expands the firm's collective referral reach considerably beyond what any single attorney's connections could produce alone, and also protects the firm from over-dependence on one person's departure eventually taking their entire referral network with them.",
+      },
+      {
+        type: "heading",
+        text: "Handling LinkedIn Recommendations and Endorsements Thoughtfully",
+      },
+      {
+        type: "paragraph",
+        text: "LinkedIn's recommendation feature, where connections write a public endorsement of an attorney's work, functions similarly to a testimonial and should be treated with the same compliance awareness as any other client-facing endorsement, particularly when a recommendation comes from a former client rather than a professional colleague. Attorneys should understand their state bar's specific rules on client testimonials before actively soliciting these recommendations, since the same disclosure and accuracy requirements that apply to a website testimonial generally extend to this LinkedIn feature as well.",
+      },
+      {
+        type: "heading",
+        text: "Using LinkedIn Groups to Reach Niche Professional Communities",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond individual connections, LinkedIn groups organized around a specific industry, professional association, or geographic region can offer a more concentrated way to reach exactly the kind of referral partners a firm is trying to build relationships with, provided the attorney participates genuinely rather than treating the group as another broadcast channel for firm promotion. Active, helpful participation in a well-chosen group, answering questions and contributing genuine insight, tends to build recognition and trust considerably faster than passive membership alone, and often surfaces referral opportunities that would never have surfaced through individual connections working in isolation from one another.",
       },
     ],
     faqs: [

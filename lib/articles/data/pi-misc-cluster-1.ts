@@ -259,6 +259,36 @@ export const piMiscCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Given how quickly competitive dynamics and per-lead costs shift in accident-related practice areas, a quarterly review of which tactics are still producing strong results, and which need adjustment, keeps a firm's approach current rather than relying on assumptions that were accurate a year or two earlier but may no longer reflect today's market conditions.",
       },
+      {
+        type: "heading",
+        text: "Typical Cost Ranges Worth Budgeting For",
+      },
+      {
+        type: "paragraph",
+        text: "Shared accident leads across vehicle, workplace, and premises categories commonly run $25 to $75, while exclusive leads with confirmed liability and injury detail often run $60 to $200 or more depending on injury severity and case complexity. Warm transfers, given the added screening labor involved in connecting a pre-qualified prospect live, frequently run $150 to $400 for well-qualified calls. Firms new to purchased leads should treat these figures as a planning range rather than a fixed quote, since actual pricing shifts with local competition, seasonal demand, and how tightly a specific batch is filtered for case type and severity.",
+      },
+      {
+        type: "heading",
+        text: "A Practical 90-Day Implementation Timeline",
+      },
+      {
+        type: "list",
+        items: [
+          "Weeks 1 to 4: audit and fix response time and intake scripting first.",
+          "Weeks 3 to 6: build or refresh dedicated landing pages for top accident categories.",
+          "Weeks 5 to 8: test a modest batch of purchased leads alongside existing sources.",
+          "Weeks 8 to 12: review cost-per-signed-case across all sources and adjust budget.",
+          "Ongoing: repeat this review cycle quarterly as market conditions shift.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Sequencing These Tactics",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is adding paid lead volume before fixing underlying intake and response-time problems, effectively paying a premium for leads that then receive the same slow, inconsistent follow-up that was already limiting conversion on existing volume. Firms also sometimes build dedicated landing pages but never actually drive meaningful traffic to them, treating page creation as the finish line rather than the starting point for an ongoing content and promotion effort. Skipping the quarterly review entirely, continuing to run the same tactical playbook indefinitely without checking whether it still reflects current competitive and cost conditions, is another common way a once-effective strategy quietly loses efficiency over time.",
+      },
     ],
     faqs: [
       {

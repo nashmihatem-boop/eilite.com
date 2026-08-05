@@ -9,7 +9,7 @@ export const miscTopics8Articles: Article[] = [
       "Beyond case type, language match may be the single most important filtering criterion for immigration leads. Here's why, and how to build it into your lead strategy.",
     metaDescription: "Beyond case type, language match may be the single most important filtering criterion for immigration leads.",
     category: "Immigration Law",
-    readTime: "9 min read",
+    readTime: "6 min read",
     publishedDate: "2026-08-12",
     updatedDate: "2026-08-05",
     relatedSlugs: ["immigration-attorney-leads", "immigration-law-marketing-leads", "immigration-law-firm-leads"],
@@ -45,6 +45,14 @@ export const miscTopics8Articles: Article[] = [
       {
         type: "paragraph",
         text: "A firm that receives leads without language filtering, then discovers a language mismatch mid-call, wastes both the lead and the prospect's trust — and word travels quickly within tight-knit immigrant communities when a firm handles this poorly.",
+      },
+      {
+        type: "heading",
+        text: "What Language-Matched Immigration Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "General, unscreened immigration leads often run $30 to $70, while leads with verified language match and confirmed case type can run $60 to $150 or more, reflecting both the added screening involved and the meaningfully stronger conversion these better-matched leads typically produce. Firms should weigh this premium against the intake time saved and the reduced risk of a wasted, mismatched call that damages trust within a tight-knit community where reputation spreads quickly by word of mouth.",
       },
       {
         type: "heading",
@@ -120,6 +128,22 @@ export const miscTopics8Articles: Article[] = [
         type: "paragraph",
         text: "A [pay-per-lead program](/buy-leads) that captures and filters by language preference at intake produces meaningfully better-matched leads for immigration practices specifically. For the broader trust-building considerations in this practice area, see our guide to [immigration law marketing](/learning-center/immigration-law-marketing-leads).",
       },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make With Language Filtering",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is assuming a Spanish-surname or a zip code with a large Spanish-speaking population reliably predicts language preference, when in practice many prospects in these categories prefer English, and inferring incorrectly can feel presumptuous rather than helpful. Firms also sometimes invest in a translated website but never extend that same language capability to the actual live intake conversation, creating a jarring mismatch between the welcoming marketing experience and what happens the moment a prospect actually calls in.",
+      },
+      {
+        type: "heading",
+        text: "Training Non-Bilingual Staff to Handle the Handoff Gracefully",
+      },
+      {
+        type: "paragraph",
+        text: "Even a firm with strong bilingual capability will occasionally have a non-bilingual staff member answer a call from a prospect who needs a different language, and how that moment is handled matters. Staff trained to recognize the mismatch quickly, apologize genuinely, and transfer smoothly to the right person, rather than fumbling awkwardly or leaving the caller on hold with no explanation, preserve far more trust than a handoff that feels chaotic or dismissive to an already anxious, vulnerable prospect reaching out during a stressful moment.",
+      },
     ],
     faqs: [
       {
@@ -153,7 +177,7 @@ export const miscTopics8Articles: Article[] = [
     metaDescription:
       "The channels and tactics that worked for personal injury lawyers a decade ago have shifted meaningfully. Here's what actually generates leads today.",
     category: "Personal Injury Marketing",
-    readTime: "9 min read",
+    readTime: "7 min read",
     publishedDate: "2026-08-12",
     updatedDate: "2026-08-05",
     relatedSlugs: ["personal-injury-lawyer-leads", "5-digital-marketing-cues-for-personal-injury-lawyers-to-hike-leads", "seo-for-lawyers"],
@@ -242,6 +266,14 @@ export const miscTopics8Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "How Client Expectations Have Shifted Too",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond channel and pricing changes, today's personal injury prospects generally research more thoroughly before ever contacting a firm, comparing reviews, case results, and attorney credentials across multiple websites before picking up the phone. This means a firm's online presence needs to hold up to genuine scrutiny well before the first conversation happens, since a prospect who's already compared several firms online arrives at that first call with much more informed, and often more skeptical, expectations than a prospect from a decade ago simply picking a name from a phone book or a passing billboard advertisement. Firms that keep their online reputation and published case results genuinely current and fully accurate tend to convert this more discerning, better-informed audience far more effectively than those still relying entirely on stale, outdated marketing content.",
+      },
+      {
+        type: "heading",
         text: "Calculating True Cost-Per-Acquisition in a Competitive Market",
       },
       {
@@ -255,6 +287,22 @@ export const miscTopics8Articles: Article[] = [
       {
         type: "paragraph",
         text: "A modern personal injury lead generation strategy generally blends SEO, PPC, and a well-screened paid lead program, with disciplined intake and follow-up tying everything together. For specific tactical improvements, see our guide to [digital marketing cues for personal injury lawyers](/learning-center/5-digital-marketing-cues-for-personal-injury-lawyers-to-hike-leads).",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in Today's Market",
+      },
+      {
+        type: "paragraph",
+        text: "A frequent mistake is continuing to run the same broad, undifferentiated campaigns that worked years ago without adjusting for how much more competitive and expensive the landscape has become, effectively paying today's inflated prices for yesterday's targeting precision. Firms also sometimes underinvest in intake speed while over-investing in acquisition volume, buying more leads than a slow, understaffed intake process can actually convert, which wastes budget on leads that were never given a genuine chance to close.",
+      },
+      {
+        type: "heading",
+        text: "Adapting to AI-Driven Search and Changing Discovery Habits",
+      },
+      {
+        type: "paragraph",
+        text: "A growing share of prospects now begin their research through AI-powered search tools and chat-based assistants rather than a traditional search engine results page, which changes how firms need to think about visibility beyond classic SEO rankings alone. Content structured with clear, direct answers to specific questions, rather than dense marketing copy, tends to get surfaced by these tools more often, and firms that monitor this emerging channel alongside traditional search are positioning themselves ahead of a shift most competitors haven't fully adapted to yet.",
       },
     ],
     faqs: [

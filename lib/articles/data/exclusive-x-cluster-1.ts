@@ -123,6 +123,52 @@ export const exclusiveXCluster1Articles: Article[] = [
         type: "paragraph",
         text: "A cheaper agency isn't automatically a better value if it produces a meaningfully worse cost-per-signed-case than a more expensive alternative with genuine PI expertise. Because personal injury cases carry high potential value, even a modest improvement in lead quality or conversion rate from working with a more capable agency can easily outweigh a higher monthly fee. Firms evaluating cost should always frame the comparison around cost per signed case, not agency fee alone, to avoid a false economy that looks attractive on a monthly invoice but underperforms over a full year.",
       },
+      {
+        type: "heading",
+        text: "A Sample Agency Vetting Timeline",
+      },
+      {
+        type: "list",
+        items: [
+          "Week 1: request proposals from three to five candidate agencies with PI-specific experience.",
+          "Week 2: review case studies and request direct references from current PI clients.",
+          "Week 3: conduct calls with at least two references per finalist agency, asking specifically about responsiveness and reporting quality.",
+          "Week 4: negotiate contract terms, focusing on exit clauses and data ownership before signing.",
+          "Month 2 onward: hold the agency to a defined 90-day initial review checkpoint rather than a full annual commitment upfront.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Questions About Data Ownership and Portability",
+      },
+      {
+        type: "paragraph",
+        text: "Before signing with any agency, confirm explicitly who owns the website, ad accounts, analytics access, and historical performance data if the relationship ends. Some agencies build campaigns and content under their own agency-level accounts, making a future transition to a new provider or in-house team considerably harder and sometimes resulting in lost historical data entirely. Firms should insist on maintaining ownership of their own domain, analytics properties, and ad accounts from day one, with the agency granted access rather than the reverse. This single contractual detail, easy to overlook during an initial sales conversation, can save significant disruption if the firm ever needs to change providers.",
+      },
+      {
+        type: "heading",
+        text: "How to Structure a Trial Period With a New Agency",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than signing a full annual contract immediately, negotiate an initial 60- to 90-day trial period with clearly defined checkpoints and specific, measurable goals for that window — technical fixes completed, initial content published, PPC campaigns launched and optimized to a baseline cost per lead. A trial structured this way gives both the firm and the agency a fair, concrete basis for deciding whether to continue, rather than a vague \"let's see how it goes\" arrangement that makes it harder to definitively judge performance or hold either party accountable to specific commitments.",
+      },
+      {
+        type: "heading",
+        text: "Weighing Specialization Against Cost",
+      },
+      {
+        type: "paragraph",
+        text: "A deeply PI-specialized agency often charges more than a generalist, but the premium can be worth it given how much category-specific knowledge affects both compliance risk and actual campaign performance in this particularly expensive, competitive vertical. Firms with a tighter marketing budget should still prioritize at least baseline PI experience over a cheaper generalist with no track record in the category, since mistakes in a high-cost-per-click category like personal injury compound quickly, often erasing whatever savings the lower agency fee initially appeared to offer.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Agency Relationship Annually",
+      },
+      {
+        type: "paragraph",
+        text: "Even a strong agency relationship benefits from a periodic, structured review rather than continuing indefinitely on autopilot once initial results look satisfactory. An annual check-in comparing current cost per signed case against the original engagement goals, along with a candid conversation about whether the agency's strategy has kept pace with changes in the firm's practice focus or local competition, helps ensure the relationship continues earning its cost rather than coasting on reputation built in its early, more actively managed months.",
+      },
     ],
     faqs: [
       {
@@ -252,6 +298,67 @@ export const exclusiveXCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Because PI leads vary so much in exclusivity, screening rigor, and delivery format, comparing providers on sticker price alone is misleading. Tracking full-funnel performance — lead cost, contact rate, signed rate, and eventual case value — over at least a few dozen leads per provider gives a genuinely useful comparison. A provider charging noticeably more per lead can still be the better choice if its screening and exclusivity produce a meaningfully lower cost per signed, retained case once the full picture is accounted for.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Provider Vetting Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm exclusivity terms in writing, including exactly how many firms (if any) receive the same lead.",
+          "Request a sample lead record showing what information is actually captured before delivery.",
+          "Ask specifically what percentage of raw submissions get filtered out during screening.",
+          "Confirm delivery speed with a specific time commitment, not a vague \"real-time\" claim.",
+          "Request two or three references from firms of similar size and case focus.",
+          "Clarify the replacement or credit policy for invalid, duplicate, or clearly non-compliant leads in writing before the first purchase.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "A Sample Test Budget Breakdown",
+      },
+      {
+        type: "paragraph",
+        text: "A reasonable first test with a new PI lead provider might allocate enough budget for 20 to 30 leads, split evenly if possible across two candidate providers for a direct side-by-side comparison. At a rough blended average of $75 to $150 per lead depending on severity and exclusivity, this represents a test budget commitment somewhere in the range of $1,500 to $4,500 per provider — a meaningful but manageable investment relative to the cost of committing to a full-scale relationship with an unproven source. Firms should resist the temptation to test with only five or ten leads, since a sample that small is prone to misleading swings in apparent conversion rate that don't reflect true, longer-run performance.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Choosing a Provider",
+      },
+      {
+        type: "list",
+        items: [
+          "Choosing based on the lowest advertised price without confirming comparable exclusivity and screening standards.",
+          "Skipping reference checks entirely, relying only on the provider's own marketing materials.",
+          "Testing too small a sample size to draw a statistically meaningful conclusion.",
+          "Failing to track contact rate and signed rate separately from raw lead delivery, masking where conversion is actually breaking down.",
+          "Signing a long-term contract before completing a fair trial period with real data.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Understanding Severity-Based Pricing Tiers",
+      },
+      {
+        type: "paragraph",
+        text: "Personal injury lead providers commonly organize pricing into rough severity tiers, since case value differs so dramatically across the category. A soft-tissue, minor-injury lead with a modest expected settlement typically sits at the lower end of pricing, a moderate injury involving documented treatment and lost wages sits in a middle tier, and a catastrophic injury, wrongful death, or case involving a commercial vehicle with substantial policy limits commands the highest per-lead pricing given its outsized potential case value. Firms should confirm which specific tier a provider's quoted pricing actually reflects, since comparing a quote for minor-injury volume against a competitor's catastrophic-injury pricing produces a meaningless, apples-to-oranges comparison that can lead to a poorly informed purchasing decision.",
+      },
+      {
+        type: "heading",
+        text: "Building a Long-Term Relationship Once a Provider Proves Out",
+      },
+      {
+        type: "paragraph",
+        text: "Once a provider demonstrates consistent quality across an initial test and a few months of ongoing volume, firms often find real value in deepening that relationship rather than continuing to shop for marginally better pricing elsewhere. A provider with a track record with your firm understands your specific case criteria, has tuned targeting to your actual conversion patterns, and often becomes more responsive to special requests or urgent volume needs than a newer, unproven relationship would be. This doesn't mean abandoning periodic performance reviews or ever testing a new competing provider, but it does mean giving real weight to relationship continuity once a provider has earned it through consistent, verified performance over time.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Provider Performance on a Regular Cadence",
+      },
+      {
+        type: "paragraph",
+        text: "Even a well-performing, trusted provider relationship benefits from a scheduled review — quarterly is a reasonable cadence for most firms — comparing current cost per signed case against both the provider's own historical performance and any newer competing options tested along the way. This regular checkpoint prevents a firm from drifting into complacency with a provider that was strong when the relationship began but has since declined, whether due to changes in the provider's own screening standards, increased competition for the same lead pool, or simply normal variance over time that's easy to miss without a deliberate, structured comparison.",
       },
     ],
     faqs: [

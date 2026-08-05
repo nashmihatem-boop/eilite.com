@@ -105,6 +105,14 @@ export const attorneyGlossary4Articles: Article[] = [
       },
       {
         type: "heading",
+        text: "Setting Quarterly Checkpoints for the Whole System",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than reviewing each service on its own independent schedule, whatever the vendor happens to propose, firms benefit from setting a single, firm-wide quarterly checkpoint where every active service gets reviewed together against the same shared goals. This synchronized cadence makes it much easier to spot how services are interacting, whether a content push is actually improving how well purchased leads convert, for instance, than reviewing each service in isolation on its own separate timeline.",
+      },
+      {
+        type: "heading",
         text: "Assigning Clear Ownership Inside the Firm",
       },
       {
@@ -130,6 +138,35 @@ export const attorneyGlossary4Articles: Article[] = [
       {
         type: "paragraph",
         text: "A framework appropriate for a five-attorney firm rarely fits unchanged once that firm doubles in size — services that once required outside agencies may move in-house, and services that were previously unnecessary, like dedicated intake staff or advanced attribution tooling, often become worthwhile investments. Revisiting the framework annually, rather than treating it as a one-time setup, keeps the growth system matched to the firm's actual current stage.",
+      },
+      {
+        type: "heading",
+        text: "Building a Realistic Multi-Service Budget",
+      },
+      {
+        type: "paragraph",
+        text: "A small firm building out a coordinated acquisition stack might reasonably budget $1,500 to $4,000 a month for a content and SEO retainer, $2,000 to $10,000 a month for pay-per-lead or warm transfer volume depending on practice area and market, and a one-time $3,000 to $8,000 engagement for intake process consulting if internal expertise is lacking. These figures scale considerably with firm size and market competitiveness, but provide a reasonable starting point for firms budgeting a coordinated stack for the first time, rather than committing to any single service without a sense of how it fits within total realistic spend.",
+      },
+      {
+        type: "heading",
+        text: "Common Attribution Mistakes and How to Fix Them",
+      },
+      {
+        type: "list",
+        items: [
+          "Crediting the last touchpoint before a signed case to the exclusion of earlier touchpoints that built initial awareness.",
+          "Using different tracking methods across services, making it impossible to compare performance on a consistent basis.",
+          "Failing to close the loop between marketing-qualified leads and actual signed-case revenue.",
+          "Reviewing attribution data infrequently, missing shifts in which services are actually driving results month to month.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Choosing Between a Full-Service Agency and Point Solutions",
+      },
+      {
+        type: "paragraph",
+        text: "Some firms prefer a single full-service agency managing SEO, paid campaigns, and reputation management together, while others assemble a stack of specialized point solutions, a dedicated pay-per-lead provider, a separate content team, standalone intake consulting. Full-service agencies offer simpler coordination and a single point of accountability, but sometimes deliver mediocre results in any one specific channel compared to a specialist. Point solutions can produce stronger results per channel but require more internal coordination effort to keep everything working together toward shared goals. Neither approach is universally superior; the right choice depends on how much internal bandwidth a firm has to manage multiple vendor relationships directly, and how much it values specialist depth over centralized simplicity.",
       },
     ],
     faqs: [
@@ -294,6 +331,30 @@ export const attorneyGlossary4Articles: Article[] = [
       {
         type: "paragraph",
         text: "Newer firms often need to weight budget heavily toward immediate-volume services like paid leads simply to generate cash flow, while more established firms with stronger organic visibility can shift a larger share toward compounding investments like content and reputation, since their baseline volume from paid channels can be lower without threatening overall case flow.",
+      },
+      {
+        type: "heading",
+        text: "Concrete Cost Ranges for Each Service Type",
+      },
+      {
+        type: "paragraph",
+        text: "SEO and content agencies commonly charge $1,500 to $5,000 a month depending on content volume and technical scope. Pay-per-lead and warm transfer programs price per unit rather than a flat retainer, typically $50 to $400 per lead depending on practice area and exclusivity. Intake consulting engagements often run $2,000 to $8,000 as a project fee, sometimes with an ongoing lighter-touch retainer for continued coaching. Reputation management services typically run $200 to $800 a month for review generation and monitoring tools, scaling up for firms with multiple office locations needing separate profile management. Firms building a coordinated stack should model total monthly spend across all active services against realistic signed-case volume, not evaluate each service's cost in isolation.",
+      },
+      {
+        type: "heading",
+        text: "How a Typical Firm Sequences These Services Over Time",
+      },
+      {
+        type: "paragraph",
+        text: "A common, effective sequence starts with a modest pay-per-lead test to establish immediate case flow and validate intake capacity, followed by intake consulting once volume reveals specific conversion gaps worth addressing directly. SEO and content investment typically begins in parallel from month one, even though results won't show for months, since the earlier this compounding channel starts, the sooner it begins reducing dependence on paid volume. Reputation management usually gets added once a firm has enough signed cases to generate a meaningful, steady stream of new reviews. Firms that follow a deliberate sequence like this, rather than adding every service simultaneously on day one, tend to build a more stable, well-understood foundation before scaling spend further.",
+      },
+      {
+        type: "heading",
+        text: "Recognizing When a Service Has Stopped Working",
+      },
+      {
+        type: "paragraph",
+        text: "Even a service that performed well initially can quietly stop delivering value as market conditions, competition, or a firm's own capacity changes, and firms should watch for specific warning signs rather than assuming continued spend automatically means continued results. A pay-per-lead source with declining signed-case rate over several consecutive months, an SEO agency whose rankings have plateaued without a clear plan to break through, or reputation management activity that isn't translating into new review volume all warrant a direct conversation with the provider, and a willingness to pause or replace the service if that conversation doesn't produce a credible plan for improvement.",
       },
     ],
     faqs: [

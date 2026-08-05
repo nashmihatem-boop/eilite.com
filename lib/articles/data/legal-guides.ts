@@ -218,6 +218,22 @@ export const legalGuidesArticles: Article[] = [
           "Consulting an attorney early, ideally before the arraignment, generally preserves the most options for how the case proceeds.",
         ],
       },
+      {
+        type: "heading",
+        text: "The Role of Ignition Interlock Devices",
+      },
+      {
+        type: "paragraph",
+        text: "Many states now require or offer an ignition interlock device, a small in-vehicle breathalyzer that prevents a car from starting if it detects alcohol on the driver's breath, as either a mandatory penalty or an alternative to a full license suspension for a first or repeat offense. Research on these devices has generally found they reduce repeat impaired-driving incidents while installed, since they remove the option to drive after drinking rather than relying purely on a driver's own judgment in the moment. Costs for installation and ongoing monitoring are typically borne by the driver, adding another practical financial consequence beyond fines and legal fees.",
+      },
+      {
+        type: "heading",
+        text: "Why First-Time Offenders Shouldn't Assume Leniency",
+      },
+      {
+        type: "paragraph",
+        text: "Some people assume a first DUI offense results in a light, largely symbolic penalty, but even a first offense typically carries real consequences, license suspension, fines often running into four figures once court costs and required programs are included, and a criminal record that can affect employment background checks for years. Treating a first offense as a low-stakes formality rather than a genuinely serious legal matter is a common and costly misjudgment.",
+      },
     ],
     faqs: [
       { q: "Why is the legal BAC limit set at 0.08 in most states?", a: "Research consistently shows measurable driving impairment, including slower reaction time and reduced judgment, beginning well before 0.08 and increasing sharply above it, which is the safety data that originally informed the widely adopted 0.08 threshold." },

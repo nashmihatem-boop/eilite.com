@@ -118,6 +118,44 @@ export const attorneyGlossary1Articles: Article[] = [
         type: "paragraph",
         text: "If an attorney's proposed strategy seems unusually aggressive, unusually passive, or simply doesn't sit right with your understanding of the situation, seeking a second opinion from another attorney before proceeding is a reasonable and common step, not a sign of distrust that will offend a good attorney.",
       },
+      {
+        type: "heading",
+        text: "A Practical First-Call Checklist for Prospective Clients",
+      },
+      {
+        type: "list",
+        items: [
+          "Write down the key facts and timeline of your situation before the call, so you don't forget important details under pressure.",
+          "Ask directly whether the attorney personally handles cases like yours, or whether it would be passed to an associate.",
+          "Ask how and how often you can expect updates once the matter is underway.",
+          "Ask what the realistic range of outcomes looks like, rather than accepting a vague, overly optimistic answer.",
+          "Ask what you specifically need to bring or provide before the next step can move forward.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Understanding How Attorney Fees Actually Add Up",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the base fee structure, additional costs can accumulate in ways that surprise clients unfamiliar with how legal billing works. Hourly-billed matters often separately charge for court filing fees, expert witness costs, deposition transcripts, and even routine costs like copying or postage, all of which should be itemized clearly rather than buried in a single lump invoice. Contingency fee arrangements typically deduct case costs from the settlement before calculating the attorney's percentage, or sometimes after, and this distinction can meaningfully affect what a client actually receives, making it worth clarifying explicitly during the initial consultation. Flat fee arrangements should specify exactly what falls outside the flat scope — for instance, a flat-fee uncontested divorce that becomes contested midway through often shifts to a different billing structure the client should understand upfront.",
+      },
+      {
+        type: "heading",
+        text: "What to Expect at Your First Consultation",
+      },
+      {
+        type: "paragraph",
+        text: "A well-run initial consultation typically covers the basic facts of your situation, an honest assessment of whether the matter is something the attorney can help with, a general explanation of the likely process and timeline, and a clear discussion of fees. It's reasonable to expect the attorney or a knowledgeable staff member to answer direct questions rather than deflecting everything to \"we'll cover that once you're a client.\" Coming prepared with a short list of written questions helps ensure you don't forget something important once the conversation is underway, and taking brief notes during the meeting gives you something concrete to compare if you're consulting with more than one attorney before deciding. Reputable attorneys generally welcome this kind of preparation, since a well-informed prospective client usually makes for a more efficient and productive working relationship overall.",
+      },
+      {
+        type: "heading",
+        text: "Comparing Multiple Attorneys Before Deciding",
+      },
+      {
+        type: "paragraph",
+        text: "For anything beyond a straightforward, low-stakes matter, consulting with more than one attorney before deciding is a reasonable and common approach, even though it takes extra time upfront. Comparing not just fee quotes but also communication style, apparent experience with cases like yours, and how clearly each attorney explained your options helps you make a more confident, informed choice than settling for the first attorney you happen to speak with.",
+      },
     ],
     faqs: [
       {
@@ -263,6 +301,35 @@ export const attorneyGlossary1Articles: Article[] = [
       {
         type: "paragraph",
         text: "A prospect who first saw a billboard, later searched your firm by name, and finally called after seeing a retargeting ad makes attributing that case to a single channel genuinely difficult. Call tracking, unique landing page URLs, and a CRM field asking new callers how they heard about your firm all help approximate a more complete picture, even when perfect attribution isn't realistic.",
+      },
+      {
+        type: "heading",
+        text: "A Sample Ad Copy Comparison",
+      },
+      {
+        type: "list",
+        items: [
+          "Weak: \"The Law Offices of Smith & Associates — Call for a free consultation.\" Strong: \"Injured in a car accident? We've recovered over [X] for clients like you. Free consultation, no fee unless we win.\"",
+          "Weak: \"Family Law Attorneys Serving [City].\" Strong: \"Going through a divorce? Get clear answers about custody and property division in a free 30-minute call.\"",
+          "Weak: \"Experienced Criminal Defense.\" Strong: \"Facing a DUI charge? Know your options before your first court date — free case review, available 24/7.\"",
+          "The pattern across all three: naming the specific situation, offering something concrete (a number, a timeframe, an outcome), and giving one clear next step.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What Effective Attorney Ads Typically Cost by Channel",
+      },
+      {
+        type: "paragraph",
+        text: "Search advertising for competitive practice areas like personal injury commonly runs $50 to $150 or more per click in major metros, while less contested categories can run considerably lower. Social media advertising typically costs a fraction of search per click but converts at a lower rate given the difference in intent. Traditional media like local TV or billboard placement is usually quoted as a flat campaign or monthly cost rather than a per-click or per-lead figure, often running into the thousands to tens of thousands of dollars depending on market size and placement frequency, and requires a longer time horizon to judge ROI given how much harder direct attribution is for offline channels compared to digital ones.",
+      },
+      {
+        type: "heading",
+        text: "Why Emotional Tone Matters as Much as Message Content",
+      },
+      {
+        type: "paragraph",
+        text: "Beyond the specific words used, the emotional tone of an ad meaningfully affects how it lands with a prospect already dealing with a stressful situation. An ad for a personal injury or criminal defense matter that leans aggressive and combative can resonate with some prospects seeking a fighter on their side, while the same tone can feel off-putting to a prospect who wants a calmer, more reassuring presence during an already difficult time. Family law and estate planning ads in particular tend to perform better with a warmer, more empathetic tone than the aggressive posture common in personal injury advertising, since the underlying prospect need is fundamentally different. Testing both tonal approaches with real audience data, rather than assuming one universal tone works across every practice area, reveals which resonates better with a firm's actual target audience.",
       },
     ],
     faqs: [

@@ -290,6 +290,35 @@ export const howToGetCluster2Articles: Article[] = [
           "Track which purchased leads convert best and mine those patterns for future content topics and targeting refinements.",
         ],
       },
+      {
+        type: "heading",
+        text: "Working With Forensic Accountants for Equity Valuation",
+      },
+      {
+        type: "paragraph",
+        text: "Unvested RSUs, illiquid startup shares, and layered stock option grants routinely require a forensic accountant or business valuation specialist to establish a defensible marital estate figure before negotiation can proceed. Firms building a genuine San Jose divorce practice benefit from maintaining working relationships with a small roster of valuation experts specifically experienced with tech compensation structures, since a generalist accountant unfamiliar with vesting schedules, cliff periods, or private company 409A valuations can meaningfully slow a case down. A firm that can move quickly with a trusted, specialized expert differentiates itself clearly from competitors scrambling to find qualified help only after a complex case has already landed on their desk.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the San Jose Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Marketing generically to \"Silicon Valley\" without demonstrating specific fluency in equity compensation structures.",
+          "Buying premium equity-screened leads without verifying the provider's screening actually captures vesting and valuation detail.",
+          "Underpricing consultations for complex equity cases, absorbing hours of unbilled valuation discussion during the first meeting.",
+          "Failing to track cost-per-signed-case separately for equity-heavy versus straightforward matters, obscuring which segment is actually profitable.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Structuring Fees for Complex Equity Cases",
+      },
+      {
+        type: "paragraph",
+        text: "Because equity-heavy divorces often require substantially more attorney time for discovery, expert coordination, and negotiation than a standard California case, many San Jose firms structure fees differently for this segment, either through a larger upfront retainer with clear replenishment terms, or a scoped flat fee tied specifically to valuation complexity rather than a single standard hourly rate applied uniformly. Explaining this fee structure clearly during the first consultation, tied to the specific complexity the prospect's situation actually presents, builds trust and reduces the friction that can arise later if a case turns out to require significantly more work than either party initially anticipated.",
+      },
     ],
     faqs: [
       {
@@ -444,6 +473,43 @@ export const howToGetCluster2Articles: Article[] = [
           "Expand Google Business Profile service areas and local content into high-growth suburbs showing strong lead performance.",
           "Reassess targeting geography roughly every six months as population and case volume patterns shift.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Handling the Post-Reform Alimony Conversation With New Clients",
+      },
+      {
+        type: "paragraph",
+        text: "Many Tampa-area prospects still carry outdated assumptions about permanent alimony, either from a friend's older divorce or from content that hasn't been updated since Florida's 2023 reform took effect. Firms that proactively address this during the first consultation, explaining how durational and other structured alimony categories now apply, and how a marriage's length specifically affects the likely outcome, build considerably more trust than firms that wait for the prospect to ask or, worse, let the misunderstanding go unaddressed until it creates confusion later in the case. This clarity also helps set realistic fee and outcome expectations from the very first meeting.",
+      },
+      {
+        type: "heading",
+        text: "Building Referral Relationships With Local Financial Professionals",
+      },
+      {
+        type: "paragraph",
+        text: "Tampa's growing base of financial advisors and CPAs serving the metro's expanding professional population represents a genuine referral opportunity for firms willing to invest the relationship-building time. Clients with meaningful assets or retirement accounts often consult a financial professional before or during their divorce search, and firms that build visibility with these professionals through local networking, CLE presentations, or simply consistent, responsive collaboration on shared clients frequently find this channel produces some of their best-converting leads at effectively no direct per-lead cost.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Tampa Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Running identical messaging across the entire Tampa Bay metro instead of tailoring content to specific growing suburbs.",
+          "Failing to update marketing materials and intake scripts to reflect the 2023 alimony reform.",
+          "Comparing lead cost against Miami benchmarks rather than Tampa's own mid-range Florida market pricing.",
+          "Not tracking cost-per-signed-case separately from raw lead volume when evaluating whether a source is working.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Response Speed as a Competitive Advantage",
+      },
+      {
+        type: "paragraph",
+        text: "Tampa's moderately competitive market still means most prospects are comparing at least two or three firms before committing, and response speed remains one of the highest-leverage, lowest-cost levers a firm controls directly. Firms that respond to a new lead within five minutes, whether purchased or organically generated, consistently convert at meaningfully higher rates than those that let inquiries sit for even an hour, regardless of how strong the underlying lead source is. Building this discipline into intake operations, through clear staff ownership and simple tracking of response-time metrics, often produces a larger conversion improvement than switching lead providers entirely.",
       },
     ],
     faqs: [
@@ -603,6 +669,35 @@ export const howToGetCluster2Articles: Article[] = [
           "Use a call script specifically built for urgency, acknowledging the accident and moving quickly toward scheduling rather than a slow, generic intro.",
         ],
       },
+      {
+        type: "heading",
+        text: "Early Evidence Preservation in a Fast-Moving Case",
+      },
+      {
+        type: "paragraph",
+        text: "High-intent Dallas PI leads often arrive within hours or days of an accident, which creates a genuine window to preserve evidence before it disappears, surveillance footage from a nearby business, a vehicle before it's repaired or totaled out, or witness contact information before memories fade. Firms that build a standardized early-evidence checklist into their intake process, sending it to newly signed clients immediately rather than waiting for a formal case management meeting, capture evidence that meaningfully strengthens negotiating position later. Texas's two-year statute of limitations for most personal injury claims provides ample time to file, but evidence quality degrades far faster than the filing deadline itself, making this an area where speed matters independent of any legal deadline.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Chasing High-Intent Volume",
+      },
+      {
+        type: "list",
+        items: [
+          "Paying premium prices for high-intent leads without the intake speed to actually capitalize on the urgency.",
+          "Treating every lead as equally high-intent instead of segmenting and prioritizing by actual liability and injury signals.",
+          "Comparing warm transfer cost against shared lead cost without normalizing for the very different conversion rates each format produces.",
+          "Neglecting early evidence preservation guidance, losing case value that speed-to-contact alone doesn't capture.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Segmenting Dallas PI Volume by Accident Type",
+      },
+      {
+        type: "paragraph",
+        text: "Not all high-intent Dallas PI inquiries carry equal value or urgency, and firms that segment volume by accident type at intake, standard passenger vehicle collisions, commercial truck accidents, rideshare incidents, and pedestrian or motorcycle cases, can route each type to the attorney or team best equipped to handle it efficiently. Commercial vehicle and rideshare cases in particular often involve additional insurance layers and corporate defendants that require different early investigative steps than a straightforward two-car collision, making this segmentation a genuine operational advantage rather than an administrative nicety in a market this competitive.",
+      },
     ],
     faqs: [
       {
@@ -756,6 +851,38 @@ export const howToGetCluster2Articles: Article[] = [
           "Chasing the cheapest available lead price without weighing it against the resulting signed-case rate.",
           "Not revisiting qualification criteria as volume grows, letting lower-quality leads slip through unnoticed.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Hiring and Training Intake Staff to Match Growing Volume",
+      },
+      {
+        type: "paragraph",
+        text: "Lead volume growth that outpaces intake staffing is one of the fastest ways to quietly destroy conversion rate, since even excellent leads convert poorly when they sit unanswered or get rushed through by an overwhelmed team. Firms planning meaningful volume growth should build a staffing plan alongside it, budgeting for a new intake hire once existing staff are consistently handling near their realistic daily capacity, rather than waiting until response times have already visibly slipped. New intake staff typically need two to four weeks of paired or supervised calling before they're producing conversion rates comparable to experienced team members, so this hiring and training timeline should be planned well ahead of a planned volume increase, not reactively after growth has already outpaced the team.",
+      },
+      {
+        type: "heading",
+        text: "Building a Realistic Volume Ramp Schedule",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than doubling lead spend in a single month, firms that scale successfully tend to increase volume in smaller, deliberate increments, often 20% to 30% per month, tracking conversion rate and intake response time closely after each increase before adding more. This staged approach makes it far easier to isolate whether a conversion dip is caused by intake capacity, lead quality drift, or a seasonal shift in the underlying market, rather than facing several confounded variables at once after a large, abrupt volume jump.",
+      },
+      {
+        type: "list",
+        items: [
+          "Increase volume in defined increments, validating conversion rate after each step before scaling further.",
+          "Set a specific intake response-time threshold that triggers a pause in volume growth if breached.",
+          "Review staffing capacity monthly against actual lead volume rather than assuming current staffing will always be sufficient.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Signs a Firm Is Genuinely Ready to Scale Further",
+      },
+      {
+        type: "paragraph",
+        text: "A firm is generally in a good position to add more volume when its current cost-per-signed-case has stayed stable or improved over at least two consecutive months, intake staff are consistently responding within the firm's target window without regular overtime or backlog, and the firm has confirmed capacity, whether through existing staff bandwidth or a concrete hiring plan already underway, to absorb the next increment of growth. Firms missing any of these signals are usually better served fixing the underlying gap first, since adding volume on top of an already-strained intake process tends to compound problems rather than solve them.",
       },
     ],
     faqs: [
@@ -926,6 +1053,35 @@ export const howToGetCluster2Articles: Article[] = [
         type: "paragraph",
         text: "SEO and referral relationships often take six months or longer to produce meaningful volume, while PPC and purchased leads can generate volume within days of launch. Firms that understand this timeline difference avoid the common mistake of abandoning a slower-building channel too early simply because it hasn't yet caught up to faster channels — each has a different, legitimate ramp curve.",
       },
+      {
+        type: "heading",
+        text: "Building a Content Marketing Foundation Alongside Paid Volume",
+      },
+      {
+        type: "paragraph",
+        text: "While purchased leads and PPC deliver the fastest incremental volume, firms that also invest in genuinely useful content, addressing specific injury types, local court procedures, and common questions injury victims actually search for, build a compounding asset that steadily reduces long-term dependence on paid channels. A single well-researched article on a specific, narrow topic, such as what to do after a rear-end collision on a specific local highway, can continue generating organic leads for years after publication, at a marginal cost far below what the same volume would cost through an ongoing paid channel. Firms without internal writing capacity can work with a freelance legal writer or content agency, typically running $150 to $600 per article depending on depth and required research, to build this foundation without pulling attorneys away from billable work.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Chasing More Volume",
+      },
+      {
+        type: "list",
+        items: [
+          "Adding a new paid channel before confirming intake capacity can actually absorb the additional leads.",
+          "Judging a slower-building channel like SEO against the same short timeline used for paid volume.",
+          "Comparing channels purely on cost per lead without tracking cost per signed case for each separately.",
+          "Neglecting referral relationships entirely in favor of paid channels, missing a genuinely high-converting, low-cost source.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Tracking Channel Performance With a Simple Dashboard",
+      },
+      {
+        type: "paragraph",
+        text: "A firm doesn't need sophisticated analytics software to track channel performance well — a straightforward spreadsheet logging lead source, cost, contact outcome, and eventual signed-case status, reviewed on a consistent monthly cadence, gives most firms enough visibility to make confident decisions about where to invest the next dollar of marketing budget. The discipline of maintaining this tracking consistently matters far more than the sophistication of the tool used to do it, since even the best dashboard produces misleading conclusions if the underlying data isn't kept current and reviewed regularly by someone accountable for acting on it.",
+      },
     ],
     faqs: [
       {
@@ -1071,7 +1227,7 @@ export const howToGetCluster2Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Beyond vetting external providers, defining your own firm's minimum acceptable criteria for an auto accident lead — in writing, shared with everyone touching intake — keeps quality consistent even as you add new sources or new staff. Without a documented standard, intake staff often develop inconsistent, informal judgment calls about which leads are worth pursuing, leading to uneven follow-up effort and inconsistent conversion data that's hard to act on.",
+        text: "Beyond vetting external providers, defining your own firm's minimum acceptable criteria for an auto accident lead — in writing, shared with everyone touching intake — keeps quality consistent even as you add new sources or new staff. Without a documented standard, intake staff often develop inconsistent, informal judgment calls about which leads are worth pursuing, leading to uneven follow-up effort and inconsistent conversion data that's genuinely hard to act on with any confidence.",
       },
       {
         type: "list",
@@ -1080,6 +1236,35 @@ export const howToGetCluster2Articles: Article[] = [
           "Share this standard with every provider you work with, so their screening aligns with your actual criteria rather than a generic definition of quality.",
           "Revisit the standard periodically as your firm's target case value or capacity changes.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Training Intake Staff to Reinforce Quality Screening",
+      },
+      {
+        type: "paragraph",
+        text: "Even a well-screened lead from a reputable provider still passes through a firm's own intake process, and inconsistent internal handling can undermine an otherwise strong source. Training intake staff on the same documented quality criteria used to evaluate external providers, and giving them clear guidance on how to further verify liability and injury detail during the first call, ensures the firm's own process doesn't quietly discard genuinely viable cases or waste time chasing ones that never should have advanced past initial screening. Role-playing common scenarios, a lead with ambiguous liability, one with a minor but real injury, one with a promising story but missing documentation, helps staff apply judgment consistently rather than defaulting to gut instinct that varies from person to person.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Evaluating Lead Quality",
+      },
+      {
+        type: "list",
+        items: [
+          "Judging a provider's quality after only a handful of leads instead of a statistically meaningful sample.",
+          "Focusing exclusively on contact rate, missing that a lead can be reachable but still not represent a genuine, viable case.",
+          "Applying different quality standards to different providers, making fair comparison between sources impossible.",
+          "Assuming a higher price automatically means better screening, without verifying the provider's actual disqualification process.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Reviewing Quality Data on a Consistent Schedule",
+      },
+      {
+        type: "paragraph",
+        text: "Lead quality isn't a one-time evaluation — a source that screens well today can quietly loosen its standards months later, particularly if a vendor is under pressure to hit volume commitments. Firms that build a recurring monthly review into their operations, comparing each source's signed-case rate and contact quality against its own historical baseline rather than only against other sources, catch this kind of drift early enough to raise it with the provider or adjust spend before it meaningfully damages overall acquisition efficiency and blended cost per signed case.",
       },
     ],
     faqs: [
@@ -1240,6 +1425,43 @@ export const howToGetCluster2Articles: Article[] = [
           "Track which messaging themes correlate with higher consultation booking rates and double down on what's working.",
         ],
       },
+      {
+        type: "heading",
+        text: "Building Content Around Cook County-Specific Search Terms",
+      },
+      {
+        type: "paragraph",
+        text: "Prospects researching a Chicago divorce increasingly search for specific, narrow questions rather than generic overviews, how long an uncontested Cook County divorce typically takes, what the parenting education course requirement actually involves, or how equitable distribution applies to a specific asset type. Firms that publish genuinely useful, specific content addressing these exact questions tend to rank more easily than pages competing on broad, saturated terms like \"Chicago divorce lawyer\" alone, and the resulting organic traffic tends to convert well since it arrives already informed and further along in its decision process.",
+      },
+      {
+        type: "heading",
+        text: "Working With Referral Sources Across the Chicago Metro",
+      },
+      {
+        type: "paragraph",
+        text: "Chicago's dense professional community, financial advisors, therapists, and mediators serving both the city and its collar counties, creates real referral opportunity for firms willing to invest in these relationships over time. Because Cook County's caseload makes the divorce process itself feel daunting to many prospects, a warm introduction from a trusted professional the prospect already knows carries outsized weight compared to a cold inquiry from paid search, often producing both higher conversion and a smoother initial consultation.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the Chicago Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Competing exclusively on broad, expensive keywords instead of building content around specific, lower-competition questions.",
+          "Ignoring the collar counties entirely despite their meaningfully lower competition and growing population.",
+          "Failing to set realistic Cook County timeline expectations, leading to frustrated clients later in the case.",
+          "Treating every lead source identically instead of tracking cost-per-signed-case separately by channel and geography.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Balancing Immediate Volume With Long-Term Visibility",
+      },
+      {
+        type: "paragraph",
+        text: "Given Chicago's scale and competitiveness, firms tend to see the best results by treating purchased lead volume and organic content investment as complementary rather than competing priorities. Purchased leads provide predictable, immediate case flow while a firm builds out the specific, narrowly focused content that takes months to rank but eventually produces a steady stream of lower-cost organic inquiries. Firms that abandon content investment the moment purchased leads start flowing often find themselves permanently dependent on paid acquisition, while firms that maintain both channels in parallel gradually shift their blended acquisition cost downward over time, building a more resilient, less rate-sensitive growth engine.",
+      },
     ],
     faqs: [
       {
@@ -1399,6 +1621,43 @@ export const howToGetCluster2Articles: Article[] = [
           "Expand into additional submarkets only after your priority areas show a stable, positive return.",
         ],
       },
+      {
+        type: "heading",
+        text: "Working With Forensic Accountants on Entertainment Income",
+      },
+      {
+        type: "paragraph",
+        text: "Entertainment industry compensation rarely resembles a standard salary — residuals, backend profit participation, and irregular project-based income all require specialized forensic accounting to value accurately for divorce purposes. Firms building genuine expertise in this segment benefit from maintaining working relationships with accountants and valuation experts who specifically understand entertainment industry pay structures, since a generalist accountant unfamiliar with how residuals are tracked and projected can meaningfully slow down negotiation or produce a valuation an opposing expert can easily challenge. This specialized capability, clearly communicated in marketing and consultations, is itself a genuine differentiator in a market where many firms claim high-net-worth experience without the specific expertise to back it up.",
+      },
+      {
+        type: "heading",
+        text: "Standing Out Among LA's Celebrity Divorce Attorneys",
+      },
+      {
+        type: "paragraph",
+        text: "Los Angeles is home to a small number of nationally known celebrity divorce attorneys whose visibility can make it feel difficult for other firms to compete for high-asset clients. In practice, most high-net-worth prospects, including many working professionals in entertainment adjacent to actual celebrity status, aren't necessarily seeking the most publicly visible attorney but rather one who demonstrates genuine competence, discretion, and specific relevant experience. Firms that emphasize confidentiality practices, a track record with comparable asset complexity, and a calm, non-sensationalized approach in their marketing often convert this audience more effectively than firms trying to compete purely on name recognition against far larger, more established competitors.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make Targeting the LA Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Marketing broadly to \"Los Angeles\" without prioritizing specific, manageable submarkets to build real depth in.",
+          "Claiming entertainment industry or high-net-worth expertise without a genuine, verifiable track record to support it.",
+          "Underpricing consultations for complex income valuation cases, absorbing unbilled time discussing residuals and profit participation.",
+          "Comparing LA lead costs against national averages instead of the market's own above-average benchmarks.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Confidentiality as a Genuine Marketing Advantage",
+      },
+      {
+        type: "paragraph",
+        text: "High-profile and high-net-worth clients in Los Angeles often weigh a firm's discretion as heavily as its legal skill, given the real reputational and financial stakes of a public dispute. Firms that can speak concretely about their confidentiality practices, secure document handling, discreet scheduling options, and experience navigating cases that require careful media and public exposure management, address a genuine concern this audience holds, one that generic marketing copy about being \"aggressive advocates\" simply doesn't touch. Making this a visible, explicit part of a firm's positioning, rather than an unstated assumption, differentiates meaningfully in a crowded, high-stakes market.",
+      },
     ],
     faqs: [
       {
@@ -1450,7 +1709,7 @@ export const howToGetCluster2Articles: Article[] = [
     content: [
       {
         type: "paragraph",
-        text: "Getting quality divorce leads in San Antonio means combining local SEO, PPC, and a vetted purchased lead program, configured around Texas's community property framework and the metro's significant military population.",
+        text: "Getting quality divorce leads in San Antonio means combining local SEO, PPC, and a vetted purchased lead program, configured carefully around Texas's community property framework and the metro's significant local military population.",
       },
       {
         type: "heading",
@@ -1494,7 +1753,7 @@ export const howToGetCluster2Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "San Antonio's divorce lead pricing tends to run below Texas's larger metros like Dallas or Houston, reflecting somewhat lower average case values outside the military and high-asset segments. Shared leads commonly run $35 to $90 per contact, while exclusive leads screened for military status or asset complexity run $130 to $320. Leads specifically flagged for USFSPA pension division or deployment-related custody issues often carry a modest premium given the specialized knowledge required.",
+        text: "San Antonio's divorce lead pricing tends to run below Texas's larger metros like Dallas or Houston, reflecting somewhat lower average case values outside the military and high-asset segments. Shared leads commonly run $35 to $90 per contact, while exclusive leads screened for military status or asset complexity run $130 to $320. Leads specifically flagged for USFSPA pension division or deployment-related custody issues often carry a modest premium given the specialized knowledge required to handle them well.",
       },
       {
         type: "list",
@@ -1511,7 +1770,7 @@ export const howToGetCluster2Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Given the metro's substantial military population, ask whether a prospective provider's intake process actually flags military affiliation, since USFSPA pension division and Servicemembers Civil Relief Act considerations meaningfully affect both case handling and case value. Also confirm bilingual capture is available, given the metro's significant Spanish-speaking population.",
+        text: "Given the metro's substantial military population, ask whether a prospective provider's intake process actually flags military affiliation, since USFSPA pension division and Servicemembers Civil Relief Act considerations meaningfully affect both case handling and case value. Also confirm bilingual capture is available, given the metro's significant Spanish-speaking population, and ask specifically how that intake flow is staffed and translated.",
       },
       {
         type: "heading",
@@ -1519,7 +1778,7 @@ export const howToGetCluster2Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "The Texas Disciplinary Rules of Professional Conduct restrict certain direct solicitation practices, and a compliant lead provider structures its program as advertising, with the prospect independently choosing to submit their information. Confirm the provider can produce documented consent for any individual lead, typically via TrustedForm or Jornaya, and retain that documentation for your own compliance file.",
+        text: "The Texas Disciplinary Rules of Professional Conduct restrict certain direct solicitation practices, and a compliant lead provider structures its program as advertising, with the prospect independently choosing to submit their information. Confirm the provider can produce documented consent for any individual lead, typically via TrustedForm or Jornaya, and retain that documentation for your own compliance file in case a question ever arises later.",
       },
       {
         type: "heading",
@@ -1548,7 +1807,7 @@ export const howToGetCluster2Articles: Article[] = [
       },
       {
         type: "paragraph",
-        text: "Winning a military divorce case in San Antonio often depends as much on process as on legal knowledge — deployment schedules can disrupt standard timelines, and clients may need flexible communication options while stationed elsewhere or between duty assignments. Firms that build genuinely flexible intake and communication processes around these realities, rather than applying a standard civilian workflow, tend to see stronger word-of-mouth referrals within this tightly connected community, which compounds the value of any paid lead spend over time.",
+        text: "Winning a military divorce case in San Antonio often depends as much on process as on legal knowledge — deployment schedules can disrupt standard timelines, and clients may need flexible communication options while stationed elsewhere or between duty assignments. Firms that build genuinely flexible intake and communication processes around these realities, rather than applying a standard civilian workflow, tend to see stronger word-of-mouth referrals within this tightly connected community, which compounds the value of any paid lead spend over time and steadily lowers long-run acquisition cost across the firm's overall marketing mix.",
       },
       {
         type: "list",
@@ -1557,6 +1816,35 @@ export const howToGetCluster2Articles: Article[] = [
           "Train intake staff on basic USFSPA and SCRA concepts so initial conversations demonstrate genuine familiarity, not just a willingness to look into it.",
           "Ask satisfied military clients for reviews and referrals, since this community often shares trusted recommendations within its own networks.",
         ],
+      },
+      {
+        type: "heading",
+        text: "Building Bilingual Content and Campaigns",
+      },
+      {
+        type: "paragraph",
+        text: "San Antonio's substantial Spanish-speaking population represents a meaningfully underserved segment for many firms whose marketing exists only in English. Building genuinely translated, not machine-translated, content covering common divorce questions, publishing bilingual intake forms, and ensuring at least some intake staff can conduct a full consultation in Spanish all expand a firm's addressable market in a way that competitors relying solely on English-language campaigns simply can't match. Firms new to bilingual marketing often start with a Spanish-language landing page and a small dedicated PPC campaign to validate demand before investing in more extensive translated content across the full site and broader intake infrastructure.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make in the San Antonio Market",
+      },
+      {
+        type: "list",
+        items: [
+          "Running English-only campaigns in a market with a substantial Spanish-speaking population, leaving real demand uncaptured.",
+          "Marketing to military families without staff who can speak knowledgeably about USFSPA and SCRA basics.",
+          "Comparing San Antonio lead pricing against Dallas or Houston benchmarks instead of the market's own typically lower range.",
+          "Underinvesting in referral relationships within San Antonio's tightly connected military community.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Balancing Military Specialization With Broad Local Coverage",
+      },
+      {
+        type: "paragraph",
+        text: "While military divorce represents a genuine, differentiated opportunity in San Antonio, firms shouldn't build their entire acquisition strategy around this segment alone, since the broader civilian population still represents the majority of the metro's overall divorce caseload. A balanced approach, dedicated military-focused content and campaigns layered on top of solid general Bexar County coverage, captures both the specialized niche and the larger addressable market, rather than over-indexing on military work at the expense of broader visibility across San Antonio's growing suburbs and surrounding communities throughout the metro area.",
       },
     ],
     faqs: [

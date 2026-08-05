@@ -73,6 +73,14 @@ export const divorceLeadEconomicsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Tracking Pricing Trends Throughout the Year",
+      },
+      {
+        type: "paragraph",
+        text: "Divorce lead pricing doesn't stay flat across a calendar year — many markets see cost per lead rise around January and again in late summer as search volume climbs following the predictable seasonal uptick in divorce inquiries, then ease somewhat during quieter months. Firms tracking pricing trends over time, rather than reacting only to whatever quote a provider offers in a given month, can time larger volume commitments to periods of relatively lower competition and build seasonal awareness into their annual budget planning.",
+      },
+      {
+        type: "heading",
         text: "Compliance and Consent Factors That Affect Pricing",
       },
       {
@@ -107,6 +115,27 @@ export const divorceLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Rather than starting from a target lead volume and working out what it costs, a more sustainable approach starts from your firm's realistic case capacity and target margin, then works backward to a maximum monthly spend across all divorce lead segments combined. This keeps budget decisions grounded in what your firm can actually staff and convert, rather than in whatever volume a provider happens to be pitching that month, and makes it much easier to evaluate whether a proposed price increase or new segment still fits your underlying economics.",
+      },
+      {
+        type: "heading",
+        text: "Actual Dollar Ranges Firms Can Expect in 2026",
+      },
+      {
+        type: "paragraph",
+        text: "Putting real numbers to the segments above: shared, uncontested divorce leads commonly run $20 to $50. Exclusive, uncontested leads typically run $60 to $150. Shared, contested leads run $50 to $130, while exclusive contested or high-asset leads run $150 to $400, and warm transfers for this top segment can reach $250 to $600 or more in dense, competitive metros. These ranges shift meaningfully by market, with major metros like Los Angeles, New York, or Chicago sitting toward the top of each band and smaller regional markets sitting toward the bottom of the same range. Firms should treat these as planning benchmarks rather than fixed quotes, and always validate actual pricing against a specific provider's current rates for their target market and segment.",
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes When Budgeting for Divorce Leads",
+      },
+      {
+        type: "list",
+        items: [
+          "Setting a single flat per-lead budget ceiling that doesn't account for how much segment and geography affect fair pricing.",
+          "Comparing quoted prices across providers without confirming they're quoting the same segment and delivery format.",
+          "Starting from a desired lead volume instead of working backward from realistic intake and case capacity.",
+          "Ignoring consent documentation quality when comparing prices, exposing the firm to avoidable compliance risk.",
+        ],
       },
     ],
     faqs: [
@@ -216,6 +245,14 @@ export const divorceLeadEconomicsArticles: Article[] = [
       },
       {
         type: "heading",
+        text: "Communicating ROI Findings to Firm Leadership",
+      },
+      {
+        type: "paragraph",
+        text: "Accurate ROI data only creates value if it actually informs decisions, which means whoever tracks this data needs a clear, simple way to communicate findings to partners or firm leadership who may not want to review a detailed spreadsheet every month. A brief, consistent summary, current cost-per-signed-case by source against the firm's threshold, any notable trend, and a specific recommendation, turns raw tracking into something leadership can act on quickly rather than data that sits unused because no one translated it into a clear business decision.",
+      },
+      {
+        type: "heading",
         text: "Building a Simple Tracking System",
       },
       {
@@ -229,6 +266,22 @@ export const divorceLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Extended attribution windows and value-weighted comparisons are meant to prevent premature judgment, not to excuse a source that's genuinely underperforming even after a fair evaluation period. If a source consistently shows a lower signed-case rate than comparable sources over a full quarter, after accounting for case complexity mix, that's a legitimate signal to reduce or cut spend — the goal of accurate measurement is a fair comparison, not an automatic defense of every channel regardless of actual results.",
+      },
+      {
+        type: "heading",
+        text: "A Worked Numeric Example",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm spending $6,000 over a month on a source producing 60 exclusive leads at $100 each. Judged after 30 days, only 4 have signed, suggesting a 7% conversion rate and roughly $1,500 per signed case. Extending the window to 90 days, allowing later-stage prospects time to complete their decision process, reveals 13 total signings from that same cohort, a 22% conversion rate and about $460 per signed case, a dramatically different and more accurate picture. This gap illustrates concretely why judging divorce lead sources on a 30-day snapshot alone routinely leads firms to prematurely cut a source that was actually performing well, simply because the measurement window didn't match the category's real decision timeline.",
+      },
+      {
+        type: "heading",
+        text: "Setting a Minimum Acceptable ROI Threshold",
+      },
+      {
+        type: "paragraph",
+        text: "Once a firm has reliable, properly windowed ROI data, it becomes useful to set an explicit minimum threshold, a fully loaded cost-per-signed-case ceiling relative to average case revenue, that a source needs to clear to remain in the budget. Many firms find a threshold in the range of 15% to 25% of average case revenue reasonable for cost-per-signed-case, though the right number depends on overhead structure and how much attorney capacity is available to absorb additional consultations. Applying this threshold consistently, rather than giving a favored or long-standing source unstated leniency, keeps budget decisions objective rather than driven by inertia or personal preference for a particular longstanding vendor relationship.",
       },
     ],
     faqs: [
@@ -348,6 +401,38 @@ export const divorceLeadEconomicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "If your firm has historically struggled to follow up consistently on any lead source over more than a single call attempt, that's worth addressing internally before adding purchased divorce leads to the mix, since the format won't fix an underlying follow-up discipline problem. On the provider side, be cautious of anyone promising fast, guaranteed conversion for a category that structurally doesn't convert quickly — that kind of promise usually signals either inexperience with this specific practice area or lead sourcing practices that prioritize volume over genuine intent.",
+      },
+      {
+        type: "heading",
+        text: "Getting a Second Opinion Before Committing",
+      },
+      {
+        type: "paragraph",
+        text: "Before signing a meaningful contract, it's worth talking to another firm in a comparable market, ideally not a direct competitor, about their own experience with purchased divorce leads. Peer conversations often surface practical details a vendor's sales pitch won't volunteer, realistic timelines, common pitfalls during the first few months, and honest signed-case rates, giving a more grounded basis for the decision than marketing materials or a sales call alone.",
+      },
+      {
+        type: "heading",
+        text: "Weighing the Alternative: What Else Could This Budget Buy",
+      },
+      {
+        type: "paragraph",
+        text: "Before committing to a purchased lead program, it's worth honestly comparing what the same monthly budget could accomplish elsewhere: additional PPC spend, a content writer producing SEO-focused articles, or simply time invested in building referral relationships with financial advisors and therapists. None of these alternatives are inherently superior, but each has a different risk profile and timeline. Purchased leads offer the most immediate, controllable volume; content and referrals take longer to mature but typically produce a lower marginal cost once established. A firm that skips this comparison and defaults to purchased leads simply because it's the fastest option to set up may be leaving a better long-term return on the table.",
+      },
+      {
+        type: "heading",
+        text: "A Simple Decision Framework With Real Numbers",
+      },
+      {
+        type: "paragraph",
+        text: "Consider a firm with an average uncontested divorce fee of $2,500 and a contested case averaging $8,000. If a provider quotes $100 per exclusive lead with an expected 20% signed-case rate for a mixed-complexity batch, that's roughly $500 per signed case before intake labor, comfortably below either fee level. If the same firm's actual intake process, once tested, only converts at 8%, cost per signed case rises to $1,250, still workable against the contested average but uncomfortably close to eating most of the margin on an uncontested case. Running this math with a firm's own honest, conservative conversion estimate, rather than the provider's best-case pitch, is what actually answers whether this channel is worth it for that specific firm's particular economics.",
+      },
+      {
+        type: "heading",
+        text: "Revisiting the Decision as Circumstances Change",
+      },
+      {
+        type: "paragraph",
+        text: "A firm's answer to \"is this channel worth it\" isn't permanent — capacity, staffing, average case value, and local market competition all shift over time, and a channel that made sense two years ago may no longer fit, or a channel dismissed previously may now be worth reconsidering once intake capacity has grown. Revisiting this assessment periodically, rather than treating an initial decision as final, keeps a firm's acquisition strategy aligned with its actual current situation rather than an outdated snapshot of where the firm stood previously.",
       },
     ],
     faqs: [

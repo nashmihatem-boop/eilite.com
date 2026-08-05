@@ -103,6 +103,59 @@ export const channelBasicsArticles: Article[] = [
         type: "paragraph",
         text: "A workable framework doesn't need to be complicated: track cost per lead by source, conversion rate from lead to signed client by source, and average case value by source, then multiply through to get cost per acquisition and return per dollar spent. Reviewing this on a monthly basis, even with a simple spreadsheet, quickly reveals which channels are actually worth scaling and which are quietly underperforming despite looking reasonable on a cost-per-lead basis alone. For firms ready to add a purchased-lead channel to this mix, [Eilite's buy leads platform](/buy-leads) provides transparent, trackable delivery data that plugs directly into this kind of framework.",
       },
+      {
+        type: "heading",
+        text: "A Practical First 30 Days Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Week 1: audit current intake process — response time, follow-up cadence, and where leads currently come from.",
+          "Week 1: set up basic call tracking so every inbound channel can be measured separately.",
+          "Week 2: choose one paid or purchased channel to test alongside any existing organic efforts.",
+          "Week 2: build or confirm a dedicated landing page for the channel being tested.",
+          "Weeks 3-4: run the test at a modest volume, tracking cost per lead and contact rate daily.",
+          "End of month: review cost per signed case (if enough leads converted) or cost per qualified consultation, and decide whether to scale, adjust, or pause.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Common Mistakes Firms Make When Starting Lead Generation",
+      },
+      {
+        type: "list",
+        items: [
+          "Testing a new channel with too small a budget to generate statistically meaningful data.",
+          "Judging results after only a few days instead of a few weeks.",
+          "Failing to track leads back to their source, making it impossible to compare channels later.",
+          "Assuming a channel that worked for another firm will automatically work the same way locally.",
+          "Neglecting intake process improvements while focusing entirely on lead sourcing.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "How Lead Generation Differs by Practice Area",
+      },
+      {
+        type: "paragraph",
+        text: "Urgent, high-intent practice areas like personal injury, DUI defense, or criminal defense tend to respond well to paid search and purchased leads, since prospects are actively searching and ready to act quickly. Practice areas with a longer, more deliberate decision cycle — estate planning, business formation, immigration — often benefit more from sustained content marketing and referral relationships, since prospects in these categories spend more time researching and comparing before ever reaching out. A firm applying the same lead generation playbook uniformly across very different practice areas often finds mismatched results, not because the tactics themselves are flawed, but because the underlying buyer behavior differs enough to call for a different channel mix and messaging approach.",
+      },
+      {
+        type: "heading",
+        text: "Setting Realistic First-Quarter Expectations",
+      },
+      {
+        type: "paragraph",
+        text: "A firm testing lead generation seriously for the first quarter should expect a learning curve, not immediate optimized performance. Early cost per lead and conversion figures are usually less efficient than what the same channel produces after a few months of refinement — adjusting targeting, improving landing pages, tightening intake response time. Firms that judge a channel's long-term viability purely on its unoptimized first-month numbers often abandon options that would have become genuinely profitable with a bit more patience and iteration.",
+      },
+      {
+        type: "heading",
+        text: "Documenting What You Learn Along the Way",
+      },
+      {
+        type: "paragraph",
+        text: "Keeping a simple running log of what's been tested, what the results were, and what changed as a result turns a firm's lead generation effort into an accumulating body of institutional knowledge rather than a series of disconnected experiments that get forgotten once the person who ran them moves on to something else. This is especially valuable at firms where marketing responsibility shifts between staff members or gets outsourced to different vendors over time, since a documented history prevents the firm from re-testing the same failed approach a new hire or vendor tries again without realizing it was already ruled out.",
+      },
     ],
     faqs: [
       {
@@ -234,6 +287,52 @@ export const channelBasicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "State bar advertising rules generally apply to social media content the same way they apply to any other attorney marketing, including restrictions around case results, client testimonials, and comparative claims. Reviewing a state's specific advertising rules, and building a simple internal approval process for anything referencing outcomes or client experiences, protects a firm from an easily avoidable compliance misstep on a channel that otherwise carries relatively low risk.",
+      },
+      {
+        type: "heading",
+        text: "A Sample Content Mix That Builds Trust",
+      },
+      {
+        type: "list",
+        items: [
+          "Educational posts explaining a common legal question in plain language, without turning it into a sales pitch.",
+          "Behind-the-scenes content showing the firm's team and culture, humanizing the brand beyond just legal expertise.",
+          "Case result posts, handled compliantly, that demonstrate real outcomes without overstating what a specific result guarantees.",
+          "Community involvement posts showing sponsorships, local events, or pro bono work.",
+          "Client-focused content addressing common misconceptions or myths relevant to your practice areas.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What Paid Social Campaigns Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Paid social advertising for law firms typically runs lower cost-per-click than search advertising for the same practice area, often a fraction of what a comparable search click costs, though conversion rates also tend to run lower given the difference in intent between someone actively searching versus someone scrolling a social feed. A modest test budget in the low hundreds to low thousands per month is usually enough to gauge whether paid social produces meaningful direct leads for a given practice area, before deciding whether to scale spend meaningfully higher. Firms should expect paid social's cost-per-lead to look worse on paper than search, while recognizing its role is often different — awareness and retargeting rather than pure direct-response capture.",
+      },
+      {
+        type: "heading",
+        text: "Building a Simple Monthly Content Calendar",
+      },
+      {
+        type: "paragraph",
+        text: "A basic content calendar, even a simple shared spreadsheet listing planned post topics and dates a month or two in advance, prevents the common pattern of posting enthusiastically for a few weeks and then going quiet once daily demands take over. Assigning specific responsibility — who writes the post, who approves it, who actually publishes it — matters as much as the calendar itself, since a plan with no clear owner tends to fall apart at the first busy week. Many firms find it easier to batch-create several weeks of content in a single sitting, rather than trying to come up with something fresh every single day, which also gives more time for a compliance review pass before anything actually goes live.",
+      },
+      {
+        type: "heading",
+        text: "Handling Direct Messages and Inquiries Promptly",
+      },
+      {
+        type: "paragraph",
+        text: "A prospect who sends a direct message through social media, rather than filling out a website form or calling, still deserves the same fast, professional response as any other channel — and often expects it even faster, given the immediacy social platforms train users to associate with the medium. Firms should build social media inquiry monitoring into their regular intake process, checking messages at least as often as email, rather than treating the platform as a lower-priority afterthought. A promising direct message that sits unanswered for days sends exactly the wrong signal about responsiveness to a prospect who may be actively comparing several firms in real time, and represents a genuinely avoidable lost opportunity given how little effort a prompt reply actually requires.",
+      },
+      {
+        type: "heading",
+        text: "Assigning Clear Ownership Internally",
+      },
+      {
+        type: "paragraph",
+        text: "Social media efforts tend to stall when responsibility is informally shared among several people rather than clearly assigned to one person or a small team, since a task everyone is theoretically responsible for often ends up nobody's actual priority during a busy week. Naming a specific owner, even if it's just a few hours of a paralegal's or marketing coordinator's time each week, gives the effort a much better chance of surviving beyond the initial enthusiasm of a new campaign launch.",
       },
     ],
     faqs: [
@@ -381,6 +480,51 @@ export const channelBasicsArticles: Article[] = [
       {
         type: "paragraph",
         text: "Whichever path a firm chooses, maintaining access to the underlying ad account and its full data is essential — firms that hand over account ownership entirely to an agency sometimes struggle to leave that agency later without losing valuable historical performance data. Firms looking to supplement PPC with a more predictable, fixed-cost volume channel can compare it directly against [Eilite's pay-per-lead and warm transfer programs](/buy-leads), which don't require ongoing campaign management at all.",
+      },
+      {
+        type: "heading",
+        text: "A Practical Pre-Launch Checklist",
+      },
+      {
+        type: "list",
+        items: [
+          "Confirm a dedicated landing page exists for each ad group, matching the specific keywords and message being tested.",
+          "Set up call tracking with dynamic number insertion before the campaign goes live, not after.",
+          "Build an initial negative keyword list covering obviously irrelevant searches (jobs, free advice, DIY terms).",
+          "Set a daily or monthly budget cap appropriate to the practice area's typical cost-per-click range.",
+          "Confirm ad scheduling matches actual staffing hours so calls generated overnight or on weekends aren't wasted.",
+          "Set a specific review date, typically two to four weeks out, before judging early results.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Ongoing Optimization Tasks Once a Campaign Is Live",
+      },
+      {
+        type: "list",
+        items: [
+          "Review the search terms report weekly to catch and exclude new irrelevant queries.",
+          "Compare Quality Score across keywords and address any landing page or ad relevance gaps dragging it down.",
+          "Test at least two ad copy variations per ad group and retire the weaker performer after enough data accumulates.",
+          "Track cost per lead and, where possible, cost per signed case by keyword, not just campaign-wide.",
+          "Adjust bids and budget allocation toward the keywords and ad groups showing the strongest actual conversion data.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "Why Landing Page Load Speed Matters More in Legal PPC",
+      },
+      {
+        type: "paragraph",
+        text: "Given how expensive a legal click can be, a slow-loading landing page represents a particularly costly form of waste — a visitor who abandons a page before it even finishes loading has still cost the firm the full click price with zero chance to convert. Search platforms also factor page speed into their relevance and Quality Score calculations, meaning a slow page can simultaneously waste ad spend on abandoned visits and inflate the cost of every other click in the same campaign. Firms should test their landing page's actual mobile load time specifically, since a meaningful share of legal searches happen on a phone, often on an inconsistent mobile connection, and a page that loads acceptably fast on a firm's office WiFi can still perform poorly under real-world mobile conditions a prospect actually experiences.",
+      },
+      {
+        type: "heading",
+        text: "Reviewing Account Structure as a Campaign Matures",
+      },
+      {
+        type: "paragraph",
+        text: "A campaign structure that made sense at launch, with a handful of broad ad groups, often benefits from being split into more granular, tightly themed groups once enough data accumulates to reveal which specific keywords and messages actually perform differently from one another. Revisiting account structure periodically, rather than leaving the original launch setup untouched indefinitely, is one of the less obvious but genuinely impactful ways a maturing campaign continues improving well beyond its first few months.",
       },
     ],
     faqs: [

@@ -118,6 +118,22 @@ export const howToCluster1Articles: Article[] = [
         type: "paragraph",
         text: "Not every rideshare accident involves the Uber driver as the at-fault party — many cases involve a third-party driver striking the Uber vehicle while it's carrying a passenger or en route to a pickup. In these situations, the injured passenger may have a claim against the third-party driver's policy, the rideshare company's uninsured/underinsured motorist coverage, or both, which makes accurate intake documentation of exactly who caused the crash just as important as confirming the driver's app status.",
       },
+      {
+        type: "heading",
+        text: "What Rideshare Accident Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Shared rideshare accident leads commonly run $60 to $150, while exclusive leads with confirmed app status and trip documentation run $150 to $400. Cases confirmed to fall within Period 2 or 3, meaning the full $1 million policy is potentially in play, can command $300 to $700 or more when sold exclusively, reflecting the dramatically higher settlement potential compared to a Period 0 case limited to state minimum personal auto coverage. Firms should verify a provider's pricing tiers actually correspond to genuine trip-status screening rather than a flat rideshare premium applied regardless of which coverage period the accident falls into.",
+      },
+      {
+        type: "heading",
+        text: "Documenting the Case Before Trip Data Disappears",
+      },
+      {
+        type: "paragraph",
+        text: "Rideshare platforms don't retain trip and driver-status data indefinitely, making prompt documentation genuinely time-sensitive in a way that distinguishes this niche from standard auto accident cases. Firms should build a standard checklist into intake for newly signed rideshare clients: preserving any trip receipt, app screenshot, or confirmation email the client already has, sending a formal legal preservation request to the platform as early as possible, and identifying any available in-app GPS or timestamp data that could corroborate the driver's status at the moment of the crash. Firms that treat this as a routine, standardized step rather than an afterthought protect case value that can otherwise disappear simply through the passage of time.",
+      },
     ],
     faqs: [
       {
@@ -697,6 +713,22 @@ export const howToCluster1Articles: Article[] = [
         type: "paragraph",
         text: "If a compliance concern surfaces after a relationship is already underway — a fee structure that doesn't hold up to closer scrutiny, or a sourcing method that raises consent questions — the safest path is typically to pause new lead purchases from that source while the issue is resolved, rather than continuing volume while sorting it out. Firms that document this kind of proactive response are in a far better position than firms that ignore early warning signs until a complaint or bar inquiry forces the issue.",
       },
+      {
+        type: "heading",
+        text: "What Compliant Auto Accident Leads Typically Cost",
+      },
+      {
+        type: "paragraph",
+        text: "Properly structured, flat-fee auto accident leads commonly run $50 to $150 for shared delivery and $150 to $400 for exclusive delivery, with warm transfers running $250 to $600. Firms should be cautious of pricing that seems unusually low relative to these ranges, since a provider cutting corners on consent documentation or compliance structure to offer a below-market price is passing that risk directly to the buying firm, not absorbing it themselves. A compliant, well-documented lead program is worth paying market rate for, given how much more it protects the firm compared to a cheaper, riskier alternative.",
+      },
+      {
+        type: "heading",
+        text: "Building an Annual Compliance Review Into Standard Operations",
+      },
+      {
+        type: "paragraph",
+        text: "Rather than treating compliance review as a one-time task completed when a lead program first launches, firms benefit from building a brief annual review into standard operations, revisiting current bar guidance, confirming the provider's fee structure hasn't quietly shifted, and refreshing the firm's own documented rationale for why the arrangement remains compliant. This modest recurring discipline costs little time relative to the protection it provides, and it demonstrates good-faith diligence if the arrangement is ever questioned by a client, opposing counsel, or the bar itself.",
+      },
     ],
     faqs: [
       {
@@ -1165,7 +1197,7 @@ export const howToCluster1Articles: Article[] = [
     content: [
       {
         type: "paragraph",
-        text: "Buying personal injury leads for the first time involves a few key decisions: choosing a provider, deciding on exclusivity, understanding contract terms, and setting realistic initial expectations — getting each of these right up front avoids most of the frustration first-time buyers run into.",
+        text: "Buying personal injury leads for the first time involves a few key decisions: choosing a provider, deciding on exclusivity, understanding contract terms, and setting realistic initial expectations — getting each of these right up front avoids most of the frustration and wasted budget first-time buyers commonly run into.",
       },
       {
         type: "heading",
@@ -1268,6 +1300,35 @@ export const howToCluster1Articles: Article[] = [
       {
         type: "paragraph",
         text: "Once a first purchase has proven a source works, many firms find value in formalizing the arrangement — a defined monthly budget, a regular review cadence with the provider, and clear internal ownership of tracking results. Treating lead buying as an ongoing program with defined accountability, rather than a series of ad hoc purchases, tends to produce steadier and more predictable results over time.",
+      },
+      {
+        type: "heading",
+        text: "Actual Price Ranges to Expect as a First-Time Buyer",
+      },
+      {
+        type: "paragraph",
+        text: "For a first test, shared personal injury leads commonly run $50 to $150, exclusive leads run $150 to $400, and warm transfers run $250 to $600, with catastrophic injury or high-value case types pricing above these ranges. First-time buyers should budget for a genuinely meaningful test batch, at least 15 to 20 leads, rather than trying just two or three, since a very small sample rarely provides a reliable read on signed-case rate. A reasonable initial test budget for most solo or small firms falls somewhere between $1,000 and $3,000, enough volume to draw a real, statistically useful conclusion without overcommitting before the source has proven itself.",
+      },
+      {
+        type: "heading",
+        text: "Setting Up Intake Infrastructure Before Your First Lead Arrives",
+      },
+      {
+        type: "list",
+        items: [
+          "Set up call forwarding or a dedicated line so leads reach a live person quickly, not voicemail.",
+          "Prepare a basic intake script covering the core qualifying questions your practice area needs.",
+          "Create a simple tracking system, even a spreadsheet, to log source, contact outcome, and eventual case status.",
+          "Confirm at least one team member has clear ownership of responding to new leads within minutes, not hours.",
+        ],
+      },
+      {
+        type: "heading",
+        text: "What to Do With Your First Batch of Data",
+      },
+      {
+        type: "paragraph",
+        text: "Once a test batch has run its course, resist the urge to draw sweeping conclusions from a handful of standout wins or losses. Instead, calculate the basics: contact rate, consultation rate, and signed-case rate across the full batch, along with cost per signed case. Compare these figures against what you'd need to see for the source to make financial sense given your average case value, and use that concrete comparison, not a gut feeling about how the leads \"felt,\" to decide whether to scale up, adjust criteria, or move on to a different provider entirely for your firm's next test.",
       },
     ],
     faqs: [
