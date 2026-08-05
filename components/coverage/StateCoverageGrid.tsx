@@ -5,7 +5,7 @@ export function StateCoverageGrid({ industryLabel }: { industryLabel: string }) 
     <section className="bg-white py-20">
       <div className="mx-auto max-w-5xl px-6 lg:px-8">
         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">
-          01 Select a State
+          01 Nationwide Footprint
         </span>
         <h2 className="mt-3 font-heading text-2xl font-bold text-[var(--color-ink)] sm:text-3xl">
           {industryLabel} coverage in all 50 states + DC
