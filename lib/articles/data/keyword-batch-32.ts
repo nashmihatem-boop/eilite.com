@@ -435,7 +435,7 @@ export const keywordBatch32Articles: Article[] = [
   {
     slug: "obamacare-leads",
     title: "Obamacare Leads: A Guide for ACA Marketplace Agents",
-    metaTitle: "Obamacare Leads Guide",
+    metaTitle: "Obamacare Leads: Sourcing ACA Marketplace Enrollees",
     excerpt: "A guide to sourcing and converting leads for ACA marketplace health insurance plans.",
     metaDescription: "ACA marketplace leads follow open enrollment windows and subsidy eligibility rules that shape buyer urgency. A guide to sourcing Obamacare leads.",
     category: "Insurance",
@@ -469,8 +469,9 @@ export const keywordBatch32Articles: Article[] = [
   {
     slug: "oep-leads",
     title: "OEP Leads: A Guide to the Medicare Open Enrollment Period",
-    metaTitle: "OEP Leads Guide",
+    metaTitle: "OEP Leads: Medicare Open Enrollment Period Guide",
     excerpt: "A guide to leads generated during the Medicare Advantage Open Enrollment Period, distinct from the Annual Enrollment Period.",
+    metaDescription: "OEP leads come from the Medicare Advantage Open Enrollment Period, a distinct window from AEP with its own rules for switching or dropping plans.",
     category: "Medicare Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-22",

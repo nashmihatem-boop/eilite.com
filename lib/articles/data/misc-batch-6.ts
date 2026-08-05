@@ -7,6 +7,8 @@ export const miscBatch6Articles: Article[] = [
     metaTitle: "Building a Converting Legal Marketing Funnel",
     excerpt:
       "A marketing-specific view of funnel building, focused on how content and campaigns should evolve across the prospect's research journey.",
+    metaDescription:
+      "A marketing-specific view of legal funnel building, showing how content should evolve across a prospect's research journey to convert more of them.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-13",
@@ -60,6 +62,8 @@ export const miscBatch6Articles: Article[] = [
     metaTitle: "Buying Legal Leads for Business Clients",
     excerpt:
       "Firms serving business clients face different lead generation dynamics than consumer-facing practice areas — here's what to understand.",
+    metaDescription:
+      "B2B-facing law firms face different lead generation dynamics than consumer practice areas, with longer sales cycles and different decision-makers to reach.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-13",

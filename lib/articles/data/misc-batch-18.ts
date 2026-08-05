@@ -7,6 +7,8 @@ export const miscBatch18Articles: Article[] = [
     metaTitle: "PI Attorney Advertising Strategies for Growth",
     excerpt:
       "Growth-focused advertising strategies specifically for personal injury attorneys looking to scale case volume sustainably.",
+    metaDescription:
+      "Growth-focused advertising strategies built specifically for personal injury attorneys who want to scale case volume sustainably and efficiently.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-22",

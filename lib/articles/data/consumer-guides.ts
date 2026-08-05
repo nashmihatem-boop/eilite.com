@@ -130,7 +130,7 @@ export const consumerGuidesArticles: Article[] = [
   },
   {
     slug: "estate-planning-leads",
-    title: "Estate Planning Leads: A Different Sales Cycle Than Most Legal Categories",
+    title: "Estate Planning Leads: A Different Sales Cycle",
     metaTitle: "Estate Planning Leads: A Guide for Firms",
     excerpt:
       "Estate planning inquiries are rarely urgent and often triggered by a specific life event. Here's how that shapes what a quality lead looks like in this practice area.",

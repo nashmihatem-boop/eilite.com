@@ -10,6 +10,8 @@ export const exclusiveXCluster3Articles: Article[] = [
     metaTitle: "Exclusive Car Accident Leads Explained",
     excerpt:
       "Given how often car accident prospects shop multiple firms, exclusivity matters especially for this specific, high-volume category.",
+    metaDescription:
+      "Why exclusivity matters especially for car accident leads, a high-volume category where prospects often shop several firms the same day.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-17",
@@ -62,6 +64,8 @@ export const exclusiveXCluster3Articles: Article[] = [
     metaTitle: "Exclusive Lead Management Blueprint",
     excerpt:
       "Beyond sourcing exclusive leads, managing them well internally requires specific processes to protect and maximize that exclusivity's value.",
+    metaDescription:
+      "Beyond sourcing exclusive leads, the internal notification, ownership, and follow-up processes law firms need to protect that exclusivity.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-17",

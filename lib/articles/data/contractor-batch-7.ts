@@ -428,7 +428,7 @@ export const contractorBatch7Articles: Article[] = [
   },
   {
     slug: "google-business-profile-attributes-which-ones-actually-move-the-needle",
-    title: "Google Business Profile Attributes: Which Ones Actually Move the Needle",
+    title: "Google Business Profile Attributes: Which Ones Matter",
     metaTitle: "GBP Attributes That Actually Matter",
     excerpt: "A practical look at which Google Business Profile attributes genuinely influence contractor visibility and conversions.",
     metaDescription: "Google Business Profile offers dozens of attributes. See which ones actually influence contractor visibility and bookings, and which are just clutter.",
@@ -554,7 +554,7 @@ export const contractorBatch7Articles: Article[] = [
   },
   {
     slug: "google-business-profile-products-tab-does-it-help-home-service-businesses",
-    title: "Google Business Profile Products Tab: Does It Help Home Service Businesses?",
+    title: "Google Business Profile Products Tab for Home Services",
     metaTitle: "GBP Products Tab for Home Services",
     excerpt: "Whether the Google Business Profile products tab, originally built for retail, offers real value to home service contractors.",
     metaDescription: "The Google Business Profile products tab was built for retail. See whether it's worth using for home service businesses and how to adapt it.",
@@ -638,7 +638,7 @@ export const contractorBatch7Articles: Article[] = [
   },
   {
     slug: "google-local-services-ads-dispute-process-how-to-challenge-a-bad-lead-charge",
-    title: "Google Local Services Ads Dispute Process: How to Challenge a Bad Lead Charge",
+    title: "How to Dispute a Bad Local Services Ads Lead Charge",
     metaTitle: "How to Dispute a Bad LSA Lead Charge",
     excerpt: "A practical walkthrough of disputing a low-quality or invalid Local Services Ads lead charge with Google.",
     metaDescription: "Not every Local Services Ads lead charge is legitimate. See how the dispute process works and what documentation improves the odds of a credit.",

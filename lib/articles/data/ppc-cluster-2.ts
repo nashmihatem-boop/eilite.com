@@ -71,6 +71,8 @@ export const ppcCluster2Articles: Article[] = [
     metaTitle: "Lawyer PPC Retargeting Guide",
     excerpt:
       "Most legal PPC clicks don't convert on the first visit. Here's how retargeting campaigns recapture that traffic at a fraction of the original click cost.",
+    metaDescription:
+      "Most legal PPC clicks don't convert on the first visit. Learn how retargeting campaigns recapture that traffic at a fraction of the original click cost.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-05",
@@ -132,6 +134,8 @@ export const ppcCluster2Articles: Article[] = [
     metaTitle: "PPC Ad Scheduling for Law Firms",
     excerpt:
       "Running ads around the clock without matching staffing hours wastes budget on calls no one answers. Here's how ad scheduling (dayparting) fixes that mismatch.",
+    metaDescription:
+      "Running ads around the clock without matching staffing hours wastes budget on unanswered calls. Learn how ad scheduling fixes this common PPC mismatch.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-05",
@@ -189,7 +193,7 @@ export const ppcCluster2Articles: Article[] = [
   },
   {
     slug: "google-ads-for-lawyers",
-    title: "Google Ads for Lawyers: Local Service Ads vs. Standard Search Campaigns",
+    title: "Google Ads for Lawyers: Local Service Ads vs. Search",
     metaTitle: "Google Ads for Lawyers: LSAs vs. Search Campaigns",
     excerpt:
       "Google's Local Service Ads (Google Screened) work differently than standard search PPC — pay-per-lead pricing, a screening badge, and different placement. Here's how to decide which to run, or how to run both.",

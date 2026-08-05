@@ -62,7 +62,7 @@ export const competitorMatch13Articles: Article[] = [
   },
   {
     slug: "social-media-marketing-for-personal-injury-law-firms",
-    title: "Social Media Marketing for Personal Injury Law Firms: The Complete Playbook",
+    title: "Social Media Marketing for PI Law Firms: A Playbook",
     metaTitle: "Social Media Marketing for Personal Injury Law Firms",
     metaDescription:
       "A complete guide to social media marketing for personal injury law firms, covering LinkedIn, Facebook, Instagram, YouTube, paid ads, and video marketing.",
@@ -865,7 +865,7 @@ export const competitorMatch13Articles: Article[] = [
   },
   {
     slug: "what-is-marketing-automation-and-how-to-use-it-to-sign-more-personal-injury-leads",
-    title: "What Is Marketing Automation, and How Do You Use It to Sign More Personal Injury Leads?",
+    title: "How Marketing Automation Signs More Personal Injury Leads",
     metaTitle: "Marketing Automation for Personal Injury Leads",
     metaDescription:
       "Understand marketing automation personal injury leads strategies, including autoresponders, lead tracking, and automated workflows that nurture more signed clients.",
@@ -989,11 +989,7 @@ export const competitorMatch13Articles: Article[] = [
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
-    relatedSlugs: [
-      "whats-the-difference-between-a-personal-injury-referral-service-and-legal-lead-generation",
-      "why-are-no-contact-car-accident-leads-billable-q-a",
-      "5-reasons-why-you-should-pay-more-for-your-car-accident-leads",
-    ],
+    relatedSlugs: ["why-are-no-contact-car-accident-leads-billable-q-a", "5-reasons-why-you-should-pay-more-for-your-car-accident-leads"],
     content: [
       {
         type: "paragraph",
@@ -1091,7 +1087,7 @@ export const competitorMatch13Articles: Article[] = [
   },
   {
     slug: "what-s-the-difference-between-a-personal-injury-referral-service-and-legal-lead-generation",
-    title: "What's the Difference Between a Personal Injury Referral Service and Legal Lead Generation?",
+    title: "PI Referral Service vs. Legal Lead Generation",
     metaTitle: "Referral Service vs. Legal Lead Generation Explained",
     metaDescription:
       "Referral service vs legal lead generation: understand the regulatory and practical differences, from case vetting to fee structure, before choosing either.",
@@ -1493,11 +1489,7 @@ export const competitorMatch13Articles: Article[] = [
     category: "Legal Leads",
     readTime: "4 min read",
     publishedDate: "2026-08-14",
-    relatedSlugs: [
-      "5-reasons-why-you-should-pay-more-for-your-car-accident-leads",
-      "what-to-look-for-in-a-pay-per-lead-personal-injury-program",
-      "whats-the-difference-between-a-personal-injury-referral-service-and-legal-lead-generation",
-    ],
+    relatedSlugs: ["5-reasons-why-you-should-pay-more-for-your-car-accident-leads", "what-to-look-for-in-a-pay-per-lead-personal-injury-program"],
     content: [
       {
         type: "paragraph",
@@ -1569,7 +1561,7 @@ export const competitorMatch13Articles: Article[] = [
   },
   {
     slug: "wisconsin-tennessee-auto-accident-leads-q-a",
-    title: "Wisconsin and Tennessee Auto Accident Leads: A Q&A for Firms Considering the Markets",
+    title: "Wisconsin and Tennessee Auto Accident Leads: A Q&A",
     metaTitle: "Wisconsin & Tennessee Auto Accident Leads Q&A",
     metaDescription:
       "A Q&A on Wisconsin Tennessee auto accident leads covering pricing, return policy, screening, prepaid orders, and what firms should expect in these markets.",
@@ -1840,7 +1832,7 @@ export const competitorMatch13Articles: Article[] = [
   },
   {
     slug: "workplace-injuries-and-third-party-claims-beyond-workers-compensation",
-    title: "Workplace Injuries and Third-Party Claims: Beyond Workers' Compensation",
+    title: "Workplace Injuries and Third-Party Claims",
     metaTitle: "Workplace Injury Third-Party Claims Explained",
     metaDescription:
       "Learn how workplace injury third-party claims work alongside workers' compensation, covering negligence, liability, subrogation, and filing deadlines.",

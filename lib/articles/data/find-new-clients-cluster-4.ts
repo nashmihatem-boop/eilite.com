@@ -6,10 +6,12 @@ const cr4 = [pillar, "referral-programs", "content-marketing"];
 export const findNewClientsCluster4Articles: Article[] = [
   {
     slug: "how-lawyers-find-new-clients-7-proven-strategies",
-    title: "How Lawyers Find New Clients Through Live Chat and Instant Website Response",
+    title: "How Lawyers Find New Clients Through Live Chat",
     metaTitle: "Client Acquisition Through Live Chat",
     excerpt:
       "A live chat widget on your website captures visitors who won't fill out a form or call immediately but will type a quick question. Here's how to use it well.",
+    metaDescription:
+      "A live chat widget captures website visitors who won't fill out a form or call immediately but will type a quick question — here's how to make it convert.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",
@@ -71,6 +73,8 @@ export const findNewClientsCluster4Articles: Article[] = [
     metaTitle: "Client Acquisition Through FAQ Resource Hubs",
     excerpt:
       "A comprehensive FAQ hub addressing the specific questions your prospects search for captures organic traffic and pre-answers objections before the first call.",
+    metaDescription:
+      "A comprehensive FAQ resource hub answering your prospects' specific questions captures organic search traffic and pre-answers objections before the first call.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",
@@ -120,10 +124,12 @@ export const findNewClientsCluster4Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-7-proven-strategies-3",
-    title: "How Lawyers Find New Clients Through Local News and Media Relationships",
+    title: "How Lawyers Find New Clients Through Local Media Relationships",
     metaTitle: "Client Acquisition Through Local Media",
     excerpt:
       "Building a relationship with local reporters who need legal commentary creates recurring, high-trust visibility that advertising can't replicate.",
+    metaDescription:
+      "Building genuine relationships with local reporters who need legal commentary creates recurring, high-trust visibility that advertising can't replicate.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",
@@ -177,6 +183,8 @@ export const findNewClientsCluster4Articles: Article[] = [
     metaTitle: "Client Acquisition Through Sponsorships",
     excerpt:
       "Sponsoring a local sports team, charity event, or community race builds authentic name recognition that feels genuine rather than purely promotional.",
+    metaDescription:
+      "Sponsoring a local sports team, charity event, or community race builds authentic name recognition for your firm that feels genuine, not purely promotional.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",

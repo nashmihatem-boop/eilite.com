@@ -60,7 +60,7 @@ export const atlantaNycPiClusterArticles: Article[] = [
   },
   {
     slug: "generating-personal-injury-attorney-leads-in-atlanta-strategies-that-work",
-    title: "Generating Personal Injury Attorney Leads in Atlanta: Strategies That Work",
+    title: "Generating Personal Injury Attorney Leads in Atlanta",
     metaTitle: "Atlanta PI Lead Generation Strategies",
     excerpt:
       "Atlanta's competitive legal advertising market rewards firms that combine hyperlocal SEO with a well-screened paid lead program rather than relying on either alone.",
@@ -118,6 +118,8 @@ export const atlantaNycPiClusterArticles: Article[] = [
     metaTitle: "Quality Personal Injury Leads in NYC",
     excerpt:
       "NYC's borough-specific court system, dense pedestrian traffic, and construction industry create a personal injury landscape unlike anywhere else in the state.",
+    metaDescription:
+      "NYC's borough courts, pedestrian traffic, and construction create a personal injury landscape unlike anywhere else. How firms acquire quality leads.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-08-13",
@@ -167,7 +169,7 @@ export const atlantaNycPiClusterArticles: Article[] = [
   },
   {
     slug: "how-to-get-quality-personal-injury-attorney-leads-in-nyc",
-    title: "How to Get Quality Personal Injury Attorney Leads in NYC's Construction Industry",
+    title: "Quality Personal Injury Attorney Leads in NYC Construction",
     metaTitle: "NYC Construction Injury Attorney Leads",
     excerpt:
       "New York's Scaffold Law makes construction injury one of the most valuable and legally distinct personal injury niches in the city. Here's how to build a lead strategy around it.",

@@ -181,7 +181,7 @@ export const keywordBatch16Articles: Article[] = [
   {
     slug: "financial-leads",
     title: "Financial Leads: A Foundational Guide Across Every Product Line",
-    metaTitle: "Financial Leads Guide",
+    metaTitle: "Financial Leads Guide Across Every Product Line",
     excerpt: "A foundational guide to sourcing and converting leads across the financial services category.",
     metaDescription: "From mortgages to insurance to debt relief, the financial category spans dozens of distinct products. This foundational guide covers sourcing across all of them.",
     category: "Financial Leads",
@@ -356,7 +356,7 @@ export const keywordBatch16Articles: Article[] = [
   {
     slug: "fire-damage-leads",
     title: "Fire Damage Leads: A Guide for Assessment and Cleanup Companies",
-    metaTitle: "Fire Damage Leads Guide",
+    metaTitle: "Fire Damage Leads Guide for Cleanup Companies",
     excerpt: "A guide to sourcing and converting leads for fire damage assessment and initial cleanup services.",
     metaDescription: "Fire damage assessment and initial cleanup demand a fast, urgent-response sales process. Learn how companies source and convert leads for this specialized service.",
     category: "Home Services Marketing",
@@ -496,7 +496,7 @@ export const keywordBatch16Articles: Article[] = [
   {
     slug: "flooring-leads",
     title: "Flooring Leads: A Guide for Installation Companies",
-    metaTitle: "Flooring Leads Guide",
+    metaTitle: "Flooring Leads Guide for Installation Companies",
     excerpt: "A guide to sourcing and converting leads for flooring installation and replacement.",
     metaDescription: "Flooring projects range from single-room replacements to whole-house installations. Learn how companies source and convert leads across this varied project range.",
     category: "Home Services Marketing",
@@ -637,6 +637,7 @@ export const keywordBatch16Articles: Article[] = [
     title: "Florida Medicare Leads: A Guide for Agents",
     metaTitle: "Florida Medicare Leads Guide",
     excerpt: "A guide to sourcing Medicare leads specifically within the Florida market, one of the largest Medicare markets nationally.",
+    metaDescription: "A guide to sourcing Medicare leads in Florida, one of the nation's largest Medicare markets, covering seasonal demand and agent compliance.",
     category: "Medicare Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-06",

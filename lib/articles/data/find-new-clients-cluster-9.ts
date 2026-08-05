@@ -10,6 +10,8 @@ export const findNewClientsCluster9Articles: Article[] = [
     metaTitle: "Client Acquisition Through Direct Mail",
     excerpt:
       "Direct mail is an unfashionable but sometimes effective channel for certain practice areas, particularly where a specific, targetable mailing list exists.",
+    metaDescription:
+      "Direct mail remains an unfashionable but effective client acquisition channel for practice areas with a specific, targetable mailing list.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",
@@ -63,6 +65,8 @@ export const findNewClientsCluster9Articles: Article[] = [
     metaTitle: "Client Acquisition Through Conference Exhibiting",
     excerpt:
       "For B2B-adjacent practice areas, exhibiting at relevant industry conferences puts a firm directly in front of a highly targeted, pre-qualified audience.",
+    metaDescription:
+      "For B2B-adjacent law firms, exhibiting at relevant industry conferences puts you directly in front of a highly targeted, pre-qualified prospect audience.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",

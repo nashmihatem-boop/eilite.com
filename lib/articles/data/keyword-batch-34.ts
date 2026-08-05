@@ -302,7 +302,7 @@ export const keywordBatch34Articles: Article[] = [
   {
     slug: "pay-per-call-leads",
     title: "Pay-Per-Call Leads: A Foundational Guide",
-    metaTitle: "Pay-Per-Call Leads Guide",
+    metaTitle: "Pay-Per-Call Leads: A Foundational Buyer's Guide",
     excerpt: "A foundational guide to the pay-per-call lead generation model across industries.",
     metaDescription: "A foundational guide to the pay-per-call lead generation model across industries, covering how pricing works, call qualification, and when it beats forms.",
     category: "Lead Generation Basics",

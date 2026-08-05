@@ -187,6 +187,8 @@ export const practiceAreaLeadsArticles: Article[] = [
     metaTitle: "Verified Bankruptcy Leads: A Buyer's Guide",
     excerpt:
       "Bankruptcy leads carry specific compliance and timing considerations that make real verification especially important. Here's what to check before buying.",
+    metaDescription:
+      "Bankruptcy leads carry specific compliance and timing considerations that make real verification especially important before you buy.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-01",

@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar7Articles: Article[] = [
   {
     slug: "generator-installation-leads",
-    title: "Generator Installation Leads: Customer Acquisition for Electrical Contractors",
+    title: "Generator Installation Leads for Electrical Contractors",
     metaTitle: "Generator Installation Leads for Electricians",
     metaDescription:
       "How electrical contractors generate more standby and backup generator installation leads, including seasonal demand, pricing, and lead quality signals.",
@@ -176,7 +176,7 @@ export const leadgenPillar7Articles: Article[] = [
   },
   {
     slug: "home-conversion-contractor-leads",
-    title: "How Home Conversion Contractors Generate More Attic, Basement, and ADU Leads",
+    title: "Home Conversion Contractor Leads: Attic, Basement & ADU",
     metaTitle: "Home Conversion Contractor Leads",
     metaDescription:
       "How remodeling contractors generate qualified leads for attic, basement, garage, and ADU conversion projects, and what separates serious buyers.",

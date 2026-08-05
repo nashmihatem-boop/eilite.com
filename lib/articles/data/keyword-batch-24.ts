@@ -7,7 +7,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-broker",
     title: "Lead Brokers: A Cross-Vertical Foundational Guide",
-    metaTitle: "Lead Broker Guide",
+    metaTitle: "Lead Broker Guide: Role, Value & Marketplace Fit",
     excerpt: "A foundational, cross-vertical guide to what a lead broker is and how this role fits the marketplace.",
     metaDescription: "A foundational, cross-vertical guide to what a lead broker is, how this role differs from a network or generator, and how brokers fit the marketplace.",
     category: "Lead Generation Basics",
@@ -41,7 +41,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-brokerage",
     title: "Lead Brokerage: Understanding the Ongoing Business Practice",
-    metaTitle: "Lead Brokerage Guide",
+    metaTitle: "Lead Brokerage Guide: How the Business Practice Works",
     excerpt: "A guide to lead brokerage as an ongoing business practice, distinct from the broker role itself.",
     metaDescription: "A guide to lead brokerage as an ongoing business practice, distinct from the broker role itself, covering how brokerage relationships are structured.",
     category: "Lead Generation Basics",
@@ -76,7 +76,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-buyer-network",
     title: "Lead Buyer Networks: Accessing Broader Demand",
-    metaTitle: "Lead Buyer Network Guide",
+    metaTitle: "Lead Buyer Networks Guide: Accessing Broader Demand",
     excerpt: "A guide to lead buyer networks and how sellers access broader aggregated demand through them.",
     metaDescription: "A guide to lead buyer networks and how sellers access broader, aggregated demand through them instead of negotiating with individual buyers directly.",
     category: "Lead Generation Basics",
@@ -180,7 +180,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-delivery-api",
     title: "Lead Delivery APIs: A Technical Integration Guide",
-    metaTitle: "Lead Delivery API Guide",
+    metaTitle: "Lead Delivery API Guide: Technical Integration Basics",
     excerpt: "A guide to lead delivery APIs and how businesses integrate purchased volume directly into their systems.",
     metaDescription: "A guide to lead delivery APIs and how businesses integrate purchased volume directly into their own CRM or dialer systems immediately after a sale.",
     category: "Tools & Technology",
@@ -318,7 +318,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-exclusivity",
     title: "Lead Exclusivity: Understanding This Business Policy",
-    metaTitle: "Lead Exclusivity Guide",
+    metaTitle: "Lead Exclusivity Guide: Policy, Pricing & Terms",
     excerpt: "A guide to lead exclusivity as a policy framework governing an entire business relationship, not just individual leads.",
     metaDescription: "A guide to lead exclusivity as a policy framework governing an entire business relationship, not just individual leads, and how it affects pricing.",
     category: "Lead Generation Basics",
@@ -455,7 +455,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-gen-agency",
     title: "Lead Gen Agencies: A Guide to This Business Model",
-    metaTitle: "Lead Gen Agency Guide",
+    metaTitle: "Lead Gen Agency Guide: How This Business Model Works",
     excerpt: "A guide to lead generation agencies and how they operate on behalf of client businesses.",
     metaDescription: "A guide to lead generation agencies and how they operate on behalf of client businesses, including what services are typically included in an engagement.",
     category: "Lead Generation Basics",
@@ -593,7 +593,7 @@ export const keywordBatch24Articles: Article[] = [
   },
   {
     slug: "lead-gen-partnership-agreement",
-    title: "Lead Gen Partnership Agreements: Structuring an Ongoing, Collaborative Relationship",
+    title: "Lead Gen Partnership Agreements: How to Structure Them",
     metaTitle: "Lead Gen Partnership Agreement Guide",
     excerpt: "How a lead generation partnership differs from a one-off purchase — revenue share, co-marketing, and building alignment over time.",
     metaDescription: "Lead gen partnership agreements are built around an ongoing, collaborative relationship. Learn how revenue share, co-marketing, and feedback loops fit in.",
@@ -627,7 +627,7 @@ export const keywordBatch24Articles: Article[] = [
   {
     slug: "lead-gen-software",
     title: "Lead Gen Software: An Overview of the Technology Landscape",
-    metaTitle: "Lead Gen Software Guide",
+    metaTitle: "Lead Gen Software Guide: Tools & Tech Landscape",
     excerpt: "An overview of the software categories businesses use to support lead generation operations.",
     metaDescription: "An overview of the software categories businesses use to support lead generation operations, from capture forms to distribution and CRM integration.",
     category: "Tools & Technology",

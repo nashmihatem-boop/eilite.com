@@ -6,10 +6,12 @@ const cr8 = [pillar8, "referral-programs", "content-marketing"];
 export const findNewClientsCluster8Articles: Article[] = [
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-for-growth",
-    title: "How Lawyers Find New Clients for Growth: Cross-Selling Within a Multi-Practice Firm",
+    title: "How Lawyers Find New Clients: Cross-Selling Within a Firm",
     metaTitle: "Client Growth Through Cross-Selling",
     excerpt:
       "Firms with multiple practice areas often underutilize their own existing client base as a source of additional business across other services.",
+    metaDescription:
+      "Firms with multiple practice areas often underutilize their own client base. Learn how cross-selling across services turns existing clients into new business.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",
@@ -59,7 +61,7 @@ export const findNewClientsCluster8Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-for-growth-2",
-    title: "How Lawyers Find New Clients for Growth: Hosting Client Appreciation Events",
+    title: "How Lawyers Find New Clients: Hosting Appreciation Events",
     metaTitle: "Client Growth Through Appreciation Events",
     excerpt:
       "An annual client appreciation event strengthens past-client relationships and creates natural opportunities for referral conversations in a low-pressure setting.",
@@ -113,10 +115,12 @@ export const findNewClientsCluster8Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-for-growth-3",
-    title: "How Lawyers Find New Clients for Growth: Offering Second-Opinion Consultations",
+    title: "How Lawyers Find New Clients: Offering Second Opinions",
     metaTitle: "Client Growth Through Second Opinions",
     excerpt:
       "Marketing a second-opinion consultation specifically captures prospects who already have representation but have doubts about their current firm or offer.",
+    metaDescription:
+      "Marketing a second-opinion consultation captures prospects who already have representation but have doubts about their current firm, a distinct client source.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",

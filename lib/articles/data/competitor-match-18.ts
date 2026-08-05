@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch18Articles: Article[] = [
   {
     slug: "case-management-technology-in-personal-injury-practice-an-industry-overview",
-    title: "Case Management Technology for Personal Injury Law Firms: An Industry Overview",
+    title: "Case Management Technology for Personal Injury Law Firms",
     metaTitle: "Case Management Tech for PI Law Firms",
     metaDescription: "An overview of case management technology personal injury law firms use to track cases, automate deadlines, and coordinate client communication.",
     excerpt: "A survey of the core functions, platform types, and integration capabilities behind modern case management technology personal injury law firms depend on daily.",
@@ -194,7 +194,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "sb-371-explained-how-california-s-rideshare-insurance-law-affects-accident-victims",
-    title: "SB 371 Explained: How California's Rideshare Insurance Law Affects Accident Victims",
+    title: "SB 371 Explained: California's Rideshare Insurance Law",
     metaTitle: "SB 371: California Rideshare Insurance Changes",
     metaDescription: "A breakdown of California SB 371 rideshare insurance law, its reduced coverage limits, and what the change means for rideshare accident victims.",
     excerpt: "How California SB 371 rideshare insurance law changed mandatory coverage limits for rideshare drivers, and what that shift means for accident victims.",
@@ -408,7 +408,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "mass-tort-law-firm-seo-complete-guide-to-digital-marketing-for-mass-tort-attorneys",
-    title: "Mass Tort Law Firm SEO: Complete Guide to Digital Marketing for Mass Tort Attorneys",
+    title: "Mass Tort Law Firm SEO: A Complete Digital Marketing Guide",
     metaTitle: "Mass Tort Law Firm SEO: Complete Guide",
     metaDescription: "A complete guide to mass tort law firm SEO, covering keyword research, content strategy, technical SEO, authority building, and compliance for attorneys.",
     excerpt: "A comprehensive guide to mass tort law firm SEO, from keyword research and content strategy through technical implementation and compliance considerations.",
@@ -688,7 +688,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "google-ads-for-personal-injury-lawyers-complete-strategy-guide-for-2026",
-    title: "Google Ads for Personal Injury Lawyers: Complete Strategy Guide for 2026",
+    title: "Google Ads for Personal Injury Lawyers: 2026 Strategy Guide",
     metaTitle: "Google Ads for Personal Injury Lawyers Guide",
     metaDescription: "A complete strategy guide to Google Ads for personal injury lawyers, covering keyword selection, compliant ad copy, bidding, and conversion tracking.",
     excerpt: "A practical strategy guide for running profitable Google Ads campaigns as a personal injury firm in one of the most competitive PPC markets.",
@@ -768,7 +768,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "content-marketing-strategy-for-personal-injury-law-firms-building-authority-that-converts",
-    title: "Content Marketing Strategy for Personal Injury Law Firms: Building Authority That Converts",
+    title: "Content Marketing Strategy for Personal Injury Law Firms",
     metaTitle: "Content Marketing Strategy for PI Law Firms",
     metaDescription: "How personal injury law firms can build a content marketing strategy that establishes authority, drives organic traffic, and converts prospects.",
     excerpt: "A framework for building a personal injury content marketing program that establishes real authority while consistently converting readers into clients.",
@@ -842,7 +842,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "website-conversion-optimization-for-personal-injury-law-firms-turn-more-visitors-into-clients",
-    title: "Website Conversion Optimization for Personal Injury Law Firms: Turn More Visitors Into Clients",
+    title: "Conversion Optimization for Personal Injury Law Firms",
     metaTitle: "Website Conversion Optimization for PI Firms",
     metaDescription: "Systematic conversion rate optimization personal injury law firms can use to turn more website visitors into signed consultations and clients.",
     excerpt: "A systematic approach to improving how many personal injury website visitors actually convert into consultations, from trust signals to form design.",
@@ -916,7 +916,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "optimizing-case-intake-for-personal-injury-law-firms-from-lead-to-signed-retainer",
-    title: "Optimizing Case Intake for Personal Injury Law Firms: From Lead to Signed Retainer",
+    title: "Optimizing Case Intake for Personal Injury Law Firms",
     metaTitle: "Case Intake Optimization for PI Law Firms",
     metaDescription: "How case intake optimization personal injury law firms implement improves conversion from lead to signed retainer through speed and process discipline.",
     excerpt: "A practical framework for improving conversion from lead to signed client through faster response, structured follow-up, and better intake technology.",
@@ -990,7 +990,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "ai-adoption-for-personal-injury-law-firms-a-practical-implementation-guide-for-2026",
-    title: "AI Adoption for Personal Injury Law Firms: A Practical Implementation Guide for 2026",
+    title: "AI Adoption for Personal Injury Law Firms: A 2026 Guide",
     metaTitle: "AI Adoption for Personal Injury Law Firms",
     metaDescription: "A practical guide to AI adoption personal injury law firms are pursuing, covering use cases, implementation roadmaps, ethics, and ROI measurement.",
     excerpt: "A practical roadmap for personal injury firms evaluating AI adoption, from intake screening and document review to ethics and measuring real ROI.",
@@ -1096,7 +1096,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "legal-advertising-compliance-for-personal-injury-attorneys-complete-2026-guide",
-    title: "Legal Advertising Compliance for Personal Injury Attorneys: Complete 2026 Guide",
+    title: "Legal Advertising Compliance for Personal Injury Attorneys",
     metaTitle: "Legal Advertising Compliance for PI Attorneys",
     metaDescription: "A complete guide to legal advertising compliance personal injury attorneys must follow, covering state bar rules, platform policies, and best practices.",
     excerpt: "A thorough guide to the regulatory framework governing personal injury attorney advertising, from state bar rules to platform-specific ad policies.",
@@ -1218,7 +1218,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "advanced-seo-strategies-for-personal-injury-law-firms-in-2026-beyond-the-basics",
-    title: "Advanced SEO Strategies for Personal Injury Law Firms in 2026: Beyond the Basics",
+    title: "Advanced SEO Strategies for Personal Injury Law Firms in 2026",
     metaTitle: "Advanced SEO Strategies for PI Law Firms",
     metaDescription: "Advanced SEO strategies for personal injury law firms covering programmatic SEO, entity-based optimization, AI search, and technical implementation.",
     excerpt: "A look at sophisticated SEO techniques for competitive personal injury markets, from programmatic content to entity-based and AI search optimization.",
@@ -1345,7 +1345,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "how-social-media-evidence-can-make-or-break-your-personal-injury-case-in-2026",
-    title: "How Social Media Evidence Can Make or Break Your Personal Injury Case in 2026",
+    title: "How Social Media Evidence Affects Personal Injury Cases",
     metaTitle: "Social Media Evidence in Personal Injury Cases",
     metaDescription: "How social media evidence personal injury case outcomes can be affected, including insurance surveillance tactics and strategies to protect a claim.",
     excerpt: "How insurance companies use social media evidence to challenge injury claims, and practical strategies to protect a case from common pitfalls.",
@@ -1414,7 +1414,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "online-reputation-management-for-personal-injury-lawyers-the-complete-2026-guide",
-    title: "Online Reputation Management for Personal Injury Lawyers: The Complete 2026 Guide",
+    title: "Online Reputation Management for Personal Injury Lawyers",
     metaTitle: "Online Reputation Management for PI Lawyers",
     metaDescription: "A complete guide to online reputation management personal injury lawyers need, covering Google reviews, Avvo profiles, and crisis response strategy.",
     excerpt: "A comprehensive guide to building and protecting a personal injury firm's online reputation through reviews, profile optimization, and crisis management.",
@@ -1512,7 +1512,7 @@ export const competitorMatch18Articles: Article[] = [
   },
   {
     slug: "medical-liens-for-healthcare-providers-complete-guide-to-working-with-personal-injury-attorneys",
-    title: "Medical Liens for Healthcare Providers: Complete Guide to Working With Personal Injury Attorneys",
+    title: "Medical Liens for Healthcare Providers: A Practical Guide",
     metaTitle: "Medical Liens Guide for Healthcare Providers",
     metaDescription: "A complete guide to medical liens healthcare providers use when treating personal injury patients, covering best practices for working with attorneys.",
     excerpt: "A practical guide for healthcare providers on structuring and managing medical liens when treating personal injury patients on a deferred-payment basis.",

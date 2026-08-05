@@ -9,6 +9,8 @@ export const piStrategicGuides1Articles: Article[] = [
     metaTitle: "Strategic Guide to PI Lead Generation",
     excerpt:
       "A comprehensive strategic overview connecting channel selection, screening, and intake into one coherent personal injury lead generation approach.",
+    metaDescription:
+      "A comprehensive strategic overview connecting channel selection, screening, and intake into one coherent personal injury lead generation approach for firms.",
     category: "Personal Injury",
     readTime: "8 min read",
     publishedDate: "2026-08-25",
@@ -70,6 +72,8 @@ export const piStrategicGuides1Articles: Article[] = [
     title: "A Strategic Guide to Personal Injury Leads for Law Firms",
     metaTitle: "Strategic Guide to PI Leads for Firms",
     excerpt:
+      "A firm-level strategic framework for deciding how much to invest in personal injury lead generation and how to structure that investment for maximum return.",
+    metaDescription:
       "A firm-level strategic framework for deciding how much to invest in personal injury lead generation and how to structure that investment for maximum return.",
     category: "Personal Injury",
     readTime: "7 min read",

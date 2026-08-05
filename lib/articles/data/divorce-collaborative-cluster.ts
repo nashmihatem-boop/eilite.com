@@ -9,6 +9,8 @@ export const divorceCollaborativeClusterArticles: Article[] = [
     metaTitle: "Attracting Collaborative Divorce Clients",
     excerpt:
       "Collaborative divorce clients are actively seeking an alternative to adversarial litigation. Here's how to market to this specific mindset effectively.",
+    metaDescription:
+      "Collaborative divorce clients want an alternative to adversarial litigation. Learn the messaging, channels, and positioning that speak to this mindset.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-15",
@@ -70,6 +72,8 @@ export const divorceCollaborativeClusterArticles: Article[] = [
     metaTitle: "Generating Collaborative Divorce Leads",
     excerpt:
       "Beyond messaging, generating a steady flow of collaborative divorce leads requires specific professional network relationships and targeted content investment.",
+    metaDescription:
+      "A steady flow of collaborative divorce leads takes more than messaging alone. Learn the professional network and content strategies that generate real volume.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-15",

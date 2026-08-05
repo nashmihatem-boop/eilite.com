@@ -7,6 +7,7 @@ export const bestXCluster9Articles: Article[] = [
     metaTitle: "Best Law Firm Intake Software Features",
     excerpt:
       "Rather than naming specific products, a breakdown of the intake software features that genuinely improve conversion and efficiency.",
+    metaDescription: "Rather than naming specific products, this breakdown covers the law firm intake software features that genuinely improve conversion and day-to-day efficiency.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-07",
@@ -61,6 +62,7 @@ export const bestXCluster9Articles: Article[] = [
     metaTitle: "What Best Legal Marketing Requires",
     excerpt:
       "Breaking down the superlative into the specific, coordinated components that genuinely effective legal marketing requires.",
+    metaDescription: "Best legal marketing isn't one tactic — it's a coordinated set of specific components. Here's what genuinely effective legal marketing actually requires.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-07",

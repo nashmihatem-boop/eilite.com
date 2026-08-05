@@ -7,6 +7,8 @@ export const listicleCluster1Articles: Article[] = [
     metaTitle: "Best Legal Marketing Channels for 2026",
     excerpt:
       "A current snapshot of which channels are producing the strongest results for law firms heading into 2026, and why the mix has shifted from a few years ago.",
+    metaDescription:
+      "A current snapshot of the legal marketing channels producing the strongest results for law firms heading into 2026, and why the mix has shifted.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-24",
@@ -80,6 +82,8 @@ export const listicleCluster1Articles: Article[] = [
     metaTitle: "7 Benefits of Legal Lead Generation",
     excerpt:
       "Beyond simply adding case volume, a well-run lead generation program offers several specific advantages worth understanding before dismissing the channel.",
+    metaDescription:
+      "Beyond adding case volume, a well-run legal lead generation program offers several specific advantages worth weighing before dismissing the channel.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-24",

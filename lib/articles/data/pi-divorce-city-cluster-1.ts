@@ -63,6 +63,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
     metaTitle: "Qualified PI Attorney Leads in Illinois",
     excerpt:
       "Qualification-focused strategies for Illinois personal injury lead generation, given the state's 51% comparative negligence bar.",
+    metaDescription: "Illinois personal injury lead generation demands qualification-focused strategies, especially given the state's 51% comparative negligence bar for fault.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-28",
@@ -430,7 +431,7 @@ export const piDivorceCityCluster1Articles: Article[] = [
   },
   {
     slug: "generating-quality-divorce-attorney-leads-in-florida-a-strategic-guide",
-    title: "Generating Quality Divorce Attorney Leads in Florida: A Strategic Guide",
+    title: "Generating Quality Divorce Attorney Leads in Florida",
     metaTitle: "Quality Divorce Attorney Leads in Florida",
     excerpt:
       "A statewide strategic guide to Florida divorce lead generation, including the state's 2023 alimony reform.",

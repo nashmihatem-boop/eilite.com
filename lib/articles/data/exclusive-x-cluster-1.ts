@@ -7,6 +7,8 @@ export const exclusiveXCluster1Articles: Article[] = [
     metaTitle: "Choosing a PI Law Firm Marketing Company",
     excerpt:
       "A specific due diligence checklist for personal injury firms evaluating marketing agencies, given how much variance exists in genuine PI expertise.",
+    metaDescription:
+      "A specific due diligence checklist for personal injury firms evaluating marketing agencies, given how much variance exists in genuine PI expertise levels.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-17",
@@ -68,6 +70,8 @@ export const exclusiveXCluster1Articles: Article[] = [
     metaTitle: "Choosing a PI Lead Provider",
     excerpt:
       "A structured evaluation process for selecting among the many personal injury lead providers competing for your firm's business.",
+    metaDescription:
+      "A structured evaluation process for selecting among the many personal injury lead providers competing for your firm's business, from pricing to exclusivity.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-17",

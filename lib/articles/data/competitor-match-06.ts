@@ -233,7 +233,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "attracting-commercial-vehicle-clients-fmcsa-compliance-points-attorneys-should-emphasize",
-    title: "Attracting Commercial Vehicle Clients: FMCSA Compliance Points Attorneys Should Emphasize",
+    title: "Attracting Commercial Vehicle Clients: FMCSA Compliance Points",
     metaTitle: "FMCSA Compliance Points for Trucking Accident Attorneys",
     metaDescription:
       "How trucking accident attorneys use FMCSA violations as evidence of negligence, plus the investigation and marketing angles that attract commercial vehicle clients.",
@@ -457,7 +457,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "strengthening-client-relationships-in-law-firms-communication-and-marketing-best-practice",
-    title: "Strengthening Client Relationships in Law Firms: Communication and Marketing Best Practices",
+    title: "Strengthening Client Relationships in Law Firms",
     metaTitle: "Strengthening Client Relationships in Law Firms",
     metaDescription:
       "How law firms strengthen client relationships through better communication, transparency, and technology, with practical strategies for retention and satisfaction.",
@@ -754,7 +754,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "personal-injury-lawyer-commercial-the-complete-guide-to-creating-high-converting-legal-advertising",
-    title: "Personal Injury Lawyer Commercials: A Complete Guide to High-Converting Legal Advertising",
+    title: "Personal Injury Lawyer Commercials: A Guide to Legal Advertising",
     metaTitle: "Personal Injury Lawyer Commercials: Guide to Advertising",
     metaDescription:
       "A guide to creating a high-converting personal injury lawyer commercial, covering production timelines, compliance requirements, budgeting, and distribution.",
@@ -1846,7 +1846,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "mental-injury-ptsd-under-workers-compensation-legal-insights-for-lawyers",
-    title: "Mental Injury and PTSD Under Workers' Compensation: What Lawyers Need to Know",
+    title: "Mental Injury and PTSD Under Workers' Compensation",
     metaTitle: "Mental Injury & PTSD Under Workers' Compensation",
     metaDescription:
       "A legal guide to mental injury workers compensation claims, covering PTSD coverage, physical-mental and mental-mental claim categories, and evidentiary requirements.",
@@ -2171,7 +2171,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "how-attorneys-can-use-trucking-black-box-data-to-win-commercial-vehicle-cases",
-    title: "How Attorneys Can Use Trucking Black Box Data to Win Commercial Vehicle Cases",
+    title: "How Attorneys Can Use Trucking Black Box Data to Win Cases",
     metaTitle: "Using Trucking Black Box Data in Commercial Vehicle Cases",
     metaDescription:
       "How trucking black box data for attorneys works, covering EDR data, ELD logs, telematics, and preservation strategies for building strong negligence cases.",
@@ -2435,7 +2435,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "understanding-and-litigating-trailer-sway-accidents-an-attorney-s-guide",
-    title: "Understanding and Litigating Trailer Sway Accidents: An Attorney's Guide",
+    title: "Litigating Trailer Sway Accidents: An Attorney's Guide",
     metaTitle: "Litigating Trailer Sway Accidents: An Attorney's Guide",
     metaDescription:
       "A trailer sway accident attorney strategy guide covering evidence preservation, liability theories, expert witness selection, and settlement approaches.",
@@ -2675,7 +2675,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "why-advertising-regulations-exist-understanding-compliance-for-legal-marketing-professionals",
-    title: "Why Advertising Regulations Exist: Understanding Compliance for Legal Marketing Professionals",
+    title: "Why Advertising Regulations Exist: A Compliance Guide",
     metaTitle: "Advertising Regulations for Law Firms: Compliance Guide",
     metaDescription:
       "A guide to advertising regulations for law firms, covering the consumer-protection rationale behind the rules, FTC and state bar requirements, and best practices.",
@@ -3187,7 +3187,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "year-end-legal-marketing-review-what-worked-in-2025-and-what-to-change-in-2026",
-    title: "Year-End Legal Marketing Review: What Worked in 2025 and What to Change in 2026",
+    title: "Year-End Legal Marketing Review: 2025 Lessons for 2026",
     metaTitle: "Year-End Legal Marketing Review: 2025 to 2026",
     metaDescription:
       "A framework for personal injury law firm marketing strategy 2026 planning, covering channel-level ROI audits, intake conversion, and budget reallocation.",
@@ -3451,7 +3451,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "ai-for-law-firms-strategies-that-will-transform-your-marketing-in-2026",
-    title: "AI for Law Firms: Strategies That Will Transform Your Marketing in 2026",
+    title: "AI for Law Firms: Strategies to Transform Marketing in 2026",
     metaTitle: "AI for Law Firms: Marketing Strategies for 2026",
     metaDescription:
       "How AI marketing for personal injury law firms is evolving in 2026, covering lead scoring, content creation, ad optimization, and ethical compliance considerations.",
@@ -4507,7 +4507,7 @@ export const competitorMatch06Articles: Article[] = [
   },
   {
     slug: "emerging-ad-formats-law-firms-should-know-from-interactive-to-immersive",
-    title: "Emerging Ad Formats Law Firms Should Know: From Interactive to Immersive",
+    title: "Emerging Ad Formats Law Firms Should Know",
     metaTitle: "Emerging Ad Formats Law Firms Should Know",
     metaDescription:
       "A guide to emerging ad formats for law firms, covering interactive video, connected TV, conversational ads, and how they compare to traditional legal advertising.",

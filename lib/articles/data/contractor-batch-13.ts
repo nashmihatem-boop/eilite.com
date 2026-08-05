@@ -153,7 +153,7 @@ export const contractorBatch13Articles: Article[] = [
   },
   {
     slug: "why-your-google-business-profile-category-choice-matters-more-than-you-think",
-    title: "Why Your Google Business Profile Category Choice Matters More Than You Think",
+    title: "Why Your Google Business Profile Category Choice Matters",
     metaTitle: "GBP Category Choice and Local Rankings",
     excerpt: "Why the primary and secondary categories chosen for a Google Business Profile quietly shape which searches a contractor even shows up for.",
     metaDescription: "Your Google Business Profile category determines which searches you appear in at all. See how contractors get this wrong and how to fix it.",

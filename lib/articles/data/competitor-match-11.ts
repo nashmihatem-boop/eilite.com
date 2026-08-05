@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch11Articles: Article[] = [
   {
     slug: "create-the-perfect-landing-page-for-your-personal-injury-advertising-campaigns",
-    title: "Create the Perfect Landing Page for Your Personal Injury Advertising Campaigns",
+    title: "The Perfect Landing Page for Personal Injury Ads",
     metaTitle: "Landing Pages for Personal Injury Advertising",
     metaDescription: "Learn how to build landing pages for personal injury advertising that convert traffic into qualified leads, with proven design and copy tactics.",
     excerpt: "A practical breakdown of what separates a landing page that converts personal injury ad traffic from one that quietly leaks it away.",
@@ -628,11 +628,7 @@ export const competitorMatch11Articles: Article[] = [
     category: "Marketing Channels",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
-    relatedSlugs: [
-      "developing-a-personal-injury-lawyer-marketing-strategy",
-      "how-personal-injury-attorneys-get-clients",
-      "calculating-roi-on-legal-lead-generation-campaigns",
-    ],
+    relatedSlugs: ["developing-a-personal-injury-lawyer-marketing-strategy", "calculating-roi-on-legal-lead-generation-campaigns"],
     content: [
       {
         type: "paragraph",
@@ -750,18 +746,14 @@ export const competitorMatch11Articles: Article[] = [
   },
   {
     slug: "how-do-personal-injury-attorneys-get-clients-staying-in-contact-with-old-leads",
-    title: "How Personal Injury Attorneys Get Clients: Staying in Contact With Old Leads",
+    title: "How Attorneys Get Clients: Staying in Contact With Old Leads",
     metaTitle: "Staying in Contact With Old Personal Injury Leads",
     metaDescription: "Discover how personal injury attorneys get clients by staying in touch with old leads through newsletters, email, and networking after the case ends.",
     excerpt: "How maintaining relationships with past leads and former clients quietly becomes one of the most reliable client acquisition channels a firm has.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
-    relatedSlugs: [
-      "email-marketing-for-personal-injury-law-firms-what-to-know",
-      "get-personal-injury-clients-how-often-should-i-contact-a-new-lead",
-      "how-personal-injury-attorneys-get-clients",
-    ],
+    relatedSlugs: ["email-marketing-for-personal-injury-law-firms-what-to-know", "get-personal-injury-clients-how-often-should-i-contact-a-new-lead"],
     content: [
       {
         type: "paragraph",
@@ -871,7 +863,7 @@ export const competitorMatch11Articles: Article[] = [
   },
   {
     slug: "how-legal-marketing-firms-can-help-turn-more-of-your-website-visitors-into-leads",
-    title: "How Legal Marketing Firms Can Help Turn More Website Visitors Into Leads",
+    title: "How Legal Marketing Firms Turn Website Visitors Into Leads",
     metaTitle: "Turn Website Visitors Into Leads: A Law Firm Guide",
     metaDescription: "Learn how conversion rate optimization in legal marketing helps turn more website visitors into leads through testing and clearer calls to action.",
     excerpt: "Why most law firm websites lose visitors they've already paid to attract, and how conversion rate optimization fixes that leak.",
@@ -1229,7 +1221,7 @@ export const competitorMatch11Articles: Article[] = [
   },
   {
     slug: "how-pay-per-lead-personal-injury-programs-differ-from-other-forms-of-advertising",
-    title: "How Pay-Per-Lead Personal Injury Programs Differ From Other Advertising",
+    title: "How Pay-Per-Lead Personal Injury Programs Differ",
     metaTitle: "Pay-Per-Lead Personal Injury Programs Explained",
     metaDescription: "Compare pay per lead personal injury programs to traditional advertising like TV and radio, and see how screening and pricing actually differ.",
     excerpt: "How pay-per-lead programs work differently from traditional advertising, and what that means for a firm's marketing budget.",
@@ -1342,11 +1334,7 @@ export const competitorMatch11Articles: Article[] = [
     category: "Industry Trends",
     readTime: "3 min read",
     publishedDate: "2026-08-14",
-    relatedSlugs: [
-      "digital-marketing-for-attorneys-seo-101-for-law-firms",
-      "generating-legal-leads-with-premium-placement-directories",
-      "how-personal-injury-attorneys-get-clients",
-    ],
+    relatedSlugs: ["digital-marketing-for-attorneys-seo-101-for-law-firms", "generating-legal-leads-with-premium-placement-directories"],
     content: [
       {
         type: "paragraph",

@@ -603,7 +603,7 @@ export const contractorBatch12Articles: Article[] = [
   },
   {
     slug: "should-contractors-offer-incentives-for-reviews-what-s-actually-allowed",
-    title: "Should Contractors Offer Incentives for Reviews? What's Actually Allowed",
+    title: "Should Contractors Offer Incentives for Reviews?",
     metaTitle: "Review Incentives: What's Actually Allowed",
     excerpt: "What contractors can and can't do when it comes to incentivizing customer reviews, and safer alternatives that avoid platform penalties.",
     metaDescription: "Paying for reviews violates Google's policies and risks removal or suspension. See what review incentive practices are actually safe for contractors.",

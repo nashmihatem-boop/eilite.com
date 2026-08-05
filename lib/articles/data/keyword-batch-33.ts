@@ -7,7 +7,7 @@ export const keywordBatch33Articles: Article[] = [
   {
     slug: "ohio-solar-leads",
     title: "Ohio Solar Leads: A Guide for Installers",
-    metaTitle: "Ohio Solar Leads Guide",
+    metaTitle: "Ohio Solar Leads: A Guide for Solar Installers",
     excerpt: "A guide to sourcing solar leads specifically within the Ohio market.",
     metaDescription: "A guide to sourcing solar leads specifically within the Ohio market, covering local incentive programs and what drives homeowner interest in the state.",
     category: "Home Services Marketing",
@@ -72,7 +72,7 @@ export const keywordBatch33Articles: Article[] = [
   {
     slug: "opt-in-leads",
     title: "Opt-In Leads: Understanding This Foundational Consent Concept",
-    metaTitle: "Opt-In Leads Guide",
+    metaTitle: "Opt-In Leads Guide: Consent in Lead Generation",
     excerpt: "A foundational guide to opt-in consent and its role in compliant lead generation.",
     metaDescription: "A foundational guide to opt-in consent and its role in compliant lead generation, explaining what documentation buyers should expect from a seller.",
     category: "Lead Generation Basics",
@@ -304,7 +304,7 @@ export const keywordBatch33Articles: Article[] = [
   {
     slug: "painting-leads",
     title: "Painting Leads: A Guide for Contractors",
-    metaTitle: "Painting Leads Guide",
+    metaTitle: "Painting Leads Guide for Residential Contractors",
     excerpt: "A guide to sourcing and converting leads for residential and commercial painting services.",
     metaDescription: "A guide to sourcing and converting leads for residential and commercial painting services, covering seasonal demand patterns and pricing benchmarks.",
     category: "Home Services Marketing",
@@ -337,7 +337,7 @@ export const keywordBatch33Articles: Article[] = [
   {
     slug: "paraquat-leads",
     title: "Paraquat Leads: A Careful Guide for Firms",
-    metaTitle: "Paraquat Leads Guide",
+    metaTitle: "Paraquat Leads: A Careful Guide for Legal Firms",
     excerpt: "A careful, neutral guide for firms handling leads related to paraquat herbicide exposure litigation.",
     metaDescription: "A careful, neutral guide for firms handling leads related to paraquat herbicide exposure litigation, including screening and intake considerations.",
     category: "Legal Leads",
@@ -403,7 +403,7 @@ export const keywordBatch33Articles: Article[] = [
   {
     slug: "patio-cover-leads",
     title: "Patio Cover Leads: A Guide for Contractors",
-    metaTitle: "Patio Cover Leads Guide",
+    metaTitle: "Patio Cover Leads: A Guide for Outdoor Contractors",
     excerpt: "A guide to sourcing and converting leads for patio cover and outdoor living installations.",
     metaDescription: "A guide to sourcing and converting leads for patio cover and outdoor living installations, covering seasonal demand patterns and typical project values.",
     category: "Home Services Marketing",

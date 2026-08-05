@@ -69,6 +69,8 @@ export const brandReputationArticles: Article[] = [
     metaTitle: "Law Firm Branding Strategies for 2026",
     excerpt:
       "The firms winning on brand today are moving away from generic 'aggressive advocate' positioning toward genuine differentiation. Here's what's actually working.",
+    metaDescription:
+      "Why the firms winning on brand today are moving away from generic 'aggressive advocate' positioning toward genuine differentiation.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-04",

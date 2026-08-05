@@ -326,7 +326,7 @@ export const howToGenerateConvertCluster1Articles: Article[] = [
   },
   {
     slug: "how-to-generate-and-convert-car-accident-injury-leads-for-your-law-firm",
-    title: "How to Generate and Convert Car Accident Injury Leads for Your Law Firm",
+    title: "How to Generate and Convert Car Accident Injury Leads",
     metaTitle: "Generate and Convert Car Accident Injury Leads",
     excerpt:
       "A severity-focused process for generating and converting car accident leads with genuine injury.",

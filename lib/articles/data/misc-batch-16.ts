@@ -68,6 +68,8 @@ export const miscBatch16Articles: Article[] = [
     metaTitle: "Essential PI Lawyer Digital Marketing Strategies",
     excerpt:
       "The non-negotiable digital marketing strategies every personal injury firm should have in place, regardless of budget size.",
+    metaDescription:
+      "The non-negotiable digital marketing strategies every personal injury firm should have in place, regardless of budget size, from SEO to paid search.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-22",

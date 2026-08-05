@@ -7,6 +7,8 @@ export const miscTopics5Articles: Article[] = [
     metaTitle: "Attorney Lead Service: Contract Questions to Ask",
     excerpt:
       "Beyond price and volume, the contract terms of a lead service agreement can matter as much as the leads themselves. Here's what to clarify before signing.",
+    metaDescription:
+      "Beyond price and volume, the contract terms of an attorney lead service agreement can matter as much as the leads. Here's what to clarify before signing.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-11",
@@ -76,6 +78,8 @@ export const miscTopics5Articles: Article[] = [
     metaTitle: "Pre-Qualified Attorney Leads Explained",
     excerpt:
       "'Pre-qualified' is often used loosely in lead marketing. Here's what genuine pre-qualification involves, and how to verify a provider is actually doing it.",
+    metaDescription:
+      "The term 'pre-qualified' is often used loosely in lead marketing. Here's what genuine pre-qualification actually involves, and how to verify a provider does it.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-11",

@@ -13,6 +13,8 @@ export const findNewClientsClusterArticles: Article[] = [
     metaTitle: "How Lawyers Find New Clients: 7 Strategies",
     excerpt:
       "From referrals to paid leads, here's a complete overview of the seven channels that consistently produce new clients for law firms — and how they fit together.",
+    metaDescription:
+      "From referrals to paid leads, a complete overview of the seven channels that consistently produce new law firm clients, and how each one fits together.",
     category: "Law Firm Marketing",
     readTime: "8 min read",
     publishedDate: "2026-08-03",
@@ -90,7 +92,7 @@ export const findNewClientsClusterArticles: Article[] = [
   },
   {
     slug: "how-attorneys-find-new-clients-7-proven-strategies",
-    title: "How Attorneys Find New Clients Through Local Networking and Bar Involvement",
+    title: "How Attorneys Find New Clients Through Networking",
     metaTitle: "Attorney Client Acquisition Through Networking",
     excerpt:
       "Bar association leadership, local networking groups, and community involvement quietly produce a steady stream of client relationships. Here's how to build that pipeline deliberately.",
@@ -152,7 +154,7 @@ export const findNewClientsClusterArticles: Article[] = [
   },
   {
     slug: "proven-strategies-for-how-lawyers-find-new-clients",
-    title: "How Lawyers Find New Clients Through Speaking Engagements and CLE Teaching",
+    title: "How Lawyers Find New Clients Through Speaking and CLE Teaching",
     metaTitle: "Client Acquisition Through Speaking & CLE Teaching",
     excerpt:
       "Teaching a continuing legal education course or speaking at an industry event builds credibility that's hard to manufacture any other way. Here's how to turn that visibility into clients.",

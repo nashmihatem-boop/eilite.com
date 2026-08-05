@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar1Articles: Article[] = [
   {
     slug: "auto-accident-mva-leads-for-law-firms",
-    title: "Auto Accident (MVA) Leads: Verified, Exclusive Leads for Personal Injury Firms",
+    title: "Auto Accident (MVA) Leads: Verified, Exclusive Leads",
     metaTitle: "Auto Accident & MVA Leads for Law Firms",
     metaDescription:
       "Buy verified, exclusive auto accident and MVA leads for your personal injury practice. Learn how qualification, compliance, and pricing actually work.",

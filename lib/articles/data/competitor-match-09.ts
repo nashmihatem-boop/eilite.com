@@ -184,7 +184,7 @@ export const competitorMatch09Articles: Article[] = [
   },
   {
     slug: "the-uber-caoc-agreement-how-the-new-framework-may-affect-rideshare-litigation",
-    title: "The Uber-CAOC Agreement: How the New Framework May Affect Rideshare Litigation",
+    title: "The Uber-CAOC Agreement and Rideshare Litigation",
     metaTitle: "Uber-CAOC Agreement and California Rideshare Litigation",
     metaDescription:
       "How the Uber-CAOC agreement and related insurance legislation reshape rideshare coverage limits and litigation strategy for California injury attorneys.",
@@ -352,7 +352,7 @@ export const competitorMatch09Articles: Article[] = [
   },
   {
     slug: "mass-tort-marketing-for-law-firms-building-a-sustainable-client-acquisition-strategy",
-    title: "Mass Tort Marketing for Law Firms: Building a Sustainable Client Acquisition Strategy",
+    title: "Mass Tort Marketing for Law Firms: A Client Guide",
     metaTitle: "Mass Tort Marketing Strategy for Law Firms",
     metaDescription:
       "A practical guide to mass tort marketing for law firms, covering case selection, compliance, media mix, intake, and metrics that determine sustainable growth.",
@@ -982,7 +982,7 @@ export const competitorMatch09Articles: Article[] = [
   },
   {
     slug: "building-a-scalable-mass-tort-intake-process-lessons-from-high-volume-firms",
-    title: "Building a Scalable Mass Tort Intake Process: Lessons from High-Volume Firms",
+    title: "Building a Scalable Mass Tort Intake Process",
     metaTitle: "Building a Scalable Mass Tort Intake Process",
     metaDescription:
       "A five-stage framework for managing high-volume mass tort inquiries, covering response times, qualification criteria, technology, and staffing models.",
@@ -1750,7 +1750,7 @@ export const competitorMatch09Articles: Article[] = [
   },
   {
     slug: "your-crm-might-be-lying-to-you-how-bad-leads-corrupt-law-firm-reporting",
-    title: "Your CRM Might Be Lying to You: How Bad Leads Corrupt Law Firm Reporting",
+    title: "Your CRM Might Be Lying to You About Lead Quality",
     metaTitle: "How Bad Leads Corrupt Law Firm CRM Reporting",
     metaDescription:
       "How low-quality leads and incomplete data entry distort CRM analytics at personal injury firms, leading to flawed budget and staffing decisions overall.",
@@ -2603,7 +2603,7 @@ export const competitorMatch09Articles: Article[] = [
   },
   {
     slug: "the-intake-efficiency-gap-why-personal-injury-firms-lose-clients-after-the-lead-arrives",
-    title: "The Intake Efficiency Gap: Why Personal Injury Firms Lose Clients After the Lead Arrives",
+    title: "The Intake Efficiency Gap: Why PI Firms Lose Clients",
     metaTitle: "The Intake Efficiency Gap in Personal Injury Firms",
     metaDescription:
       "Why personal injury firms lose qualified clients to inefficient intake systems rather than insufficient lead generation, and how firms can close that gap.",
@@ -2971,7 +2971,7 @@ export const competitorMatch09Articles: Article[] = [
   },
   {
     slug: "what-makes-a-pi-lead-worth-pursuing-a-qualification-framework-for-firm-owners",
-    title: "What Makes a PI Lead Worth Pursuing? A Qualification Framework for Firm Owners",
+    title: "What Makes a PI Lead Worth Pursuing?",
     metaTitle: "PI Lead Qualification Framework for Firm Owners",
     metaDescription:
       "A practical framework for evaluating personal injury leads on case type, geography, and financial viability, built around quality over raw lead volume.",

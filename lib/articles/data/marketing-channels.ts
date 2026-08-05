@@ -73,7 +73,7 @@ export const marketingChannelsArticles: Article[] = [
   },
   {
     slug: "social-media-marketing-for-law-firms",
-    title: "Social Media Marketing for Law Firms: What Actually Builds Client Trust",
+    title: "Social Media Marketing for Law Firms: Building Client Trust",
     metaTitle: "Social Media Marketing for Law Firms",
     excerpt:
       "Social media rarely produces a direct 'call now' lead for law firms, but it plays a real role in building the trust that gets a prospect to pick up the phone. Here's how to use it well.",

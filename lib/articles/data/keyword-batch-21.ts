@@ -77,7 +77,7 @@ export const keywordBatch21Articles: Article[] = [
   {
     slug: "inbound-call-leads",
     title: "Inbound Call Leads: A Foundational Guide",
-    metaTitle: "Inbound Call Leads Guide",
+    metaTitle: "Inbound Call Leads: How They Work and Convert",
     excerpt: "A foundational guide to inbound call leads and how they differ from outbound-generated volume.",
     metaDescription: "A foundational guide to inbound call leads, covering how they differ from outbound-generated volume and why they typically tend to convert better.",
     category: "Lead Generation Basics",
@@ -254,6 +254,7 @@ export const keywordBatch21Articles: Article[] = [
     title: "Individual Health Insurance Leads: A Guide for Agents",
     metaTitle: "Individual Health Insurance Leads Guide",
     excerpt: "A guide to sourcing and converting leads for individual and family health insurance plans, distinct from group coverage.",
+    metaDescription: "A guide to sourcing and converting leads for individual and family health insurance plans, distinct in approach from selling group coverage.",
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-12-11",
@@ -321,7 +322,7 @@ export const keywordBatch21Articles: Article[] = [
   {
     slug: "injury-claim-leads",
     title: "Injury Claim Leads: A Broader Guide Across Case Types",
-    metaTitle: "Injury Claim Leads Guide",
+    metaTitle: "Injury Claim Leads: A Guide Across Case Types",
     excerpt: "A broader guide to injury claim leads spanning personal injury, workers comp, and product liability.",
     metaDescription: "A broader guide to injury claim leads spanning personal injury, workers comp, and product liability, and how sourcing differs across each case type.",
     category: "Legal Leads",

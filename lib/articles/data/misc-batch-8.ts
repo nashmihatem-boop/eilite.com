@@ -9,6 +9,8 @@ export const miscBatch8Articles: Article[] = [
     metaTitle: "Call-Only Personal Injury Leads Guide",
     excerpt:
       "Call-only delivery connects a prospect directly by phone without a preceding form — here's how this format specifically fits personal injury lead generation.",
+    metaDescription:
+      "Call-only delivery connects a prospect directly by phone without a preceding form. Here's how this format specifically fits personal injury lead generation.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-14",
@@ -62,6 +64,8 @@ export const miscBatch8Articles: Article[] = [
     metaTitle: "Call-Only Personal Injury Leads in 2026",
     excerpt:
       "Yes, this format remains available, though the market has evolved — here's the current state of call-only delivery for personal injury leads.",
+    metaDescription:
+      "Yes, call-only personal injury leads remain available, though the market has evolved. Here's the current state of this delivery format going into 2026.",
     category: "Personal Injury",
     readTime: "5 min read",
     publishedDate: "2026-09-14",

@@ -415,7 +415,7 @@ export const keywordBatch30Articles: Article[] = [
   {
     slug: "mold-removal-leads",
     title: "Mold Removal Leads: A Guide for Remediation Companies",
-    metaTitle: "Mold Removal Leads Guide",
+    metaTitle: "Mold Removal Leads Guide for Remediation Companies",
     excerpt: "A guide to sourcing and converting leads for mold inspection and remediation services.",
     metaDescription: "Mold inspection and remediation draw urgent, high-intent searches — this guide covers how remediation companies source and convert leads for these projects.",
     category: "Home Services Marketing",
@@ -621,7 +621,7 @@ export const keywordBatch30Articles: Article[] = [
   {
     slug: "mortgage-leads",
     title: "Mortgage Leads: A Complete Foundational Guide",
-    metaTitle: "Mortgage Leads Guide",
+    metaTitle: "Mortgage Leads Guide: Purchase and Refinance Buyers",
     excerpt: "A complete foundational guide to sourcing and converting mortgage leads across purchase and refinance.",
     metaDescription: "This complete foundational guide covers sourcing and converting mortgage leads across both purchase and refinance markets, for loan officers and brokers alike.",
     category: "Financial Leads",

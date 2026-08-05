@@ -10,6 +10,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in Texas",
     excerpt:
       "A statewide look at Texas divorce lead generation, covering community property rules across the state's many metro markets.",
+    metaDescription: "Divorce lead generation in Texas hinges on community property rules that play out differently across the state's metro markets. A guide for family law firms.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-29",
@@ -274,6 +275,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Los Angeles",
     excerpt:
       "How California's pure comparative negligence rule and LA's traffic and rideshare density shape local PI lead generation.",
+    metaDescription: "California's pure comparative negligence rule and LA's dense traffic and rideshare activity shape what quality personal injury leads look like locally.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",
@@ -379,6 +381,7 @@ export const piDivorceCityCluster2Articles: Article[] = [
     metaTitle: "Quality PI Attorney Leads in Phoenix",
     excerpt:
       "How Arizona's pure comparative negligence rule and Phoenix's large retirement and pedestrian population shape local PI leads.",
+    metaDescription: "Arizona's pure comparative negligence rule and Phoenix's large retirement and pedestrian population shape what quality PI leads look like in this market.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-29",

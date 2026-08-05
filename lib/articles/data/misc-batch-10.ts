@@ -9,6 +9,7 @@ export const miscBatch10Articles: Article[] = [
     metaTitle: "Car Accident Injury Leads Strategic Guide",
     excerpt:
       "Focusing specifically on injury-involved car accident leads, as distinct from property-damage-only inquiries, sharpens both screening and value.",
+    metaDescription: "Focusing specifically on injury-involved car accident leads, as distinct from property-damage-only inquiries, sharpens both lead screening and value.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-15",

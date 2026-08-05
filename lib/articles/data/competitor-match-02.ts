@@ -1472,7 +1472,7 @@ export const competitorMatch02Articles: Article[] = [
   },
   {
     slug: "18-proven-law-firm-marketing-strategies-for-boosting-your-firm-s-success",
-    title: "18 Proven Law Firm Marketing Strategies for Boosting Your Firm's Success",
+    title: "18 Law Firm Marketing Strategies That Actually Work",
     metaTitle: "18 Proven Law Firm Marketing Strategies",
     metaDescription:
       "These law firm marketing strategies span digital, paid, referral, and reputation channels to help attorneys attract more clients and grow sustainably.",

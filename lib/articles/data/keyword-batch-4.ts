@@ -6,7 +6,7 @@ const sellLeadsRel = ["affiliates", "affiliate-lead-monetization"];
 export const keywordBatch4Articles: Article[] = [
   {
     slug: "attorney-client-acquisition",
-    title: "Attorney Client Acquisition: Marketing, Intake, and the Client Relationship",
+    title: "Attorney Client Acquisition: Marketing and Intake",
     metaTitle: "Attorney Client Acquisition: Firm-Side Guide",
     excerpt: "A firm-side look at client acquisition — positioning, intake execution, and the client relationship that turns a signed matter into future referrals.",
     metaDescription: "Client acquisition from the firm's side means positioning that fits your practice, an intake process that converts, and a relationship that earns referrals.",
@@ -41,7 +41,7 @@ export const keywordBatch4Articles: Article[] = [
   {
     slug: "attorney-ppc-leads",
     title: "Attorney PPC Leads: A Guide to Paid Search for Law Firms",
-    metaTitle: "Attorney PPC Leads Guide",
+    metaTitle: "Attorney PPC Leads: Paid Search Guide for Firms",
     excerpt: "A guide to generating leads through pay-per-click advertising for law firms.",
     metaDescription: "Pay-per-click advertising can generate fast, predictable leads for firms willing to manage bidding and landing page quality carefully. This guide covers running PPC.",
     category: "Legal Leads",
@@ -185,7 +185,7 @@ export const keywordBatch4Articles: Article[] = [
   {
     slug: "auto-loan-leads",
     title: "Auto Loan Leads: A Guide for Lenders",
-    metaTitle: "Auto Loan Leads Guide",
+    metaTitle: "Auto Loan Leads: Financing and Refinance Guide",
     excerpt: "A guide to sourcing and converting leads for auto financing and refinancing.",
     metaDescription: "Auto loan leads cover both new financing and refinancing, each with different sourcing channels and borrower intent. This guide covers this lead type.",
     category: "Financial Leads",
@@ -430,7 +430,7 @@ export const keywordBatch4Articles: Article[] = [
   {
     slug: "bankruptcy-leads",
     title: "Bankruptcy Leads: A Complete Guide for Firms",
-    metaTitle: "Bankruptcy Leads Guide",
+    metaTitle: "Bankruptcy Leads: Screening Guide for Law Firms",
     excerpt: "A foundational guide to sourcing and converting bankruptcy case leads.",
     metaDescription: "Bankruptcy case leads require careful screening since filing eligibility and debt thresholds vary significantly by prospect. This guide covers converting this type.",
     category: "Legal Leads",

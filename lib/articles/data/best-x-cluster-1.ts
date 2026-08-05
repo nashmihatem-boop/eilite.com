@@ -7,6 +7,8 @@ export const bestXCluster1Articles: Article[] = [
     metaTitle: "Best Advertising Methods for Lawyers",
     excerpt:
       "A practical comparison of advertising methods available to lawyers, organized by cost, speed, and typical effectiveness by practice area.",
+    metaDescription:
+      "A practical, side-by-side comparison of advertising methods available to lawyers, organized by cost, speed, and typical effectiveness by practice area.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-04",
@@ -68,6 +70,8 @@ export const bestXCluster1Articles: Article[] = [
     metaTitle: "What Makes the Best Attorney Leads",
     excerpt:
       "Rather than a subjective ranking, here's an objective breakdown of the specific attributes that separate genuinely good leads from mediocre ones.",
+    metaDescription:
+      "Rather than a subjective ranking, here's an objective breakdown of the specific attributes that separate genuinely good attorney leads from mediocre ones.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-04",

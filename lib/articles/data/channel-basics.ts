@@ -7,6 +7,8 @@ export const channelBasicsArticles: Article[] = [
     metaTitle: "Lead Generation for Law Firms: Fundamentals",
     excerpt:
       "Before comparing specific channels or providers, here are the fundamental concepts every firm should understand about how legal lead generation actually works.",
+    metaDescription:
+      "The fundamental concepts every law firm should understand about legal lead generation before comparing specific channels or providers.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-09",
@@ -130,6 +132,8 @@ export const channelBasicsArticles: Article[] = [
     metaTitle: "PPC Ads for Attorneys: Common Beginner Mistakes",
     excerpt:
       "Firms running PPC for the first time tend to make a handful of predictable, expensive mistakes. Here's what to avoid before spending your first dollar.",
+    metaDescription:
+      "The predictable, expensive mistakes firms make the first time they run PPC, and what to avoid before spending your first advertising dollar.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-09",

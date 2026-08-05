@@ -293,7 +293,7 @@ export const batch100_7Articles: Article[] = [
   },
   {
     slug: "pay-per-lead-personal-injury-marketing-a-strategic-guide-for-law-firms",
-    title: "Pay-Per-Lead Personal Injury Marketing: A Strategic Guide for Law Firms",
+    title: "Pay-Per-Lead Personal Injury Marketing for Law Firms",
     metaTitle: "Strategic Guide to Pay-Per-Lead PI Marketing",
     excerpt: "A long-term strategic guide for law firms building and scaling a pay-per-lead personal injury marketing program.",
     metaDescription: "A long-term strategic guide for law firms building and scaling a pay-per-lead personal injury marketing program beyond a single vendor relationship.",
@@ -473,7 +473,7 @@ export const batch100_7Articles: Article[] = [
   },
   {
     slug: "personal-injury-attorney-leads-in-houston-sourcing-and-converting-them",
-    title: "Personal Injury Attorney Leads in Houston: Sourcing and Converting Them",
+    title: "Personal Injury Attorney Leads in Houston",
     metaTitle: "Houston Personal Injury Attorney Leads Guide",
     excerpt: "A local guide to sourcing and converting personal injury attorney leads specifically within the Houston market.",
     metaDescription: "A local guide to sourcing and converting personal injury attorney leads specifically within the competitive, high-volume Houston legal market and its suburbs.",

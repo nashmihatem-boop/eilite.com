@@ -69,6 +69,8 @@ export const miscTopics8Articles: Article[] = [
     metaTitle: "Modern Lead Generation for Personal Injury Lawyers",
     excerpt:
       "The channels and tactics that worked for personal injury lawyers a decade ago have shifted meaningfully. Here's a current overview of what actually works now.",
+    metaDescription:
+      "The channels and tactics that worked for personal injury lawyers a decade ago have shifted meaningfully. Here's what actually generates leads today.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-12",

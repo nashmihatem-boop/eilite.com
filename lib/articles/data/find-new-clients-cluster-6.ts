@@ -10,6 +10,8 @@ export const findNewClientsCluster6Articles: Article[] = [
     metaTitle: "Client Acquisition Through Bar Leadership",
     excerpt:
       "Taking on a leadership role in a bar association section builds visibility with exactly the referral sources most likely to send business your way.",
+    metaDescription:
+      "A bar association leadership role puts attorneys in front of exactly the peer referral sources most likely to send new business — here's how to get started.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",
@@ -59,10 +61,12 @@ export const findNewClientsCluster6Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-acquisition-tactics",
-    title: "How Lawyers Find New Clients Through Ethical Referral Incentive Programs",
+    title: "How Lawyers Find New Clients Through Referral Incentives",
     metaTitle: "Client Acquisition Through Referral Incentives",
     excerpt:
       "Structuring a referral incentive program correctly, within bar ethics rules, can meaningfully boost referral volume from both clients and professional partners.",
+    metaDescription:
+      "Referral incentive programs can boost referral volume, but bar ethics rules on non-attorney payments vary by state — here's how to stay compliant.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",
@@ -116,6 +120,8 @@ export const findNewClientsCluster6Articles: Article[] = [
     metaTitle: "Client Acquisition Through Multilingual Content",
     excerpt:
       "Genuine multilingual content and intake capability opens access to entire community segments that English-only firms never effectively reach.",
+    metaDescription:
+      "Genuine multilingual content and bilingual intake capability opens access to entire community segments that English-only law firms never effectively reach.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",

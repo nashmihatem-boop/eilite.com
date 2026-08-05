@@ -7,6 +7,8 @@ export const bestXCluster8Articles: Article[] = [
     metaTitle: "Best Way to Generate Converting Legal Leads",
     excerpt:
       "Focusing on conversion, not just volume, changes which lead generation approach actually deserves the 'best' label this year.",
+    metaDescription:
+      "Focusing on conversion, not just volume, changes which legal lead generation approach actually deserves the 'best' label for firms this year.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-09-07",

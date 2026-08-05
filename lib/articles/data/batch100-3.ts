@@ -262,6 +262,7 @@ export const batch100_3Articles: Article[] = [
     title: "Building a Lawyer Advertising Plan Step by Step",
     metaTitle: "Building a Lawyer Advertising Plan",
     excerpt: "A step-by-step process for building a genuinely coherent lawyer advertising plan rather than a scattered set of tactics.",
+    metaDescription: "A step-by-step process for building a genuinely coherent lawyer advertising plan, aligning channels and budget instead of relying on scattered tactics.",
     category: "Marketing Channels",
     readTime: "7 min read",
     publishedDate: "2026-10-21",
@@ -371,7 +372,7 @@ export const batch100_3Articles: Article[] = [
   {
     slug: "lawyer-lead",
     title: "What Is a Lawyer Lead? A Foundational Explanation",
-    metaTitle: "What Is a Lawyer Lead?",
+    metaTitle: "What Is a Lawyer Lead? Definition & Common Forms",
     excerpt: "A foundational explanation of exactly what a lawyer lead is, and the different forms it can take.",
     metaDescription: "A foundational explanation of exactly what a lawyer lead is and the different forms it can take, from a web form submission to a warm-transferred call.",
     category: "Lead Generation Basics",

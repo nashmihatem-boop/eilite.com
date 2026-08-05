@@ -7,6 +7,8 @@ export const attorneyGlossary2Articles: Article[] = [
     metaTitle: "What Is an Attorney Lead?",
     excerpt:
       "A clear, jargon-free definition of what an attorney lead actually is, and the basic distinctions worth understanding before evaluating any provider.",
+    metaDescription:
+      "A clear, jargon-free definition of what an attorney lead actually is, plus the basic distinctions worth understanding before evaluating any provider.",
     category: "Law Firm Marketing",
     readTime: "5 min read",
     publishedDate: "2026-09-01",
@@ -60,6 +62,8 @@ export const attorneyGlossary2Articles: Article[] = [
     metaTitle: "Attorney Leads: A Complete Overview",
     excerpt:
       "For firms evaluating this category for the first time, a complete overview covering types, pricing, and what to look for in a provider.",
+    metaDescription:
+      "For firms evaluating this category for the first time, a complete overview covering attorney lead types, pricing, and what to look for in a provider.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-09-01",

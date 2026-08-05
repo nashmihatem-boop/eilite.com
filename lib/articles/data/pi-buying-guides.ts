@@ -7,6 +7,7 @@ export const piBuyingGuidesArticles: Article[] = [
     metaTitle: "Buying Personal Injury Leads Strategic Guide",
     excerpt:
       "A complete, buyer-focused framework for evaluating, testing, and scaling a personal injury lead purchasing program responsibly.",
+    metaDescription: "A buyer-focused framework for law firms to evaluate, test, and scale a personal injury lead purchasing program responsibly, without overspending on hype.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-30",
@@ -60,6 +61,7 @@ export const piBuyingGuidesArticles: Article[] = [
     metaTitle: "Car Accident Attorney Leads Strategic Guide",
     excerpt:
       "An attorney-focused strategic view of car accident lead generation, connecting individual case-acceptance judgment to firm-wide acquisition strategy.",
+    metaDescription: "A strategic guide connecting individual case-acceptance judgment to firm-wide car accident lead acquisition, built for attorneys buying leads at scale.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-30",

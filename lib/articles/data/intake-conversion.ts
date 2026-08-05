@@ -7,6 +7,7 @@ export const intakeConversionArticles: Article[] = [
     metaTitle: "How to Improve Law Firm Intake",
     excerpt:
       "Most firms lose more potential clients to a weak intake process than to weak marketing. Here are seven specific, proven ways to close that gap.",
+    metaDescription: "Most firms lose more potential clients to a weak intake process than to weak marketing. Here are seven specific, proven ways law firms can close that gap.",
     category: "Law Firm Marketing",
     readTime: "8 min read",
     publishedDate: "2026-08-04",

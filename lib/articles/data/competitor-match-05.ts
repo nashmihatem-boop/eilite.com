@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch05Articles: Article[] = [
   {
     slug: "illinois-workers-comp-legal-advertising-rules-ethical-marketing-for-lawyers",
-    title: "Illinois Workers' Comp Legal Advertising Rules: Ethical Marketing for Lawyers",
+    title: "Illinois Workers' Comp Legal Advertising Rules for Lawyers",
     metaTitle: "Illinois Workers' Comp Legal Advertising Rules",
     metaDescription:
       "A practical breakdown of Illinois workers' comp legal advertising rules, covering truthful claims, disclosures, referral fees, and lead generation compliance.",
@@ -1333,7 +1333,7 @@ export const competitorMatch05Articles: Article[] = [
   },
   {
     slug: "from-click-to-client-streamlined-trucking-litigation-client-acquisition-strategies",
-    title: "From Click to Client: Streamlined Trucking Litigation Client Acquisition",
+    title: "From Click to Client: Trucking Litigation Client Acquisition",
     metaTitle: "Streamlined Trucking Litigation Client Acquisition",
     metaDescription:
       "How personal injury firms streamline trucking litigation client acquisition, from the first ad click through signed retainer, intake, and client onboarding.",
@@ -2408,7 +2408,7 @@ export const competitorMatch05Articles: Article[] = [
   },
   {
     slug: "independent-medical-exams-in-workers-compensation-what-attorneys-must-know",
-    title: "Independent Medical Exams in Workers' Compensation: What Attorneys Must Know",
+    title: "Independent Medical Exams: A Guide for Workers' Comp Attorneys",
     metaTitle: "Independent Medical Exams in Workers' Comp",
     metaDescription:
       "A guide for workers' comp attorneys on independent medical exams, covering their purpose, legal framework, physician selection, and litigation strategy.",
@@ -2599,7 +2599,7 @@ export const competitorMatch05Articles: Article[] = [
   },
   {
     slug: "winning-workers-comp-settlements-proven-negotiation-strategies-for-attorneys",
-    title: "Winning Workers' Comp Settlements: Negotiation Strategies for Attorneys",
+    title: "Winning Workers' Comp Settlements: Negotiation Strategies",
     metaTitle: "Workers' Comp Settlement Negotiation Strategies",
     metaDescription:
       "Proven workers' compensation settlement negotiation strategies for attorneys, covering timing, evidence building, insurer tactics, and mediation approaches.",
@@ -3212,7 +3212,7 @@ export const competitorMatch05Articles: Article[] = [
   },
   {
     slug: "implementing-a-legal-accounting-system-key-considerations-for-law-firm-efficiency-and-compliance",
-    title: "Implementing a Legal Accounting System: Key Considerations for Law Firms",
+    title: "Implementing a Legal Accounting System: Key Considerations",
     metaTitle: "Implementing a Legal Accounting System for Law Firms",
     metaDescription:
       "Key considerations for implementing a legal accounting system, covering trust accounting compliance, time tracking, billing automation, and software selection.",
@@ -3678,7 +3678,7 @@ export const competitorMatch05Articles: Article[] = [
   },
   {
     slug: "marketing-successfully-as-a-law-firm-proven-strategies-that-drive-case-volume",
-    title: "Marketing Successfully as a Law Firm: Strategies That Drive Case Volume",
+    title: "Marketing Successfully as a Law Firm: Strategies That Work",
     metaTitle: "Law Firm Marketing Strategies That Drive Case Volume",
     metaDescription:
       "Proven law firm marketing strategies covering brand building, SEO, content marketing, paid advertising, local search, and referral network development.",

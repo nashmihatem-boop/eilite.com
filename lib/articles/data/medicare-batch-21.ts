@@ -335,6 +335,7 @@ export const medicareBatch21Articles: Article[] = [
     title: "Where to Find Medicare Leads in Indianapolis, IN",
     metaTitle: "Where to Find Medicare Leads in Indianapolis",
     excerpt: "A resource directory of specific channels and local resources agents can use to find Medicare leads within Indianapolis.",
+    metaDescription: "A resource directory of specific channels and local resources Medicare agents can use to find qualified leads within the Indianapolis, Indiana market.",
     category: "Medicare Leads",
     readTime: "7 min read",
     publishedDate: "2026-11-20",

@@ -259,6 +259,8 @@ export const batch100_6Articles: Article[] = [
     title: "Navigating Spousal Support in High-Net-Worth Divorce Cases",
     metaTitle: "Spousal Support in High-Net-Worth Divorce",
     excerpt: "Key considerations firms should understand when handling and marketing around spousal support in high-net-worth divorces.",
+    metaDescription:
+      "Key considerations family law firms should understand when handling and marketing around spousal support in high-net-worth divorce cases.",
     category: "Divorce & Family Law",
     readTime: "7 min read",
     publishedDate: "2026-10-24",

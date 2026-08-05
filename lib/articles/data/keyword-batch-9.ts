@@ -567,7 +567,7 @@ export const keywordBatch9Articles: Article[] = [
   {
     slug: "class-action-leads",
     title: "Class Action Leads: A Careful Guide for Firms",
-    metaTitle: "Class Action Leads Guide",
+    metaTitle: "Class Action Leads: Sourcing Guide for Law Firms",
     excerpt: "A guide to sourcing leads for class action matters, distinct from individual mass tort claims.",
     metaDescription: "A guide to sourcing leads for class action matters, distinct from individual mass tort claims, covering how registration and case criteria differ.",
     category: "Legal Leads",

@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar10Articles: Article[] = [
   {
     slug: "buy-motor-vehicle-accident-leads-by-state",
-    title: "Buy Motor Vehicle Accident Leads by State: Availability, Pricing, and Venue Factors",
+    title: "Motor Vehicle Accident Leads by State: A Buyer's Guide",
     metaTitle: "Buy Motor Vehicle Accident Leads by State",
     metaDescription:
       "How to buy motor vehicle accident leads by state, including fault-vs-no-fault rules, comparative negligence, and how venue affects pricing and case value.",
@@ -177,7 +177,7 @@ export const leadgenPillar10Articles: Article[] = [
   },
   {
     slug: "auto-accident-pay-per-call-and-live-transfer-leads",
-    title: "Auto Accident Pay-Per-Call and Live Transfer Leads: How Real-Time Intake Works",
+    title: "How Auto Accident Pay-Per-Call & Live Transfer Leads Work",
     metaTitle: "Auto Accident Pay-Per-Call & Live Transfer Leads",
     metaDescription:
       "How pay-per-call and live transfer auto accident leads work, how they differ, what qualifies a good one, and how firms staff intake to convert them.",

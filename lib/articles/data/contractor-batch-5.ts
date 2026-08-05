@@ -277,7 +277,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "essential-businesses-employees",
-    title: "Essential Businesses and Their Employees: Lessons Home Services Learned",
+    title: "Essential Businesses and Employees: Lessons for Home Services",
     metaTitle: "Essential Business Lessons for Home Services",
     excerpt: "What being classified as essential taught home service businesses about operations, hiring, and positioning.",
     metaDescription: "What being deemed essential during shutdowns taught home service companies about staffing and cross-training, lessons that still pay off today.",
@@ -505,7 +505,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "facebook-vs-google-ads-where-should-home-service-businesses-advertise",
-    title: "Facebook vs. Google Ads: Where Should Home Service Businesses Advertise?",
+    title: "Facebook vs. Google Ads: Where Should Home Services Advertise?",
     metaTitle: "Facebook vs. Google Ads for Home Services",
     excerpt: "A practical comparison of Facebook and Google Ads for home service businesses deciding where to spend.",
     metaDescription: "Google Ads captures active searchers while Facebook builds awareness and retargets browsers. Where home service businesses should spend their ad budget first.",
@@ -551,7 +551,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "fake-reviews-threaten-small-businesses-how-contractors-can-protect-their-online-reputation",
-    title: "Fake Reviews Threaten Small Businesses: How Contractors Can Protect Their Online Reputation",
+    title: "Fake Reviews: How Contractors Can Protect Their Reputation",
     metaTitle: "Protecting Contractors From Fake Reviews",
     excerpt: "How contractors can detect, report, and recover from fake reviews targeting their business reputation.",
     metaDescription: "Fake one-star reviews can tank a contractor's rating overnight. Learn how to spot them, report them to Google, and protect your business's online reputation.",
@@ -784,7 +784,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "from-clicks-to-customers-mapping-the-full-lead-journey-for-service-area-contractors",
-    title: "From Clicks to Customers: Mapping the Full Lead Journey for Service-Area Contractors",
+    title: "From Clicks to Customers: Mapping Lead Journey for Contractors",
     metaTitle: "Mapping the Contractor Lead Journey",
     excerpt: "A stage-by-stage map of how a click becomes a paying customer, and where contractors lose leads along the way.",
     metaDescription: "A stage-by-stage map of how a click becomes a paying customer for service-area contractors, showing exactly where leads leak out and how to plug those gaps.",
@@ -1014,7 +1014,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "geographic-expansion-for-contractors",
-    title: "Geographic Expansion for Contractors: When and How to Grow Your Service Area",
+    title: "Geographic Expansion for Contractors: Growing Your Service Area",
     metaTitle: "Geographic Expansion for Contractors",
     excerpt: "How contractors can expand into new service areas deliberately, without diluting profitability or service quality.",
     metaDescription: "Expanding a contracting business into new service areas without diluting quality takes deliberate planning. The framework for growing territory the right way.",
@@ -2161,7 +2161,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-business-profile-shows-photo-and-video-views",
-    title: "Google Business Profile Now Shows Photo and Video Views: Why It Matters",
+    title: "Google Business Profile Now Shows Photo and Video Views",
     metaTitle: "GBP Photo and Video View Metrics",
     excerpt: "What photo and video view metrics on Google Business Profile reveal, and how businesses should use them.",
     metaDescription: "Google Business Profile now shows how many people view each photo and video. What those new metrics reveal, and how to use them to improve a listing.",
@@ -2207,7 +2207,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-business-profile-update",
-    title: "Google Business Profile Updates: How to Stay Current Without the Overwhelm",
+    title: "Google Business Profile Updates: Staying Current",
     metaTitle: "Staying Current on GBP Updates",
     excerpt: "A sane system for tracking Google Business Profile changes and knowing which updates actually demand action.",
     metaDescription: "Google Business Profile changes constantly. Here's a simple system for tracking updates and telling which ones actually demand action versus which to safely ignore.",
@@ -2253,7 +2253,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-business-profile-update-reverification-bug-fixed-suspension-appeal-delays",
-    title: "GBP Update: Reverification Bug Fixed, Suspension Appeal Delays Continue",
+    title: "GBP Update: Reverification Bug Fixed, Appeal Delays Continue",
     metaTitle: "GBP Reverification Fix & Appeal Delays",
     excerpt: "What the reverification bug fix and ongoing suspension appeal delays mean for affected businesses.",
     metaDescription: "Google fixed the reverification bug locking businesses out of their profiles, but suspension appeal delays persist. What affected businesses should know.",
@@ -2299,7 +2299,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-search-consoles-relaunched-insights",
-    title: "Google Search Console's Relaunched Insights: What Contractors Should Check",
+    title: "Google Search Console's Relaunched Insights for Contractors",
     metaTitle: "Search Console Insights for Contractors",
     excerpt: "How contractors can use Search Console's Insights reporting to understand what their website content actually earns.",
     metaDescription: "Google Search Console's relaunched Insights report reveals which content actually earns clicks and rankings. What contractors should check first, and why.",
@@ -2392,7 +2392,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-updates-gbp-appeals-tool",
-    title: "Google Updates the GBP Appeals Tool: What's Changed for Suspended Businesses",
+    title: "Google Updates GBP Appeals Tool for Suspended Businesses",
     metaTitle: "GBP Appeals Tool Updates Explained",
     excerpt: "How updates to the Google Business Profile appeals tool change the reinstatement process for suspended listings.",
     metaDescription: "Google updated the Business Profile appeals tool used by suspended businesses seeking reinstatement. What changed, and how it affects the recovery timeline.",
@@ -2531,7 +2531,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-will-now-show-more-ads-heres-why-small-contractor-businesses-should-be-concerned",
-    title: "Google Will Now Show More Ads: Why Small Contractors Should Pay Attention",
+    title: "Google Will Show More Ads: Why Small Contractors Should Care",
     metaTitle: "More Google Ads: Impact on Contractors",
     excerpt: "What expanding ad density in Google's results means for small contractors competing for local visibility.",
     metaDescription: "Google is expanding ad density in search results, pushing organic listings further down the page. Why small contractors should worry about local visibility.",
@@ -2623,7 +2623,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "googles-latest-update-is-triggering-gbp-suspensions-especially-for-home-service-businesses",
-    title: "Google's Latest Update Is Triggering GBP Suspensions for Home Service Businesses",
+    title: "Google Update Triggers GBP Suspensions for Home Services",
     metaTitle: "GBP Suspension Wave Hits Home Services",
     excerpt: "Why home service businesses face waves of Business Profile suspensions after platform updates, and how to respond.",
     metaDescription: "A recent Google algorithm update is triggering waves of Business Profile suspensions, hitting home service businesses hard. Why it's happening, and how to respond.",
@@ -2669,7 +2669,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "googles-local-pack-in-ai-overviews",
-    title: "Google's Local Pack in AI Overviews: What It Means for Local Visibility",
+    title: "Google's Local Pack in AI Overviews: What It Means",
     metaTitle: "Local Pack in AI Overviews Explained",
     excerpt: "How local business results appearing inside AI Overviews change the local visibility game.",
     metaDescription: "Google is now surfacing local business results directly inside AI Overviews. Here's how that shift changes the local visibility game, and what it means for rankings.",
@@ -2715,7 +2715,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "googles-new-have-ai-get-prices-feature",
-    title: "Google's New AI Price-Gathering Feature: What Service Businesses Should Know",
+    title: "Google's New AI Price-Gathering Feature Explained",
     metaTitle: "Google AI Price-Gathering Feature Guide",
     excerpt: "How AI features that gather prices on behalf of customers change quoting for home service businesses.",
     metaDescription: "Google's new AI feature gathers price quotes on a customer's behalf before they ever contact a business. Here's how it changes quoting for home service companies.",
@@ -2761,7 +2761,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "googles-new-policy-for-large-ads-customers-a-shift-to-monthly-invoicing",
-    title: "Google's New Policy for Large Ads Customers: The Shift to Monthly Invoicing",
+    title: "Google's New Policy: Shift to Monthly Invoicing for Ads",
     metaTitle: "Google Ads Monthly Invoicing Policy Shift",
     excerpt: "What Google's push toward monthly invoicing for larger advertisers means, and who should care.",
     metaDescription: "Google is shifting large advertisers from prepaid billing to monthly invoicing. Here's what the policy change means for cash flow, and which advertisers should care.",
@@ -2946,7 +2946,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "heat-pump-installers-are-you-energy-skilled",
-    title: "Heat Pump Installers: Are You Energy-Skilled Enough for the Demand Wave?",
+    title: "Heat Pump Installers: Are You Energy-Skilled Enough?",
     metaTitle: "Heat Pump Installers and Energy Skills",
     excerpt: "Why the heat pump boom rewards installers who invest in energy expertise, and how to build that positioning.",
     metaDescription: "The heat pump installation boom rewards contractors who invest in energy expertise and certifications. How to build that positioning and capture rising demand.",
@@ -2992,7 +2992,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "help-ive-passed-my-lsa-verification-requirements-but-the-google-guaranteed-badge-is-not-displayed",
-    title: "Passed LSA Verification but No Google Guaranteed Badge? Here's What's Happening",
+    title: "Passed LSA Verification but No Google Guaranteed Badge?",
     metaTitle: "LSA Verified but Badge Not Displaying",
     excerpt: "Why a Google Guaranteed badge may not display despite passed verification, and how to resolve it.",
     metaDescription: "Passed Local Services Ads verification but still missing the Google Guaranteed badge? Here are the common causes and the steps to get the badge displaying correctly.",
@@ -3084,7 +3084,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "help-my-google-my-business-listing-was-suspended",
-    title: "Help! My Google My Business Listing Was Suspended: What to Do Right Now",
+    title: "Help! My Google Business Listing Was Suspended",
     metaTitle: "GMB Listing Suspended: What to Do",
     excerpt: "Immediate steps for business owners facing a suspended Google My Business listing.",
     metaDescription: "Immediate, practical steps for business owners facing a suspended Google My Business listing, from diagnosing the cause to filing a reinstatement request that works.",
@@ -3222,7 +3222,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-business-profile-updates-february-2026",
-    title: "Google Business Profile Updates, February 2026: What Changed and What to Do",
+    title: "Google Business Profile Updates, February 2026",
     metaTitle: "GBP Updates February 2026 Roundup",
     excerpt: "A practical roundup of recent Google Business Profile changes and the actions local businesses should take.",
     metaDescription: "A practical roundup of Google Business Profile changes from February 2026, covering what's new and exactly which actions local businesses should take in response.",
@@ -3268,7 +3268,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-calling-businesses-to-verify-information",
-    title: "Google Is Calling Businesses to Verify Information: Legitimate or Scam?",
+    title: "Google Is Calling Businesses to Verify Information",
     metaTitle: "Google Verification Calls: Real or Scam?",
     excerpt: "How to tell legitimate Google verification calls from the scam calls impersonating them.",
     metaDescription: "Businesses are getting calls claiming to verify their Google listing information. How to tell a legitimate Google verification call from an impersonation scam.",
@@ -3314,7 +3314,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-calls-about-your-google-business-profile",
-    title: "Getting Calls About Your Google Business Profile? Here's How to Handle Them",
+    title: "Getting Calls About Your Google Business Profile?",
     metaTitle: "Handling Calls About Your GBP Listing",
     excerpt: "A practical protocol for handling the flood of calls businesses receive about their Google listing.",
     metaDescription: "A practical protocol for handling the flood of calls businesses get about their Google Business Profile, separating real verification needs from scams.",
@@ -3499,7 +3499,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-local-services-ads",
-    title: "Google Local Services Ads: The Complete Guide for Home Service Businesses",
+    title: "Google Local Services Ads: The Complete Guide",
     metaTitle: "Google Local Services Ads Complete Guide",
     excerpt: "Everything home service businesses need to know about Local Services Ads, from setup to optimization.",
     metaDescription: "A complete guide to Google Local Services Ads for home service businesses: the Google Guaranteed badge, pay-per-lead pricing, setup, and optimization.",
@@ -3591,7 +3591,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-lsa-update-2026-ads-now-pull-content-directly-from-your-website",
-    title: "Google LSA Update 2026: Ads Now Pull Content Directly From Your Website",
+    title: "Google LSA Update 2026: Ads Now Pull Site Content",
     metaTitle: "LSA Ads Pulling Website Content",
     excerpt: "What LSA sourcing content from business websites means, and how to prepare your site for it.",
     metaDescription: "Local Services Ads now pull content directly from a business's own website in 2026. Here's what that sourcing change means, and how to prepare your site for it.",
@@ -3637,7 +3637,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "google-phases-out-free-website-feature",
-    title: "Google Phases Out the Free Website Feature: What Affected Businesses Should Do",
+    title: "Google Phases Out the Free Website Feature",
     metaTitle: "Google Free Website Phase-Out Guide",
     excerpt: "What the retirement of Google's free business websites means, and how to replace one properly.",
     metaDescription: "Google is retiring its free business website builder tool. Here's what affected businesses should know, and how to replace it with a proper site before the shutoff.",
@@ -3867,7 +3867,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "how-the-new-junk-removal-service-category-on-google-business-profile-boosted-lead-volume-for-contractors",
-    title: "How the New Junk Removal Service Category on Google Business Profile Boosted Lead Volume",
+    title: "New Junk Removal Category on GBP Boosts Lead Volume",
     metaTitle: "Junk Removal GBP Category Boosts Leads",
     excerpt: "How a dedicated junk removal category on Google Business Profile improved visibility and lead volume for contractors.",
     metaDescription: "Google added a dedicated junk removal category to Business Profile listings. How it improved visibility and boosted lead volume for contractors in the niche.",
@@ -4333,7 +4333,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "how-to-get-100s-of-water-damage-restoration-leads-this-hurricane-season",
-    title: "How to Get Hundreds of Water Damage Restoration Leads This Hurricane Season",
+    title: "How to Get Water Damage Leads This Hurricane Season",
     metaTitle: "Water Damage Leads for Hurricane Season",
     excerpt: "How restoration businesses can prepare marketing and operations to capture high volume during hurricane season.",
     metaDescription: "How water damage restoration companies prepare marketing, staffing, and ad budgets in advance to capture hundreds of leads during a single hurricane season surge.",
@@ -4379,7 +4379,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "how-to-get-a-200-return-on-your-google-ads-a-simple-tool-for-contractors",
-    title: "How to Get a 200% Return on Your Google Ads: A Simple Tool for Contractors",
+    title: "How to Get a 200% Return on Your Google Ads",
     metaTitle: "200% Google Ads Return Tool for Contractors",
     excerpt: "A simple calculation framework contractors can use to judge and improve their Google Ads return on investment.",
     metaDescription: "A simple calculation framework contractors can use to measure Google Ads ROI, and the specific adjustments that push campaigns toward a real 200% return.",
@@ -4517,7 +4517,7 @@ export const contractorBatch5Articles: Article[] = [
   },
   {
     slug: "how-to-get-recommended-by-ai",
-    title: "How to Get Recommended by AI: A Practical Guide for Home Service Businesses",
+    title: "How to Get Recommended by AI: A Practical Guide",
     metaTitle: "Get Recommended by AI: Practical Guide",
     excerpt: "The concrete, practical steps that increase the odds an AI assistant recommends your home service business.",
     metaDescription: "The concrete, practical steps, structured content, review volume, consistent listings, that increase the odds an AI assistant recommends your home service business.",

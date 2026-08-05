@@ -9,6 +9,8 @@ export const divorceLeadTypeClusterArticles: Article[] = [
     metaTitle: "Exclusive Divorce Attorney Leads Framework",
     excerpt:
       "A framework for deciding how much of your divorce lead budget should go toward exclusive delivery versus shared, lower-cost alternatives.",
+    metaDescription:
+      "A framework for deciding how much of your divorce lead budget should go toward exclusive delivery versus cheaper, shared lead alternatives.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",
@@ -62,6 +64,8 @@ export const divorceLeadTypeClusterArticles: Article[] = [
     metaTitle: "Exclusive vs. Shared Divorce Leads Guide",
     excerpt:
       "A side-by-side, practical comparison of exclusive and shared divorce lead delivery, with specific guidance on which fits different firm profiles.",
+    metaDescription:
+      "A practical, side-by-side comparison of exclusive and shared divorce lead delivery, with guidance on which model fits your firm's profile.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",
@@ -111,10 +115,12 @@ export const divorceLeadTypeClusterArticles: Article[] = [
   },
   {
     slug: "shared-divorce-leads-scaling-your-family-law-practice",
-    title: "Shared Divorce Leads: Can They Actually Help Scale a Family Law Practice?",
+    title: "Shared Divorce Leads: Can They Help Scale a Family Law Practice?",
     metaTitle: "Shared Divorce Leads for Scaling",
     excerpt:
       "Shared leads are often dismissed outright, but for the right firm profile, they can play a legitimate role in scaling volume. Here's when that's actually true.",
+    metaDescription:
+      "Shared leads are often dismissed outright, but for the right firm profile they can still play a legitimate role in scaling case volume.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",

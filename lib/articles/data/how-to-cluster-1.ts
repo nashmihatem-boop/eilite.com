@@ -61,7 +61,7 @@ export const howToCluster1Articles: Article[] = [
   },
   {
     slug: "how-to-acquire-high-quality-car-accident-injury-leads-for-your-law-firm",
-    title: "How to Acquire High-Quality Car Accident Injury Leads for Your Law Firm",
+    title: "How to Acquire High-Quality Car Accident Injury Leads",
     metaTitle: "Acquire High-Quality Car Accident Injury Leads",
     excerpt:
       "A step-by-step approach to sourcing car accident leads specifically screened for injury quality.",

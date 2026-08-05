@@ -53,6 +53,8 @@ export const divorceMoreCitiesArticles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Phoenix, AZ",
     excerpt:
       "Phoenix's rapid growth and large seasonal population create both opportunity and residency-timing questions within Arizona's community property framework.",
+    metaDescription:
+      "Phoenix's rapid growth and large seasonal population create residency-timing questions for divorce attorneys under Arizona's community property laws.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
@@ -98,6 +100,8 @@ export const divorceMoreCitiesArticles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Philadelphia",
     excerpt:
       "Philadelphia represents Pennsylvania's largest and most competitive family law market, with both mutual-consent and unilateral divorce tracks in active use.",
+    metaDescription:
+      "Philadelphia is Pennsylvania's largest, most competitive family law market, with both mutual-consent and unilateral divorce tracks in active use.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
@@ -139,7 +143,7 @@ export const divorceMoreCitiesArticles: Article[] = [
   },
   {
     slug: "a-strategic-guide-to-divorce-attorney-leads-in-phoenix",
-    title: "A Strategic Guide to Divorce Attorney Leads in Phoenix: Covenant Marriage Considerations",
+    title: "Divorce Attorney Leads in Phoenix: Covenant Marriage Guide",
     metaTitle: "Phoenix Divorce Leads: Covenant Marriage Guide",
     excerpt:
       "A meaningful share of Phoenix-area couples entered covenant marriages, which impose stricter divorce requirements. Here's how firms should screen for and address this distinct case type.",

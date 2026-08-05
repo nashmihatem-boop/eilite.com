@@ -7,6 +7,7 @@ export const exclusiveXCluster6Articles: Article[] = [
     metaTitle: "Exclusive Legal Leads: Strategic Growth Guide",
     excerpt:
       "A complete guide to using exclusive legal leads as a deliberate growth lever, from initial testing through full-scale integration.",
+    metaDescription: "A complete guide to using exclusive legal leads as a deliberate growth lever for attorneys, from initial testing through full-scale program integration.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-09-19",
@@ -59,6 +60,7 @@ export const exclusiveXCluster6Articles: Article[] = [
     metaTitle: "Exclusive Personal Injury Leads Guide",
     excerpt:
       "A complete overview of what exclusive personal injury leads should deliver, and how to confirm a provider genuinely meets that standard.",
+    metaDescription: "A complete overview of what exclusive personal injury leads should actually deliver, and how to confirm a provider genuinely meets that standard.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-19",

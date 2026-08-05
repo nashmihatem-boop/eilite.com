@@ -7,6 +7,8 @@ export const listicleCluster4Articles: Article[] = [
     metaTitle: "7 Legal Marketing Strategies for 2026",
     excerpt:
       "A current, practical roundup of marketing strategies attorneys should prioritize this year, reflecting shifts in search behavior and advertising costs.",
+    metaDescription:
+      "A practical roundup of the seven legal marketing strategies attorneys should prioritize in 2026, reflecting shifts in search behavior and ad costs.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-26",
@@ -80,6 +82,8 @@ export const listicleCluster4Articles: Article[] = [
     metaTitle: "7 Legal Marketing Trends for 2026",
     excerpt:
       "Beyond specific tactics, several broader trends are reshaping how legal client acquisition works this year. Here's what to watch and adapt to.",
+    metaDescription:
+      "Beyond individual tactics, seven broader trends are reshaping how legal client acquisition works in 2026. Here's what firms should watch and adapt to.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-26",

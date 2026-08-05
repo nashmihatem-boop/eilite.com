@@ -9,6 +9,8 @@ export const exclusiveXCluster2Articles: Article[] = [
     metaTitle: "Exclusive General Practice Attorney Leads",
     excerpt:
       "For general practice firms, exclusivity matters just as much as it does for specialized practices — here's how it applies across a varied caseload.",
+    metaDescription:
+      "For general practice law firms, exclusivity matters just as much as it does for specialized practices. Here's how it applies across a varied caseload.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-17",
@@ -61,6 +63,8 @@ export const exclusiveXCluster2Articles: Article[] = [
     metaTitle: "Exclusive Attorney Leads as Default Standard",
     excerpt:
       "Making the case for treating exclusivity as a baseline requirement rather than a premium feature when evaluating any attorney lead source.",
+    metaDescription:
+      "Why exclusivity should be treated as a baseline requirement, not a premium feature, when evaluating any attorney lead source for your firm.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-17",

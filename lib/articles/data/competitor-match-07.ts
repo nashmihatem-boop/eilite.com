@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch07Articles: Article[] = [
   {
     slug: "referral-marketing-growing-your-law-firm-through-trusted-networks",
-    title: "Referral Marketing for Law Firms: Building Trusted Networks That Drive Growth",
+    title: "Referral Marketing for Law Firms: Building Trusted Networks",
     metaTitle: "Referral Marketing for Law Firms: A Growth Guide",
     metaDescription:
       "Referral marketing for law firms turns satisfied clients and professional relationships into predictable case volume when firms build real systems around it.",
@@ -4017,7 +4017,7 @@ export const competitorMatch07Articles: Article[] = [
   },
   {
     slug: "navigating-california-attorney-advertising-law-sb37-key-points-you-need-to-know",
-    title: "Navigating California Attorney Advertising Law SB37: Key Points You Need to Know",
+    title: "Navigating California Attorney Advertising Law SB37",
     metaTitle: "California SB37 Attorney Advertising: What to Know",
     metaDescription:
       "California attorney advertising law SB37 tightens truthfulness requirements and mandatory disclosures under Rules 7.1-7.3 for every California law firm.",
@@ -4351,7 +4351,7 @@ export const competitorMatch07Articles: Article[] = [
   },
   {
     slug: "law-firm-website-content-that-converts-how-attorneys-turn-visitors-into-qualified-leads",
-    title: "Law Firm Website Content That Converts: How Attorneys Turn Visitors Into Qualified Leads",
+    title: "Law Firm Website Content That Converts Visitors Into Leads",
     metaTitle: "Law Firm Website Content That Converts Visitors",
     metaDescription:
       "Law firm website content that converts combines essential pages, strategic blogging, and keyword optimization to turn visitors into qualified, ready leads.",

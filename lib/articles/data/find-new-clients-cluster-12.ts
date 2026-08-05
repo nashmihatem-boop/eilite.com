@@ -10,6 +10,8 @@ export const findNewClientsCluster12Articles: Article[] = [
     metaTitle: "Top Strategies for Sustainable Client Growth",
     excerpt:
       "Sustainable growth comes from diversified channels working together, not a single tactic. Here's how to build that diversified mix deliberately.",
+    metaDescription:
+      "Sustainable growth for a law firm comes from diversified marketing channels working together, not one single tactic. Here's how to build that mix deliberately.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-23",
@@ -63,6 +65,8 @@ export const findNewClientsCluster12Articles: Article[] = [
     metaTitle: "Best Ways Lawyers Get Clients Compared",
     excerpt:
       "A final, comparative wrap-up of the proven client acquisition strategies covered throughout this series, organized by which situation each one fits best.",
+    metaDescription:
+      "A comparative wrap-up of proven client acquisition strategies for lawyers, organized by which situation and firm type each approach fits best.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-23",

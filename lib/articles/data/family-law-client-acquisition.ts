@@ -61,6 +61,8 @@ export const familyLawClientAcquisitionArticles: Article[] = [
     metaTitle: "Domestic Relations Client Acquisition Guide",
     excerpt:
       "Domestic relations covers a specific subset of family law matters beyond divorce itself — here's how client acquisition should account for that breadth.",
+    metaDescription:
+      "Domestic relations covers a specific subset of family law matters beyond divorce itself, and client acquisition strategy needs to account for that breadth.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-31",
@@ -114,6 +116,8 @@ export const familyLawClientAcquisitionArticles: Article[] = [
     metaTitle: "Acquiring Alimony Case Clients Guide",
     excerpt:
       "Alimony and spousal support disputes represent a distinct, often high-value niche within family law worth targeted marketing attention.",
+    metaDescription:
+      "Alimony and spousal support disputes represent a distinct, often high-value niche within family law worth building targeted marketing strategy around.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-31",

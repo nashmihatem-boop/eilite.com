@@ -1896,7 +1896,7 @@ export const competitorMatch03Articles: Article[] = [
   },
   {
     slug: "tired-of-competing-for-auto-accident-cases-here-s-why-commercial-legal-leads-offer-a-better-roi",
-    title: "Why Commercial Legal Leads Can Offer Better ROI Than Auto Accident Cases",
+    title: "Why Commercial Legal Leads Offer Better ROI",
     metaTitle: "Commercial Legal Leads: A Better ROI Path",
     metaDescription:
       "Why commercial legal leads ROI often beats saturated auto accident cases, covering commercial vehicle accidents and high-value personal injury cases.",
@@ -2059,7 +2059,7 @@ export const competitorMatch03Articles: Article[] = [
   },
   {
     slug: "commercial-trucking-accidents-how-to-prove-negligence-and-maximize-settlements",
-    title: "Commercial Trucking Accidents: How to Prove Negligence and Build Strong Claims",
+    title: "Commercial Trucking Accidents: Proving Negligence",
     metaTitle: "Proving Negligence in Trucking Accidents",
     metaDescription:
       "How attorneys establish commercial trucking accidents negligence, covering FMCSA violations, driver liability, and evidence for stronger claims.",
@@ -2503,7 +2503,7 @@ export const competitorMatch03Articles: Article[] = [
   },
   {
     slug: "beyond-the-driver-identifying-additional-liable-parties-in-commercial-vehicle-accidents",
-    title: "Beyond the Driver: Identifying Additional Liable Parties in Commercial Vehicle Accidents",
+    title: "Beyond the Driver: Other Liable Parties in Accidents",
     metaTitle: "Additional Liable Parties in Vehicle Accidents",
     metaDescription:
       "How attorneys identify liable parties in commercial vehicle accidents beyond the driver, including vicarious liability and product liability claims.",
@@ -2827,7 +2827,7 @@ export const competitorMatch03Articles: Article[] = [
   },
   {
     slug: "law-firm-lead-generation-blending-your-firm-s-marketing-with-a-scalable-solution",
-    title: "Law Firm Lead Generation: Blending In-House Marketing With Scalable Solutions",
+    title: "Law Firm Lead Generation: In-House Meets Scalable",
     metaTitle: "Law Firm Lead Generation: A Scalable Approach",
     metaDescription:
       "How law firm lead generation blends in-house marketing with scalable outside solutions to grow client acquisition while preserving brand identity.",

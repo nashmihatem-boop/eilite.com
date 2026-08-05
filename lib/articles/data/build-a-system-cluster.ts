@@ -7,6 +7,8 @@ export const buildASystemClusterArticles: Article[] = [
     metaTitle: "Building a Working PI Lead System",
     excerpt:
       "A complete, working lead system connects sourcing, screening, intake, and measurement into a repeatable process rather than disconnected tactics.",
+    metaDescription:
+      "A complete, working PI lead system connects sourcing, screening, intake, and measurement into one repeatable process, not disconnected tactics.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-09",
@@ -67,6 +69,8 @@ export const buildASystemClusterArticles: Article[] = [
     metaTitle: "Building a PI Lead Management System",
     excerpt:
       "Beyond generation, managing leads well through their full lifecycle requires specific organizational and technology infrastructure.",
+    metaDescription:
+      "Beyond generation, managing personal injury leads well through their full lifecycle requires specific CRM infrastructure and clear ownership.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-09",
@@ -120,6 +124,8 @@ export const buildASystemClusterArticles: Article[] = [
     metaTitle: "Building a Reliable PI Lead System",
     excerpt:
       "Reliability — consistent, predictable performance over time — is the specific goal that separates a genuine system from a series of one-off campaigns.",
+    metaDescription:
+      "Reliability, not sporadic bursts of activity, is what separates a genuine PI lead system from a series of disconnected one-off campaigns.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-09",

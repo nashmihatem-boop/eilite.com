@@ -179,7 +179,7 @@ export const leadgenPillar5Articles: Article[] = [
   },
   {
     slug: "ai-tools-for-contractor-lead-capture",
-    title: "AI Tools for Contractor Lead Capture: Chatbots, Instant Response, and Qualification",
+    title: "AI Tools for Contractor Lead Capture and Qualification",
     metaTitle: "AI Tools for Contractor Lead Capture",
     metaDescription:
       "Which AI lead capture tools are actually worth adopting for contractors in 2026 — chatbots, instant response systems, and automated qualification.",

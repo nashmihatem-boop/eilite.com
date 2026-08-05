@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch08Articles: Article[] = [
   {
     slug: "multi-lingual-lead-generation-strategies-for-lawyers",
-    title: "Multilingual Lead Generation for Lawyers: Reaching Clients Beyond English",
+    title: "Multilingual Lead Generation for Law Firms",
     metaTitle: "Multilingual Lead Generation Strategies for Lawyers",
     metaDescription:
       "A practical guide to multilingual lead generation for lawyers, covering website localization, SEO, paid ads, and community outreach to non-English speakers.",
@@ -196,7 +196,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "attorney-advertising-rules-in-california",
-    title: "Attorney Advertising Rules in California: A Compliance Guide for Law Firms",
+    title: "Attorney Advertising Rules in California: Compliance Guide",
     metaTitle: "Attorney Advertising Rules in California Explained",
     metaDescription:
       "A guide to attorney advertising rules in California, covering the Rules of Professional Conduct, testimonials, social media, and specialization claims.",
@@ -581,7 +581,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "closing-files-in-a-law-firm-best-practices-to-protect-attorneys-and-improve-efficiency",
-    title: "Closing Files in a Law Firm: Best Practices to Protect Attorneys and Improve Efficiency",
+    title: "Closing Files in a Law Firm: Best Practices for Attorneys",
     metaTitle: "Closing Files in a Law Firm: Best Practices",
     metaDescription:
       "Best practices for closing files in a law firm, covering ethical obligations, trust account reconciliation, retention policy, and client closing letters.",
@@ -927,7 +927,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "bilingual-marketing-for-attorneys-harnessing-bilingual-lead-generation-for-law-firm-growth",
-    title: "Bilingual Marketing for Attorneys: Harnessing Bilingual Lead Generation for Law Firm Growth",
+    title: "Bilingual Marketing for Attorneys: Growth Strategies",
     metaTitle: "Bilingual Marketing for Attorneys: A Growth Guide",
     metaDescription:
       "Bilingual lead generation for law firms explained: how to reach Spanish-speaking clients through visibility, social media, staff training, and trust.",
@@ -1212,7 +1212,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "is-your-legal-marketing-agency-compliant-how-to-partner-with-joint-advertisers-under-sb37",
-    title: "Is Your Legal Marketing Agency Compliant? A Guide to California SB37 for Joint Advertisers",
+    title: "California SB37: A Compliance Guide for Law Firms",
     metaTitle: "SB37 Compliance Guide for Legal Marketing Agencies",
     metaDescription:
       "A guide to SB37 legal advertising compliance in California, covering joint advertising agreements, liability allocation, and how to vet marketing partners.",
@@ -1410,7 +1410,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "law-firm-marketing-nyc-how-new-york-attorneys-compete-in-the-most-competitive-legal-market",
-    title: "Law Firm Marketing in NYC: How New York Attorneys Compete in the Toughest Legal Market",
+    title: "How NYC Law Firms Compete in a Crowded Legal Market",
     metaTitle: "Law Firm Marketing NYC: A Competitive Guide",
     metaDescription:
       "Law firm marketing NYC strategies for personal injury attorneys, covering digital presence, local SEO, paid advertising, compliance, and lead partnerships.",
@@ -1561,7 +1561,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "trucker-defense-explained-what-plaintiff-attorneys-must-know-to-win-commercial-vehicle-cases",
-    title: "Trucker Defense Explained: What Plaintiff Attorneys Must Know to Win Commercial Vehicle Cases",
+    title: "Trucker Defense Explained for Plaintiff Attorneys",
     metaTitle: "Trucker Defense Strategies for Plaintiff Attorneys",
     metaDescription:
       "Trucker defense strategies for plaintiff attorneys, covering evidence preservation, FMCSA compliance, comparative fault tactics, and negligence litigation.",
@@ -1712,7 +1712,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "rear-ended-by-commercial-vehicle-settlement-what-attorneys-evaluate-when-valuing-truck-accident-cases",
-    title: "Rear-Ended by a Commercial Vehicle: What Attorneys Evaluate When Valuing Truck Accident Settlements",
+    title: "Rear-End Truck Accident Settlements: What to Expect",
     metaTitle: "Rear-Ended by Commercial Vehicle: Settlement Value",
     metaDescription:
       "How attorneys evaluate rear-ended by commercial vehicle settlement value, covering liability, injury profiles, damages calculation, and venue factors.",
@@ -1916,8 +1916,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "ai-client-intake-systems-for-law-firms-automating-lead-qualification-improving-conversion-rates",
-    title:
-      "AI Client Intake Systems for Law Firms: Automating Lead Qualification & Improving Conversion Rates",
+    title: "AI Client Intake: Automating Lead Qualification",
     metaTitle: "AI Client Intake Systems for Law Firms",
     metaDescription:
       "How AI client intake systems for law firms capture, qualify, and route inquiries around the clock, with guidance on compliance, staffing, and integration.",
@@ -2143,7 +2142,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "what-the-uber-initiative-in-california-means-for-your-personal-injury-firm",
-    title: "What the Uber Initiative in California Means for Your Personal Injury Firm",
+    title: "What the Uber Initiative Means for PI Firms in California",
     metaTitle: "The Uber Initiative in California: What PI Firms Should Know",
     metaDescription:
       "A look at the Uber initiative California personal injury firms are tracking, its proposed contingency fee caps, and what it could mean for case economics.",
@@ -2291,8 +2290,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "ai-powered-lead-nurturing-for-law-firms-personalized-follow-up-that-converts-more-clients",
-    title:
-      "AI-Powered Lead Nurturing for Law Firms: Personalized Follow-Up That Converts More Clients",
+    title: "AI Lead Nurturing: Personalized Follow-Up for Firms",
     metaTitle: "AI-Powered Lead Nurturing for Law Firms",
     metaDescription:
       "How AI-powered lead nurturing for law firms automates personalized follow-up while staying compliant, with frameworks for multi-channel client communication.",
@@ -2518,7 +2516,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "ai-outreach-automation-for-attorneys-tools-techniques-to-boost-client-engagement",
-    title: "AI Outreach Automation for Attorneys: Tools & Techniques to Boost Client Engagement",
+    title: "AI Outreach Automation: Boosting Client Engagement",
     metaTitle: "AI Outreach Automation for Attorneys: Tools & Techniques",
     metaDescription:
       "AI outreach automation for attorneys compared against manual approaches, covering response time, personalization, lead volume, and compliance.",
@@ -2747,7 +2745,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "diversify-your-personal-injury-firm-how-workers-comp-can-be-the-perfect-expansion",
-    title: "Diversify Your Personal Injury Firm: How Workers' Comp Can Be the Perfect Expansion",
+    title: "Diversify Your PI Firm: Workers' Comp Expansion",
     metaTitle: "Workers' Comp Expansion for Personal Injury Firms",
     metaDescription:
       "Why workers' compensation expansion for personal injury firms makes sense, covering third-party claims, marketing strategy, and staffing considerations.",
@@ -2906,7 +2904,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "leveraging-ai-for-law-firm-seo-content-creation-tools-that-save-time-rank-faster",
-    title: "Leveraging AI for Law Firm SEO & Content Creation: Tools That Save Time & Rank Faster",
+    title: "Leveraging AI for Law Firm SEO & Content Creation",
     metaTitle: "AI SEO Tools for Law Firms: A Category Comparison",
     metaDescription:
       "A comparison of AI SEO tools for law firms across seven categories, from content optimization to local SEO, with guidance by firm size and budget.",
@@ -3100,7 +3098,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "ai-driven-ppc-paid-ads-for-law-firms-how-machine-learning-lowers-costs-boosts-leads",
-    title: "AI-Driven PPC & Paid Ads for Law Firms: How Machine Learning Lowers Costs & Boosts Leads",
+    title: "AI-Driven PPC & Paid Ads for Law Firms",
     metaTitle: "AI-Driven PPC for Law Firms: Lowering Cost Per Lead",
     metaDescription:
       "How AI-driven PPC for law firms uses machine learning bidding, targeting, and landing page optimization to lower cost per qualified lead.",
@@ -3302,7 +3300,7 @@ export const competitorMatch08Articles: Article[] = [
   },
   {
     slug: "legal-ai-virtual-receptionist-options-how-law-firms-handle-intake-after-leads-are-generated",
-    title: "Legal AI Virtual Receptionist Options: How Law Firms Handle Intake After Leads Are Generated",
+    title: "How Law Firms Handle Intake With AI Receptionists",
     metaTitle: "AI Virtual Receptionist Options for Law Firms",
     metaDescription:
       "Comparing AI virtual receptionist for law firms options, from hybrid human-AI models to pure-AI systems, plus compliance and security considerations.",

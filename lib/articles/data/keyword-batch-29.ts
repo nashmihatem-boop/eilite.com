@@ -333,7 +333,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "loan-inbound-calls",
     title: "Loan Inbound Calls: A Guide for Lenders",
-    metaTitle: "Loan Inbound Calls Guide",
+    metaTitle: "Loan Inbound Calls: A Lender's Guide to Pricing",
     excerpt: "A guide to inbound calls as a lead format specifically within lending.",
     metaDescription: "Inbound calls let lenders speak with borrowers who dialed in actively seeking financing. This guide covers how call quality and pricing differ by format.",
     category: "Financial Leads",
@@ -399,7 +399,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "loan-leads",
     title: "Loan Leads: Understanding What This Broad Term Covers",
-    metaTitle: "Loan Leads Guide",
+    metaTitle: "Loan Leads Explained: Mortgage, Auto, Personal",
     excerpt: "A disambiguation guide to what the broad term loan leads covers and how it relates to specific loan types.",
     metaDescription: "Loan leads is a broad umbrella term spanning mortgage, personal, auto, and business financing prospects. This guide breaks down what it actually covers.",
     category: "Financial Leads",
@@ -529,7 +529,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "loan-transfers",
     title: "Loan Transfers: A Guide to This Lead Format for Lenders",
-    metaTitle: "Loan Transfers Guide",
+    metaTitle: "Loan Transfers Guide: How Live Call Transfers Work",
     excerpt: "A foundational guide to the call transfer format as applied across lending products.",
     metaDescription: "Call transfers connect lenders directly to borrowers mid-conversation instead of delivering static contact data. Here's how this format works across loan products.",
     category: "Financial Leads",
@@ -654,7 +654,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "locksmith-leads",
     title: "Locksmith Leads: A Guide for Service Companies",
-    metaTitle: "Locksmith Leads Guide",
+    metaTitle: "Locksmith Leads Guide: Rekeys to Lockout Calls",
     excerpt: "A guide to sourcing and converting leads for locksmith and lockout services.",
     metaDescription: "Locksmith leads range from routine rekeys to urgent lockout emergencies, each needing a different response strategy. Here's how to source and convert both.",
     category: "Home Services Marketing",
@@ -845,7 +845,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "masonry-leads",
     title: "Masonry Leads: A Guide for Contractors",
-    metaTitle: "Masonry Leads Guide",
+    metaTitle: "Masonry Leads Guide: Sourcing Brick and Stone Jobs",
     excerpt: "A guide to sourcing and converting leads for masonry and brickwork services.",
     metaDescription: "Masonry leads cover brick, stone, and concrete projects that often carry higher price tags than typical repairs. This guide covers sourcing and converting them.",
     category: "Home Services Marketing",
@@ -1097,7 +1097,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "mass-tort-leads",
     title: "Mass Tort Leads: A Complete Foundational Guide",
-    metaTitle: "Mass Tort Leads Guide",
+    metaTitle: "Mass Tort Leads Guide: Sourcing Claims by Category",
     excerpt: "A complete foundational guide to sourcing and converting mass tort leads across every claim category.",
     metaDescription: "Mass tort leads span dozens of claim categories, from pharmaceutical injuries to environmental exposure. This guide covers sourcing leads across every category.",
     category: "Legal Leads",
@@ -1223,7 +1223,7 @@ export const keywordBatch29Articles: Article[] = [
   {
     slug: "media-buying-leads",
     title: "Media Buying Leads: Generating Volume Through Paid Channels",
-    metaTitle: "Media Buying Leads Guide",
+    metaTitle: "Media Buying Leads: Generating Volume via Paid Ads",
     excerpt: "A guide to generating leads specifically through media buying as a paid advertising channel.",
     metaDescription: "Media buying leads come from paid advertising campaigns run specifically to generate volume for lead marketplaces. This guide covers what affects lead quality.",
     category: "Lead Generation Basics",

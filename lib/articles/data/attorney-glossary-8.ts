@@ -7,6 +7,8 @@ export const attorneyGlossary8Articles: Article[] = [
     metaTitle: "Personal Injury Attorney Marketing Overview",
     excerpt:
       "Personal injury marketing operates under different competitive and cost dynamics than most other legal categories — here's what firms need to understand.",
+    metaDescription:
+      "Personal injury attorney marketing operates under distinct competitive pressures and cost dynamics than other legal practice areas.",
     category: "Personal Injury Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-03",
@@ -60,6 +62,8 @@ export const attorneyGlossary8Articles: Article[] = [
     metaTitle: "Attorney Marketing Services Overview",
     excerpt:
       "A comprehensive look at the full range of marketing services available to attorneys, from SEO agencies to lead generation providers.",
+    metaDescription:
+      "A complete overview of attorney marketing services, from SEO agencies and PPC management to lead generation providers, and how to evaluate each option.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-03",
@@ -121,6 +125,8 @@ export const attorneyGlossary8Articles: Article[] = [
     metaTitle: "What's Included in Attorney SEO Services",
     excerpt:
       "A checklist of what genuinely comprehensive attorney SEO services should include, to evaluate against any specific provider's offering.",
+    metaDescription:
+      "A practical checklist of what comprehensive attorney SEO services should include, so law firms can evaluate any provider's offering against real standards.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-03",

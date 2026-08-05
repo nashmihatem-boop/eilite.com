@@ -132,7 +132,7 @@ export const keywordBatch39Articles: Article[] = [
   {
     slug: "sell-aca-leads",
     title: "Sell ACA Leads: A Guide for Publishers and Affiliates",
-    metaTitle: "Sell ACA Leads Guide",
+    metaTitle: "How to Sell ACA Leads: A Guide for Publishers",
     excerpt: "A guide for publishers and affiliates looking to monetize ACA marketplace shopper traffic.",
     metaDescription: "A guide for publishers and affiliates on monetizing ACA marketplace shopper traffic, including how open enrollment timing affects buyer demand and lead pricing.",
     category: "Insurance",
@@ -195,7 +195,7 @@ export const keywordBatch39Articles: Article[] = [
   {
     slug: "sell-annuity-leads",
     title: "Sell Annuity Leads: A Guide for Publishers and Affiliates",
-    metaTitle: "Sell Annuity Leads Guide",
+    metaTitle: "How to Sell Annuity Leads: A Publisher's Guide",
     excerpt: "A guide for publishers and affiliates looking to monetize retirement-focused traffic through annuity leads.",
     metaDescription: "A guide for publishers and affiliates monetizing retirement-focused traffic, explaining why annuity leads command premium pricing and what buyers value.",
     category: "Financial Leads",
@@ -948,7 +948,7 @@ export const keywordBatch39Articles: Article[] = [
   {
     slug: "sell-hvac-leads",
     title: "Sell HVAC Leads: A Guide for Publishers and Affiliates",
-    metaTitle: "Sell HVAC Leads Guide",
+    metaTitle: "How to Sell HVAC Leads: A Guide for Affiliates",
     excerpt: "A guide for publishers and affiliates looking to monetize traffic from homeowners with heating and cooling needs.",
     metaDescription: "A guide for publishers and affiliates monetizing traffic from homeowners with heating and cooling needs, including how seasonal weather swings drive demand.",
     category: "Home Services Marketing",
@@ -1198,7 +1198,7 @@ export const keywordBatch39Articles: Article[] = [
   {
     slug: "sell-leads",
     title: "Sell Leads: A Foundational Guide for Publishers and Affiliates",
-    metaTitle: "Sell Leads Guide",
+    metaTitle: "How to Sell Leads: A Guide for Publishers and Affiliates",
     excerpt: "A foundational guide to selling leads as a monetization strategy across any vertical.",
     metaDescription: "A foundational guide to selling leads as a monetization strategy across any vertical, covering what makes a lead sellable and how to choose the right niche.",
     category: "Lead Generation Basics",

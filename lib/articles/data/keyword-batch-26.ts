@@ -7,7 +7,7 @@ export const keywordBatch26Articles: Article[] = [
   {
     slug: "lead-scrubbing",
     title: "Lead Scrubbing: A Guide to This Essential Compliance Step",
-    metaTitle: "Lead Scrubbing Guide",
+    metaTitle: "Lead Scrubbing: A Guide to This Compliance Step",
     excerpt: "A guide to lead scrubbing and why this compliance screening step matters before contacting purchased volume.",
     metaDescription: "A guide to lead scrubbing, the compliance screening step that checks purchased leads against DNC lists and consent records before your team makes contact.",
     category: "Lead Generation Basics",
@@ -216,7 +216,7 @@ export const keywordBatch26Articles: Article[] = [
   {
     slug: "lead-validation",
     title: "Lead Validation: Confirming Data Accuracy Before You Call",
-    metaTitle: "Lead Validation Guide",
+    metaTitle: "Lead Validation: Confirming Accuracy Before You Call",
     excerpt: "A guide to lead validation and confirming data accuracy, distinct from compliance-focused scrubbing.",
     metaDescription: "A guide to lead validation, the process of confirming data accuracy before you call, distinct from the compliance-focused scrubbing step that precedes it.",
     category: "Lead Generation Basics",
@@ -251,7 +251,7 @@ export const keywordBatch26Articles: Article[] = [
   {
     slug: "lead-vendor",
     title: "What Is a Lead Vendor: A Foundational Definition",
-    metaTitle: "What Is a Lead Vendor",
+    metaTitle: "What Is a Lead Vendor? A Foundational Definition",
     excerpt: "A short, foundational definition of what a lead vendor is across any industry.",
     metaDescription: "A short, foundational definition of what a lead vendor is, how this role differs from a broker or network, and what to expect across any industry.",
     category: "Lead Generation Basics",
@@ -554,7 +554,7 @@ export const keywordBatch26Articles: Article[] = [
   {
     slug: "legal-claim-leads",
     title: "Legal Claim Leads: A Broader Guide Beyond Personal Injury",
-    metaTitle: "Legal Claim Leads Guide",
+    metaTitle: "Legal Claim Leads: A Guide Beyond Personal Injury",
     excerpt: "A broader guide to legal claim leads spanning consumer, contract, and other claim types beyond personal injury alone.",
     metaDescription: "A broader guide to legal claim leads spanning consumer, contract, and other claim types beyond personal injury, including how buyers evaluate case strength.",
     category: "Legal Leads",

@@ -121,6 +121,7 @@ export const divorceLeadsCluster1Articles: Article[] = [
     metaTitle: "Military Divorce Client Acquisition Guide",
     excerpt:
       "Military divorces involve unique jurisdictional and pension-division issues that shape how firms should market to this niche.",
+    metaDescription: "Military divorces involve unique jurisdictional and pension-division issues that shape how law firms should market to and win this niche client base.",
     category: "Family Law",
     readTime: "7 min read",
     publishedDate: "2026-09-25",

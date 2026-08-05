@@ -9,6 +9,8 @@ export const leadCampaignBasicsArticles: Article[] = [
     metaTitle: "Attorney Lead Generation Strategies Quick Guide",
     excerpt:
       "A condensed reference covering the core lead generation strategies available to attorneys, organized by speed to results and typical investment level.",
+    metaDescription:
+      "A condensed reference covering the core lead generation strategies available to attorneys, organized by speed to results and typical investment level.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-09",

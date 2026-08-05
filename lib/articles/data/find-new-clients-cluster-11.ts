@@ -6,7 +6,7 @@ const cr11 = [pillar11, "referral-programs", "content-marketing"];
 export const findNewClientsCluster11Articles: Article[] = [
   {
     slug: "how-lawyers-find-new-clients-proven-tactics-for-growth",
-    title: "How Lawyers Find New Clients for Growth: Structured Referral Networking Groups",
+    title: "How Lawyers Find New Clients: Referral Networking Groups",
     metaTitle: "Client Growth Through Referral Networking Groups",
     excerpt:
       "Formal, structured referral organizations (BNI-style groups) provide an accountable framework for consistent professional networking that informal efforts often lack.",
@@ -114,10 +114,11 @@ export const findNewClientsCluster11Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-top-proven-strategies",
-    title: "How Lawyers Find New Clients: Top Proven Strategies Ranked by Effort vs. Impact",
+    title: "How Lawyers Find New Clients: Strategies Ranked by Impact",
     metaTitle: "Top Client Acquisition Strategies Ranked",
     excerpt:
       "Not every strategy covered in this series requires equal investment. Here's a practical ranking by effort required versus typical impact.",
+    metaDescription: "Not every client acquisition strategy requires equal investment. This guide ranks proven tactics for lawyers by effort required versus typical impact.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-23",

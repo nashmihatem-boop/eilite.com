@@ -7,6 +7,8 @@ export const divorceLeadTypeCluster4Articles: Article[] = [
     slug: "shared-divorce-leads-a-cost-effective-strategy-for-family-law-firms",
     title: "Shared Divorce Leads: A Cost-Effective Strategy for Family Law Firms",
     metaTitle: "Shared Divorce Leads Cost-Effective Strategy",
+    metaDescription:
+      "Shared divorce leads cost less per contact than exclusive leads, but only pay off with fast follow-up. Here's when the economics work for your family law firm.",
     excerpt:
       "For firms with the right operational speed, shared divorce leads can lower overall acquisition cost — here's how to make that math actually work.",
     category: "Divorce & Family Law",
@@ -60,6 +62,8 @@ export const divorceLeadTypeCluster4Articles: Article[] = [
     slug: "high-intent-divorce-leads-the-definitive-guide-for-law-firms",
     title: "High-Intent Divorce Leads: The Definitive Guide for Law Firms",
     metaTitle: "High-Intent Divorce Leads Definitive Guide",
+    metaDescription:
+      "A definitive guide to high-intent divorce leads: how to identify genuine buying signals, screen prospects, and prioritize follow-up for faster conversions.",
     excerpt:
       "A comprehensive walkthrough of what high intent actually looks like in divorce leads, how to screen for it, and how to prioritize follow-up accordingly.",
     category: "Divorce & Family Law",
@@ -167,6 +171,8 @@ export const divorceLeadTypeCluster4Articles: Article[] = [
     slug: "how-to-capture-real-time-divorce-leads-for-your-law-firm",
     title: "How to Capture Real-Time Divorce Leads for Your Law Firm",
     metaTitle: "Capturing Real-Time Divorce Leads",
+    metaDescription:
+      "Learn how to capture real-time divorce leads for your law firm, from choosing sourcing infrastructure to building an intake process that responds instantly.",
     excerpt:
       "Capturing real-time divorce leads requires both the right sourcing infrastructure and internal readiness to respond immediately when they arrive.",
     category: "Divorce & Family Law",
@@ -220,6 +226,8 @@ export const divorceLeadTypeCluster4Articles: Article[] = [
     slug: "how-to-acquire-and-convert-signed-divorce-case-leads",
     title: "How to Acquire and Convert Signed Divorce Case Leads",
     metaTitle: "Acquiring & Converting Signed Divorce Leads",
+    metaDescription:
+      "A complete walkthrough of acquiring and converting signed divorce case leads, from first contact through a signed retainer, and where firms lose value.",
     excerpt:
       "A complete look at the full journey from initial lead acquisition through to a signed retainer agreement, and where firms typically lose value along the way.",
     category: "Divorce & Family Law",
@@ -279,8 +287,10 @@ export const divorceLeadTypeCluster4Articles: Article[] = [
   },
   {
     slug: "call-only-divorce-leads-for-family-law-attorneys",
-    title: "Call-Only Divorce Leads for Family Law Attorneys: Setup and Best Practices",
+    title: "Call-Only Divorce Leads for Family Law Attorneys",
     metaTitle: "Call-Only Divorce Leads: Setup Guide",
+    metaDescription:
+      "A practical setup guide to call-only divorce leads for family law attorneys, covering tracking numbers, call routing, and intake script adjustments.",
     excerpt:
       "A practical setup guide for firms adding call-only divorce lead delivery to their marketing mix, from tracking numbers to intake script adjustments.",
     category: "Divorce & Family Law",
@@ -334,6 +344,8 @@ export const divorceLeadTypeCluster4Articles: Article[] = [
     slug: "acquiring-same-day-divorce-leads-for-your-law-firm",
     title: "Acquiring Same-Day Divorce Leads for Your Law Firm",
     metaTitle: "Acquiring Same-Day Divorce Leads",
+    metaDescription:
+      "Learn how to build a reliable same-day divorce lead pipeline, from sourcing urgent inquiries to setting up the on-call intake process that captures them.",
     excerpt:
       "Building a reliable pipeline specifically for same-day urgent divorce inquiries requires both the right sourcing and an on-call intake process.",
     category: "Divorce & Family Law",

@@ -6,7 +6,7 @@ const cr7 = [pillar7, "referral-programs", "content-marketing"];
 export const findNewClientsCluster7Articles: Article[] = [
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-6",
-    title: "How Lawyers Find New Clients by Guest Contributing to Industry Publications",
+    title: "How Lawyers Find New Clients Through Guest Publications",
     metaTitle: "Client Acquisition Through Guest Publications",
     excerpt:
       "Contributing articles to established legal and industry publications builds third-party credibility and search visibility beyond what a firm's own blog achieves alone.",
@@ -68,7 +68,7 @@ export const findNewClientsCluster7Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-7",
-    title: "How Lawyers Find New Clients by Building Referral Relationships With Insurance Adjusters and Claims Professionals",
+    title: "How Lawyers Find New Clients Through Insurance Referrals",
     metaTitle: "Client Acquisition Through Insurance Networks",
     excerpt:
       "For personal injury and related practice areas, professional relationships within the insurance claims industry can be a valuable, often overlooked referral source.",
@@ -122,10 +122,11 @@ export const findNewClientsCluster7Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-8",
-    title: "How Lawyers Find New Clients Through Client Testimonial Video Campaigns",
+    title: "How Lawyers Find New Clients With Testimonial Videos",
     metaTitle: "Client Acquisition Through Testimonial Videos",
     excerpt:
       "Genuine client testimonials, presented compliantly, are among the most persuasive content a firm can produce — here's how to gather and use them well.",
+    metaDescription: "Genuine client testimonials are among the most persuasive content a firm can produce. Learn how to compliantly gather and use video testimonials.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",

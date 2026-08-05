@@ -6,10 +6,11 @@ const cr10 = [pillar10, "referral-programs", "content-marketing"];
 export const findNewClientsCluster10Articles: Article[] = [
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-that-work-10",
-    title: "How Lawyers Find New Clients Through Nextdoor and Hyperlocal Community Apps",
+    title: "How Lawyers Find New Clients Through Nextdoor",
     metaTitle: "Client Acquisition Through Nextdoor",
     excerpt:
       "Hyperlocal community apps like Nextdoor put a firm in front of neighbors actively discussing local recommendations, including requests for attorney referrals.",
+    metaDescription: "Hyperlocal apps like Nextdoor put a law firm in front of neighbors actively discussing local recommendations, including requests for attorney referrals.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",
@@ -63,6 +64,7 @@ export const findNewClientsCluster10Articles: Article[] = [
     metaTitle: "Client Acquisition Through Employer Partnerships",
     excerpt:
       "For employment law and workers' compensation practices, relationships with HR departments and employee benefit programs can open a valuable referral channel.",
+    metaDescription: "For employment law and workers' comp practices, relationships with HR departments and benefit programs can open a valuable, underused referral channel.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",
@@ -116,6 +118,7 @@ export const findNewClientsCluster10Articles: Article[] = [
     metaTitle: "Client Acquisition Through Case Result Transparency",
     excerpt:
       "A dedicated, regularly updated case results page — compliantly presented — gives prospects concrete evidence of a firm's track record beyond generic claims.",
+    metaDescription: "A dedicated, regularly updated case results page, compliantly presented, gives prospects concrete evidence of a firm's track record beyond generic claims.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-22",

@@ -9,6 +9,8 @@ export const bestXCluster6Articles: Article[] = [
     metaTitle: "Best Personal Injury Lead Generation Company",
     excerpt:
       "A specific evaluation checklist for identifying a genuinely strong personal injury lead generation partner, rather than relying on marketing claims.",
+    metaDescription:
+      "A specific evaluation checklist for identifying a genuinely strong personal injury lead generation partner, rather than relying on marketing claims alone.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-06",

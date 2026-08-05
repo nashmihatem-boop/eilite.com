@@ -251,6 +251,7 @@ export const keywordBatch15Articles: Article[] = [
     title: "Exclusive Territory Leads: Protecting an Entire Geographic Area",
     metaTitle: "Exclusive Territory Leads Guide",
     excerpt: "A guide to territory-based exclusivity, where an entire geographic area is protected rather than individual leads alone.",
+    metaDescription: "A guide to exclusive territory leads, where an entire geographic area is protected for one buyer rather than individual leads, and how this pricing model works.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-05",
@@ -493,6 +494,7 @@ export const keywordBatch15Articles: Article[] = [
     title: "Family Law Firms: A Guide to Building Client Volume",
     metaTitle: "Family Law Firms Client Volume Guide",
     excerpt: "A guide for family law firms on building consistent client acquisition volume across divorce, custody, and related matters.",
+    metaDescription: "A guide for family law firms on building consistent, predictable client acquisition volume across divorce, custody, and other related family law matters.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-05",
@@ -558,7 +560,7 @@ export const keywordBatch15Articles: Article[] = [
   {
     slug: "fence-leads",
     title: "Fence Leads: A Broader Guide to This Category",
-    metaTitle: "Fence Leads Guide",
+    metaTitle: "Fence Leads Guide: Residential, Commercial & Materials",
     excerpt: "A broader guide to fence-related leads spanning residential, commercial, and material browsing interest.",
     metaDescription: "A broader guide to fence-related leads spanning residential, commercial, and material browsing interest, and how to separate serious buyers from browsers.",
     category: "Home Services Marketing",
@@ -593,7 +595,7 @@ export const keywordBatch15Articles: Article[] = [
   {
     slug: "fencing-leads",
     title: "Fencing Leads: A Guide for Installation Contractors",
-    metaTitle: "Fencing Leads Guide",
+    metaTitle: "Fencing Leads Guide: Sourcing Tips for Installers",
     excerpt: "A guide to sourcing and converting leads specifically for fence installation and repair services.",
     metaDescription: "A guide to sourcing and converting leads specifically for fence installation and repair, covering seasonal demand patterns and material-specific intent.",
     category: "Home Services Marketing",
@@ -628,7 +630,7 @@ export const keywordBatch15Articles: Article[] = [
   {
     slug: "fha-loan-leads",
     title: "FHA Loan Leads: A Guide for Lenders",
-    metaTitle: "FHA Loan Leads Guide",
+    metaTitle: "FHA Loan Leads Guide: Sourcing Tips for Mortgage Lenders",
     excerpt: "A guide to sourcing and converting leads for FHA-backed mortgage financing.",
     metaDescription: "A guide to sourcing and converting leads for FHA-backed mortgage financing, covering the first-time buyer demographics that define this lead category.",
     category: "Financial Leads",

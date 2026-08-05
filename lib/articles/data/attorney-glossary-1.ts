@@ -69,6 +69,8 @@ export const attorneyGlossary1Articles: Article[] = [
     metaTitle: "Attorney Ads: What Actually Works",
     excerpt:
       "Beyond compliance requirements, certain creative and strategic elements consistently separate effective attorney advertising from wasted spend.",
+    metaDescription:
+      "Beyond compliance requirements, certain creative and strategic elements consistently separate effective attorney advertising from wasted ad spend.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-01",

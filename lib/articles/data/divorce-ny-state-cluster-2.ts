@@ -3,10 +3,12 @@ import type { Article } from "@/lib/articles/types";
 export const divorceNyStateCluster2Articles: Article[] = [
   {
     slug: "how-to-generate-quality-divorce-attorney-leads-in-new-york-3",
-    title: "How to Generate Quality Divorce Attorney Leads in New York: Business Owner Divorces",
+    title: "Divorce Attorney Leads in New York: Business Owner Cases",
     metaTitle: "NY Divorce Leads: Business Owner Cases",
     excerpt:
       "New York's density of small and mid-sized business owners creates a recurring need for business valuation expertise in local divorce cases.",
+    metaDescription:
+      "New York's density of small and mid-sized business owners creates a recurring need for business valuation expertise in divorce cases across the state.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-17",
@@ -60,6 +62,8 @@ export const divorceNyStateCluster2Articles: Article[] = [
     metaTitle: "Quality Divorce Attorney Leads in New York",
     excerpt:
       "New York's equitable distribution, guideline maintenance formulas, and no fixed waiting period create a legal framework distinct from every neighboring state.",
+    metaDescription:
+      "New York's equitable distribution rules, guideline maintenance formulas, and lack of a fixed waiting period create a legal framework unlike neighboring states.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-08-17",

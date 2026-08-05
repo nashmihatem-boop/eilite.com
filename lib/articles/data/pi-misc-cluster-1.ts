@@ -7,6 +7,8 @@ export const piMiscCluster1Articles: Article[] = [
     metaTitle: "Accident Attorney Lead Generation Strategies",
     excerpt:
       "A broad look at accident-related lead generation across vehicle, workplace, and premises liability categories, and what strategies transfer across each.",
+    metaDescription:
+      "A broad look at accident-related lead generation across vehicle, workplace, and premises liability cases, and which strategies transfer across each category.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-28",
@@ -56,7 +58,7 @@ export const piMiscCluster1Articles: Article[] = [
   },
   {
     slug: "accident-attorney-lead-generation-proven-strategies-that-work",
-    title: "Accident Attorney Lead Generation: Proven Strategies That Work in Practice",
+    title: "Accident Attorney Lead Generation: Strategies That Work",
     metaTitle: "Proven Accident Lead Generation Strategies",
     excerpt:
       "Moving beyond theory to specific, executable tactics that consistently produce results for accident-focused practices.",

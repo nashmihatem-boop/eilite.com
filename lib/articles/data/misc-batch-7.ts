@@ -7,6 +7,7 @@ export const miscBatch7Articles: Article[] = [
     metaTitle: "Buying Targeted Legal Leads for Your Firm",
     excerpt:
       "Precise targeting — by practice area, geography, and case type — separates genuinely useful lead purchases from generic, undifferentiated volume.",
+    metaDescription: "Precise targeting by practice area, geography, and case type separates genuinely useful legal lead purchases from generic, undifferentiated volume buys.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-14",
@@ -61,6 +62,7 @@ export const miscBatch7Articles: Article[] = [
     metaTitle: "Can Lawyers Pay for Leads? Ethics Guide",
     excerpt:
       "Understanding the ethical distinction between paying for advertising and marketing services versus prohibited fee-splitting for referrals.",
+    metaDescription: "Understand the ethical line between paying for legal advertising and marketing services versus prohibited fee-splitting arrangements for client referrals.",
     category: "Legal Guides",
     readTime: "7 min read",
     publishedDate: "2026-09-14",

@@ -7,6 +7,8 @@ export const piCostCluster2Articles: Article[] = [
     metaTitle: "Cost of Personal Injury Leads Breakdown",
     excerpt:
       "A realistic look at what firms should expect to pay across different personal injury lead configurations, without inflated or misleading benchmarks.",
+    metaDescription:
+      "A realistic look at what firms should expect to pay across different personal injury lead configurations, without inflated or misleading industry benchmarks.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-10",
@@ -61,6 +63,8 @@ export const piCostCluster2Articles: Article[] = [
     metaTitle: "Personal Injury Lead Management System Guide",
     excerpt:
       "The core components every personal injury lead management system needs, regardless of firm size or specific software choices.",
+    metaDescription:
+      "The core components every personal injury lead management system needs to work well, regardless of firm size or which specific software a firm chooses.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-10",

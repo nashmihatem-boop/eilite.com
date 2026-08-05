@@ -7,6 +7,8 @@ export const listicleCluster3Articles: Article[] = [
     metaTitle: "7 Referral Marketing Strategies for Lawyers",
     excerpt:
       "Specific, actionable referral tactics beyond simply 'asking for referrals' — a concrete playbook for building a genuinely reliable pipeline.",
+    metaDescription:
+      "Move past 'just ask for referrals' with 7 specific, actionable tactics lawyers use to build a genuinely reliable client referral pipeline.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-25",
@@ -80,6 +82,8 @@ export const listicleCluster3Articles: Article[] = [
     metaTitle: "7 Legal Client Pipeline Strategies",
     excerpt:
       "Beyond generating individual leads, these strategies focus on building a genuinely steady, predictable intake pipeline over time.",
+    metaDescription:
+      "Individual leads come and go, but a real pipeline compounds. These 7 strategies build genuinely steady, predictable client intake over time.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-25",

@@ -76,7 +76,7 @@ export const firmGrowthArticles: Article[] = [
   },
   {
     slug: "law-firm-development",
-    title: "Law Firm Development: Building Institutional Growth Beyond Any Single Rainmaker",
+    title: "Law Firm Development: Beyond the Single Rainmaker",
     metaTitle: "Law Firm Development: Building Institutional Growth",
     excerpt:
       "Many firms' growth depends entirely on one or two rainmaking attorneys. Here's how to build development practices that create durable growth independent of any single person.",

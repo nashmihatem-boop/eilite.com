@@ -7,6 +7,8 @@ export const marketingListicles3Articles: Article[] = [
     metaTitle: "B2B Legal Lead Generation Partnerships",
     excerpt:
       "Beyond direct consumer leads, B2B relationships with other professionals and platforms can produce a steady, high-trust referral pipeline for law firms.",
+    metaDescription:
+      "How B2B relationships with other professionals and platforms can produce a steady, high-trust referral pipeline beyond direct consumer leads.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-20",
@@ -57,10 +59,12 @@ export const marketingListicles3Articles: Article[] = [
   },
   {
     slug: "affordable-attorney-lead-generation-services",
-    title: "Affordable Attorney Lead Generation Services: What to Realistically Expect",
+    title: "Affordable Attorney Lead Generation Services: What to Expect",
     metaTitle: "Affordable Attorney Lead Generation Services",
     excerpt:
       "Affordable doesn't have to mean low-quality, but understanding what tradeoffs typically come with lower price points helps set realistic expectations.",
+    metaDescription:
+      "Affordable doesn't have to mean low-quality. Here are the tradeoffs that typically come with lower price points, and how to set realistic expectations.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-20",

@@ -222,7 +222,7 @@ export const contractorBatch3Articles: Article[] = [
   },
   {
     slug: "boost-your-local-business-with-instagram-reels-proven-tips-for-more-visibility",
-    title: "Boost Your Local Business With Instagram Reels: Proven Tips for More Visibility",
+    title: "Boost Your Local Business With Instagram Reels",
     metaTitle: "Instagram Reels for Local Business Visibility",
     excerpt: "How home service businesses can use short-form video on Instagram to build local visibility and trust.",
     metaDescription: "Proven tips for how home service businesses can use short-form video on Instagram Reels to build local visibility and a steadier stream of inquiries.",

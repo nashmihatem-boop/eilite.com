@@ -495,6 +495,8 @@ export const miscBatch21Articles: Article[] = [
     metaTitle: "Catastrophic Injury Attorney Leads Houston Cases",
     excerpt:
       "How an experienced catastrophic injury attorney approaches leading a serious injury case through Houston's court system.",
+    metaDescription:
+      "How an experienced catastrophic injury attorney approaches leading a serious injury case through Houston's court system, from filing to trial strategy.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-09-30",

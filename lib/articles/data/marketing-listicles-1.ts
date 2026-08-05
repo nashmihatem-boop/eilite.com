@@ -123,6 +123,8 @@ export const marketingListicles1Articles: Article[] = [
     metaTitle: "Best Law Firm Lead Generation Platforms 2026",
     excerpt:
       "Rather than a fixed ranking, here's a practical evaluation framework for choosing a lead generation platform that fits your firm's specific needs in 2026.",
+    metaDescription:
+      "Skip the fixed rankings. Use this practical evaluation framework to choose a law firm lead generation platform that actually fits your needs in 2026.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-08-19",

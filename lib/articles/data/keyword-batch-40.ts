@@ -39,7 +39,7 @@ export const keywordBatch40Articles: Article[] = [
   {
     slug: "sell-leads-online",
     title: "How to Sell Leads Online: A Practical Guide",
-    metaTitle: "Sell Leads Online Guide",
+    metaTitle: "How to Sell Leads Online: A Guide for Publishers",
     excerpt: "A practical guide to the online platforms and mechanics publishers use to sell leads digitally.",
     metaDescription: "Selling leads online involves specific platforms, bidding mechanics, and delivery integrations publishers need to understand. A practical how-it-works guide.",
     category: "Lead Generation Basics",
@@ -105,7 +105,7 @@ export const keywordBatch40Articles: Article[] = [
   {
     slug: "sell-legal-leads",
     title: "Sell Legal Leads: A General Guide for Publishers",
-    metaTitle: "Sell Legal Leads Guide",
+    metaTitle: "How to Sell Legal Leads: A Guide for Publishers",
     excerpt: "A general overview for publishers monetizing traffic across the broader legal services vertical.",
     metaDescription: "Selling legal leads spans personal injury, family law, mass tort, and more, each with different buyer demand. A general overview for publishers.",
     category: "Legal Leads",
@@ -369,7 +369,7 @@ export const keywordBatch40Articles: Article[] = [
   {
     slug: "sell-roofing-leads",
     title: "Sell Roofing Leads: A Guide for Publishers and Affiliates",
-    metaTitle: "Sell Roofing Leads Guide",
+    metaTitle: "How to Sell Roofing Leads: A Publisher's Guide",
     excerpt: "A guide for publishers and affiliates looking to monetize traffic from homeowners with roofing needs.",
     metaDescription: "Traffic from homeowners with roofing needs, whether storm damage or aging replacement, holds strong resale value. A guide for publishers in this niche.",
     category: "Home Services Marketing",
@@ -402,7 +402,7 @@ export const keywordBatch40Articles: Article[] = [
   {
     slug: "sell-solar-leads",
     title: "Sell Solar Leads: A Guide for Publishers and Affiliates",
-    metaTitle: "Sell Solar Leads Guide",
+    metaTitle: "How to Sell Solar Leads: A Guide for Publishers",
     excerpt: "A guide for publishers and affiliates looking to monetize traffic from homeowners exploring solar installation.",
     metaDescription: "Homeowner traffic exploring solar installation can be sold to installers competing for qualified prospects. A guide for publishers in this niche.",
     category: "Home Services Marketing",
@@ -437,6 +437,7 @@ export const keywordBatch40Articles: Article[] = [
     title: "Sell Traffic to Lead Buyers: A Guide to Traffic Arbitrage",
     metaTitle: "Sell Traffic to Lead Buyers Guide",
     excerpt: "A guide to selling raw, unqualified consumer traffic directly to lead buyers, distinct from selling fully processed leads.",
+    metaDescription: "Traffic arbitrage lets publishers sell raw, unqualified visitor traffic to lead buyers, shifting conversion work to the buyer for faster, simpler payouts.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-30",
@@ -467,7 +468,7 @@ export const keywordBatch40Articles: Article[] = [
   {
     slug: "sell-window-leads",
     title: "Sell Window Leads: A Guide for Publishers and Affiliates",
-    metaTitle: "Sell Window Leads Guide",
+    metaTitle: "How to Sell Window Leads: A Publisher's Guide",
     excerpt: "A guide for publishers and affiliates looking to monetize traffic from homeowners planning window replacement.",
     metaDescription: "Traffic from homeowners planning window replacement holds steady resale value across most markets. A guide for publishers monetizing this niche.",
     category: "Home Services Marketing",
@@ -535,6 +536,7 @@ export const keywordBatch40Articles: Article[] = [
     title: "Senior Insurance Leads: A Guide for Agents",
     metaTitle: "Senior Insurance Leads Guide",
     excerpt: "A guide to insurance products specifically tailored to senior consumers, spanning Medicare supplement, final expense, and long-term care.",
+    metaDescription: "A guide to senior insurance leads, covering Medicare supplement, final expense, and long-term care products, plus how agents should approach this demographic.",
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-12-30",

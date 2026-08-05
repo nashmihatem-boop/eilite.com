@@ -304,7 +304,7 @@ export const medicareBatch14Articles: Article[] = [
   {
     slug: "medicare-dme-leads-a-comprehensive-guide",
     title: "Medicare DME Leads: A Comprehensive Guide",
-    metaTitle: "Medicare DME Leads Guide",
+    metaTitle: "Medicare DME Leads: A Guide for Agents and Providers",
     excerpt: "A comprehensive guide to Medicare durable medical equipment lead generation for agents and providers.",
     metaDescription: "A comprehensive guide to Medicare durable medical equipment leads, covering how DME leads are generated, qualified, and converted by agents and providers.",
     category: "Medicare Leads",

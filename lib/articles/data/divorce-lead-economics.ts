@@ -126,6 +126,8 @@ export const divorceLeadEconomicsArticles: Article[] = [
     metaTitle: "Are Divorce Leads Worth It? A Practical Guide",
     excerpt:
       "The honest answer depends on your intake capacity, follow-up discipline, and how you measure success. Here's how to assess fit before committing budget.",
+    metaDescription:
+      "Whether divorce leads are worth it depends on your intake capacity, follow-up discipline, and how you define success. A framework to assess fit.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-08",

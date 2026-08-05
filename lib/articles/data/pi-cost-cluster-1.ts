@@ -9,6 +9,8 @@ export const piCostCluster1Articles: Article[] = [
     metaTitle: "Optimizing PI Client Acquisition Cost",
     excerpt:
       "A step-by-step approach to calculating your firm's true client acquisition cost, and specific levers for bringing it down without sacrificing quality.",
+    metaDescription:
+      "A step-by-step approach to calculating your firm's true client acquisition cost, plus specific levers for lowering it without sacrificing lead quality.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-10",
@@ -62,6 +64,8 @@ export const piCostCluster1Articles: Article[] = [
     metaTitle: "True ROI of Personal Injury Leads",
     excerpt:
       "A complete ROI calculation framework accounting for case value, conversion rate, and the often-overlooked time value of legal fee realization.",
+    metaDescription:
+      "A complete ROI calculation framework for personal injury leads, accounting for case value, conversion rate, and the time value of fee realization.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-10",

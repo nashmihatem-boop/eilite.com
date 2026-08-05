@@ -6,7 +6,7 @@ const clusterRelated3 = [pillarRef, "referral-programs", "content-marketing"];
 export const findNewClientsCluster2Articles: Article[] = [
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-5",
-    title: "How Lawyers Find New Clients Through Podcast Guesting and Media Appearances",
+    title: "How Lawyers Find New Clients Through Podcasts & Media",
     metaTitle: "Client Acquisition Through Podcasts & Media",
     excerpt:
       "Appearing as a guest on relevant podcasts or being quoted by journalists builds third-party credibility that self-promotion can't replicate. Here's how attorneys break into this channel.",
@@ -130,10 +130,12 @@ export const findNewClientsCluster2Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-4",
-    title: "How Lawyers Find New Clients by Winning Awards and Industry Recognition",
+    title: "How Lawyers Find New Clients by Winning Industry Awards",
     metaTitle: "Client Acquisition Through Awards & Recognition",
     excerpt:
       "'Super Lawyers,' 'Best Attorneys,' and similar recognitions carry real trust value with prospects comparing firms. Here's how to pursue and use these credibly.",
+    metaDescription:
+      "Awards like 'Super Lawyers' and 'Best Attorneys' carry real trust value with prospects comparing firms. Here's how attorneys pursue and use these credibly.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-07",

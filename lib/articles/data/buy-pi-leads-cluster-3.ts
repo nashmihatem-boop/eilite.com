@@ -109,6 +109,8 @@ export const buyPiLeadsCluster3Articles: Article[] = [
     metaTitle: "Buying & Converting Legal PI Leads",
     excerpt:
       "Connecting the purchase decision directly to the conversion process, since buying well only pays off if conversion follows through.",
+    metaDescription:
+      "Connecting the purchase decision directly to the conversion process, since buying personal injury leads well only pays off if conversion follows through.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",

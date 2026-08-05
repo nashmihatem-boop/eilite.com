@@ -145,6 +145,8 @@ export const divorceRemainingCities2Articles: Article[] = [
     metaTitle: "West Palm Beach Divorce Leads Driving Growth",
     excerpt:
       "Beyond the high-net-worth case profile, West Palm Beach's seasonal population creates a genuinely cyclical demand pattern worth building growth strategy around.",
+    metaDescription:
+      "Beyond the high-net-worth case profile, West Palm Beach's seasonal population creates a genuinely cyclical demand pattern worth planning growth around.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-17",

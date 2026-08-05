@@ -7,6 +7,8 @@ export const miscBatch11Articles: Article[] = [
     metaTitle: "Growth Strategies for Car Accident Leads",
     excerpt:
       "Sustainable, long-term growth in car accident lead generation requires a different mindset than chasing short-term volume spikes.",
+    metaDescription:
+      "Sustainable, long-term growth in car accident lead generation requires a different mindset than chasing short-term volume spikes for law firms.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-16",
@@ -60,6 +62,8 @@ export const miscBatch11Articles: Article[] = [
     metaTitle: "Converting Catastrophic Injury Attorney Leads",
     excerpt:
       "Catastrophic injury cases carry the highest stakes and values in personal injury — here's what specifically improves conversion for this category.",
+    metaDescription:
+      "Catastrophic injury cases carry the highest stakes and values in personal injury. Here's what specifically improves conversion for this category.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-16",

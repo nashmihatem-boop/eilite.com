@@ -7,6 +7,7 @@ export const alimonyClusterArticles: Article[] = [
     metaTitle: "Alimony Attorney Client Acquisition Strategies",
     excerpt:
       "Specific, practical strategies for attorneys looking to build or grow an alimony-focused segment of their family law practice.",
+    metaDescription: "Specific, practical client acquisition strategies for attorneys looking to build or grow an alimony-focused segment of their family law practice.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-31",

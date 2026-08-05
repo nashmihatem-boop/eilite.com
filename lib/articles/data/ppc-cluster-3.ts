@@ -5,7 +5,7 @@ const ppcRelated3 = ["pay-per-click-for-law-firms", "law-firm-ppc-advertising", 
 export const ppcCluster3Articles: Article[] = [
   {
     slug: "ppc-marketing-for-attorneys",
-    title: "PPC Marketing for Attorneys: Competitor Conquesting Campaigns, Done Carefully",
+    title: "PPC Marketing for Attorneys: Competitor Conquesting Campaigns",
     metaTitle: "PPC Competitor Conquesting for Attorneys",
     excerpt:
       "Bidding on a competitor's firm name is legal and common, but it carries ethical and strategic considerations attorneys should think through before launching this type of campaign.",
@@ -67,7 +67,7 @@ export const ppcCluster3Articles: Article[] = [
   },
   {
     slug: "pay-per-click-advertising-for-lawyers",
-    title: "Pay-Per-Click Advertising for Lawyers: Setting Up Call Tracking and Attribution",
+    title: "Pay-Per-Click Advertising for Lawyers: Call Tracking Setup",
     metaTitle: "Call Tracking & Attribution for Lawyer PPC",
     excerpt:
       "Without proper call tracking, most of a legal PPC budget is being optimized based on incomplete data. Here's how to set up attribution that actually reflects what's working.",
@@ -133,6 +133,7 @@ export const ppcCluster3Articles: Article[] = [
     metaTitle: "PPC Wasted Spend Audit for Law Firms",
     excerpt:
       "Most legal PPC accounts are quietly leaking budget on search terms, placements, or devices that never convert. Here's how to find and fix it.",
+    metaDescription: "Most legal PPC accounts quietly leak budget on search terms, placements, and devices that never convert. Here's how to run a wasted spend audit and fix it.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-05",

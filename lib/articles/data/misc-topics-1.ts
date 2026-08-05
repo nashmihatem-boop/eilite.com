@@ -65,7 +65,7 @@ export const miscTopics1Articles: Article[] = [
   },
   {
     slug: "marketing-attorney-leads",
-    title: "Marketing Attorney Leads: Aligning Campaigns With What Prospects Actually Want",
+    title: "Marketing Attorney Leads: Aligning Campaigns With Prospects",
     metaTitle: "Marketing Attorney Leads Effectively",
     excerpt:
       "Effective attorney lead marketing starts with understanding what a prospect actually needs at their specific decision stage, not just pushing generic ads. Here's how to align the two.",
@@ -131,6 +131,8 @@ export const miscTopics1Articles: Article[] = [
     metaTitle: "Top 5 Law Firm Marketing Tactics",
     excerpt:
       "Across practice areas, five specific tactics show up repeatedly among firms with the steadiest growth. Here's what they are and why each one works.",
+    metaDescription:
+      "Five specific marketing tactics show up repeatedly among the fastest-growing law firms across practice areas. Here's what they are and why each one works.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-10",

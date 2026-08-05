@@ -7,6 +7,8 @@ export const miscBatch9Articles: Article[] = [
     metaTitle: "Pre-Screened Personal Injury Leads Availability",
     excerpt:
       "Yes, pre-screened delivery remains available and has become more standardized as verification expectations across the industry have risen.",
+    metaDescription:
+      "Yes, pre-screened delivery is still available and has become more standardized as verification expectations across the lead industry have risen.",
     category: "Personal Injury",
     readTime: "5 min read",
     publishedDate: "2026-09-15",
@@ -61,6 +63,8 @@ export const miscBatch9Articles: Article[] = [
     metaTitle: "What to Expect From a Car Accident Lawsuit",
     excerpt:
       "A general overview of what filing a car accident lawsuit typically involves, for those considering this path after an accident.",
+    metaDescription:
+      "A general overview of what filing a car accident lawsuit typically involves, from initial complaint through discovery, settlement, or trial.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-15",

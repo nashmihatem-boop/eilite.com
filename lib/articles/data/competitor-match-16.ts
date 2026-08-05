@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch16Articles: Article[] = [
   {
     slug: "understanding-personal-injury-attorney-fee-structures-an-educational-overview",
-    title: "Understanding Personal Injury Attorney Fee Structures: An Educational Overview",
+    title: "Personal Injury Attorney Fee Structures Explained",
     metaTitle: "Personal Injury Attorney Fees: How They Work",
     metaDescription:
       "Learn how personal injury attorney fees work, including contingency percentages, case costs, medical liens, and California-specific fee rules.",
@@ -141,7 +141,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "california-personal-injury-filing-deadlines-an-educational-overview-of-statutes-of-limitations",
-    title: "California Personal Injury Filing Deadlines: An Educational Overview of Statutes of Limitations",
+    title: "California Personal Injury Filing Deadlines Explained",
     metaTitle: "California Personal Injury Statute of Limitations Guide",
     metaDescription:
       "Understand California's statutes of limitations for personal injury claims, including the two-year rule, government claims deadlines, and key exceptions.",
@@ -316,7 +316,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "understanding-medical-treatment-options-after-accidents-medical-liens-explained",
-    title: "Understanding Medical Treatment Options After Accidents: Medical Liens Explained",
+    title: "Medical Treatment Options After Accidents: Liens Explained",
     metaTitle: "Medical Liens After an Accident: How They Work",
     metaDescription:
       "Learn how medical liens let accident victims without insurance get treatment with payment deferred until their case settles, and what alternatives exist.",
@@ -651,7 +651,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "understanding-whiplash-and-soft-tissue-injury-cases-settlement-factors-explained",
-    title: "Understanding Whiplash and Soft Tissue Injury Cases: Settlement Factors Explained",
+    title: "Whiplash and Soft Tissue Injury Settlement Factors",
     metaTitle: "Whiplash Settlement Factors: What Affects Value",
     metaDescription:
       "Learn how whiplash and soft tissue injury settlements are evaluated, why insurers scrutinize these claims closely, and what documentation matters most.",
@@ -770,7 +770,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "understanding-fault-determination-in-california-car-accidents-legal-concepts-explained",
-    title: "Understanding Fault Determination in California Car Accidents: Legal Concepts Explained",
+    title: "Fault Determination in California Car Accidents",
     metaTitle: "Fault Determination in California Car Accidents",
     metaDescription:
       "Learn how fault is determined in California car accidents, including comparative negligence, common fault presumptions, and the evidence insurers use.",
@@ -972,7 +972,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "statements-after-car-accidents-what-legal-and-insurance-professionals-observe",
-    title: "Statements After Car Accidents: What Legal and Insurance Professionals Observe",
+    title: "What to Know About Statements After a Car Accident",
     metaTitle: "What Not to Say After a Car Accident",
     metaDescription:
       "Understand how statements made after a car accident are documented and used in insurance claims, and why communication strategy matters afterward.",
@@ -1190,7 +1190,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "comparative-negligence-in-california-how-partial-fault-affects-injury-claims",
-    title: "Comparative Negligence in California: How Partial Fault Affects Injury Claims",
+    title: "Comparative Negligence in California Injury Claims",
     metaTitle: "California Comparative Negligence and Injury Claims",
     metaDescription:
       "Understand California's pure comparative negligence system and how being partially at fault for an accident affects your ability to recover compensation.",
@@ -1612,7 +1612,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "motorcycle-accident-claims-legal-considerations-and-industry-observations",
-    title: "Motorcycle Accident Claims: Legal Considerations and Industry Observations",
+    title: "Motorcycle Accident Claims: Legal Considerations",
     metaTitle: "Motorcycle Accident Claims: What to Know",
     metaDescription:
       "Learn how motorcycle accident claims are evaluated, including California lane-splitting rules, helmet laws, insurance bias, and comparative negligence.",
@@ -1727,7 +1727,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "pedestrian-accident-claims-understanding-compensation-and-legal-frameworks",
-    title: "Pedestrian Accident Claims: Understanding Compensation and Legal Frameworks",
+    title: "Pedestrian Accident Claims: Compensation and Legal Frameworks",
     metaTitle: "Pedestrian Accident Claims: Compensation Guide",
     metaDescription:
       "Learn how pedestrian accident claims are evaluated under California law, including right-of-way rules, fault determination, and available compensation.",
@@ -1952,7 +1952,7 @@ export const competitorMatch16Articles: Article[] = [
   },
   {
     slug: "rear-end-collision-claims-liability-presumptions-and-legal-considerations",
-    title: "Rear-End Collision Claims: Liability Presumptions and Legal Considerations",
+    title: "Rear-End Collision Claims: Liability Presumptions",
     metaTitle: "Rear-End Collision Claims: Liability Guide",
     metaDescription:
       "Learn how liability is evaluated in rear-end collision claims under California law, including the negligence presumption, exceptions, and common injuries.",

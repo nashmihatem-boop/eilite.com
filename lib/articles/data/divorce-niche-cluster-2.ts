@@ -61,6 +61,8 @@ export const divorceNicheCluster2Articles: Article[] = [
     metaTitle: "Military Divorce Client Acquisition Strategies",
     excerpt:
       "Beyond base-adjacent relationships, digital marketing built specifically for military families requires its own distinct language and channel choices.",
+    metaDescription:
+      "Beyond base-adjacent relationships, digital marketing built for military families needs its own distinct language, channel choices, and client acquisition strategy.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-15",
@@ -114,6 +116,8 @@ export const divorceNicheCluster2Articles: Article[] = [
     metaTitle: "Same-Sex Divorce Attorney Leads Guide",
     excerpt:
       "Beyond the legal nuances covered elsewhere, building genuine visibility and trust with LGBTQ+ clients requires deliberate, authentic community engagement.",
+    metaDescription:
+      "Beyond legal nuances, building genuine visibility and trust with LGBTQ+ clients requires deliberate, authentic community engagement from divorce attorneys.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-15",

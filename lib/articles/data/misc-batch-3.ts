@@ -7,6 +7,8 @@ export const miscBatch3Articles: Article[] = [
     metaTitle: "Are Personal Injury Leads Worth the Investment",
     excerpt:
       "A direct, honest assessment framework for deciding whether purchased personal injury leads make financial sense for your specific firm.",
+    metaDescription:
+      "A direct, honest framework for deciding whether purchased personal injury leads actually make financial sense for your specific law firm.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-12",
@@ -60,6 +62,8 @@ export const miscBatch3Articles: Article[] = [
     metaTitle: "Bankruptcy Leads for Attorneys",
     excerpt:
       "Building a sustainable bankruptcy practice requires combining sensitive marketing, efficient intake, and quality-screened lead sources.",
+    metaDescription:
+      "Building a sustainable bankruptcy practice requires combining sensitive, compliant marketing with efficient intake and quality-screened lead sources.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-12",

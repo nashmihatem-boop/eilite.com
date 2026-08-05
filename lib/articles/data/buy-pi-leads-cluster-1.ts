@@ -5,10 +5,12 @@ const buyPiRel = ["buy-verified-legal-leads", "personal-injury-lawyer-leads"];
 export const buyPiLeadsCluster1Articles: Article[] = [
   {
     slug: "buy-exclusive-personal-injury-leads",
-    title: "Buy Exclusive Personal Injury Leads: What Exclusivity Actually Guarantees",
+    title: "Buy Exclusive Personal Injury Leads: What It Guarantees",
     metaTitle: "Buying Exclusive Personal Injury Leads",
     excerpt:
       "Exclusivity is one of the most impactful factors in lead quality — here's exactly what it should guarantee and how to confirm a provider genuinely delivers it.",
+    metaDescription:
+      "Exclusivity is one of the most impactful factors in lead quality. Here's exactly what it should guarantee and how to confirm a provider truly delivers it.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",

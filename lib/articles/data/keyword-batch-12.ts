@@ -75,7 +75,7 @@ export const keywordBatch12Articles: Article[] = [
   {
     slug: "data-leads",
     title: "Data Leads: A Foundational Guide to This Format",
-    metaTitle: "Data Leads Guide",
+    metaTitle: "Data Leads Explained: How This Format Compares",
     excerpt: "A foundational guide to data leads and how this format compares to live transfers.",
     metaDescription: "Data leads are the raw contact-record format of lead generation — this foundational guide explains how they work and how they compare to live transfers.",
     category: "Lead Generation Basics",
@@ -213,7 +213,7 @@ export const keywordBatch12Articles: Article[] = [
   },
   {
     slug: "debt-consolidation-live-transfers",
-    title: "Debt Consolidation Live Transfers: A Guide to the Loan Product Behind Them",
+    title: "Debt Consolidation Live Transfers Explained",
     metaTitle: "Debt Consolidation Live Transfers Guide",
     excerpt: "Why debt consolidation live transfers center on a new loan, not a negotiated settlement, and what that means for qualification.",
     metaDescription: "Debt consolidation live transfers connect lenders with borrowers seeking a consolidation loan, a different product and pitch than debt settlement.",
@@ -385,7 +385,7 @@ export const keywordBatch12Articles: Article[] = [
   {
     slug: "deck-leads",
     title: "Deck Leads: A Broader Guide to This Category",
-    metaTitle: "Deck Leads Guide",
+    metaTitle: "Deck Leads Guide: Construction, Repair, Staining",
     excerpt: "A broader guide to deck-related leads spanning new construction, repair, and staining services.",
     metaDescription: "Deck-related leads span new construction, repair, and staining — this broader guide helps contractors understand the category and where leads come from.",
     category: "Home Services Marketing",
@@ -524,7 +524,7 @@ export const keywordBatch12Articles: Article[] = [
   {
     slug: "direct-mail-leads",
     title: "Direct Mail Leads: A Guide to This Traditional Channel",
-    metaTitle: "Direct Mail Leads Guide",
+    metaTitle: "Direct Mail Leads: Sourcing This Traditional Channel",
     excerpt: "A guide to generating and sourcing leads through direct mail campaigns.",
     metaDescription: "Direct mail remains a viable lead channel in a digital-first market — this guide covers how businesses generate and source leads through mail campaigns today.",
     category: "Lead Generation Basics",
@@ -663,7 +663,7 @@ export const keywordBatch12Articles: Article[] = [
   {
     slug: "divorce-leads",
     title: "Divorce Leads: A Complete Guide for Family Law Firms",
-    metaTitle: "Divorce Leads Guide",
+    metaTitle: "Divorce Leads: A Complete Guide for Family Law",
     excerpt: "A foundational guide to sourcing and converting divorce case leads.",
     metaDescription: "This foundational guide covers how family law firms source and convert divorce case leads, from paid channels to referral networks and everything between.",
     category: "Legal Leads",

@@ -210,7 +210,7 @@ export const contractorBatch14Articles: Article[] = [
   },
   {
     slug: "google-local-services-ads-weekly-budget-vs-monthly-budget-which-to-use",
-    title: "Google Local Services Ads Weekly Budget vs Monthly Budget: Which to Use",
+    title: "Google LSA: Weekly Budget vs Monthly Budget, Which to Use",
     metaTitle: "LSA Weekly vs Monthly Budget: Which to Pick",
     excerpt: "Local Services Ads offers weekly and monthly budget settings that behave differently. Choosing the right one affects pacing and lead volume.",
     metaDescription: "Local Services Ads lets contractors set weekly or monthly budgets that pace differently. See which option fits seasonal, steady, or growing lead volume.",

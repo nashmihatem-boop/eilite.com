@@ -487,6 +487,8 @@ export const howToGenerateCluster1Articles: Article[] = [
     metaTitle: "Generate Divorce Attorney Leads in San Diego, CA",
     excerpt:
       "A local guide to San Diego divorce lead generation, accounting for California's community property rules and military population.",
+    metaDescription:
+      "A local guide to San Diego divorce lead generation, accounting for California's community property rules and the region's large military population.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-10-12",

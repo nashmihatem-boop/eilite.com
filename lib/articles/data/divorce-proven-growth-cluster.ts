@@ -7,6 +7,8 @@ export const divorceProvenGrowthClusterArticles: Article[] = [
     metaTitle: "Arizona Divorce Attorney Leads Growth Strategies",
     excerpt:
       "Beyond covering Arizona's legal framework, here are specific, actionable growth tactics firms in this market have used to build a steady divorce lead pipeline.",
+    metaDescription:
+      "Beyond Arizona's legal framework, these are specific, actionable growth tactics firms in this market have used to build a steady divorce lead pipeline.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-18",

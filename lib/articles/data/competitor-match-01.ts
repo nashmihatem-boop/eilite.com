@@ -97,7 +97,7 @@ export const competitorMatch01Articles: Article[] = [
   },
   {
     slug: "attorneys-guide-to-florida-statute-of-limitations-personal-injury-cases",
-    title: "Attorneys' Guide to Florida's Statute of Limitations for Personal Injury Cases",
+    title: "Florida's Statute of Limitations for Personal Injury Cases",
     metaTitle: "Florida Statute of Limitations for Personal Injury",
     metaDescription:
       "A practical breakdown of the Florida statute of limitations personal injury attorneys need to know, including exceptions, discovery rules, and filing deadlines.",
@@ -984,7 +984,7 @@ export const competitorMatch01Articles: Article[] = [
   },
   {
     slug: "marketing-guide-for-new-lawyers-proven-strategies-to-grow-your-practice",
-    title: "Marketing Guide for New Lawyers: Proven Strategies to Grow Your Practice",
+    title: "Marketing Guide for New Lawyers: Proven Growth Strategies",
     metaTitle: "Marketing Guide for New Lawyers: Growth Strategies",
     metaDescription:
       "A marketing guide for new lawyers covering online legal marketing, website content, SEO, and social media for attorneys building a practice from scratch.",
@@ -1280,7 +1280,7 @@ export const competitorMatch01Articles: Article[] = [
   },
   {
     slug: "understanding-the-new-california-auto-insurance-limits-legal-insights-for-attorneys",
-    title: "Understanding California's New Auto Insurance Limits: What Attorneys Need to Know",
+    title: "California's New Auto Insurance Limits for Attorneys",
     metaTitle: "California Auto Insurance Limits: A Guide for Attorneys",
     metaDescription:
       "California auto insurance limits have increased under new legislation. Here's what plaintiffs' attorneys need to know about case valuation and strategy.",
@@ -2663,7 +2663,7 @@ export const competitorMatch01Articles: Article[] = [
   },
   {
     slug: "the-growing-and-underserved-hispanic-community-growing-your-client-base",
-    title: "Reaching the Growing and Underserved Hispanic Community: Growing Your Client Base",
+    title: "Growing Your Client Base in the Hispanic Community",
     metaTitle: "Growing Your Hispanic Client Base: A Firm's Guide",
     metaDescription:
       "Growing a Hispanic client base starts with removing language barriers and building genuine cultural competency law firms need to serve this community well.",

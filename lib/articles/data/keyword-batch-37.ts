@@ -40,7 +40,7 @@ export const keywordBatch37Articles: Article[] = [
   {
     slug: "real-time-bidding-leads-rtb-leads",
     title: "RTB Leads: A Buyer's Purchasing Guide",
-    metaTitle: "RTB Leads Buying Guide",
+    metaTitle: "RTB Leads Buying Guide: What Buyers Should Know",
     excerpt: "A practical purchasing guide for buyers considering RTB-sourced leads.",
     metaDescription: "RTB-sourced leads get auctioned to the highest bidder in real time rather than sold to one fixed buyer. This guide covers what buyers should evaluate first.",
     category: "Lead Generation Basics",
@@ -372,7 +372,7 @@ export const keywordBatch37Articles: Article[] = [
     title: "Real-Time Kitchen Remodel Leads: A Guide for Contractors",
     metaTitle: "Real-Time Kitchen Remodel Leads Guide",
     excerpt: "A guide to kitchen remodel leads delivered the instant a homeowner submits a request, and why that moment carries outsized value after a long research period.",
-    metaDescription: "Real-time kitchen remodel leads capture homeowner intent within seconds after a long research phase. This guide covers why that instant matters and how to follow up given kitchen's higher stakes.",
+    metaDescription: "Real-time kitchen remodel leads capture homeowner intent within seconds of a long research phase. This guide covers why speed matters and how to follow up.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-27",
@@ -435,7 +435,7 @@ export const keywordBatch37Articles: Article[] = [
   {
     slug: "real-time-leads",
     title: "Real-Time Leads: A Foundational Guide",
-    metaTitle: "Real-Time Leads Guide",
+    metaTitle: "Real-Time Leads Guide: Why Speed Wins Conversions",
     excerpt: "A foundational guide to real-time lead delivery across industries.",
     metaDescription: "Real-time leads reach buyers within seconds of being generated, across nearly every industry that relies on lead marketplaces. This guide covers why speed matters.",
     category: "Lead Generation Basics",

@@ -10,6 +10,8 @@ export const findNewClientsCluster3Articles: Article[] = [
     metaTitle: "Client Acquisition Through Legal Directories",
     excerpt:
       "Avvo, Justia, and Martindale-Hubbell profiles often outrank a firm's own website for name and practice-area searches. Here's how to make them work harder.",
+    metaDescription:
+      "Avvo, Justia, and Martindale-Hubbell profiles often outrank a firm's own site for name and practice-area searches. Learn how to optimize them for more clients.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
@@ -191,7 +193,7 @@ export const findNewClientsCluster3Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-that-work-4",
-    title: "How Lawyers Find New Clients by Volunteering for Legal Aid and Pro Bono Work",
+    title: "How Lawyers Find New Clients Through Pro Bono Work",
     metaTitle: "Client Acquisition Through Pro Bono Work",
     excerpt:
       "Pro bono and legal aid involvement builds genuine community goodwill and professional reputation that eventually returns as referrals — even though it isn't a direct marketing tactic.",
@@ -253,7 +255,7 @@ export const findNewClientsCluster3Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-proven-strategies-that-work-5",
-    title: "How Lawyers Find New Clients Through Strategic Alumni Network Relationships",
+    title: "How Lawyers Find New Clients Through Alumni Networks",
     metaTitle: "Client Acquisition Through Alumni Networks",
     excerpt:
       "Law school and undergraduate alumni networks are an underused source of both direct clients and professional referral relationships. Here's how to engage them deliberately.",

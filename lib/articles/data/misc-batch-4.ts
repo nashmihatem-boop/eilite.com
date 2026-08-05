@@ -7,6 +7,8 @@ export const miscBatch4Articles: Article[] = [
     metaTitle: "Best Lawyer Advertising Practices",
     excerpt:
       "The specific practices that separate consistently effective lawyer advertising from campaigns that burn budget without producing cases.",
+    metaDescription:
+      "The specific practices, from credible messaging to rigorous tracking, that separate consistently effective lawyer advertising from wasted budget.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-12",
@@ -68,6 +70,8 @@ export const miscBatch4Articles: Article[] = [
     metaTitle: "Best Leads for Attorneys Checklist",
     excerpt:
       "Turning the search for 'the best leads' into a concrete, applicable checklist any attorney can use to evaluate their own options.",
+    metaDescription:
+      "A concrete, applicable checklist for evaluating attorney leads, covering intent, exclusivity, delivery speed, and compliance screening.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-12",

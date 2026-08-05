@@ -7,6 +7,8 @@ export const bestXCluster3Articles: Article[] = [
     metaTitle: "Best Lead Generation Strategies for Lawyers",
     excerpt:
       "Rather than one universal ranking, here's how to identify the best strategy for your specific practice area, budget, and timeline.",
+    metaDescription:
+      "How to identify the best lead generation strategy for your specific practice area, budget, and timeline, rather than one universal ranking.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-05",
@@ -68,6 +70,8 @@ export const bestXCluster3Articles: Article[] = [
     metaTitle: "Best Legal Lead Generation Tools",
     excerpt:
       "Rather than naming specific tools, here's a category breakdown of what technology genuinely supports effective legal lead generation.",
+    metaDescription:
+      "A category breakdown of the call tracking, CRM, SEO, and vetted lead provider tools that genuinely support effective legal lead generation.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-05",

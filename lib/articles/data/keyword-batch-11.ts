@@ -216,7 +216,7 @@ export const keywordBatch11Articles: Article[] = [
   {
     slug: "cost-per-call",
     title: "Cost Per Call: A Foundational Metric Guide",
-    metaTitle: "Cost Per Call Guide",
+    metaTitle: "Cost Per Call Guide: How CPC Pricing Actually Works",
     excerpt: "A foundational guide to the cost per call pricing model and when it applies.",
     metaDescription: "A foundational guide to the cost-per-call pricing model, how it differs from cost-per-lead, and the industries where paying for phone calls makes the most sense.",
     category: "Lead Generation Basics",
@@ -250,7 +250,7 @@ export const keywordBatch11Articles: Article[] = [
   {
     slug: "cost-per-lead",
     title: "Cost Per Lead: A Foundational Metric Guide",
-    metaTitle: "Cost Per Lead Guide",
+    metaTitle: "Cost Per Lead Guide: How CPL Pricing Actually Works",
     excerpt: "A foundational guide to cost per lead and the factors that influence typical rates.",
     metaDescription: "A foundational guide to cost per lead, covering how the metric is calculated and the factors, industry, exclusivity, geography, that drive typical rates up or down.",
     category: "Lead Generation Basics",
@@ -390,7 +390,7 @@ export const keywordBatch11Articles: Article[] = [
   {
     slug: "cpl-pricing",
     title: "CPL Pricing: How Cost-Per-Lead Rates Get Set",
-    metaTitle: "CPL Pricing Guide",
+    metaTitle: "CPL Pricing Guide: How Lead Rates Actually Get Set",
     excerpt: "A guide to how cost-per-lead pricing gets negotiated and set within lead marketplaces.",
     metaDescription: "A guide to how cost-per-lead pricing actually gets set within lead marketplaces, covering the variables that separate premium leads from bargain-bin ones.",
     category: "Lead Generation Basics",
@@ -532,6 +532,7 @@ export const keywordBatch11Articles: Article[] = [
     title: "Credit Score Improvement Leads: A Guide for Companies",
     metaTitle: "Credit Score Improvement Leads Guide",
     excerpt: "A guide to sourcing leads for consumers interested in improving their score through monitoring and education, distinct from full-service credit repair.",
+    metaDescription: "Credit score improvement leads target consumers who want monitoring and education tools, not full-service repair. Learn how to source and qualify this audience.",
     category: "Financial Leads",
     readTime: "6 min read",
     publishedDate: "2026-12-01",
@@ -669,7 +670,7 @@ export const keywordBatch11Articles: Article[] = [
   {
     slug: "crowdfunding-leads",
     title: "Crowdfunding Leads: A Guide for Platforms and Campaign Services",
-    metaTitle: "Crowdfunding Leads Guide",
+    metaTitle: "Crowdfunding Leads Guide for Platforms & Services",
     excerpt: "A guide to sourcing leads for crowdfunding platforms and campaign consulting services.",
     metaDescription: "A guide to sourcing leads for crowdfunding platforms and campaign consulting services, covering creator acquisition and metrics that separate serious campaigns.",
     category: "Financial Leads",

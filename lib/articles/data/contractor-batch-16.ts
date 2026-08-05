@@ -177,7 +177,7 @@ export const contractorBatch16Articles: Article[] = [
   },
   {
     slug: "what-a-realistic-cost-per-lead-looks-like-for-handyman-services-in-2026",
-    title: "What a Realistic Cost Per Lead Looks Like for Handyman Services in 2026",
+    title: "What a Realistic Cost Per Lead Looks Like for Handyman Services",
     metaTitle: "Realistic Cost Per Lead for Handyman Services 2026",
     excerpt: "Why handyman businesses see such a wide cost per lead range, and how job size should shape what's actually worth paying.",
     metaDescription: "A realistic look at handyman cost per lead in 2026, why small job values shrink acceptable budgets, and how to filter for higher-value work.",

@@ -9,6 +9,8 @@ export const divorceLeadTypeCluster3Articles: Article[] = [
     metaTitle: "Real-Time Divorce Leads for Family Law",
     excerpt:
       "Even in a category with a longer decision cycle than personal injury, delivery speed still matters. Here's why real-time delivery changes divorce lead outcomes.",
+    metaDescription:
+      "Real-time delivery still matters for divorce leads, even with a longer decision cycle than personal injury. See how speed-to-contact improves client acquisition.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",
@@ -62,6 +64,8 @@ export const divorceLeadTypeCluster3Articles: Article[] = [
     metaTitle: "Call-Only Divorce Leads Strategic Guide",
     excerpt:
       "Call-only delivery skips the form entirely, connecting a prospect directly by phone. Here's how this format specifically fits divorce lead generation.",
+    metaDescription:
+      "Call-only divorce leads skip the web form and connect firms directly by phone. A strategic guide to how this format fits family law client acquisition.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",
@@ -115,6 +119,8 @@ export const divorceLeadTypeCluster3Articles: Article[] = [
     metaTitle: "Same-Day Divorce Leads Strategic Guide",
     excerpt:
       "While most divorce leads follow a longer decision cycle, a meaningful subset need same-day attention. Here's how to identify and serve that urgent minority.",
+    metaDescription:
+      "Most divorce leads follow a longer decision cycle, but a meaningful subset need same-day attention. Here's how firms identify and serve that urgent minority.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",
@@ -168,6 +174,8 @@ export const divorceLeadTypeCluster3Articles: Article[] = [
     metaTitle: "Converting Divorce Prospects Into Signed Clients",
     excerpt:
       "Generating a divorce inquiry is only the first step — here's what actually closes the gap between initial contact and a signed retainer agreement.",
+    metaDescription:
+      "Generating a divorce inquiry is only the first step. Here's what actually closes the gap between initial contact and a signed retainer agreement.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",

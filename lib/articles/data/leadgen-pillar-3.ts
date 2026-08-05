@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar3Articles: Article[] = [
   {
     slug: "how-ai-works-in-lead-generation",
-    title: "How AI Works in Lead Generation: Chatbots, Scoring, and Automated Outreach",
+    title: "How AI Works in Lead Generation: Chatbots and Scoring",
     metaTitle: "How AI Works in Lead Generation",
     metaDescription:
       "How AI actually works in lead generation — chatbots, scoring, cold email, and automated follow-up — and where human verification still matters most.",
@@ -175,7 +175,7 @@ export const leadgenPillar3Articles: Article[] = [
   },
   {
     slug: "how-to-generate-qualified-b2b-leads",
-    title: "How to Generate Qualified B2B Leads: LinkedIn, SaaS, Agency, and Tech Playbooks",
+    title: "How to Generate Qualified B2B Leads: Channel Playbooks",
     metaTitle: "How to Generate Qualified B2B Leads",
     metaDescription:
       "A channel-by-channel playbook for generating qualified B2B leads through LinkedIn, SaaS motion, agencies, and tech-buyer committees.",

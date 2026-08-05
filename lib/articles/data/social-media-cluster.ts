@@ -68,7 +68,7 @@ export const socialMediaClusterArticles: Article[] = [
   },
   {
     slug: "social-media-for-law-firms",
-    title: "Social Media for Law Firms: Choosing the Right Platforms for Your Practice Area",
+    title: "Social Media for Law Firms: Choosing the Right Platforms",
     metaTitle: "Best Social Media Platforms for Law Firms",
     excerpt:
       "Not every platform serves every practice area equally. Here's a practical breakdown of where LinkedIn, Facebook, Instagram, and short-form video each perform best for legal marketing.",

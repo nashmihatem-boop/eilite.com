@@ -378,7 +378,7 @@ export const howToGenerateCluster2Articles: Article[] = [
   },
   {
     slug: "how-to-generate-high-quality-divorce-attorney-leads-in-florida-2",
-    title: "How to Generate High-Quality Divorce Attorney Leads in Florida: Referral Partnerships",
+    title: "Florida Divorce Attorney Leads Through Referral Partnerships",
     metaTitle: "Florida Divorce Leads: Referral Approach",
     excerpt:
       "A referral-partnership-focused approach to sourcing high-quality Florida divorce leads.",

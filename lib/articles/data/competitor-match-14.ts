@@ -3,8 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch14Articles: Article[] = [
   {
     slug: "nursing-home-abuse-and-neglect-recognizing-and-addressing-elder-mistreatment",
-    title:
-      "Nursing Home Abuse and Neglect: Recognizing the Warning Signs and Legal Options",
+    title: "Nursing Home Abuse and Neglect: Warning Signs and Options",
     metaTitle: "Nursing Home Abuse and Neglect: Warning Signs & Rights",
     metaDescription:
       "Nursing home abuse and neglect takes many forms. Learn the warning signs, resident rights, and legal protections available to elderly victims and families.",
@@ -388,8 +387,7 @@ export const competitorMatch14Articles: Article[] = [
   },
   {
     slug: "scarring-and-disfigurement-in-personal-injury-cases",
-    title:
-      "Scarring and Disfigurement in Personal Injury Cases: How These Injuries Are Valued",
+    title: "Scarring and Disfigurement in Personal Injury Cases",
     metaTitle: "Scarring and Disfigurement Claims in Injury Cases",
     metaDescription:
       "Learn how scarring and disfigurement claims are valued in personal injury cases, covering medical costs, psychological impact, and lost earning capacity.",
@@ -1586,8 +1584,7 @@ export const competitorMatch14Articles: Article[] = [
   },
   {
     slug: "spinal-cord-injuries-in-personal-injury-cases-understanding-the-legal-and-medical-considerations",
-    title:
-      "Spinal Cord Injuries in Personal Injury Cases: Legal and Medical Considerations",
+    title: "Spinal Cord Injuries in Personal Injury Cases",
     metaTitle: "Spinal Cord Injuries in Personal Injury Claims",
     metaDescription:
       "Understand how spinal cord injuries are classified and valued in personal injury cases, covering life care planning, complications, and economic damages.",

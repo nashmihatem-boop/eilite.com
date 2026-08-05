@@ -68,6 +68,8 @@ export const miscBatch15Articles: Article[] = [
     metaTitle: "Early Personal Injury Settlement: Pros and Cons",
     excerpt:
       "A general overview of the tradeoffs involved in accepting an early settlement offer after a personal injury, for those weighing this decision.",
+    metaDescription:
+      "A general overview of the tradeoffs involved in accepting an early settlement offer after a personal injury, for anyone weighing this difficult decision.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-21",

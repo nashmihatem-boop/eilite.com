@@ -7,6 +7,8 @@ export const onlineMarketingArticles: Article[] = [
     metaTitle: "Online Marketing for Law Firms Overview",
     excerpt:
       "A complete overview of online marketing channels available to law firms, and how to think about combining them into one cohesive strategy.",
+    metaDescription:
+      "A complete overview of online marketing channels available to law firms, and how to combine them into one cohesive, budget-efficient growth strategy.",
     category: "Law Firm Marketing",
     readTime: "8 min read",
     publishedDate: "2026-09-21",

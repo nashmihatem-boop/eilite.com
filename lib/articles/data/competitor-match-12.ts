@@ -258,7 +258,7 @@ export const competitorMatch12Articles: Article[] = [
   },
   {
     slug: "niche-legal-lead-generation-a-deep-dive-into-the-different-types-of-personal-injury-leads",
-    title: "Niche Legal Lead Generation: A Deep Dive Into Personal Injury Lead Types",
+    title: "Niche Legal Lead Generation: Personal Injury Lead Types",
     metaTitle: "Types of Personal Injury Leads Explained",
     metaDescription:
       "A breakdown of personal injury lead types, including car accident, slip and fall, dog bite, and workers' comp leads, plus how to vet a provider.",
@@ -410,7 +410,7 @@ export const competitorMatch12Articles: Article[] = [
   },
   {
     slug: "pay-per-click-advertising-to-generate-leads-for-personal-injury-lawyers",
-    title: "Pay-Per-Click Advertising to Generate Leads for Personal Injury Lawyers",
+    title: "Pay-Per-Click Advertising for Personal Injury Lawyers",
     metaTitle: "PPC Advertising for Personal Injury Lawyers",
     metaDescription:
       "A guide to PPC advertising for personal injury lawyers, comparing Google, Bing, Facebook, and Yelp ads plus practical implementation tips.",
@@ -639,7 +639,7 @@ export const competitorMatch12Articles: Article[] = [
   },
   {
     slug: "personal-injury-marketing-for-lawyers-explain-the-contingency-fee-model",
-    title: "Personal Injury Marketing for Lawyers: Explain the Contingency Fee Model",
+    title: "Personal Injury Marketing: Explaining the Contingency Fee",
     metaTitle: "Explaining Contingency Fees to PI Leads",
     metaDescription:
       "Why clearly explaining the contingency fee model to personal injury leads during intake improves conversion, trust, and case sign-up rates.",

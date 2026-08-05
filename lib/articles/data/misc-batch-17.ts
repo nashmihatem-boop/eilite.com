@@ -7,6 +7,8 @@ export const miscBatch17Articles: Article[] = [
     metaTitle: "Effective PI Attorney Marketing Strategies",
     excerpt:
       "A broad survey of marketing strategies proven effective for personal injury attorneys, organized by budget and timeline.",
+    metaDescription:
+      "A broad survey of marketing strategies proven effective for personal injury attorneys, organized by budget and timeline to prioritize what fits.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-22",
@@ -68,6 +70,8 @@ export const miscBatch17Articles: Article[] = [
     metaTitle: "PI Attorney Advertising Strategy and Ethics",
     excerpt:
       "Connecting effective advertising strategy with the specific ethical rules that apply to personal injury advertising particularly heavily.",
+    metaDescription:
+      "Personal injury advertising faces close ethical scrutiny — this guide connects effective advertising strategy with the specific rules that govern it.",
     category: "Personal Injury Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-22",

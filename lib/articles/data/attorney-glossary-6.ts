@@ -7,6 +7,7 @@ export const attorneyGlossary6Articles: Article[] = [
     metaTitle: "Attorney Lead Generation Overview",
     excerpt:
       "A comprehensive entry point for attorneys and firms new to the concept of lead generation as a deliberate, structured discipline.",
+    metaDescription: "A comprehensive introduction to attorney lead generation for firms new to treating client acquisition as a deliberate, structured discipline.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-03",

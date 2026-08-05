@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const bestXCluster7Articles: Article[] = [
   {
     slug: "best-ping-post-lead-management-platform-for-attorneys",
-    title: "Best Ping-Post Lead Management Platform for Attorneys: What to Evaluate",
+    title: "Best Ping-Post Lead Management Platform for Attorneys",
     metaTitle: "Ping-Post Lead Management for Attorneys",
     excerpt:
       "Ping-post technology allows real-time, competitive bidding on leads across multiple buyers — here's what attorneys should understand before engaging with this model.",
@@ -61,6 +61,8 @@ export const bestXCluster7Articles: Article[] = [
     metaTitle: "Best Place to Buy Personal Injury Leads",
     excerpt:
       "Rather than a single answer, here's how to identify the right source for your firm's specific personal injury lead needs.",
+    metaDescription:
+      "Choosing the right place to buy personal injury leads depends on your firm's caseload, budget, and intake capacity — here's how to find the right fit.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-06",

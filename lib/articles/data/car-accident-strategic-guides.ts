@@ -9,6 +9,8 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
     metaTitle: "Strategic Guide to Auto Accident Leads",
     excerpt:
       "A comprehensive strategic framework connecting auto accident lead sourcing, screening, and conversion into one coherent system.",
+    metaDescription:
+      "A comprehensive strategic framework connecting auto accident lead sourcing, screening, and conversion into one coherent system for growing law firms.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-30",
@@ -62,6 +64,8 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
     metaTitle: "Buying & Converting Car Accident Leads",
     excerpt:
       "For firms specifically buying rather than generating car accident leads organically, here's the complete purchase-to-conversion playbook.",
+    metaDescription:
+      "For firms buying rather than generating car accident leads organically, this is the complete purchase-to-conversion playbook, from vendor vetting to close.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-30",
@@ -115,6 +119,8 @@ export const carAccidentStrategicGuidesArticles: Article[] = [
     metaTitle: "Buying Car Accident Injury Leads Guide",
     excerpt:
       "Specifically for injury-focused (versus property-damage-only) car accident leads, here's what buyers should prioritize in evaluating a provider.",
+    metaDescription:
+      "Specifically for injury-focused car accident leads, here's what law firm buyers should prioritize when evaluating a lead provider before signing a contract.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-08-30",

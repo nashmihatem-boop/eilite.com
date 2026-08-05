@@ -79,7 +79,7 @@ export const seoDeepDiveArticles: Article[] = [
   },
   {
     slug: "attorney-seo",
-    title: "Attorney SEO: Building Individual Search Visibility, Not Just Firm-Level Rankings",
+    title: "Attorney SEO: Building Individual Search Visibility",
     metaTitle: "Attorney SEO: Building Personal Search Visibility",
     excerpt:
       "Beyond the firm's overall rankings, individual attorneys increasingly need their own search presence. Here's how personal brand SEO works for lawyers specifically.",

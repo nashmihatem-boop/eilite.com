@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch15Articles: Article[] = [
   {
     slug: "traumatic-brain-injuries-in-personal-injury-cases-medical-and-legal-considerations",
-    title: "Traumatic Brain Injuries in Personal Injury Cases: Medical and Legal Considerations",
+    title: "Traumatic Brain Injuries in Personal Injury Cases",
     metaTitle: "TBI in Personal Injury Cases: Medical & Legal Guide",
     metaDescription:
       "Learn how traumatic brain injuries in personal injury cases are diagnosed, documented, and evaluated, including mild TBI, concussions, and long-term effects.",
@@ -254,7 +254,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "burn-injuries-in-personal-injury-cases-medical-classification-and-legal-considerations",
-    title: "Burn Injuries in Personal Injury Cases: Medical Classification and Legal Considerations",
+    title: "Burn Injuries in Personal Injury Cases: Classification & Care",
     metaTitle: "Burn Injuries in Personal Injury Cases: A Full Guide",
     metaDescription:
       "Explore burn injuries personal injury cases involve, including classification by depth and TBSA, treatment phases, damages, and expert witness roles.",
@@ -397,7 +397,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "soft-tissue-injuries-in-personal-injury-claims-understanding-the-medical-and-legal-landscape",
-    title: "Soft Tissue Injuries in Personal Injury Claims: Understanding the Medical and Legal Landscape",
+    title: "Soft Tissue Injuries in Personal Injury Claims",
     metaTitle: "Soft Tissue Injuries in Personal Injury Claims Explained",
     metaDescription:
       "Learn how soft tissue injuries personal injury claims involve are diagnosed and documented, from whiplash to ligament damage and treatment approaches.",
@@ -499,7 +499,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "bone-fractures-in-personal-injury-cases-medical-and-legal-considerations",
-    title: "Bone Fractures in Personal Injury Cases: Medical and Legal Considerations",
+    title: "Bone Fractures in Personal Injury Cases: A Guide",
     metaTitle: "Bone Fractures in Personal Injury Cases: Full Guide",
     metaDescription:
       "See how bone fractures personal injury cases involve are classified, treated, and evaluated, from fracture types to healing complications and expert testimony.",
@@ -638,7 +638,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "internal-injuries-in-personal-injury-cases-understanding-hidden-trauma",
-    title: "Internal Injuries in Personal Injury Cases: Understanding Hidden Trauma",
+    title: "Internal Injuries in Personal Injury Cases",
     metaTitle: "Internal Injuries in Personal Injury Cases Explained",
     metaDescription:
       "Understand internal injuries personal injury cases involve, including internal bleeding diagnosis, organ damage, and the symptoms that signal hidden trauma.",
@@ -749,7 +749,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "neck-and-back-injuries-in-personal-injury-cases-a-comprehensive-overview",
-    title: "Neck and Back Injuries in Personal Injury Cases: A Comprehensive Overview",
+    title: "Neck and Back Injuries in Personal Injury Cases",
     metaTitle: "Neck and Back Injuries in Personal Injury Cases",
     metaDescription:
       "A guide to neck and back injuries personal injury cases involve, covering spinal cord trauma, disc herniation, vertebral fractures, and pre-existing conditions.",
@@ -1036,7 +1036,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "the-other-side-of-the-uber-litigation-why-pi-firms-aren-t-the-villains",
-    title: "The Other Side of the Uber Litigation: Why PI Firms Aren't the Villains",
+    title: "The Other Side of the Uber Litigation Debate",
     metaTitle: "The Other Side of the Uber RICO Litigation Debate",
     metaDescription:
       "A counterpoint on the Uber RICO litigation personal injury firms face, examining access to justice, insurance costs, and lien-based billing practices.",
@@ -1457,7 +1457,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "understanding-medical-liens-a-patient-s-guide-to-treatment-after-accidents",
-    title: "Understanding Medical Liens: A Patient's Guide to Treatment After Accidents",
+    title: "Understanding Medical Liens After an Accident",
     metaTitle: "Understanding Medical Liens After an Accident",
     metaDescription:
       "Understand medical liens, how they let accident victims get treatment without paying upfront, how they're negotiated, and how they affect a final settlement.",
@@ -1618,7 +1618,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "how-insurance-companies-calculate-settlement-offers-what-you-need-to-know",
-    title: "How Insurance Companies Calculate Settlement Offers: What You Need to Know",
+    title: "How Insurance Companies Calculate Settlement Offers",
     metaTitle: "How Insurance Companies Calculate Settlement Offers",
     metaDescription:
       "Learn how insurance companies calculate settlement offers, from multiplier formulas to Colossus software, and what shapes the number an adjuster proposes.",
@@ -1927,7 +1927,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "what-to-do-after-a-car-accident-in-california-the-complete-step-by-step-guide",
-    title: "What to Do After a Car Accident in California: The Complete Step-by-Step Guide",
+    title: "What to Do After a Car Accident in California",
     metaTitle: "What to Do After a Car Accident in California",
     metaDescription:
       "A complete step-by-step guide to what to do after a car accident in California, covering safety, documentation, medical care, insurance, and deadlines.",
@@ -2118,7 +2118,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "do-i-need-a-lawyer-after-an-accident-when-to-hire-and-when-you-might-not",
-    title: "Do I Need a Lawyer After an Accident? When to Hire and When You Might Not",
+    title: "Do I Need a Lawyer After a Car Accident?",
     metaTitle: "Do I Need a Lawyer After a Car Accident?",
     metaDescription:
       "Do I need a lawyer after a car accident? This guide breaks down when hiring an attorney clearly helps, and when handling a claim yourself may be reasonable.",
@@ -2347,7 +2347,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "should-i-go-to-the-hospital-after-an-accident-why-immediate-medical-care-matters",
-    title: "Should I Go to the Hospital After an Accident? Why Immediate Medical Care Matters",
+    title: "Should I Go to the Hospital After an Accident?",
     metaTitle: "Should I Go to the Hospital After an Accident?",
     metaDescription:
       "Should I go to the hospital after an accident? Learn why delayed symptoms, internal injuries, and claim documentation make prompt medical care important.",
@@ -2548,7 +2548,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "how-long-does-a-personal-injury-settlement-take-realistic-timelines-explained",
-    title: "How Long Does a Personal Injury Settlement Take? Realistic Timelines Explained",
+    title: "How Long Does a Personal Injury Settlement Take?",
     metaTitle: "How Long Does a Personal Injury Settlement Take?",
     metaDescription:
       "How long does a personal injury settlement take? Realistic timelines range from a few months to several years, depending on injury severity and litigation.",
@@ -2666,7 +2666,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "how-much-is-my-personal-injury-case-worth-understanding-settlement-values",
-    title: "How Much Is My Personal Injury Case Worth? Understanding Settlement Values",
+    title: "How Much Is My Personal Injury Case Worth?",
     metaTitle: "How Much Is My Personal Injury Case Worth?",
     metaDescription:
       "How much is my personal injury case worth? Learn the framework insurers use, covering economic damages, pain and suffering, and liability clarity.",
@@ -2815,7 +2815,7 @@ export const competitorMatch15Articles: Article[] = [
   },
   {
     slug: "understanding-recovery-options-after-an-accident-with-an-uninsured-driver-in-california",
-    title: "Understanding Recovery Options After an Accident With an Uninsured Driver in California",
+    title: "Recovery Options After an Accident With an Uninsured Driver",
     metaTitle: "Recovery Options After an Uninsured Driver Accident",
     metaDescription:
       "Understanding recovery options after an accident with an uninsured driver in California, from UM/UIM coverage to civil remedies and state programs.",

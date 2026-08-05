@@ -9,6 +9,8 @@ export const buyPiLeadsCluster4Articles: Article[] = [
     metaTitle: "Buying & Nurturing Personal Injury Leads",
     excerpt:
       "Not every purchased lead converts on the first contact — building a genuine nurture process captures value that a single-attempt approach misses.",
+    metaDescription:
+      "Not every purchased personal injury lead converts on first contact. A genuine nurture process captures value that single-attempt outreach misses.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",

@@ -8,7 +8,7 @@ const ilRef = "how-to-generate-divorce-attorney-leads-in-illinois";
 export const divorceTxFlCaIlClusterArticles: Article[] = [
   {
     slug: "generating-and-converting-divorce-attorney-leads-in-california",
-    title: "Generating and Converting Divorce Attorney Leads in California: Mediation Alternatives",
+    title: "Divorce Attorney Leads in California: Mediation Options",
     metaTitle: "California Divorce Leads: Mediation Alternatives",
     excerpt:
       "California's active mediation and collaborative divorce community offers prospects a lower-conflict alternative, and firms should be prepared to discuss it credibly.",
@@ -62,7 +62,7 @@ export const divorceTxFlCaIlClusterArticles: Article[] = [
   },
   {
     slug: "generating-and-converting-divorce-attorney-leads-in-texas",
-    title: "Generating and Converting Divorce Attorney Leads in Texas: Jury Trial Considerations",
+    title: "Divorce Attorney Leads in Texas: Jury Trial Guide",
     metaTitle: "Texas Divorce Leads: Jury Trial Guide",
     excerpt:
       "Texas is one of the few states allowing jury trials in certain divorce matters, a distinctive procedural option worth explaining to prospects considering contested cases.",
@@ -116,7 +116,7 @@ export const divorceTxFlCaIlClusterArticles: Article[] = [
   },
   {
     slug: "how-to-generate-high-quality-divorce-attorney-leads-in-texas",
-    title: "How to Generate High-Quality Divorce Attorney Leads in Texas: Premarital Agreement Enforcement",
+    title: "Divorce Attorney Leads in Texas: Premarital Agreements",
     metaTitle: "Texas Divorce Leads: Premarital Agreements",
     excerpt:
       "Texas's community property default makes premarital agreements especially consequential, and disputes over their enforcement represent a distinct, valuable case category.",
@@ -170,7 +170,7 @@ export const divorceTxFlCaIlClusterArticles: Article[] = [
   },
   {
     slug: "generating-quality-divorce-attorney-leads-in-illinois",
-    title: "Generating Quality Divorce Attorney Leads in Illinois: Parenting Plan Requirements",
+    title: "Divorce Attorney Leads in Illinois: Parenting Plans",
     metaTitle: "Illinois Divorce Leads: Parenting Plans",
     excerpt:
       "Illinois requires detailed parenting plans in cases involving children, a specific procedural requirement worth explaining clearly to prospects with custody questions.",

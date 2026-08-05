@@ -565,7 +565,7 @@ export const contractorBatch18Articles: Article[] = [
   },
   {
     slug: "google-business-profile-menu-style-service-lists-do-they-help-contractors",
-    title: "Google Business Profile Menu-Style Service Lists: Do They Help Contractors?",
+    title: "Google Business Profile Menu-Style Service Lists",
     metaTitle: "GBP Service Lists: Do They Help Contractors?",
     excerpt: "Google Business Profile lets contractors list services with descriptions and pricing much like a restaurant menu, and it's underused.",
     metaDescription: "Whether Google Business Profile's menu-style services section actually helps contractors get found and booked, and how to set it up correctly.",
@@ -600,7 +600,7 @@ export const contractorBatch18Articles: Article[] = [
   },
   {
     slug: "google-business-profile-special-hours-setting-them-correctly-for-holidays",
-    title: "Google Business Profile Special Hours: Setting Them Correctly for Holidays",
+    title: "Google Business Profile: Setting Special Holiday Hours",
     metaTitle: "GBP Special Hours: Setting Holiday Hours",
     excerpt: "Incorrect holiday hours on Google Business Profile send customers away or generate frustrated calls to a closed office.",
     metaDescription: "How to set special hours correctly on Google Business Profile for holidays, avoiding the mistakes that send customers away or confused.",
@@ -635,7 +635,7 @@ export const contractorBatch18Articles: Article[] = [
   },
   {
     slug: "google-local-services-ads-for-multi-service-contractors-how-categories-work",
-    title: "Google Local Services Ads for Multi-Service Contractors: How Categories Work",
+    title: "Google LSA Categories for Multi-Service Contractors",
     metaTitle: "LSA Categories for Multi-Service Contractors",
     excerpt: "Contractors offering multiple trades need to understand how Local Services Ads categorizes and separates service types.",
     metaDescription: "How Google Local Services Ads handles category selection for contractors offering multiple trades, and how to structure it correctly.",

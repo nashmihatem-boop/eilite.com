@@ -61,6 +61,8 @@ export const attorneyGlossary7Articles: Article[] = [
     metaTitle: "Attorney Leads Pricing: Cost and Value Guide",
     excerpt:
       "Understanding the relationship between what you pay and the actual value received, across the range of attorney lead pricing models available.",
+    metaDescription:
+      "A guide to understanding the relationship between what you pay and the actual value received, across the full range of attorney lead pricing models available.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-03",

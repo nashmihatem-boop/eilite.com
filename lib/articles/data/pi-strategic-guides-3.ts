@@ -9,6 +9,8 @@ export const piStrategicGuides3Articles: Article[] = [
     metaTitle: "Generating & Converting PI Leads Guide",
     excerpt:
       "Generation and conversion are two distinct disciplines that need to work together — here's how to build strength in both rather than excelling at only one.",
+    metaDescription:
+      "Generation and conversion are distinct disciplines that must work together. A strategic guide to building genuine strength in both, not just one.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-27",
@@ -62,6 +64,8 @@ export const piStrategicGuides3Articles: Article[] = [
     metaTitle: "Generating Personal Injury Attorney Leads",
     excerpt:
       "An attorney-focused perspective on lead generation strategy, emphasizing what individual attorneys can control even within a larger firm structure.",
+    metaDescription:
+      "An attorney-focused lead generation strategy guide, emphasizing what individual attorneys can control even within a larger firm structure.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-08-27",
@@ -115,6 +119,8 @@ export const piStrategicGuides3Articles: Article[] = [
     metaTitle: "Strategic Guide to Generating PI Leads",
     excerpt:
       "A concise, action-oriented framework for building personal injury lead generation from the ground up, whether starting fresh or optimizing an existing approach.",
+    metaDescription:
+      "A concise, action-oriented framework for building personal injury lead generation from scratch or improving an existing approach that has stalled.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-27",

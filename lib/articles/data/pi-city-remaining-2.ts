@@ -61,6 +61,8 @@ export const piCityRemaining2Articles: Article[] = [
     metaTitle: "Atlanta PI Attorney Leads Growth Blueprint",
     excerpt:
       "A step-by-step growth blueprint for firms building or scaling a personal injury practice specifically in the competitive Atlanta market.",
+    metaDescription:
+      "A step-by-step blueprint for firms building or scaling a personal injury practice in the competitive Atlanta market, from leads to case volume.",
     category: "Local SEO & City Guides",
     readTime: "7 min read",
     publishedDate: "2026-08-29",

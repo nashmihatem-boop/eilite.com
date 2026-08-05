@@ -9,6 +9,8 @@ export const buyPiLeadsCluster2Articles: Article[] = [
     metaTitle: "Buy Personal Injury Leads: Buyer's Overview",
     excerpt:
       "A complete overview covering pricing, exclusivity, delivery formats, and evaluation criteria for firms buying personal injury leads.",
+    metaDescription:
+      "A complete buyer's overview covering pricing, exclusivity, delivery formats, and evaluation criteria for law firms buying personal injury leads.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-08",
@@ -61,6 +63,8 @@ export const buyPiLeadsCluster2Articles: Article[] = [
     metaTitle: "Buying Personal Injury Leads in 2026",
     excerpt:
       "A current look at how the personal injury lead market has evolved, and what buyers should expect and prioritize this year specifically.",
+    metaDescription:
+      "A current look at how the personal injury lead market has evolved heading into 2026, and what buyers should expect and prioritize this year.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-08",

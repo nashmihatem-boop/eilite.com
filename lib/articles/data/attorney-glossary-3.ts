@@ -7,6 +7,8 @@ export const attorneyGlossary3Articles: Article[] = [
     metaTitle: "General Practice Attorney Lead Providers",
     excerpt:
       "For general practice firms handling a range of matters, lead providers need to support flexible targeting across multiple practice areas at once.",
+    metaDescription:
+      "General practice law firms need lead providers that support flexible targeting across multiple practice areas at once, not a single-vertical focus.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-02",
@@ -56,10 +58,12 @@ export const attorneyGlossary3Articles: Article[] = [
   },
   {
     slug: "attorney-general-services-leads",
-    title: "Attorney General Services Leads: Serving a Broad Client Base Efficiently",
+    title: "Attorney General Services Leads: A Guide for Broad Practices",
     metaTitle: "Attorney General Services Leads",
     excerpt:
       "Firms offering a wide range of legal services face unique marketing and intake challenges compared to specialized practices.",
+    metaDescription:
+      "Firms offering a wide range of legal services face unique marketing and intake challenges compared to specialized practices, and leads need different vetting.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-02",
@@ -113,6 +117,8 @@ export const attorneyGlossary3Articles: Article[] = [
     metaTitle: "Attorney Internet Advertising Overview",
     excerpt:
       "A practical overview of the main internet advertising formats available to attorneys, and how to think about allocating budget across them.",
+    metaDescription:
+      "A practical overview of the main internet advertising formats available to attorneys, covering how to think about allocating budget across each channel.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-02",

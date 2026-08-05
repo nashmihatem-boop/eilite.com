@@ -61,6 +61,8 @@ export const miscBatch14Articles: Article[] = [
     metaTitle: "Crafting a Winning Law Firm Marketing Plan",
     excerpt:
       "A structured approach to building a complete marketing plan, from positioning through channel selection through measurement.",
+    metaDescription:
+      "A structured approach to building a complete law firm marketing plan, from positioning through channel selection through ongoing performance measurement.",
     category: "Law Firm Marketing",
     readTime: "8 min read",
     publishedDate: "2026-09-21",

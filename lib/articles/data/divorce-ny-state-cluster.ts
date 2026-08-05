@@ -5,7 +5,7 @@ const nyRelated = ["how-to-get-quality-divorce-attorney-leads-in-new-york", "div
 export const divorceNyStateClusterArticles: Article[] = [
   {
     slug: "how-to-generate-and-convert-divorce-attorney-leads-in-new-york",
-    title: "How to Generate and Convert Divorce Attorney Leads in New York: Maintenance Guidelines",
+    title: "Converting NY Divorce Attorney Leads: Maintenance Guidelines",
     metaTitle: "New York Divorce Leads: Maintenance Guidelines",
     excerpt:
       "New York's statutory formula for calculating spousal maintenance gives prospects a more predictable starting point than most states, which content should address directly.",
@@ -59,7 +59,7 @@ export const divorceNyStateClusterArticles: Article[] = [
   },
   {
     slug: "how-to-generate-divorce-attorney-leads-in-new-york",
-    title: "How to Generate Divorce Attorney Leads in New York: Upstate vs. Downstate",
+    title: "Divorce Attorney Leads in New York: Upstate vs. Downstate",
     metaTitle: "New York Divorce Leads: Upstate vs. Downstate",
     excerpt:
       "New York's downstate and upstate regions represent genuinely different markets in cost of living, case value, and competition. Here's why one statewide approach underperforms.",
@@ -105,10 +105,12 @@ export const divorceNyStateClusterArticles: Article[] = [
   },
   {
     slug: "how-to-generate-divorce-attorney-leads-in-new-york-ny",
-    title: "How to Generate Divorce Attorney Leads in New York, NY: Westchester and Long Island Suburbs",
+    title: "NY Divorce Attorney Leads: Westchester & Long Island",
     metaTitle: "NY Divorce Leads: Westchester & Long Island",
     excerpt:
       "The affluent suburbs surrounding New York City represent a distinct, high-value divorce market often overlooked in favor of Manhattan-focused strategies.",
+    metaDescription:
+      "Westchester and Long Island's affluent suburbs are a distinct, high-value divorce market that's often overlooked in favor of Manhattan-focused lead strategies.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-17",
@@ -150,10 +152,12 @@ export const divorceNyStateClusterArticles: Article[] = [
   },
   {
     slug: "how-to-generate-high-quality-divorce-attorney-leads-in-new-york",
-    title: "How to Generate High-Quality Divorce Attorney Leads in New York: Prenuptial Agreement Disputes",
+    title: "High-Quality NY Divorce Leads: Prenup Agreement Disputes",
     metaTitle: "NY Divorce Leads: Prenup Dispute Guide",
     excerpt:
       "New York's concentration of significant premarital wealth makes prenuptial agreement enforcement and challenges a recurring, valuable case category.",
+    metaDescription:
+      "New York's concentration of premarital wealth makes prenuptial agreement enforcement and challenges a recurring, high-value divorce case category to target.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-17",

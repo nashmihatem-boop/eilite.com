@@ -5,7 +5,7 @@ const buyLeadsRel = ["advertisers", "aged-leads"];
 export const keywordBatch8Articles: Article[] = [
   {
     slug: "buy-life-insurance-leads",
-    title: "Buy Life Insurance Leads: A Guide to a Longer, Underwriting-Driven Sale",
+    title: "Buy Life Insurance Leads: A Guide to the Underwriting Sale",
     metaTitle: "Buy Life Insurance Leads Guide",
     excerpt: "Why term and whole life leads demand a longer consideration cycle and health-based underwriting most other insurance products don't require.",
     metaDescription: "Life insurance leads carry a longer sales cycle and real health underwriting. Learn what agents should evaluate before buying term or whole life leads.",
@@ -73,7 +73,7 @@ export const keywordBatch8Articles: Article[] = [
   {
     slug: "buy-medicare-leads",
     title: "Buy Medicare Leads: A Guide to Age-In and AEP-Driven Enrollment",
-    metaTitle: "Buy Medicare Leads Guide",
+    metaTitle: "Buy Medicare Leads: Age-In and AEP Enrollment Guide",
     excerpt: "How Medicare's age-65 eligibility rule and Annual Enrollment Period timing set it apart from every other insurance lead category.",
     metaDescription: "Medicare leads are gated by age-65 eligibility and the Annual Enrollment Period, with Advantage and Supplement prospects behaving very differently.",
     category: "Medicare Leads",
@@ -204,7 +204,7 @@ export const keywordBatch8Articles: Article[] = [
   {
     slug: "buy-roofing-leads",
     title: "Buy Roofing Leads: A Guide for Contractors",
-    metaTitle: "Buy Roofing Leads Guide",
+    metaTitle: "Buy Roofing Leads: A Guide for Storm-Damage Buyers",
     excerpt: "A guide to purchasing roofing leads through a compliant, reliable marketplace.",
     metaDescription: "Roofing leads range from storm-damage urgency to casual research. Learn what contractors should evaluate before purchasing leads through a compliant marketplace.",
     category: "Home Services Marketing",
@@ -239,7 +239,7 @@ export const keywordBatch8Articles: Article[] = [
   {
     slug: "buy-solar-leads",
     title: "Buy Solar Leads: A Guide for Installers",
-    metaTitle: "Buy Solar Leads Guide",
+    metaTitle: "Buy Solar Leads: A Compliant Marketplace Guide",
     excerpt: "A guide to purchasing solar leads through a compliant, reliable marketplace.",
     metaDescription: "Solar leads require real homeowner intent, not just curiosity. Learn what installers should evaluate before purchasing through a compliant marketplace.",
     category: "Home Services Marketing",
@@ -309,7 +309,7 @@ export const keywordBatch8Articles: Article[] = [
   {
     slug: "buy-window-leads",
     title: "Buy Window Leads: A Guide for Contractors",
-    metaTitle: "Buy Window Leads Guide",
+    metaTitle: "Buy Window Leads: A Compliant Marketplace Guide",
     excerpt: "A guide to purchasing window replacement leads through a compliant, reliable marketplace.",
     metaDescription: "Window replacement leads vary by project size and urgency. Learn what contractors should evaluate before purchasing leads through a compliant, reliable marketplace.",
     category: "Home Services Marketing",
@@ -379,7 +379,7 @@ export const keywordBatch8Articles: Article[] = [
   {
     slug: "cabinet-leads",
     title: "Cabinet Leads: A Guide for Cabinetry and Refacing Companies",
-    metaTitle: "Cabinet Leads Guide",
+    metaTitle: "Cabinet Leads: Installation, Refacing, Refinishing",
     excerpt: "A guide to sourcing and converting leads for cabinet installation, refacing, and refinishing.",
     metaDescription: "Cabinet installation, refacing, and refinishing each attract a different customer. Learn how companies source and convert leads across these distinct project types.",
     category: "Home Services Marketing",

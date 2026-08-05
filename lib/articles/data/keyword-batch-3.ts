@@ -227,7 +227,7 @@ export const keywordBatch3Articles: Article[] = [
   {
     slug: "ai-lead-scoring",
     title: "AI Lead Scoring: How It Works and Why It Matters",
-    metaTitle: "AI Lead Scoring Guide",
+    metaTitle: "AI Lead Scoring: How It Works, Why It Matters",
     excerpt: "Understanding how artificial intelligence ranks and prioritizes leads along a spectrum of likely value.",
     metaDescription: "AI lead scoring ranks prospects by likely value using behavioral and firmographic signals — here's how the models work and where they can mislead sales teams.",
     category: "Tools & Technology",
@@ -367,7 +367,7 @@ export const keywordBatch3Articles: Article[] = [
   {
     slug: "annuity-leads",
     title: "Annuity Leads: A Guide for Financial Advisors",
-    metaTitle: "Annuity Leads Guide",
+    metaTitle: "Annuity Leads: A Sourcing Guide for Advisors Today",
     excerpt: "A guide to sourcing and converting leads for prospects interested in annuity products.",
     metaDescription: "Annuity leads require careful compliance and long sales cycles — learn how advisors source, qualify, and convert prospects shopping for retirement income.",
     category: "Financial Leads",
@@ -572,7 +572,7 @@ export const keywordBatch3Articles: Article[] = [
   {
     slug: "appointment-leads",
     title: "Appointment Leads: A Guide for Buyers",
-    metaTitle: "Appointment Leads Guide",
+    metaTitle: "Appointment Leads: A Buyer's Guide to This Format",
     excerpt: "Understanding appointment leads as a distinct lead product across industries.",
     metaDescription: "Appointment leads promise a scheduled meeting rather than raw contact data — this guide explains how the format works and when it's worth the premium.",
     category: "Lead Generation Basics",

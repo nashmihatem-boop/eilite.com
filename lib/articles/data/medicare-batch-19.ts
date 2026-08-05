@@ -155,6 +155,8 @@ export const medicareBatch19Articles: Article[] = [
     title: "The Best Age Group for Medicare Leads: A Strategic Guide",
     metaTitle: "The Best Age Group for Medicare Leads",
     excerpt: "A strategic guide to which age segments within Medicare eligibility tend to convert best for different agent strategies.",
+    metaDescription:
+      "Not all Medicare-eligible age segments convert equally. A strategic guide to which age groups perform best across different agent outreach strategies.",
     category: "Medicare Leads",
     readTime: "7 min read",
     publishedDate: "2026-11-18",
@@ -655,7 +657,7 @@ export const medicareBatch19Articles: Article[] = [
   },
   {
     slug: "tips-for-home-services-providers-working-with-lead-generation-companies",
-    title: "Tips for Home Services Providers Working With Lead Generation Companies",
+    title: "Tips for Home Services Providers on Lead Gen Companies",
     metaTitle: "Working With Lead Generation Companies",
     excerpt: "Practical tips for home services providers on evaluating and working effectively with lead generation vendors.",
     metaDescription: "Practical tips for home services providers on evaluating and working with lead generation vendors, covering red flags and realistic performance expectations.",

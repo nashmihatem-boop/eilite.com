@@ -9,6 +9,8 @@ export const divorceLeadTypeCluster2Articles: Article[] = [
     metaTitle: "Exclusive vs. Shared Divorce Leads Strategy",
     excerpt:
       "Beyond the basic comparison, here's how firm size and growth stage should specifically influence the exclusive-versus-shared decision for divorce leads.",
+    metaDescription:
+      "Beyond the basic comparison, here's how firm size and growth stage should influence the exclusive-versus-shared decision when buying divorce leads.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",
@@ -62,6 +64,8 @@ export const divorceLeadTypeCluster2Articles: Article[] = [
     metaTitle: "High-Intent Divorce Leads Strategic Guide",
     excerpt:
       "Not every divorce inquiry reflects the same level of readiness to act. Here's how to identify and prioritize genuinely high-intent prospects.",
+    metaDescription:
+      "Not every divorce inquiry reflects the same level of readiness to act. Here's a strategic framework for identifying and prioritizing high-intent prospects.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-16",

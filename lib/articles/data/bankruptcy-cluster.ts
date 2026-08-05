@@ -68,10 +68,12 @@ export const bankruptcyClusterArticles: Article[] = [
   },
   {
     slug: "bankruptcy-lawyer-marketing",
-    title: "Bankruptcy Lawyer Marketing: Reaching Clients Who Are Often Embarrassed to Search",
+    title: "Bankruptcy Lawyer Marketing: Reaching Embarrassed Clients",
     metaTitle: "Bankruptcy Lawyer Marketing Strategies",
     excerpt:
       "Financial distress carries stigma that affects how and where people search for help. Here's how bankruptcy marketing should account for that reality.",
+    metaDescription:
+      "Financial distress carries stigma that shapes how and where people search for legal help. How bankruptcy lawyer marketing should account for that reality.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-06",

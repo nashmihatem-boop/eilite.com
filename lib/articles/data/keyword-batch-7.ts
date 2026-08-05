@@ -5,7 +5,7 @@ const buyLeadsRel = ["advertisers", "aged-leads"];
 export const keywordBatch7Articles: Article[] = [
   {
     slug: "buy-aca-leads",
-    title: "Buy ACA Leads: A Guide to Marketplace Health Insurance Enrollment Leads",
+    title: "Buy ACA Leads: A Guide to Marketplace Enrollment Leads",
     metaTitle: "Buy ACA Leads: Marketplace Enrollment Guide",
     excerpt: "How ACA marketplace lead generation differs from general health insurance leads, and what to verify before buying.",
     metaDescription: "ACA leads hinge on enrollment windows and subsidy eligibility, not just coverage interest. Learn what separates a genuinely qualified marketplace lead.",
@@ -62,7 +62,7 @@ export const keywordBatch7Articles: Article[] = [
   {
     slug: "buy-annuity-leads",
     title: "Buy Annuity Leads: A Guide for Financial Professionals",
-    metaTitle: "Buy Annuity Leads Guide",
+    metaTitle: "Buy Annuity Leads: A Guide for Financial Advisors",
     excerpt: "A guide to purchasing annuity leads through a compliant, reliable marketplace.",
     metaDescription: "A practical guide to buying annuity leads: which delivery formats convert best, what compliant vendors disclose upfront, and how to budget for steady volume.",
     category: "Financial Leads",
@@ -246,7 +246,7 @@ export const keywordBatch7Articles: Article[] = [
     title: "Buy Bathroom Remodel Leads: A Guide for Contractors",
     metaTitle: "Buy Bathroom Remodel Leads Guide",
     excerpt: "A guide to the delivery formats available for buying bathroom remodel leads, and why bathroom's smaller ticket size and faster shopping cycle favor higher-volume purchasing strategies.",
-    metaDescription: "Contractors buying bathroom remodel leads should know why this category's smaller average ticket and faster shopping window make volume-driven formats like real-time and live transfer a strong fit.",
+    metaDescription: "Bathroom remodel leads have smaller tickets and faster shopping windows, making real-time and live-transfer delivery formats a strong fit for volume buyers.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-11-27",
@@ -855,7 +855,7 @@ export const keywordBatch7Articles: Article[] = [
   {
     slug: "buy-hvac-leads",
     title: "Buy HVAC Leads: A Guide for Contractors",
-    metaTitle: "Buy HVAC Leads Guide",
+    metaTitle: "Buy HVAC Leads: A Complete Guide for Contractors",
     excerpt: "A guide to purchasing HVAC leads through a compliant, reliable marketplace.",
     metaDescription: "Contractors buying HVAC leads should understand how seasonality, service type, and exclusivity affect pricing and close rates before committing budget.",
     category: "Home Services Marketing",
@@ -1043,7 +1043,7 @@ export const keywordBatch7Articles: Article[] = [
     title: "Buy Kitchen Remodel Leads: A Guide for Contractors",
     metaTitle: "Buy Kitchen Remodel Leads Guide",
     excerpt: "A guide to the delivery formats available for buying kitchen remodel leads, and why kitchen's higher ticket size and longer consideration cycle favor higher-touch, lower-volume purchasing strategies.",
-    metaDescription: "Contractors buying kitchen remodel leads should know why this category's larger average ticket and scarcer lead volume make exclusive and transfer-based formats easier to justify than pure volume buying.",
+    metaDescription: "Kitchen remodel leads carry a higher ticket and longer sales cycle, so exclusive and transfer-based formats are easier to justify than pure volume buying.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-11-27",
@@ -1162,7 +1162,7 @@ export const keywordBatch7Articles: Article[] = [
   {
     slug: "buy-legal-leads",
     title: "Buy Legal Leads: A Foundational Guide for Law Firms",
-    metaTitle: "Buy Legal Leads Guide",
+    metaTitle: "Buy Legal Leads: A Foundational Guide for Firms",
     excerpt: "A foundational guide to purchasing leads across legal practice areas.",
     metaDescription: "A foundational guide to buying legal leads across practice areas, covering pricing models, exclusivity, and what compliant intake looks like before you commit.",
     category: "Legal Leads",

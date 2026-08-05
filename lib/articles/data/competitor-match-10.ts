@@ -280,7 +280,7 @@ export const competitorMatch10Articles: Article[] = [
   },
   {
     slug: "the-5-minute-rule-why-injury-firms-lose-40-of-their-car-accident-leads-before-anyone-says-hello",
-    title: "The 5-Minute Rule: Why Injury Firms Lose Car Accident Leads Before Intake Even Starts",
+    title: "The 5-Minute Rule: Why Injury Firms Lose Car Accident Leads",
     metaTitle: "The 5-Minute Rule for Car Accident Leads",
     metaDescription:
       "The 5-minute rule for personal injury leads explains how slow callback speed quietly kills car accident lead conversion before intake begins.",

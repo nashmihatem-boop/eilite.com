@@ -181,7 +181,7 @@ export const divorceSubnichesArticles: Article[] = [
   },
   {
     slug: "generating-contested-divorce-leads-the-lawyers-2026-strategy",
-    title: "Generating Contested Divorce Leads: A 2026 Strategy for Family Law Firms",
+    title: "Generating Contested Divorce Leads: A 2026 Strategy",
     metaTitle: "Contested Divorce Leads: A 2026 Strategy",
     excerpt:
       "Contested divorces are longer, more complex, and more valuable than uncontested cases — but they require a different intake and follow-up approach. Here's how to build a pipeline for them specifically.",

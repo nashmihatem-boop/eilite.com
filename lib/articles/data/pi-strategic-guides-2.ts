@@ -71,6 +71,7 @@ export const piStrategicGuides2Articles: Article[] = [
     metaTitle: "Sourcing Quality Personal Injury Leads",
     excerpt:
       "Where a lead actually comes from significantly affects its eventual quality. Here's how to evaluate sourcing methods before choosing a provider.",
+    metaDescription: "Where a personal injury lead comes from significantly affects its eventual quality. A lawyer's guide to evaluating sourcing methods before choosing a provider.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-27",
@@ -124,6 +125,7 @@ export const piStrategicGuides2Articles: Article[] = [
     metaTitle: "Marketing Blueprint for PI Law Firms",
     excerpt:
       "A complete, sequential blueprint connecting brand positioning, channel selection, and intake into one coherent personal injury marketing strategy.",
+    metaDescription: "A complete, sequential blueprint connecting brand positioning, channel selection, and intake into one coherent personal injury marketing strategy for law firms.",
     category: "Personal Injury Marketing",
     readTime: "8 min read",
     publishedDate: "2026-08-27",

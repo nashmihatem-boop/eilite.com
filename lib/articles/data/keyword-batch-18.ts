@@ -78,7 +78,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "gutter-leads",
     title: "Gutter Leads: A Broader Guide to This Category",
-    metaTitle: "Gutter Leads Guide",
+    metaTitle: "Gutter Leads Guide: Cleaning, Repair & Replacement",
     excerpt: "A broader guide to gutter-related leads spanning cleaning, repair, replacement, and guard installation.",
     metaDescription: "Gutter leads span cleaning, repair, replacement, and guards, each with different intent. Learn how to route prospects to the right service and price tier fast.",
     category: "Home Services Marketing",
@@ -287,7 +287,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "handyman-leads",
     title: "Handyman Leads: A Guide for Multi-Service Professionals",
-    metaTitle: "Handyman Leads Guide",
+    metaTitle: "Handyman Leads Guide for Multi-Service Contractors",
     excerpt: "A guide to sourcing and converting leads for general handyman and multi-trade repair services.",
     metaDescription: "Handyman leads cover dozens of small repair jobs at once, making qualification tricky. Learn how multi-trade pros filter genuine requests from tire-kickers.",
     category: "Home Services Marketing",
@@ -586,7 +586,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "heloc-leads",
     title: "HELOC Leads: A Guide for Lenders",
-    metaTitle: "HELOC Leads Guide",
+    metaTitle: "HELOC Leads Guide: What Mortgage Lenders Should Verify",
     excerpt: "A guide to sourcing and converting leads for home equity lines of credit.",
     metaDescription: "HELOC leads depend on home equity position and credit profile before they're worth pursuing. Learn what lenders should verify before spending follow-up time.",
     category: "Financial Leads",
@@ -958,7 +958,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "high-intent-leads",
     title: "High-Intent Leads: A Foundational Guide Across B2B and B2C",
-    metaTitle: "High-Intent Leads Guide",
+    metaTitle: "High-Intent Leads Guide for B2B and B2C Sales",
     excerpt: "A foundational guide to high-intent leads applying across both consumer and business buying contexts.",
     metaDescription: "High-intent leads work differently across B2B and B2C buying cycles, yet share common warning signs. A foundational guide covering both contexts.",
     category: "Lead Generation Basics",
@@ -1033,7 +1033,7 @@ export const keywordBatch18Articles: Article[] = [
   {
     slug: "home-equity-leads",
     title: "Home Equity Leads: A Foundational Guide for Lenders",
-    metaTitle: "Home Equity Leads Guide",
+    metaTitle: "Home Equity Leads: A Foundational Guide for Lenders",
     excerpt: "A foundational guide to home equity leads spanning HELOCs, fixed loans, and cash-out refinancing.",
     metaDescription: "Home equity leads span HELOCs, fixed loans, and cash-out refinancing, each drawing a different borrower. Learn how lenders source and segment this category.",
     category: "Financial Leads",
@@ -1107,7 +1107,7 @@ export const keywordBatch18Articles: Article[] = [
   },
   {
     slug: "home-improvement-lead-generation-companies",
-    title: "Home Improvement Lead Generation Companies: How the Industry Is Structured",
+    title: "Home Improvement Lead Generation Companies: An Overview",
     metaTitle: "Home Improvement Lead Generation Companies Explained",
     excerpt: "A landscape overview of what home improvement lead generation companies actually do and how the supply chain behind them is structured.",
     metaDescription: "An overview of how the home improvement lead generation industry is structured, from broad marketplaces and franchise co-ops to specialized trade providers.",

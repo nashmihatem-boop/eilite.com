@@ -71,6 +71,8 @@ export const ppcClusterArticles: Article[] = [
     metaTitle: "PPC Ad Copy for Lawyers That Converts",
     excerpt:
       "With such high costs per click, every word in a legal ad needs to earn its place. Here's what specifically makes attorney ad copy convert better.",
+    metaDescription:
+      "With such high costs per click, every word in a legal ad needs to earn its place. Here's what specifically makes attorney PPC ad copy convert better.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-05",
@@ -191,10 +193,12 @@ export const ppcClusterArticles: Article[] = [
   },
   {
     slug: "ppc-for-attorneys",
-    title: "PPC for Attorneys: Understanding Quality Score and Why It Affects Your Costs",
+    title: "PPC for Attorneys: Understanding Quality Score",
     metaTitle: "PPC Quality Score for Attorneys Explained",
     excerpt:
       "Two firms bidding the same amount can pay very different prices per click, based on quality score. Here's what it is and how attorneys can improve it.",
+    metaDescription:
+      "Two firms bidding the same amount can pay very different prices per click based on quality score. Here's what it is and how attorneys can improve it.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-05",

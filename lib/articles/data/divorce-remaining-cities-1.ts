@@ -145,6 +145,8 @@ export const divorceRemainingCities1Articles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Jacksonville, FL",
     excerpt:
       "Jacksonville's significant military population and more traditionally residential character distinguish it from Florida's tourist-heavy southern metros.",
+    metaDescription:
+      "Jacksonville has a significant military population and a traditionally residential character, distinct from Florida's tourist-heavy southern metros.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-17",

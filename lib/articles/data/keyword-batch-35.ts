@@ -40,7 +40,7 @@ export const keywordBatch35Articles: Article[] = [
   {
     slug: "pay-per-lead",
     title: "Pay-Per-Lead: A Foundational Pricing Model Guide",
-    metaTitle: "Pay-Per-Lead Guide",
+    metaTitle: "Pay-Per-Lead Pricing Model: A Foundational Guide",
     excerpt: "A foundational guide to the pay-per-lead pricing model, distinct from pay-per-call and other real-time formats.",
     metaDescription: "Pay-per-lead is one of several real-time pricing models in lead generation — this foundational guide explains how it works and how it differs from pay-per-call.",
     category: "Lead Generation Basics",
@@ -501,7 +501,7 @@ export const keywordBatch35Articles: Article[] = [
   {
     slug: "pest-control-leads",
     title: "Pest Control Leads: A Guide for Service Providers",
-    metaTitle: "Pest Control Leads Guide",
+    metaTitle: "Pest Control Leads: A Guide for Service Providers",
     excerpt: "A guide to sourcing and converting leads for residential and commercial pest control services.",
     metaDescription: "Residential and commercial pest control draw from different lead channels — this guide covers how service providers source and convert leads across both.",
     category: "Home Services Marketing",
@@ -567,7 +567,7 @@ export const keywordBatch35Articles: Article[] = [
   {
     slug: "ping-post-leads",
     title: "Ping Post Leads: Understanding This Delivery Format",
-    metaTitle: "Ping Post Leads Guide",
+    metaTitle: "Ping Post Leads: How This Delivery Format Works",
     excerpt: "A guide to understanding leads sold and delivered through ping post technology.",
     metaDescription: "Ping post is one of the most common lead delivery formats in the industry — this guide explains how leads are sold and delivered through ping post technology.",
     category: "Lead Generation Basics",
@@ -600,7 +600,7 @@ export const keywordBatch35Articles: Article[] = [
   {
     slug: "ping-tree-leads",
     title: "Ping Tree Leads: Understanding This Distribution Model",
-    metaTitle: "Ping Tree Leads Guide",
+    metaTitle: "Ping Tree Leads: How This Distribution Model Works",
     excerpt: "A guide to the ping tree hierarchical lead distribution model, distinct from a simple ping post exchange.",
     metaDescription: "Ping trees route leads through a hierarchy of buyers rather than a flat exchange — this guide explains how the distribution model differs from simple ping post.",
     category: "Lead Generation Basics",
@@ -633,7 +633,7 @@ export const keywordBatch35Articles: Article[] = [
   {
     slug: "plumbing-leads",
     title: "Plumbing Leads: A Guide for Contractors",
-    metaTitle: "Plumbing Leads Guide",
+    metaTitle: "Plumbing Leads: A Guide for Contractors & Providers",
     excerpt: "A guide to sourcing and converting leads for residential and commercial plumbing services.",
     metaDescription: "Plumbing calls range from emergency repairs to full remodels — this guide covers how residential and commercial contractors source and convert plumbing leads.",
     category: "Home Services Marketing",

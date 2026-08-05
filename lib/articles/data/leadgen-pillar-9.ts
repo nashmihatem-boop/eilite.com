@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar9Articles: Article[] = [
   {
     slug: "accredited-investor-leads-facebook-advertising",
-    title: "Generating Accredited Investor Leads: Where Facebook Fits and Where It Doesn't",
+    title: "Accredited Investor Leads: Where Facebook Fits (and Doesn't)",
     metaTitle: "Accredited Investor Leads and Facebook Advertising",
     metaDescription:
       "Can financial firms generate accredited investor leads on Facebook? What actually works, platform compliance limits, and better-fit channels.",

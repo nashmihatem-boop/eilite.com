@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar4Articles: Article[] = [
   {
     slug: "contractor-lead-generation",
-    title: "Contractor Lead Generation: How to Get More Qualified Jobs, Not Just More Calls",
+    title: "Contractor Lead Generation: More Qualified Jobs, Not Just Calls",
     metaTitle: "Contractor Lead Generation: The Complete Guide",
     metaDescription:
       "A complete guide to contractor lead generation across every trade — channels, exclusivity, pricing, and how to convert leads into booked jobs.",

@@ -67,7 +67,7 @@ export const immigrationClusterArticles: Article[] = [
   },
   {
     slug: "immigration-law-firm-leads",
-    title: "Immigration Law Firm Leads: Segmenting by Case Type for Better Conversion",
+    title: "Immigration Law Firm Leads: Segmenting by Case Type",
     metaTitle: "Immigration Law Firm Leads: Segmentation Guide",
     excerpt:
       "Family-based, employment, asylum, and deportation defense cases require different intake approaches entirely. Here's why segmenting leads by case type meaningfully improves conversion.",

@@ -102,6 +102,8 @@ export const divorceFlCitiesArticles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Tampa",
     excerpt:
       "Tampa Bay's more traditionally residential population and significant retiree community create a divorce market with different dynamics than Miami or Orlando.",
+    metaDescription:
+      "Tampa Bay's residential population and large retiree community create a divorce lead market with different dynamics than Miami or Orlando.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
@@ -147,6 +149,8 @@ export const divorceFlCitiesArticles: Article[] = [
     metaTitle: "Divorce Attorney Leads in Fort Lauderdale",
     excerpt:
       "Fort Lauderdale shares South Florida's international wealth concentration with Miami but maintains its own distinct court system and competitive landscape.",
+    metaDescription:
+      "Fort Lauderdale shares South Florida's international wealth with Miami but has its own distinct court system and competitive landscape for divorce leads.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-14",
@@ -192,6 +196,8 @@ export const divorceFlCitiesArticles: Article[] = [
     metaTitle: "Divorce Attorney Leads in West Palm Beach",
     excerpt:
       "West Palm Beach's concentration of significant wealth and a large seasonal resident population create some of the highest-value divorce cases in Florida.",
+    metaDescription:
+      "West Palm Beach's concentrated wealth and large seasonal resident population create some of the highest-value divorce cases in Florida.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-14",

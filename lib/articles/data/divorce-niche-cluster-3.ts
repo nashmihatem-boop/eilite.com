@@ -69,6 +69,7 @@ export const divorceNicheCluster3Articles: Article[] = [
     metaTitle: "International Divorce Leads: Cross-Border Growth",
     excerpt:
       "Firms building an international family law practice can grow through global professional networks that most domestic-only firms never tap into.",
+    metaDescription: "International divorce leads help firms grow through global professional networks that most domestic-only family law practices never manage to tap into.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-15",

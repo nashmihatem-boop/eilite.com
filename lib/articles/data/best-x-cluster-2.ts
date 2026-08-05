@@ -7,6 +7,8 @@ export const bestXCluster2Articles: Article[] = [
     metaTitle: "Best Law Firm Advertising Practices",
     excerpt:
       "Rather than naming specific firms, here are the common practices shared by law firm advertising that consistently performs well.",
+    metaDescription:
+      "Rather than naming specific firms, this guide breaks down the common practices shared by law firm advertising campaigns that consistently perform well.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-04",
@@ -64,10 +66,12 @@ export const bestXCluster2Articles: Article[] = [
   },
   {
     slug: "best-lawyer-seo",
-    title: "What Makes 'Best Lawyer SEO' a Meaningful Standard, Not Just a Marketing Claim",
+    title: "What Makes 'Best Lawyer SEO' a Meaningful Standard",
     metaTitle: "Best Lawyer SEO: A Meaningful Standard",
     excerpt:
       "Turning a vague marketing superlative into a concrete, checkable standard any firm can use to evaluate its own SEO work or a provider's.",
+    metaDescription:
+      "Turning a vague marketing superlative into a concrete, checkable standard any law firm can use to evaluate its own SEO work or a provider's claims.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-04",

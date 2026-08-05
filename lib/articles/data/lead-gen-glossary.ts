@@ -7,6 +7,7 @@ export const leadGenGlossaryArticles: Article[] = [
     metaTitle: "How Attorney Leads Work: The Full Process",
     excerpt:
       "From consumer submission to compliance screening to delivery, here's exactly what happens to an attorney lead before it ever reaches a law firm's phone.",
+    metaDescription: "A plain-English breakdown of what actually happens to an attorney lead, from a consumer's initial search through compliance screening to final delivery.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-02",

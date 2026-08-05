@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const piCityRemaining1Articles: Article[] = [
   {
     slug: "acquire-and-convert-personal-injury-leads-in-nyc",
-    title: "Acquire and Convert Personal Injury Leads in NYC: Multi-Borough Intake Strategy",
+    title: "Personal Injury Leads in NYC: Multi-Borough Intake Strategy",
     metaTitle: "NYC Personal Injury Leads: Intake Strategy",
     excerpt:
       "Converting NYC personal injury leads well requires intake staff who understand borough-specific court differences and can navigate the city's dense case volume efficiently.",

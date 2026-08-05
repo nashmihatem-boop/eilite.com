@@ -189,7 +189,7 @@ export const medicareBatch18Articles: Article[] = [
   {
     slug: "real-time-medicare-leads-boost-your-agent-pipeline",
     title: "Real-Time Medicare Leads: Boost Your Agent Pipeline",
-    metaTitle: "Real-Time Medicare Leads",
+    metaTitle: "Real-Time Medicare Leads: Keep Your Pipeline Full",
     excerpt: "How real-time Medicare leads work and how agents can use them to keep their pipeline consistently full.",
     metaDescription: "Real-time Medicare leads reach agents the moment a prospect shows interest, keeping the pipeline full instead of relying on batch delivery. Here's how it works.",
     category: "Medicare Leads",

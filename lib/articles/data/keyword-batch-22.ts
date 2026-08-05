@@ -385,7 +385,7 @@ export const keywordBatch22Articles: Article[] = [
   {
     slug: "insurance-leads-for-sale",
     title: "Insurance Leads for Sale: A Buyer's Guide",
-    metaTitle: "Insurance Leads for Sale",
+    metaTitle: "Insurance Leads for Sale: A Complete Buyer's Guide",
     excerpt: "A buyer's guide to finding and evaluating marketplaces selling insurance leads.",
     metaDescription: "A buyer's guide to finding and evaluating marketplaces selling insurance leads, covering pricing benchmarks, exclusivity options, and how to spot resellers.",
     category: "Insurance",
@@ -558,6 +558,7 @@ export const keywordBatch22Articles: Article[] = [
     title: "Insurance Upsell Leads: A Guide to Growing Policy Value",
     metaTitle: "Insurance Upsell Leads Guide",
     excerpt: "A guide to identifying and converting upsell opportunities within existing insurance policies, distinct from cross-selling.",
+    metaDescription: "A guide to identifying and converting upsell opportunities within existing insurance policies, distinct from cross-selling new coverage types.",
     category: "Insurance",
     readTime: "6 min read",
     publishedDate: "2026-12-12",
@@ -660,7 +661,7 @@ export const keywordBatch22Articles: Article[] = [
   {
     slug: "internet-leads",
     title: "Internet Leads: A Foundational Guide to Digital-Sourced Volume",
-    metaTitle: "Internet Leads Guide",
+    metaTitle: "Internet Leads Guide: How Digital-Sourced Volume Works",
     excerpt: "A foundational guide to internet leads, the broad category of digitally-sourced consumer contacts.",
     metaDescription: "A foundational guide to internet leads, the broad category of digitally-sourced consumer contacts, covering how they're generated, priced, and delivered.",
     category: "Lead Generation Basics",

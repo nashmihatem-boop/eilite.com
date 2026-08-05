@@ -9,6 +9,8 @@ export const piStrategicGuides4Articles: Article[] = [
     metaTitle: "Generating PI Leads for Law Firms",
     excerpt:
       "A firm-wide operational perspective on personal injury lead generation, addressing how marketing, intake, and case management should coordinate.",
+    metaDescription:
+      "A firm-wide operational perspective on personal injury lead generation, showing how marketing, intake, and case management should coordinate for growth.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-28",
@@ -62,6 +64,8 @@ export const piStrategicGuides4Articles: Article[] = [
     metaTitle: "Personal Injury Lawsuit Intake Leads Guide",
     excerpt:
       "The intake stage specifically — not lead generation broadly — deserves its own dedicated strategic attention given how much value can be lost here.",
+    metaDescription:
+      "Intake deserves its own dedicated strategic attention, not just lead generation broadly, given how much case value can be lost at this single stage.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-28",
@@ -115,6 +119,8 @@ export const piStrategicGuides4Articles: Article[] = [
     metaTitle: "Personal Injury Lead Conversion Guide",
     excerpt:
       "A focused, comprehensive look at everything that affects whether a personal injury lead actually becomes a signed, profitable case.",
+    metaDescription:
+      "A focused, comprehensive look at everything that affects whether a personal injury lead actually becomes a signed, profitable case for the firm.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-08-28",

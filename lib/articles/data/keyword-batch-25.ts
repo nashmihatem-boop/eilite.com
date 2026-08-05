@@ -462,7 +462,7 @@ export const keywordBatch25Articles: Article[] = [
   {
     slug: "lead-procurement",
     title: "Lead Procurement: A Formal, Enterprise-Style Approach",
-    metaTitle: "Lead Procurement Guide",
+    metaTitle: "Lead Procurement: An Enterprise Purchasing Guide",
     excerpt: "A guide to lead procurement as a formal, enterprise-level purchasing process.",
     metaDescription: "A guide to lead procurement as a formal, enterprise-level purchasing process, covering vendor evaluation and volume forecasting at organizational scale.",
     category: "Lead Generation Basics",
@@ -602,7 +602,7 @@ export const keywordBatch25Articles: Article[] = [
   {
     slug: "lead-return-policy",
     title: "Lead Return Policies: Understanding Refund and Credit Terms",
-    metaTitle: "Lead Return Policy Guide",
+    metaTitle: "Lead Return Policy Guide: Refunds & Credit Terms",
     excerpt: "A guide to lead return policies covering refunds and credits, distinct from replacement-only guarantees.",
     metaDescription: "A guide to lead return policies covering refunds and credits, distinct from replacement-only guarantees, and what terms to confirm before your first purchase.",
     category: "Lead Generation Basics",
@@ -672,7 +672,7 @@ export const keywordBatch25Articles: Article[] = [
   {
     slug: "lead-scoring-model",
     title: "Lead Scoring Models: Building the Underlying Methodology",
-    metaTitle: "Lead Scoring Model Guide",
+    metaTitle: "Lead Scoring Model Guide: Building the Methodology",
     excerpt: "A guide to the technical methodology behind building an effective lead scoring model.",
     metaDescription: "A guide to the technical methodology behind building an effective lead scoring model, covering which signals actually predict conversion versus intuition.",
     category: "Tools & Technology",

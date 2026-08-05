@@ -7,6 +7,8 @@ export const miscBatch2Articles: Article[] = [
     metaTitle: "Affordable Legal Leads: Finding Real Value",
     excerpt:
       "Affordable doesn't have to mean low-quality — here's how to find genuine value in legal lead pricing without falling for a race to the bottom.",
+    metaDescription:
+      "Affordable doesn't have to mean low-quality. Here's how to find genuine value in legal lead pricing without falling for a race-to-the-bottom vendor.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-11",
@@ -59,6 +61,8 @@ export const miscBatch2Articles: Article[] = [
     title: "Affordable Personal Injury Leads: What to Realistically Expect",
     metaTitle: "Affordable Personal Injury Leads Guide",
     excerpt:
+      "Setting realistic expectations for what affordable personal injury leads can and can't deliver, given this category's typically higher price points.",
+    metaDescription:
       "Setting realistic expectations for what affordable personal injury leads can and can't deliver, given this category's typically higher price points.",
     category: "Personal Injury",
     readTime: "6 min read",

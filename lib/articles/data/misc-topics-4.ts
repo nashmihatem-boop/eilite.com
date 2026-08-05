@@ -67,7 +67,7 @@ export const miscTopics4Articles: Article[] = [
   },
   {
     slug: "local-attorney-leads",
-    title: "Local Attorney Leads: Why Hyperlocal Targeting Often Outperforms Broad Campaigns",
+    title: "Local Attorney Leads: Why Hyperlocal Targeting Wins",
     metaTitle: "Local Attorney Leads: Hyperlocal Targeting Guide",
     excerpt:
       "A tightly targeted local campaign frequently outperforms a broader regional one, both in cost efficiency and conversion rate. Here's why hyperlocal targeting works so well for legal leads.",

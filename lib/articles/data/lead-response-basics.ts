@@ -9,6 +9,8 @@ export const leadResponseBasicsArticles: Article[] = [
     metaTitle: "Attorney Lead Response Rate Benchmarks",
     excerpt:
       "Most firms have never measured their actual lead response rate. Here's why it matters, what reasonable benchmarks look like, and specific ways to improve it.",
+    metaDescription:
+      "Most law firms have never measured their actual lead response rate. Learn why it matters, what benchmarks look like, and specific ways to improve it.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-09",
@@ -136,6 +138,8 @@ export const leadResponseBasicsArticles: Article[] = [
     metaTitle: "Improving Attorney Lead Conversions",
     excerpt:
       "Conversion rate improvements compound across every lead source a firm uses. Here's a practical, prioritized guide to the changes that actually move the needle.",
+    metaDescription:
+      "Conversion rate improvements compound across every lead source a firm uses. A practical, prioritized guide to the changes that actually move the needle.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-09",

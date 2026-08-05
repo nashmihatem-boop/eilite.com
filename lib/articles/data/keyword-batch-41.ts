@@ -6,7 +6,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "shared-leads",
     title: "Shared Leads: Understanding This Category",
-    metaTitle: "Shared Leads Guide",
+    metaTitle: "Shared Leads Guide: Pricing, Format & Competition",
     excerpt: "A foundational guide to shared leads, sold simultaneously to multiple buyers, distinct from exclusive leads.",
     metaDescription: "A foundational guide to shared leads, sold simultaneously to multiple buyers, covering how this format differs from exclusive leads on price and competition.",
     category: "Lead Generation Basics",
@@ -72,7 +72,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "siding-leads",
     title: "Siding Leads: A Guide for Contractors",
-    metaTitle: "Siding Leads Guide",
+    metaTitle: "Siding Leads Guide: Sourcing & Conversion Tips",
     excerpt: "A guide to sourcing and converting leads for residential siding installation and replacement.",
     metaDescription: "A guide to sourcing and converting leads for residential siding installation and replacement, covering seasonal demand and typical project sales cycles.",
     category: "Home Services Marketing",
@@ -105,7 +105,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "signed-cases-leads",
     title: "Signed Cases Leads: A Guide to Case Acquisition",
-    metaTitle: "Signed Cases Leads Guide",
+    metaTitle: "Signed Cases Leads Guide: How Case Acquisition Works",
     excerpt: "A guide to acquiring already-signed legal cases from other firms, distinct from purchasing raw intake leads.",
     metaDescription: "A guide to acquiring already-signed legal cases from other firms, distinct from purchasing raw intake leads, covering how this acquisition model actually works.",
     category: "Legal Leads",
@@ -171,7 +171,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "skip-tracing-leads",
     title: "Skip Tracing Leads: A Guide for Buyers",
-    metaTitle: "Skip Tracing Leads Guide",
+    metaTitle: "Skip Tracing Leads Guide: Finding Hard-to-Reach Buyers",
     excerpt: "A guide to leads sourced through skip tracing, the process of locating hard-to-find individuals.",
     metaDescription: "A guide to leads sourced through skip tracing, the process of locating hard-to-find individuals, covering how this method differs from standard lead generation.",
     category: "Lead Generation Basics",
@@ -303,7 +303,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "sms-opt-in-leads",
     title: "SMS Opt-In Leads: A Compliance Guide",
-    metaTitle: "SMS Opt-In Leads Guide",
+    metaTitle: "SMS Opt-In Leads Guide: Compliance Essentials",
     excerpt: "A guide to SMS-specific opt-in consent requirements, distinct from general or email opt-in consent.",
     metaDescription: "A guide to SMS-specific opt-in consent requirements, distinct from general or email opt-in consent, covering the compliance rules that govern text outreach.",
     category: "Lead Generation Basics",
@@ -404,6 +404,7 @@ export const keywordBatch41Articles: Article[] = [
     title: "Solar Financing Leads: A Guide for Installers",
     metaTitle: "Solar Financing Leads Guide",
     excerpt: "A guide to leads specifically focused on solar financing and loan options, distinct from general solar shopping interest.",
+    metaDescription: "A guide to solar financing leads, covering financing-specific buyer intent that differs from general solar shopping interest, and how installers convert it.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-31",
@@ -434,7 +435,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "solar-leads",
     title: "Solar Leads: A Foundational Guide for Installers",
-    metaTitle: "Solar Leads Guide",
+    metaTitle: "Solar Leads Guide: Pricing, Formats & Quality",
     excerpt: "A foundational guide to sourcing and converting solar leads across delivery formats.",
     metaDescription: "A foundational guide to sourcing and converting solar leads across delivery formats, covering how pricing and quality vary between exclusive and shared leads.",
     category: "Home Services Marketing",
@@ -599,7 +600,7 @@ export const keywordBatch41Articles: Article[] = [
   {
     slug: "stairlift-leads",
     title: "Stairlift Leads: A Guide for Providers",
-    metaTitle: "Stairlift Leads Guide",
+    metaTitle: "Stairlift Leads Guide: Reaching Mobility Buyers",
     excerpt: "A guide to sourcing and converting leads for stairlift and mobility equipment installation.",
     metaDescription: "A guide to sourcing and converting leads for stairlift and mobility equipment installation, covering the senior and mobility-limited buyer demographic involved.",
     category: "Home Services Marketing",

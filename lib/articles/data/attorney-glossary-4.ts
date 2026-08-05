@@ -9,6 +9,8 @@ export const attorneyGlossary4Articles: Article[] = [
     metaTitle: "Attorney Client Acquisition Services Framework",
     excerpt:
       "A framework for evaluating client acquisition services holistically, connecting marketing, intake, and measurement into one coherent growth system.",
+    metaDescription:
+      "Choosing client acquisition services in isolation wastes spend. This framework connects marketing, intake, and measurement into one growth system.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-02",
@@ -62,6 +64,8 @@ export const attorneyGlossary4Articles: Article[] = [
     metaTitle: "Client Acquisition Services That Drive Growth",
     excerpt:
       "Beyond the framework, here's a practical look at which specific service types consistently produce measurable growth for law firms.",
+    metaDescription:
+      "Beyond theory, here's a practical breakdown of which specific client acquisition service types consistently produce measurable growth for law firms.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-02",

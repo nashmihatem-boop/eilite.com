@@ -7,7 +7,7 @@ export const keywordBatch1Articles: Article[] = [
   {
     slug: "3m-earplugs-leads",
     title: "3M Earplugs Leads: A Guide for Mass Tort Buyers",
-    metaTitle: "3M Earplugs Leads Guide",
+    metaTitle: "3M Combat Earplugs Leads: A Guide for Mass Tort Buyers",
     excerpt: "A guide to sourcing and screening leads related to the 3M combat earplugs litigation.",
     metaDescription: "A guide to sourcing and screening leads related to the 3M combat earplugs litigation, covering eligibility criteria and verifying military service claims.",
     category: "Legal Leads",
@@ -118,7 +118,7 @@ export const keywordBatch1Articles: Article[] = [
   {
     slug: "aca-leads",
     title: "ACA Leads: How Agents Source and Convert Them",
-    metaTitle: "ACA Leads Guide",
+    metaTitle: "ACA Marketplace Leads: How Agents Source & Convert",
     excerpt: "A guide to the mechanics of generating and converting ACA Marketplace insurance leads.",
     metaDescription: "A guide to the mechanics of generating and converting ACA Marketplace insurance leads, covering enrollment windows and what drives seasonal demand spikes.",
     category: "Insurance",
@@ -229,7 +229,7 @@ export const keywordBatch1Articles: Article[] = [
   {
     slug: "afff-lawsuit-leads",
     title: "AFFF Lawsuit Leads: A Guide for Mass Tort Buyers",
-    metaTitle: "AFFF Lawsuit Leads Guide",
+    metaTitle: "AFFF Firefighting Foam Lawsuit Leads: Buyer Guide",
     excerpt: "A guide to sourcing and screening leads related to firefighting foam (AFFF) litigation.",
     metaDescription: "A guide to sourcing and screening leads related to firefighting foam (AFFF) litigation, covering exposure criteria and diagnosis documentation to verify.",
     category: "Legal Leads",
@@ -451,7 +451,7 @@ export const keywordBatch1Articles: Article[] = [
   {
     slug: "aged-aca-leads",
     title: "Aged ACA Leads: What Agents Should Know",
-    metaTitle: "Aged ACA Leads Guide",
+    metaTitle: "Aged ACA Leads: What Insurance Agents Should Know",
     excerpt: "Understanding the tradeoffs of aged ACA leads compared to real-time formats.",
     metaDescription: "Understanding the tradeoffs of aged ACA leads compared to real-time formats, covering the lower cost per lead against conversion drop-off as data ages.",
     category: "Insurance",
@@ -488,7 +488,7 @@ export const keywordBatch1Articles: Article[] = [
   {
     slug: "aged-annuity-leads",
     title: "Aged Annuity Leads: What Advisors Should Know",
-    metaTitle: "Aged Annuity Leads Guide",
+    metaTitle: "Aged Annuity Leads: What Advisors Need to Know",
     excerpt: "Understanding the tradeoffs of aged annuity leads compared to real-time formats.",
     metaDescription: "Understanding the tradeoffs of aged annuity leads compared to real-time formats, covering when a lower cost justifies reduced contact rates.",
     category: "Financial Leads",

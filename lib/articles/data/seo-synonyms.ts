@@ -66,7 +66,7 @@ export const seoSynonymsArticles: Article[] = [
   },
   {
     slug: "seo-for-law-firms",
-    title: "SEO for Law Firms vs. SEO for Individual Attorneys: Two Different Games",
+    title: "SEO for Law Firms vs. SEO for Individual Attorneys",
     metaTitle: "SEO for Law Firms: Firm-Wide Strategy",
     excerpt:
       "A firm's overall SEO strategy and an individual attorney's search presence require different tactics and different owners. Here's how to think about both without one undermining the other.",

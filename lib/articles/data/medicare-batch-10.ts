@@ -871,7 +871,7 @@ export const medicareBatch10Articles: Article[] = [
   },
   {
     slug: "how-to-get-medicare-leads-in-indianapolis-in",
-    title: "How to Get Medicare Leads in Indianapolis, IN: A Quick-Start Action Plan",
+    title: "Medicare Leads in Indianapolis, IN: A Quick-Start Plan",
     metaTitle: "Quick-Start Plan for Indianapolis Medicare Leads",
     excerpt: "A quick-start action plan for agents ready to begin getting Medicare leads flowing in Indianapolis right away.",
     metaDescription: "Ready to start generating Medicare leads in Indianapolis, IN? This quick-start action plan covers the channels and first steps agents need to get leads flowing fast.",

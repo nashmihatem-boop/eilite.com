@@ -70,8 +70,9 @@ export const keywordBatch19Articles: Article[] = [
   {
     slug: "home-service-leads",
     title: "Home Service Leads: A Guide for Service Providers Beyond Construction",
-    metaTitle: "Home Service Leads Guide",
+    metaTitle: "Home Service Leads: A Guide Beyond Construction",
     excerpt: "A guide to leads across the broader home service category, including non-construction services like cleaning and pest control.",
+    metaDescription: "A guide to leads across the broader home service category, spanning non-construction services like cleaning, pest control, and lawn care for providers.",
     category: "Home Services Marketing",
     readTime: "6 min read",
     publishedDate: "2026-12-09",
@@ -881,7 +882,7 @@ export const keywordBatch19Articles: Article[] = [
   {
     slug: "homeowner-leads",
     title: "Homeowner Leads: A Foundational Guide to This Broad Audience",
-    metaTitle: "Homeowner Leads Guide",
+    metaTitle: "Homeowner Leads: A Guide to This Broad Audience",
     excerpt: "A foundational guide to homeowners as a target audience across insurance, home services, and financial products.",
     metaDescription: "A foundational guide to homeowners as a target audience across insurance, home services, and financial products, and what unifies buyer demand for them.",
     category: "Home Services Marketing",

@@ -6,7 +6,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "legal-lead-broker",
     title: "Legal Lead Brokers: How This Business Model Works",
-    metaTitle: "Legal Lead Broker Guide",
+    metaTitle: "Legal Lead Brokers: How the Business Model Works",
     excerpt: "An overview of how lead brokers operate as intermediaries between legal buyers and sellers.",
     metaDescription: "How legal lead brokers operate as intermediaries between buyers and sellers, what separates a reputable broker from a reseller of stale data.",
     category: "Legal Leads",
@@ -110,7 +110,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "legal-leads-for-sale",
     title: "Legal Leads for Sale: A Buyer's Guide",
-    metaTitle: "Legal Leads for Sale",
+    metaTitle: "Legal Leads for Sale: A Complete Buyer's Guide",
     excerpt: "A buyer's guide to finding and evaluating marketplaces selling legal leads.",
     metaDescription: "A buyer's guide to finding and evaluating marketplaces selling legal leads, covering how to vet volume claims and screening standards before committing budget.",
     category: "Legal Leads",
@@ -281,7 +281,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "legal-seo-leads",
     title: "Legal SEO Leads: A Guide to This Organic Channel",
-    metaTitle: "Legal SEO Leads Guide",
+    metaTitle: "Legal SEO Leads: A Guide to the Organic Channel",
     excerpt: "A guide to generating legal leads through search engine optimization, distinct from paid advertising.",
     metaDescription: "A guide to generating legal leads through search engine optimization, the organic channel that compounds over time instead of stopping when ad spend does.",
     category: "Legal Leads",
@@ -350,7 +350,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "lender-lead-buyers",
     title: "Lender Lead Buyers: A Guide to Sourcing Effectively",
-    metaTitle: "Lender Lead Buyers Guide",
+    metaTitle: "Lender Lead Buyers: Sourcing Leads Effectively",
     excerpt: "A guide for lenders on their role as lead buyers and how to source effectively across loan types.",
     metaDescription: "A guide for lenders on their role as lead buyers, covering how to source effectively across mortgage, personal loan, and business lending products.",
     category: "Financial Leads",
@@ -384,7 +384,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "lending-leads",
     title: "Lending Leads: A Foundational Guide Across Loan Types",
-    metaTitle: "Lending Leads Guide",
+    metaTitle: "Lending Leads: A Guide to Sourcing Across Loan Types",
     excerpt: "A foundational guide to sourcing and converting leads across every lending product type.",
     metaDescription: "A foundational guide to sourcing and converting leads across every lending product type, from personal loans to mortgages, and the compliance rules for each.",
     category: "Financial Leads",
@@ -418,7 +418,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "lending-products",
     title: "Lending Products: A Guide to the Product Landscape",
-    metaTitle: "Lending Products Guide",
+    metaTitle: "Lending Products: A Guide to the Full Landscape",
     excerpt: "A guide to the range of lending products lenders offer and how this shapes lead sourcing strategy.",
     metaDescription: "A guide to the range of lending products lenders offer and how each one shapes lead sourcing strategy, from underwriting speed to borrower intent.",
     category: "Financial Leads",
@@ -487,7 +487,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "list-brokerage",
     title: "List Brokerage: A Guide to Traditional Marketing Lists",
-    metaTitle: "List Brokerage Guide",
+    metaTitle: "List Brokerage: A Guide to Traditional Data Lists",
     excerpt: "A guide to list brokerage, the traditional data list sales model distinct from modern real-time lead generation.",
     metaDescription: "A guide to list brokerage, the traditional data-list sales model, and how it differs from modern real-time lead generation in accuracy and cost.",
     category: "Lead Generation Basics",
@@ -589,7 +589,7 @@ export const keywordBatch27Articles: Article[] = [
   {
     slug: "live-inbound-calls",
     title: "Live Inbound Calls: A Guide to This Real-Time Format",
-    metaTitle: "Live Inbound Calls Guide",
+    metaTitle: "Live Inbound Calls: A Real-Time Lead Format Guide",
     excerpt: "A guide to live inbound calls, emphasizing the real-time connection aspect of this lead format.",
     metaDescription: "A guide to live inbound calls, a real-time lead format connecting buyers directly to an interested prospect on the phone instead of a web form.",
     category: "Lead Generation Basics",

@@ -7,6 +7,8 @@ export const roiTrackingArticles: Article[] = [
     metaTitle: "How to Measure Legal Marketing ROI",
     excerpt:
       "Effective ROI measurement requires the right tools and tracking setup as much as the right formula. Here's a practical implementation guide.",
+    metaDescription:
+      "Effective legal marketing ROI measurement requires the right tools and tracking setup as much as the right formula. A practical implementation guide.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-10",

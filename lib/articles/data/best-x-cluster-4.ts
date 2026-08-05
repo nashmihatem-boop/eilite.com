@@ -7,6 +7,7 @@ export const bestXCluster4Articles: Article[] = [
     metaTitle: "What Are the Best Legal Leads",
     excerpt:
       "Defining 'best' legal leads in terms that apply consistently across practice areas, rather than a definition that only fits one specific category.",
+    metaDescription: "Defining what makes a legal lead the 'best' one, using criteria that apply consistently across practice areas rather than just one specific category.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-09-05",
@@ -61,6 +62,7 @@ export const bestXCluster4Articles: Article[] = [
     metaTitle: "Best Marketing Channels for Lawyers",
     excerpt:
       "A comparative look at the channels most consistently associated with winning new clients, and how to combine them effectively.",
+    metaDescription: "A comparative look at the marketing channels most consistently associated with law firms winning new clients, and how to combine them effectively.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-05",

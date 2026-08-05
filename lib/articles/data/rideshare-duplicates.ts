@@ -9,6 +9,8 @@ export const rideshareDuplicatesArticles: Article[] = [
     metaTitle: "Rideshare Accident Leads: Acquisition & Management",
     excerpt:
       "Beyond acquisition, managing rideshare accident cases well requires specific internal processes given the insurance tier complexity involved.",
+    metaDescription:
+      "Beyond acquisition, managing rideshare accident cases well requires specific internal processes, given the multi-tier insurance complexity these cases involve.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-08-30",
@@ -62,6 +64,8 @@ export const rideshareDuplicatesArticles: Article[] = [
     metaTitle: "High-Value Rideshare Accident Leads",
     excerpt:
       "Not every rideshare accident case carries the same value — here's how to identify and prioritize the higher-value cases within this growing category.",
+    metaDescription:
+      "Not every rideshare accident case carries the same value. Here's how law firms identify and prioritize the higher-value cases within this growing category.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-08-30",

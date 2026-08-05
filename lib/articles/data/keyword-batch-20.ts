@@ -532,7 +532,7 @@ export const keywordBatch20Articles: Article[] = [
   {
     slug: "hvac-leads",
     title: "HVAC Leads: A Complete Foundational Guide",
-    metaTitle: "HVAC Leads Guide",
+    metaTitle: "HVAC Leads: Installation, Repair, and Maintenance Guide",
     excerpt: "A foundational guide to sourcing and converting HVAC leads across heating and cooling services.",
     metaDescription: "HVAC leads span installation, repair, and maintenance across heating and cooling, each with different seasonality. A complete foundational sourcing guide.",
     category: "Home Services Marketing",

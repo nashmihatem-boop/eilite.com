@@ -10,6 +10,7 @@ export const findNewClientsCluster5Articles: Article[] = [
     metaTitle: "Client Acquisition Through Virtual Consultations",
     excerpt:
       "Offering video consultations removes geographic and scheduling friction that can otherwise cost a firm prospects who'd rather not travel for an initial meeting.",
+    metaDescription: "Offering virtual consultations removes geographic and scheduling friction that can cost a law firm prospects unwilling to travel for an initial meeting.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-21",
@@ -113,10 +114,11 @@ export const findNewClientsCluster5Articles: Article[] = [
   },
   {
     slug: "how-lawyers-find-new-clients-7-strategies-that-work",
-    title: "How Lawyers Find New Clients: 7 Strategies That Actually Work in Practice",
+    title: "How Lawyers Find New Clients: 7 Strategies That Work",
     metaTitle: "7 Client Acquisition Strategies That Work",
     excerpt:
       "A practical, no-nonsense roundup of the specific tactics that consistently work for firms, cutting through the theoretical advice to what's actually executable.",
+    metaDescription: "A practical, no-nonsense roundup of specific client acquisition tactics that consistently work for law firms, cutting past theory to what's actually executable.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-21",

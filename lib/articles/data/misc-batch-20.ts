@@ -122,6 +122,8 @@ export const miscBatch20Articles: Article[] = [
     metaTitle: "Facebook Ads for Law Firms",
     excerpt:
       "An honest look at where Facebook advertising fits into a law firm's marketing mix, and where it typically underperforms.",
+    metaDescription:
+      "An honest look at where Facebook advertising genuinely fits into a law firm's marketing mix, and where it typically underperforms other channels.",
     category: "Marketing Channels",
     readTime: "6 min read",
     publishedDate: "2026-09-24",

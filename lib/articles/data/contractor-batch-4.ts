@@ -5,7 +5,7 @@ const buyLeadsRel = ["advertisers", "aged-leads"];
 export const contractorBatch4Articles: Article[] = [
   {
     slug: "contractor-marketing-study-2026",
-    title: "What a 2026 Contractor Marketing Study Reveals About Lead Costs and Channels",
+    title: "2026 Contractor Marketing Study: Lead Costs and Channels",
     metaTitle: "2026 Contractor Marketing Study Findings",
     excerpt: "Key patterns worth understanding about contractor lead costs, channel performance, and response time in 2026.",
     metaDescription: "A 2026 study on contractor marketing reveals which channels deliver the best lead costs and which response times separate winners. Here are the key patterns.",
@@ -397,7 +397,7 @@ export const contractorBatch4Articles: Article[] = [
   },
   {
     slug: "current-technical-issues-with-google-business-profile-gbp",
-    title: "Current Technical Issues With Google Business Profile and How to Handle Them",
+    title: "Current Technical Issues With Google Business Profile",
     metaTitle: "Google Business Profile Technical Issues",
     excerpt: "Common technical glitches and issues businesses encounter with Google Business Profile, and how to resolve them.",
     metaDescription: "Google Business Profile listings run into recurring technical glitches that quietly hurt local visibility if left unresolved. This guide covers fixing them.",
@@ -442,6 +442,7 @@ export const contractorBatch4Articles: Article[] = [
     title: "Customer Retention Strategies for Home Service Businesses",
     metaTitle: "Customer Retention for Home Service Businesses",
     excerpt: "Practical ways home service businesses can improve repeat business and reduce dependence on constant new-customer acquisition.",
+    metaDescription: "Practical ways home service businesses can improve repeat business and meaningfully reduce dependence on constant new-customer acquisition spending.",
     category: "Lead Generation Basics",
     readTime: "7 min read",
     publishedDate: "2026-08-09",
@@ -832,7 +833,7 @@ export const contractorBatch4Articles: Article[] = [
   },
   {
     slug: "dont-get-left-behind-why-local-home-service-businesses-need-lsas-and-google-ads-in-conjunction-with-seo",
-    title: "Don't Get Left Behind: Why Home Service Businesses Need LSA, Google Ads, and SEO Together",
+    title: "Why Home Service Businesses Need LSAs, Google Ads, and SEO",
     metaTitle: "Why You Need LSA, Google Ads, and SEO Together",
     excerpt: "Why relying on just one marketing channel leaves a home service business vulnerable, and how the three work together.",
     metaDescription: "Relying on just one marketing channel leaves a home service business exposed to algorithm shifts. This guide covers why LSAs, Google Ads, and SEO work together.",

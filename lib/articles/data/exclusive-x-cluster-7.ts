@@ -9,6 +9,8 @@ export const exclusiveXCluster7Articles: Article[] = [
     metaTitle: "Exclusive PI Leads for Firm Growth",
     excerpt:
       "Connecting exclusive lead acquisition specifically to firm growth planning — hiring decisions, capacity expansion, and market entry.",
+    metaDescription:
+      "Exclusive personal injury lead acquisition should tie directly to firm growth planning — hiring decisions, capacity expansion, and entry into new markets.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-19",
@@ -61,6 +63,8 @@ export const exclusiveXCluster7Articles: Article[] = [
     metaTitle: "Exclusive PI Leads as a Strategic Investment",
     excerpt:
       "Framing exclusive lead acquisition as an investment decision, with corresponding expectations for return, rather than a simple operational expense.",
+    metaDescription:
+      "Framing exclusive personal injury leads as an investment, not just an expense, means setting clear return expectations before you commit budget.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-19",
@@ -113,6 +117,8 @@ export const exclusiveXCluster7Articles: Article[] = [
     metaTitle: "Exclusive vs. Shared PI Leads Analysis",
     excerpt:
       "A data-driven analysis comparing exclusive and shared personal injury lead delivery across cost, conversion, and overall value.",
+    metaDescription:
+      "A data-driven comparison of exclusive and shared personal injury lead delivery across cost per lead, conversion rates, and overall long-term value.",
     category: "Personal Injury",
     readTime: "7 min read",
     publishedDate: "2026-09-19",

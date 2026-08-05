@@ -7,6 +7,7 @@ export const miscBatch5Articles: Article[] = [
     metaTitle: "Boosting Law Firm Website Lead Generation",
     excerpt:
       "Specific, actionable changes to a law firm website that consistently improve lead generation, beyond just driving more traffic to it.",
+    metaDescription: "Specific, actionable changes to a law firm website that consistently improve lead generation, going beyond just driving more traffic to the site itself.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-09-13",
@@ -67,6 +68,7 @@ export const miscBatch5Articles: Article[] = [
     metaTitle: "Building a Converting Client Acquisition Funnel",
     excerpt:
       "A complete funnel connects awareness, consideration, and decision stages deliberately — here's how to build and connect each one.",
+    metaDescription: "A complete client acquisition funnel connects awareness, consideration, and decision stages deliberately — here's how to build and connect each one.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-13",

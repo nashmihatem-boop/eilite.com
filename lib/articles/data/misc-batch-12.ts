@@ -7,6 +7,8 @@ export const miscBatch12Articles: Article[] = [
     metaTitle: "Child Custody Leads in Orlando, FL",
     excerpt:
       "Orlando's relocation-driven population creates a distinct set of custody-related legal questions worth addressing directly in marketing.",
+    metaDescription:
+      "Orlando's relocation-driven population creates a distinct set of custody questions attorneys should address directly in local marketing content.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-16",
@@ -60,6 +62,8 @@ export const miscBatch12Articles: Article[] = [
     metaTitle: "Converting Child Custody Marketing Leads",
     excerpt:
       "Custody disputes are among the most emotionally intense family law matters — here's what specifically improves conversion for this category.",
+    metaDescription:
+      "Custody disputes are among the most emotionally charged family law matters. Here's what specifically improves lead conversion for this category.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-09-16",

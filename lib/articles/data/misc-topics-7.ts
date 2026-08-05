@@ -62,6 +62,7 @@ export const miscTopics7Articles: Article[] = [
     metaTitle: "Family Law Leads: A Segmentation Guide",
     excerpt:
       "Family law covers far more than divorce alone. Here's how custody, support, adoption, and protective order leads each require a distinct approach.",
+    metaDescription: "Family law covers far more than divorce alone. Here's how custody, support, adoption, and protective order leads each require a distinct marketing approach.",
     category: "Divorce & Family Law",
     readTime: "6 min read",
     publishedDate: "2026-08-12",

@@ -147,7 +147,7 @@ export const keywordBatch17Articles: Article[] = [
   {
     slug: "form-fill-leads",
     title: "Form Fill Leads: A Guide to This Common Format",
-    metaTitle: "Form Fill Leads Guide",
+    metaTitle: "Form Fill Leads: A Complete Guide to This Format",
     excerpt: "A guide to form fill leads, the most common lead capture format across digital marketing.",
     metaDescription: "A guide to form fill leads, the most common lead capture format in digital marketing, covering how form length and field design affect volume and quality.",
     category: "Lead Generation Basics",
@@ -217,7 +217,7 @@ export const keywordBatch17Articles: Article[] = [
   {
     slug: "garage-door-leads",
     title: "Garage Door Leads: A Broader Guide to This Category",
-    metaTitle: "Garage Door Leads Guide",
+    metaTitle: "Garage Door Leads: Installation, Repair, and More",
     excerpt: "A broader guide to garage door leads spanning installation, replacement, and repair.",
     metaDescription: "A broader guide to garage door leads spanning installation, replacement, and repair, covering how buyer intent differs across each subcategory.",
     category: "Home Services Marketing",

@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const competitorMatch19Articles: Article[] = [
   {
     slug: "the-complete-law-firm-technology-stack-for-2026-essential-tools-for-personal-injury-attorneys",
-    title: "The Complete Law Firm Technology Stack for 2026: Essential Tools for Personal Injury Attorneys",
+    title: "Law Firm Technology Stack for 2026: Tools for PI Attorneys",
     metaTitle: "Law Firm Technology Stack 2026: PI Attorney Guide",
     metaDescription:
       "A practical breakdown of the law firm technology stack personal injury practices need in 2026, from case management to intake automation and beyond.",
@@ -188,7 +188,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "medical-provider-credentialing-for-personal-injury-attorneys-building-a-trusted-network",
-    title: "Medical Provider Credentialing for Personal Injury Attorneys: Building a Trusted Network",
+    title: "Medical Provider Credentialing for PI Attorneys",
     metaTitle: "Medical Provider Credentialing for PI Attorneys",
     metaDescription:
       "A guide to medical provider credentialing for personal injury attorneys, covering vetting, documentation quality, and building a trusted referral network.",
@@ -323,7 +323,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "building-a-high-value-attorney-referral-network-strategies-for-personal-injury-lawyers",
-    title: "Building a High-Value Attorney Referral Network: Strategies for Personal Injury Lawyers",
+    title: "Building a High-Value Attorney Referral Network for PI Lawyers",
     metaTitle: "Attorney Referral Network Strategies for PI Lawyers",
     metaDescription:
       "How personal injury lawyers can build a high-value attorney referral network, from outreach tactics to referral fee ethics and relationship tracking.",
@@ -477,7 +477,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "medical-documentation-best-practices-for-personal-injury-cases-provider-guide",
-    title: "Medical Documentation Best Practices for Personal Injury Cases: A Provider's Guide",
+    title: "Medical Documentation Best Practices for PI Cases",
     metaTitle: "Medical Documentation Best Practices for PI Cases",
     metaDescription:
       "Medical documentation best practices for personal injury cases, covering causation language, treatment notes, and narrative report structure for providers.",
@@ -631,7 +631,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "ai-intake-agents-for-personal-injury-law-firms-how-to-sign-more-cases-24-7",
-    title: "AI Intake Agents for Personal Injury Law Firms: How to Sign More Cases 24/7",
+    title: "AI Intake Agents for PI Law Firms: Sign More Cases 24/7",
     metaTitle: "AI Intake Agents for Personal Injury Law Firms",
     metaDescription:
       "How AI intake agents for personal injury law firms qualify leads and respond after hours, and what compliance considerations firms need to plan for.",
@@ -766,7 +766,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "mass-tort-seo-how-to-rank-and-convert-claimants-before-the-window-closes",
-    title: "Mass Tort SEO: How to Rank and Convert Claimants Before the Window Closes",
+    title: "Mass Tort SEO: Rank and Convert Before the Window Closes",
     metaTitle: "Mass Tort SEO: Rank and Convert Before the Window Closes",
     metaDescription:
       "A mass tort SEO strategy guide covering claimant keyword research, landing page structure, and authority building for time-sensitive litigation windows.",
@@ -899,10 +899,10 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "seo-for-personal-injury-attorneys-the-complete-2026-guide",
-    title: "SEO for Personal Injury Attorneys: The Complete 2026 Guide",
-    metaTitle: "SEO for Personal Injury Attorneys: 2026 Guide",
+    title: "Personal Injury Law Firm SEO Strategy for 2026",
+    metaTitle: "PI Firm SEO Strategy: A 2026 Ranking Roadmap",
     metaDescription:
-      "A complete guide to SEO for personal injury attorneys in 2026, covering local SEO, practice area pages, content strategy, and link building.",
+      "A strategic 2026 roadmap for personal injury firm SEO — local foundations, practice area architecture, content strategy, and sustainable link building.",
     excerpt:
       "Ranking a personal injury website in 2026 takes more than scattered blog posts and a Google Business Profile — it takes a coordinated strategy across every layer of the site.",
     category: "Marketing Channels",
@@ -1054,7 +1054,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "medical-provider-seo-how-to-attract-more-pi-attorney-referrals-through-search",
-    title: "Medical Provider SEO: How to Attract More PI Attorney Referrals Through Search",
+    title: "Medical Provider SEO: Attract More PI Attorney Referrals",
     metaTitle: "Medical Provider SEO for PI Attorney Referrals",
     metaDescription:
       "Medical provider SEO strategies to attract more personal injury attorney referrals, from Google Business Profile optimization to attorney-focused content.",
@@ -1154,7 +1154,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "whatsapp-ai-agents-for-law-firm-intake-setup-compliance-and-conversion",
-    title: "WhatsApp AI Agents for Law Firm Intake: Setup, Compliance, and Conversion",
+    title: "WhatsApp AI Agents for Law Firm Intake",
     metaTitle: "WhatsApp AI Agents for Law Firm Intake",
     metaDescription:
       "A practical guide to WhatsApp AI agents for law firm intake, covering platform setup, compliance requirements, CRM integration, and conversion metrics.",
@@ -1288,7 +1288,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "ai-agents-for-medical-providers-hipaa-compliant-automation-for-pi-practices",
-    title: "AI Agents for Medical Providers: HIPAA-Compliant Automation for PI Practices",
+    title: "AI Agents for Medical Providers: HIPAA-Compliant Automation",
     metaTitle: "HIPAA-Compliant AI Agents for Medical Providers",
     metaDescription:
       "How medical providers can use HIPAA-compliant AI agents to automate scheduling, lien documentation, and attorney coordination for personal injury patients.",
@@ -1423,7 +1423,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "mass-tort-lawyer-seo-the-best-keywords-to-rank-for-and-convert-in-2026",
-    title: "Mass Tort Lawyer SEO: The Best Keywords to Rank For and Convert in 2026",
+    title: "Mass Tort Lawyer SEO: Best Keywords to Rank For in 2026",
     metaTitle: "Mass Tort Lawyer SEO: Best Keywords for 2026",
     metaDescription:
       "A tiered framework for mass tort lawyer keywords, from high-intent action searches to informational queries, plus Spanish-language keyword opportunities.",
@@ -1556,7 +1556,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "how-to-choose-an-seo-firm-for-your-pi-law-practice-what-to-look-for-and-avoid",
-    title: "How to Choose an SEO Firm for Your PI Law Practice: What to Look For (and Avoid)",
+    title: "How to Choose an SEO Firm for Your PI Law Practice",
     metaTitle: "How to Choose an SEO Firm for a PI Law Practice",
     metaDescription:
       "How to choose an SEO firm for personal injury law practice, including key questions to ask, warning signs to avoid, and realistic pricing expectations.",
@@ -1686,7 +1686,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "programmatic-seo-for-personal-injury-law-firms-how-to-build-thousands-of-pages-that-rank",
-    title: "Programmatic SEO for Personal Injury Law Firms: How to Build Thousands of Pages That Rank",
+    title: "Programmatic SEO for Personal Injury Law Firms",
     metaTitle: "Programmatic SEO for Personal Injury Law Firms",
     metaDescription:
       "How programmatic SEO for personal injury law firms works, from service-city pages to hyperlocal content, and how to avoid thin-content pitfalls at scale.",
@@ -1841,7 +1841,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "local-seo-for-pi-law-firms-how-to-win-the-map-pack-and-dominate-organic-local-search",
-    title: "Local SEO for PI Law Firms: How to Win the Map Pack and Dominate Organic Local Search",
+    title: "Local SEO for PI Law Firms: Winning the Map Pack",
     metaTitle: "Local SEO for PI Law Firms: Winning the Map Pack",
     metaDescription:
       "How local SEO for personal injury law firms works, covering Google Business Profile optimization, citations, reviews, and map pack ranking factors.",
@@ -2004,7 +2004,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "pi-law-firm-lead-generation-organic-seo-vs-paid-ads-which-actually-wins-in-2026",
-    title: "PI Law Firm Lead Generation: Organic SEO vs. Paid Ads — Which Actually Wins in 2026",
+    title: "PI Law Firm Lead Generation: Organic SEO vs. Paid Ads",
     metaTitle: "PI Lead Generation: Organic SEO vs. Paid Ads",
     metaDescription:
       "Comparing PI law firm lead generation through organic SEO vs paid ads, including cost per click, lead quality, and why a hybrid strategy often wins.",
@@ -2142,7 +2142,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "legal-intake-conversion-optimization-for-pi-law-firms-from-click-to-signed-retainer",
-    title: "Legal Intake Conversion Optimization for PI Law Firms: From Click to Signed Retainer",
+    title: "Legal Intake Conversion Optimization for PI Law Firms",
     metaTitle: "Legal Intake Conversion Optimization for PI Firms",
     metaDescription:
       "Legal intake conversion optimization strategies for PI law firms, covering response speed, form design, call qualification, and follow-up sequences.",
@@ -2466,7 +2466,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "truck-accident-lawyer-seo-the-marketing-strategy-for-high-value-commercial-vehicle-cases",
-    title: "Truck Accident Lawyer SEO: The Marketing Strategy for High-Value Commercial Vehicle Cases",
+    title: "Truck Accident Lawyer SEO: Marketing for Commercial Vehicle Cases",
     metaTitle: "Truck Accident Lawyer SEO: Marketing Strategy",
     metaDescription:
       "A truck accident lawyer SEO strategy covering highway corridor targeting, FMCSA regulation content, and referral development for commercial vehicle cases.",
@@ -2566,7 +2566,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "mass-tort-seo-strategy-for-law-firms-in-2026-what-works-when-the-window-is-short",
-    title: "Mass Tort SEO Strategy for Law Firms in 2026: What Works When the Window Is Short",
+    title: "Mass Tort SEO Strategy for Law Firms in 2026",
     metaTitle: "Mass Tort SEO Strategy for Law Firms in 2026",
     metaDescription:
       "A mass tort SEO strategy for law firms facing short intake windows, covering pre-litigation authority building and programmatic city-condition pages.",
@@ -2666,7 +2666,7 @@ export const competitorMatch19Articles: Article[] = [
   },
   {
     slug: "pi-law-firm-website-design-what-converts-accident-victims-into-clients-in-2026",
-    title: "PI Law Firm Website Design: What Converts Accident Victims into Clients in 2026",
+    title: "PI Law Firm Website Design That Converts in 2026",
     metaTitle: "PI Law Firm Website Design That Converts in 2026",
     metaDescription:
       "What makes PI law firm website design convert accident victims into clients in 2026, covering mobile optimization, page speed, and trust signals.",

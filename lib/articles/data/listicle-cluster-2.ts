@@ -7,6 +7,8 @@ export const listicleCluster2Articles: Article[] = [
     metaTitle: "Pros and Cons of Buying Legal Leads",
     excerpt:
       "An honest look at both sides of purchasing legal leads, so firms can make an informed decision rather than relying on marketing claims from either direction.",
+    metaDescription:
+      "An honest look at both sides of purchasing legal leads, helping firms make an informed decision rather than relying on marketing claims from either direction.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-08-24",
@@ -66,6 +68,8 @@ export const listicleCluster2Articles: Article[] = [
     metaTitle: "Alternatives to Legal Lead Generation Services",
     excerpt:
       "For firms not ready to invest in purchased leads, several organic alternatives can produce meaningful growth with a different resource investment.",
+    metaDescription:
+      "For firms not ready to invest in purchased leads, several organic alternatives can produce meaningful growth through a different kind of resource investment.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-24",

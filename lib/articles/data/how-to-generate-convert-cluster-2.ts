@@ -114,7 +114,7 @@ export const howToGenerateConvertCluster2Articles: Article[] = [
   },
   {
     slug: "how-to-generate-and-convert-divorce-attorney-leads-in-florida-2",
-    title: "How to Generate and Convert Divorce Attorney Leads in Florida: Silver Divorce",
+    title: "Generating Divorce Attorney Leads in Florida: Silver Divorce",
     metaTitle: "Florida Divorce Leads: Silver Divorce Focus",
     excerpt:
       "A niche focus within the Florida divorce market: leads from Florida's large retiree and older-adult population.",

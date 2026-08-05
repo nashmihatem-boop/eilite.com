@@ -7,6 +7,8 @@ export const listicleCluster5Articles: Article[] = [
     metaTitle: "The Future of Legal Lead Generation",
     excerpt:
       "Looking beyond current tactics to the structural shifts likely to shape legal lead generation over the next several years.",
+    metaDescription:
+      "A look beyond current tactics at the structural shifts, from rising verification standards to warm transfer growth, shaping legal lead generation.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-08-26",
@@ -68,6 +70,8 @@ export const listicleCluster5Articles: Article[] = [
     metaTitle: "2025 Legal Marketing Trends Retrospective",
     excerpt:
       "A retrospective look at the legal marketing trends that defined 2025, and which of them have carried forward into how firms operate today.",
+    metaDescription:
+      "A retrospective on the legal marketing trends that defined 2025, from rising PPC costs to video adoption, and which ones carried into today.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-08-26",

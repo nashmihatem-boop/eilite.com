@@ -140,6 +140,7 @@ export const keywordBatch43Articles: Article[] = [
     title: "Top Rated Lead Generation Companies: A General Evaluation Framework",
     metaTitle: "Top Rated Lead Generation Companies Guide",
     excerpt: "A general framework for evaluating any lead generation company, spanning both aggregators and exclusive-origination providers.",
+    metaDescription: "A general framework for evaluating top rated lead generation companies, covering aggregator platforms, exclusive-origination providers, pricing, and compliance.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2027-01-02",
@@ -170,8 +171,9 @@ export const keywordBatch43Articles: Article[] = [
   {
     slug: "tort-claim-leads",
     title: "Tort Claim Leads: A Foundational Guide for Firms",
-    metaTitle: "Tort Claim Leads Guide",
+    metaTitle: "Tort Claim Leads Guide: What Firms Should Know",
     excerpt: "A foundational guide to tort claim leads, the broader legal concept underlying personal injury and mass tort categories.",
+    metaDescription: "A foundational guide to tort claim leads, the broader legal concept underlying both personal injury and mass tort lead generation categories.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2027-01-02",
@@ -234,7 +236,7 @@ export const keywordBatch43Articles: Article[] = [
   {
     slug: "tree-service-leads",
     title: "Tree Service Leads: A Guide for Providers",
-    metaTitle: "Tree Service Leads Guide",
+    metaTitle: "Tree Service Leads: A Buyer's Guide for Providers",
     excerpt: "A guide to sourcing and converting leads for tree removal, trimming, and emergency storm cleanup services.",
     metaDescription: "Tree service leads span routine trimming, full removals, and urgent storm cleanup work, each with different urgency and pricing. This guide covers converting them.",
     category: "Home Services Marketing",
@@ -332,7 +334,7 @@ export const keywordBatch43Articles: Article[] = [
   {
     slug: "turning-65-leads",
     title: "Turning 65 Leads: A Marketing Timing Guide",
-    metaTitle: "Turning 65 Leads Guide",
+    metaTitle: "Turning 65 Leads: A Marketing Timing Strategy Guide",
     excerpt: "A guide focused on the marketing and campaign timing strategy around consumers approaching age 65.",
     metaDescription: "Consumers approaching age 65 represent a specific, time-sensitive marketing window tied to Medicare eligibility. This guide covers the timing strategy involved.",
     category: "Medicare Leads",
@@ -428,7 +430,7 @@ export const keywordBatch43Articles: Article[] = [
   {
     slug: "va-loan-leads",
     title: "VA Loan Leads: A Guide for Loan Officers",
-    metaTitle: "VA Loan Leads Guide",
+    metaTitle: "VA Loan Leads Guide for Mortgage Loan Officers",
     excerpt: "A guide to sourcing and converting leads for VA-backed mortgage loans for veterans.",
     metaDescription: "VA-backed mortgage leads require understanding eligibility rules specific to veterans and active-duty service members. This guide covers this loan lead type.",
     category: "Financial Leads",
@@ -526,7 +528,7 @@ export const keywordBatch43Articles: Article[] = [
   {
     slug: "verified-leads",
     title: "Verified Leads: A Foundational Guide",
-    metaTitle: "Verified Leads Guide",
+    metaTitle: "Verified Leads: A Foundational Guide for Buyers",
     excerpt: "A foundational guide to what verification means for leads generally, spanning both identity and intent verification.",
     metaDescription: "Lead verification spans both identity confirmation and genuine purchase intent, and the two aren't the same thing. This guide covers both dimensions of verification.",
     category: "Lead Generation Basics",
@@ -561,6 +563,7 @@ export const keywordBatch43Articles: Article[] = [
     title: "Vetted Lead Suppliers: A Guide to Evaluating Supplier Relationships",
     metaTitle: "Vetted Lead Suppliers Guide",
     excerpt: "A guide focused on evaluating and vetting lead suppliers as ongoing business relationships, distinct from evaluating individual lead quality.",
+    metaDescription: "A guide to evaluating and vetting lead suppliers as ongoing business relationships, not just judging the quality of any single batch of leads.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2027-01-02",

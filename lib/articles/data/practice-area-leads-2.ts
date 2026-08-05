@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const practiceAreaLeads2Articles: Article[] = [
   {
     slug: "medical-malpractice-lawyer-leads",
-    title: "Medical Malpractice Lawyer Leads: Why This Category Demands Extra Screening",
+    title: "Medical Malpractice Lawyer Leads: Why Screening Matters",
     metaTitle: "Medical Malpractice Lawyer Leads: A Guide",
     excerpt:
       "Medical malpractice cases are expensive to litigate and hard to win without merit, which makes lead screening more important here than almost any other practice area. Here's what to look for.",
@@ -58,7 +58,7 @@ export const practiceAreaLeads2Articles: Article[] = [
   },
   {
     slug: "criminal-defense-attorney-leads",
-    title: "Criminal Defense Attorney Leads: What Speed and Discretion Both Require",
+    title: "Criminal Defense Attorney Leads: Speed and Discretion",
     metaTitle: "Criminal Defense Attorney Leads: A Guide",
     excerpt:
       "Criminal defense inquiries are often urgent, frequently made by a worried family member rather than the defendant, and require unusual discretion. Here's how that shapes what a quality lead looks like.",

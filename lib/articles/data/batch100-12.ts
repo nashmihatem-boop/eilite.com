@@ -78,7 +78,7 @@ export const batch100_12Articles: Article[] = [
   },
   {
     slug: "what-are-the-best-attorney-leads-a-guide-to-quality-client-acquisition",
-    title: "What Are the Best Attorney Leads? A Guide to Quality Client Acquisition",
+    title: "What Are the Best Attorney Leads? A Quality Guide",
     metaTitle: "Best Attorney Leads: Quality Guide",
     excerpt: "A guide to identifying which attorney leads genuinely represent the best, highest-quality client acquisition.",
     metaDescription: "A guide to identifying which attorney leads represent the best, highest-quality client acquisition, covering signals that separate strong leads from filler.",

@@ -42,7 +42,7 @@ export const keywordBatch10Articles: Article[] = [
   {
     slug: "closet-leads",
     title: "Closet Leads: A Broader Guide to This Category",
-    metaTitle: "Closet Leads Guide",
+    metaTitle: "Closet Leads: A Guide to Products and Services",
     excerpt: "A broader guide to closet-related product and service leads, beyond installation alone.",
     metaDescription: "A broader guide to closet-related product and service leads, beyond installation alone, covering how organization products attract different buyer intent.",
     category: "Home Services Marketing",
@@ -112,7 +112,7 @@ export const keywordBatch10Articles: Article[] = [
   {
     slug: "cold-calling-leads",
     title: "Cold Calling Leads: A Guide for Outbound Sales Teams",
-    metaTitle: "Cold Calling Leads Guide",
+    metaTitle: "Cold Calling Leads: A Guide for Outbound Teams",
     excerpt: "A guide to sourcing contact data specifically for outbound cold calling campaigns.",
     metaDescription: "A guide to sourcing contact data specifically for outbound cold calling campaigns, covering list quality and what separates usable data from junk.",
     category: "Lead Generation Basics",
@@ -600,7 +600,7 @@ export const keywordBatch10Articles: Article[] = [
   {
     slug: "contractor-leads",
     title: "Contractor Leads: A Complete Guide for Home Services Businesses",
-    metaTitle: "Contractor Leads Guide",
+    metaTitle: "Contractor Leads: A Guide for Home Service Pros",
     excerpt: "A foundational guide to sourcing and converting contractor leads across trades.",
     metaDescription: "A complete guide to sourcing and converting contractor leads across trades, covering how demand differs between emergency repairs and planned projects.",
     category: "Home Services Marketing",

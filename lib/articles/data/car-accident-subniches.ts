@@ -181,6 +181,8 @@ export const carAccidentSubnichesArticles: Article[] = [
     metaTitle: "Uber Accident Leads: A Client Acquisition Guide",
     excerpt:
       "Uber's specific insurance structure and trip-data policies create particular challenges and opportunities for firms handling these cases. Here's what to know.",
+    metaDescription:
+      "Uber's specific insurance structure and trip-data policies create distinct challenges and opportunities for law firms handling these accident cases.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-08-04",

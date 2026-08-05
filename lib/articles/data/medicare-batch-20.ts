@@ -333,6 +333,8 @@ export const medicareBatch20Articles: Article[] = [
     title: "The Ultimate Guide to HVAC Business Software",
     metaTitle: "Ultimate Guide to HVAC Business Software",
     excerpt: "A broad overview of the different categories of software an HVAC business typically needs beyond field service management alone.",
+    metaDescription:
+      "A broad overview of the different categories of software an HVAC business typically needs beyond field service management, from CRM to accounting tools.",
     category: "Home Services Marketing",
     readTime: "7 min read",
     publishedDate: "2026-11-19",
@@ -472,6 +474,8 @@ export const medicareBatch20Articles: Article[] = [
     title: "Understanding Medicare Eligibility Considerations for Americans Abroad",
     metaTitle: "Medicare Eligibility for Americans Living Abroad",
     excerpt: "General educational content on Medicare eligibility and enrollment considerations for U.S. citizens living outside the country.",
+    metaDescription:
+      "General educational content on Medicare eligibility and enrollment considerations for U.S. citizens living outside the country, plus lead generation strategy.",
     category: "Medicare Leads",
     readTime: "7 min read",
     publishedDate: "2026-11-19",

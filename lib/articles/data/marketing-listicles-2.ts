@@ -69,6 +69,8 @@ export const marketingListicles2Articles: Article[] = [
     metaTitle: "Boosting Law Firm Consultation Conversion",
     excerpt:
       "Getting someone to book a consultation is only half the battle — here's what specifically improves the rate at which consultations turn into signed clients.",
+    metaDescription:
+      "Getting someone to book a consultation is only half the battle. Here's what specifically improves the rate at which consultations turn into signed clients.",
     category: "Law Firm Marketing",
     readTime: "6 min read",
     publishedDate: "2026-08-19",

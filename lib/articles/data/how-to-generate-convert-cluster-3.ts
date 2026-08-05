@@ -485,7 +485,7 @@ export const howToGenerateConvertCluster3Articles: Article[] = [
   },
   {
     slug: "how-to-generate-and-convert-quality-car-accident-lawyer-leads",
-    title: "How to Convert Car Accident Lawyer Leads: Intake, Qualification, and Speed",
+    title: "How to Convert Car Accident Lawyer Leads: Intake and Speed",
     metaTitle: "Convert Car Accident Lawyer Leads: Intake Guide",
     excerpt:
       "What happens after a car accident lead arrives — qualification, follow-up speed, and the intake process that actually turns inquiries into signed cases.",

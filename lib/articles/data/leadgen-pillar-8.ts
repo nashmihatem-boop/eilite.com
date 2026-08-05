@@ -3,7 +3,7 @@ import type { Article } from "@/lib/articles/types";
 export const leadgenPillar8Articles: Article[] = [
   {
     slug: "concrete-leveling-leads",
-    title: "Concrete Leveling Leads: How Contractors Fill Their Schedule Year-Round",
+    title: "Concrete Leveling Leads: Filling Your Schedule Year-Round",
     metaTitle: "Concrete Leveling Leads for Contractors",
     metaDescription:
       "How concrete leveling and foundation repair contractors generate qualified leads, including seasonal demand, structural screening, and pricing factors.",

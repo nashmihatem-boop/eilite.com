@@ -7,7 +7,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "dnc-scrubbed-leads",
     title: "DNC Scrubbed Leads: Why This Screening Step Matters",
-    metaTitle: "DNC Scrubbed Leads Guide",
+    metaTitle: "DNC Scrubbed Leads Guide: Compliance and Screening Tips",
     excerpt: "A guide to Do Not Call registry scrubbing and why it matters when purchasing leads for outbound calling.",
     metaDescription: "Calling a lead on the Do Not Call registry risks real regulatory penalties, not just a wasted call. Learn why DNC scrubbing matters before outbound calling.",
     category: "Lead Generation Basics",
@@ -42,7 +42,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "door-leads",
     title: "Door Leads: A Broader Guide to This Category",
-    metaTitle: "Door Leads Guide",
+    metaTitle: "Door Leads Guide: Entry, Garage & Replacement Buyers",
     excerpt: "A broader guide to door-related leads spanning entry doors, garage doors, and general door products.",
     metaDescription: "Door leads span entry doors, garage doors, and general replacement work, each with distinct buyer needs. A broader guide to sourcing this category.",
     category: "Home Services Marketing",
@@ -218,7 +218,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "dui-defense-leads",
     title: "DUI Defense Leads: A Guide for Firms",
-    metaTitle: "DUI Defense Leads Guide",
+    metaTitle: "DUI Defense Leads: A Buyer's Guide for Law Firms",
     excerpt: "A guide to sourcing and converting leads specifically for DUI defense cases.",
     metaDescription: "DUI defense leads move on a tight clock, since arraignment deadlines shape when a prospect actually needs a lawyer. Learn how firms source and respond fast.",
     category: "Legal Leads",
@@ -253,7 +253,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "electrical-leads",
     title: "Electrical Leads: A Guide for Contractors",
-    metaTitle: "Electrical Leads Guide",
+    metaTitle: "Electrical Leads Guide for Licensed Contractors",
     excerpt: "A foundational guide to sourcing and converting electrical service and installation leads.",
     metaDescription: "Electrical leads range from minor repairs to full panel upgrades, each needing different licensing. A foundational guide for contractors sourcing this category.",
     category: "Home Services Marketing",
@@ -289,7 +289,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "electrician-leads",
     title: "Electrician Leads: A Guide for Independent Professionals",
-    metaTitle: "Electrician Leads Guide",
+    metaTitle: "Electrician Leads Guide for Independent Professionals",
     excerpt: "A guide for individual electricians and small firms on building consistent client acquisition volume.",
     metaDescription: "Independent electricians competing against larger firms need an affordable, steady pipeline. Learn tactics for building consistent client acquisition volume.",
     category: "Home Services Marketing",
@@ -324,7 +324,7 @@ export const keywordBatch13Articles: Article[] = [
   {
     slug: "email-leads",
     title: "Email Leads: A Guide to This Acquisition Channel",
-    metaTitle: "Email Leads Guide",
+    metaTitle: "Email Leads Guide: Sourcing This Acquisition Channel",
     excerpt: "A guide to generating and sourcing leads through email marketing campaigns.",
     metaDescription: "Email-generated leads depend on list quality and opt-in freshness, not just message content. Learn how this acquisition channel actually produces leads.",
     category: "Lead Generation Basics",
@@ -463,7 +463,7 @@ export const keywordBatch13Articles: Article[] = [
   },
   {
     slug: "enterprise-lead-supply-agreement",
-    title: "Enterprise Lead Supply Agreements: SLAs, Volume Tiers, and Pricing Mechanics",
+    title: "Enterprise Lead Supply Agreements: SLAs and Pricing Mechanics",
     metaTitle: "Enterprise Lead Supply Agreement: SLA Guide",
     excerpt: "The contractual mechanics of a large-scale lead supply deal: volume commitments, SLA terms, tiered pricing, and remedies for missed delivery.",
     metaDescription: "Enterprise lead supply agreements are transactional contracts, not partnerships. Learn how to structure volume commitments, SLAs, and pricing tiers.",

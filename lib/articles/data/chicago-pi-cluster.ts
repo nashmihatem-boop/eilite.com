@@ -59,7 +59,7 @@ export const chicagoPiClusterArticles: Article[] = [
   },
   {
     slug: "generate-quality-personal-injury-attorney-leads-in-chicago",
-    title: "How CTA and Public Transit Accidents Shape Chicago Personal Injury Leads",
+    title: "How CTA and Transit Accidents Shape Chicago PI Leads",
     metaTitle: "Chicago CTA & Transit Accident Leads",
     excerpt:
       "Chicago's elevated train system and bus network create accident and injury categories that most other metro markets simply don't have. Here's how firms should account for them.",
@@ -118,6 +118,8 @@ export const chicagoPiClusterArticles: Article[] = [
     metaTitle: "Chicago Winter Weather Accident Leads",
     excerpt:
       "Chicago's harsh winters create a predictable seasonal spike in slip-and-fall and weather-related auto accident cases. Here's how firms should plan for it.",
+    metaDescription:
+      "Chicago winters bring a predictable seasonal spike in slip-and-fall and weather-related auto accident cases, and firms should plan intake capacity for it.",
     category: "Local SEO & City Guides",
     readTime: "6 min read",
     publishedDate: "2026-08-13",
@@ -175,7 +177,7 @@ export const chicagoPiClusterArticles: Article[] = [
   },
   {
     slug: "the-pi-lawyers-guide-to-quality-personal-injury-leads-in-chicago",
-    title: "The PI Lawyer's Guide to Quality Leads Across Chicago's Diverse Neighborhoods",
+    title: "PI Lawyer's Guide to Leads Across Chicago Neighborhoods",
     metaTitle: "Chicago Neighborhood Guide to PI Leads",
     excerpt:
       "Chicago's South Side, North Side, and western neighborhoods have distinct demographics, jury tendencies, and case profiles. Here's why a one-size-fits-all citywide approach underperforms.",

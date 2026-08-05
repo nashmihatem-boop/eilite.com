@@ -61,6 +61,8 @@ export const exclusiveXCluster8Articles: Article[] = [
     metaTitle: "Exclusive vs. Shared PI Leads Guide",
     excerpt:
       "A practical decision guide for choosing between exclusive and shared personal injury lead delivery based on your firm's specific situation.",
+    metaDescription:
+      "A practical decision guide for choosing between exclusive and shared personal injury lead delivery, based on your law firm's specific situation and goals.",
     category: "Personal Injury",
     readTime: "6 min read",
     publishedDate: "2026-09-19",

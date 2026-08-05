@@ -247,7 +247,7 @@ export const keywordBatch31Articles: Article[] = [
   {
     slug: "native-ads-leads",
     title: "Native Ads Leads: A Guide to This Platform-Based Format",
-    metaTitle: "Native Ads Leads Guide",
+    metaTitle: "Native Ads Leads: A Guide to Taboola & Outbrain",
     excerpt: "A guide to leads generated through native advertising platforms like Taboola and Outbrain.",
     metaDescription: "Native ads on platforms like Taboola and Outbrain blend into content feeds — this guide explains how leads generated through native advertising actually work.",
     category: "Lead Generation Basics",
@@ -284,6 +284,8 @@ export const keywordBatch31Articles: Article[] = [
     title: "Native Advertising Leads: A Strategic Content Marketing Approach",
     metaTitle: "Native Advertising Leads Guide",
     excerpt: "A guide to native advertising as a broader content marketing strategy, distinct from platform-specific native ad networks.",
+    metaDescription:
+      "Native advertising leads come from a broader content marketing strategy, not platform-specific ad networks like Taboola. Here's how the approach works.",
     category: "Lead Generation Basics",
     readTime: "6 min read",
     publishedDate: "2026-12-21",
@@ -449,7 +451,7 @@ export const keywordBatch31Articles: Article[] = [
   {
     slug: "nevada-solar-leads",
     title: "Nevada Solar Leads: A Guide for Installers",
-    metaTitle: "Nevada Solar Leads Guide",
+    metaTitle: "Nevada Solar Leads: A Sourcing Guide for Installers",
     excerpt: "A guide to sourcing solar leads specifically within the Nevada market.",
     metaDescription: "Nevada's abundant sunshine and rising energy costs are fueling solar demand — this guide covers how installers source and convert leads specific to the state.",
     category: "Home Services Marketing",
@@ -616,7 +618,7 @@ export const keywordBatch31Articles: Article[] = [
   {
     slug: "new-roof-leads",
     title: "New Roof Leads: A Guide for Roofing Contractors",
-    metaTitle: "New Roof Leads Guide",
+    metaTitle: "New Roof Leads: A Complete Guide for Contractors",
     excerpt: "A guide to sourcing and converting leads specifically for full roof replacement, distinct from repair work.",
     metaDescription: "Full roof replacement is a distinct, high-ticket lead category from repair work — this guide covers how roofing contractors source and convert new roof leads.",
     category: "Home Services Marketing",

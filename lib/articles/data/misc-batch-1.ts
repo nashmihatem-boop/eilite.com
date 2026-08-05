@@ -7,6 +7,8 @@ export const miscBatch1Articles: Article[] = [
     metaTitle: "7 Proven Law Firm Growth Strategies",
     excerpt:
       "A concise, current roundup of growth strategies producing consistent results for law firms across practice areas this year.",
+    metaDescription:
+      "A curated roundup of 7 proven growth strategies producing consistent, repeatable results for law firms across every major practice area in 2026.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-11",
@@ -83,6 +85,8 @@ export const miscBatch1Articles: Article[] = [
     metaTitle: "Advertising for Lawyers: Foundational Guide",
     excerpt:
       "A foundational overview of legal advertising — formats, compliance basics, and how to think about budget allocation across channels.",
+    metaDescription:
+      "A foundational overview of legal advertising covering formats, compliance basics, and how firms should think about budget allocation across channels.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-11",

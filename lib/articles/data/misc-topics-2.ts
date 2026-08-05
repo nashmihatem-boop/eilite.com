@@ -9,6 +9,7 @@ export const miscTopics2Articles: Article[] = [
     metaTitle: "How to Evaluate Attorney Lead Service Reviews",
     excerpt:
       "Online reviews of lead generation companies are easy to manipulate and hard to verify. Here's how to read them critically and what other signals matter more.",
+    metaDescription: "Online reviews of attorney lead generation companies are easy to manipulate and hard to verify. Learn how to read them critically and which signals matter more.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-10",
@@ -78,6 +79,7 @@ export const miscTopics2Articles: Article[] = [
     metaTitle: "Attorney Lead Services: What's Included",
     excerpt:
       "'Lead service' can describe products with almost nothing in common. Here's a breakdown of what to actually expect included, and what's often sold as an add-on.",
+    metaDescription: "Attorney lead service can describe wildly different products. This breakdown covers what to actually expect included versus what's often sold as an add-on.",
     category: "Legal Leads",
     readTime: "6 min read",
     publishedDate: "2026-08-10",

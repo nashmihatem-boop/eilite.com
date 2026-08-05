@@ -79,6 +79,8 @@ export const leadPricingArticles: Article[] = [
     metaTitle: "Law Firm Pay-Per-Lead Pricing: Full Breakdown",
     excerpt:
       "Beyond the sticker price per lead, several less obvious cost factors determine the real economics of a pay-per-lead program. Here's the complete picture.",
+    metaDescription:
+      "Beyond the sticker price per lead, several less obvious cost factors determine the real economics of a law firm pay-per-lead program. Here's the full picture.",
     category: "Legal Leads",
     readTime: "7 min read",
     publishedDate: "2026-08-06",

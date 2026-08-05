@@ -7,6 +7,8 @@ export const landingPageOptimizationArticles: Article[] = [
     metaTitle: "Law Firm Landing Page Optimization Strategies",
     excerpt:
       "Specific, tested strategies for improving landing page conversion rate, whether the traffic comes from PPC, organic search, or referrals.",
+    metaDescription:
+      "Seven specific, tested strategies for improving law firm landing page conversion rate, whether traffic comes from PPC, organic search, or referrals.",
     category: "Law Firm Marketing",
     readTime: "7 min read",
     publishedDate: "2026-09-13",
