@@ -748,7 +748,7 @@ export const medicareBatch3Articles: Article[] = [
   },
   {
     slug: "digital-marketing-agencies-for-home-services-providers",
-    title: "Digital Marketing Agencies for Home Services Providers: What to Look For",
+    title: "Digital Marketing Agencies for Home Services Providers",
     metaTitle: "Digital Marketing Agencies for Home Services",
     excerpt: "What home services providers should look for when evaluating a digital marketing agency.",
     metaDescription: "What home services providers should look for in a digital marketing agency, from proven vertical experience to transparent, results-based reporting.",

@@ -195,7 +195,7 @@ export const keywordBatch42Articles: Article[] = [
   {
     slug: "t65-leads",
     title: "T65 Leads: A Guide for Medicare Agents",
-    metaTitle: "T65 Leads Guide",
+    metaTitle: "T65 Leads: A Guide for Medicare Agents",
     excerpt: "A guide to T65 leads, targeting individuals approaching their 65th birthday and Medicare eligibility.",
     metaDescription: "Turning 65 triggers Medicare eligibility and a narrow enrollment window. Learn how agents source and convert T65 leads before prospects choose a competitor's plan.",
     category: "Medicare Leads",
@@ -1098,7 +1098,7 @@ export const keywordBatch42Articles: Article[] = [
   {
     slug: "texas-solar-leads",
     title: "Texas Solar Leads: A Guide for Installers",
-    metaTitle: "Texas Solar Leads Guide",
+    metaTitle: "Texas Solar Leads: A Guide for Installers",
     excerpt: "A guide to sourcing solar leads specifically within the Texas market.",
     metaDescription: "Texas's abundant sunshine and deregulated energy market make it a top solar lead state. Learn how installers source and convert leads within this market.",
     category: "Home Services Marketing",

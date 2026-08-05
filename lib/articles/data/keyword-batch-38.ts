@@ -218,7 +218,7 @@ export const keywordBatch38Articles: Article[] = [
   {
     slug: "recycled-leads",
     title: "Recycled Leads: Understanding This Category",
-    metaTitle: "Recycled Leads Guide",
+    metaTitle: "Recycled Leads: A Foundational Guide",
     excerpt: "A foundational guide to recycled leads, previously sold contact records offered again at a reduced price.",
     metaDescription: "A foundational guide to recycled leads, previously sold contact records offered again at a reduced price, covering when they're worth buying and when to skip.",
     category: "Lead Generation Basics",
@@ -272,7 +272,7 @@ export const keywordBatch38Articles: Article[] = [
   {
     slug: "refinance-leads",
     title: "Refinance Leads: A Foundational Guide for Loan Officers",
-    metaTitle: "Refinance Leads Guide",
+    metaTitle: "Refinance Leads: A Foundational Guide",
     excerpt: "A foundational guide to sourcing and converting mortgage refinance leads across delivery formats.",
     metaDescription: "A foundational guide to sourcing and converting mortgage refinance leads across delivery formats, covering rate-driven demand cycles and pricing benchmarks.",
     category: "Financial Leads",
@@ -598,6 +598,8 @@ export const keywordBatch38Articles: Article[] = [
     slug: "roof-replacement-leads",
     title: "Roof Replacement Leads: A Guide for Contractors",
     metaTitle: "Roof Replacement Leads Guide",
+    metaDescription:
+      "Leads for homeowners whose existing roof needs replacement due to age or damage qualify differently than proactive upgrade inquiries. A sourcing guide.",
     excerpt: "A guide to leads for homeowners whose existing roof needs replacement due to age or damage, distinct from proactive new roof upgrades.",
     category: "Home Services Marketing",
     readTime: "8 min read",
@@ -647,7 +649,7 @@ export const keywordBatch38Articles: Article[] = [
   {
     slug: "roofing-leads",
     title: "Roofing Leads: A Foundational Guide for Contractors",
-    metaTitle: "Roofing Leads Guide",
+    metaTitle: "Roofing Leads: A Foundational Guide",
     excerpt: "A foundational guide to sourcing and converting roofing leads across all project types.",
     metaDescription: "A foundational guide to sourcing and converting roofing leads across all project types, covering seasonal demand, delivery formats, and pricing benchmarks.",
     category: "Home Services Marketing",
@@ -801,7 +803,7 @@ export const keywordBatch38Articles: Article[] = [
   {
     slug: "rv-insurance-leads",
     title: "RV Insurance Leads: A Guide for Agents",
-    metaTitle: "RV Insurance Leads Guide",
+    metaTitle: "RV Insurance Leads: Sourcing Guide for Agents",
     excerpt: "A guide to sourcing and converting leads for recreational vehicle insurance.",
     metaDescription: "A guide to sourcing and converting leads for recreational vehicle insurance, covering typical shopper profiles, seasonal demand, and realistic per-lead pricing.",
     category: "Insurance",
@@ -911,7 +913,7 @@ export const keywordBatch38Articles: Article[] = [
   {
     slug: "sba-loan-leads",
     title: "SBA Loan Leads: A Guide for Lenders",
-    metaTitle: "SBA Loan Leads Guide",
+    metaTitle: "SBA Loan Leads: A Guide for Lenders",
     excerpt: "A guide to sourcing and converting leads for Small Business Administration loan products.",
     metaDescription: "A guide to sourcing and converting leads for Small Business Administration loan products, covering borrower qualification, pricing, and lender compliance.",
     category: "Financial Leads",
@@ -1020,7 +1022,7 @@ export const keywordBatch38Articles: Article[] = [
   {
     slug: "second-look-leads-recycled-leads",
     title: "Second-Look Leads: A Strategic Buying Guide",
-    metaTitle: "Second-Look Leads Guide",
+    metaTitle: "Second-Look Leads: A Strategic Buying Guide",
     excerpt: "A strategic guide to using recycled leads as a second-look opportunity at reduced cost.",
     metaDescription: "A strategic guide to using recycled leads as a second-look opportunity at reduced cost, covering when reworking older contacts still pays off for agents.",
     category: "Lead Generation Basics",

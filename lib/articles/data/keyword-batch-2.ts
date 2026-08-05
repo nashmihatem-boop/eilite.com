@@ -196,7 +196,7 @@ export const keywordBatch2Articles: Article[] = [
   {
     slug: "aged-hvac-leads",
     title: "Aged HVAC Leads: What Contractors Should Know",
-    metaTitle: "Aged HVAC Leads Guide",
+    metaTitle: "Aged HVAC Leads: Pricing & Conversion Guide",
     excerpt: "Understanding the tradeoffs of aged HVAC leads compared to real-time formats.",
     metaDescription: "What contractors should know about aged HVAC leads, including how much conversion odds drop over time compared to fresh, real-time service requests.",
     category: "Home Services Marketing",
@@ -978,7 +978,7 @@ export const keywordBatch2Articles: Article[] = [
   {
     slug: "aged-roofing-leads",
     title: "Aged Roofing Leads: What Contractors Should Know",
-    metaTitle: "Aged Roofing Leads Guide",
+    metaTitle: "Aged Roofing Leads: What to Know Before Buying",
     excerpt: "Understanding the tradeoffs of aged roofing leads compared to real-time formats.",
     metaDescription: "What contractors should know about aged roofing leads, including how project urgency and homeowner intent decline compared to real-time service calls.",
     category: "Home Services Marketing",
@@ -1043,7 +1043,7 @@ export const keywordBatch2Articles: Article[] = [
   {
     slug: "aged-solar-leads",
     title: "Aged Solar Leads: What Installers Should Know",
-    metaTitle: "Aged Solar Leads Guide",
+    metaTitle: "Aged Solar Leads: Pricing & Conversion Guide",
     excerpt: "Understanding the tradeoffs of aged solar leads compared to real-time formats.",
     metaDescription: "What installers should know about aged solar leads, including how buyer intent and incentive timing shift compared to fresh, real-time solar inquiries.",
     category: "Home Services Marketing",
@@ -1108,7 +1108,7 @@ export const keywordBatch2Articles: Article[] = [
   {
     slug: "aged-window-leads",
     title: "Aged Window Leads: What Contractors Should Know",
-    metaTitle: "Aged Window Leads Guide",
+    metaTitle: "Aged Window Leads: Pricing & Conversion Guide",
     excerpt: "Understanding the tradeoffs of aged window replacement leads compared to real-time formats.",
     metaDescription: "What contractors should know about aged window replacement leads, including how project timelines and homeowner intent compare to real-time inquiries.",
     category: "Home Services Marketing",
