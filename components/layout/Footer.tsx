@@ -7,6 +7,8 @@ const columns = [
     title: "Company",
     links: [
       { href: "/", label: "Home" },
+      { href: "/about-us", label: "About Us" },
+      { href: "/lead-validation-partners", label: "Lead Validation Partners" },
       { href: "/learning-center", label: "Learning Center" },
       { href: "/privacy-policy", label: "Privacy Policy" },
       { href: "/terms-of-use", label: "Terms of Use" },

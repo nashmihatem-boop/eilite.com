@@ -7,7 +7,7 @@ const values = [
   { text: "Honest pricing — no bulk filler, quality only" },
   {
     text: "TCPA and DNC compliance on every delivery",
-    href: "/#compliance",
+    href: "/lead-validation-partners",
     linkLabel: "see how we validate",
   },
   { text: "Nationwide coverage, any industry, any budget" },

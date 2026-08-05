@@ -34,7 +34,7 @@ const pillars: Pillar[] = [
     description:
       "Every contact is scrubbed against DNC and TCPA litigator lists before it reaches you — protecting your business and the consumer's privacy.",
     cta: "View compliance partners",
-    href: "/#compliance",
+    href: "/lead-validation-partners",
   },
   {
     icon: Users,
