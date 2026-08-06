@@ -3,7 +3,7 @@ const partners = [
     name: "Jornaya",
     role: "Consent & Intent Tracking",
     description:
-      "Jornaya records a verifiable trail of consumer consent as a lead moves through a form or call flow, giving both Eilite and the buyer a defensible record of when and how a prospect agreed to be contacted.",
+      "Jornaya's LeadiD records a verifiable trail of consumer consent as a lead moves through a form or call flow, tagging every capture with a campaign key so both Eilite and the buyer have a defensible, source-specific record of when and how a prospect agreed to be contacted.",
   },
   {
     name: "TrustedForm",
