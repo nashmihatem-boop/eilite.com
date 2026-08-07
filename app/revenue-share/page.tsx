@@ -16,7 +16,7 @@ import { siteConfig } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "40% Revenue Share Program",
   description:
-    "Send us the leads you couldn't sell or use. We scrub them for compliance, work them through our call center, and pay you 40% revenue share on every warm transfer or call we close.",
+    "Send unsold leads to Eilite. We scrub them for compliance, work them through our call center, and pay you 40% revenue share on every sale.",
   alternates: { canonical: "/revenue-share" },
 };
 

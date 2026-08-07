@@ -6,7 +6,7 @@ import { solutionVerticals } from "@/lib/solutions";
 
 // Bump this only when a static marketing page's content actually changes —
 // it should not track "now" on every build.
-const STATIC_PAGES_LAST_UPDATED = new Date("2026-08-03");
+const STATIC_PAGES_LAST_UPDATED = new Date("2026-08-07");
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
@@ -23,6 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/sell-leads",
     "/sell-warm-transfers",
     "/sell-inbounds",
+    "/revenue-share",
     "/coverage",
     "/solutions",
   ];
