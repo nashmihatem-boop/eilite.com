@@ -8,7 +8,8 @@ import { ComplianceStrip } from "@/components/sections/ComplianceStrip";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { AffiliateApplyForm } from "@/components/sections/AffiliateApplyForm";
 import { JsonLd } from "@/components/seo/JsonLd";
-import { faqJsonLd } from "@/lib/structured-data";
+import { faqJsonLd, serviceJsonLd } from "@/lib/structured-data";
+import { siteConfig } from "@/lib/constants";
 import { OfferSelectionProvider } from "@/lib/offer-selection-context";
 
 export const metadata: Metadata = {
@@ -44,6 +45,13 @@ const faqs: FAQItem[] = [
 export default function LeadGenAlliancePage() {
   return (
     <>
+      <JsonLd
+        data={serviceJsonLd({
+          name: "Lead Gen Alliance Partner Program",
+          description: metadata.description as string,
+          url: `${siteConfig.url}/lead-gen-alliance`,
+        })}
+      />
       <JsonLd data={faqJsonLd(faqs)} />
       <Navbar />
       <MarketplaceHero
