@@ -17,6 +17,7 @@ const publisherLinks = [
   { href: "/sell-leads", label: "Sell Leads" },
   { href: "/sell-warm-transfers", label: "Sell Warm Transfers" },
   { href: "/sell-inbounds", label: "Sell Inbounds" },
+  { href: "/revenue-share", label: "40% RevShare" },
   { href: "/affiliates", label: "Affiliate Program" },
 ];
 
