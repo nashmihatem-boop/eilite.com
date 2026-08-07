@@ -12,7 +12,7 @@ import { solutionVerticals } from "@/lib/solutions";
 export const metadata: Metadata = {
   title: "Lead Generation Solutions by Industry",
   description:
-    "Exclusive, verified leads and live warm transfers for home service contractors, insurance agents, and B2B software companies — browse solutions by industry.",
+    "Exclusive, verified leads and live warm transfers for home service contractors, insurance agents, and law firms — browse solutions by industry.",
   alternates: { canonical: "/solutions" },
 };
 
@@ -30,7 +30,7 @@ export default function SolutionsPage() {
         eyebrow="Solutions"
         headline="Lead Generation Built"
         highlight="for Your Industry"
-        subheadline="From roofing crews to insurance agents to B2B software teams — every solution below is exclusive leads, verified before delivery, filtered to the work you actually want."
+        subheadline="From roofing crews to insurance agents to Medicare agencies — every solution below is exclusive leads, verified before delivery, filtered to the work you actually want."
         ctaLabel="Book a Demo Call"
       />
       <SolutionsGrid verticals={solutionVerticals} />

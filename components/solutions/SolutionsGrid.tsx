@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import type { SolutionVertical, SolutionCategory } from "@/lib/solutions";
 
-const categoryOrder: SolutionCategory[] = ["Legal", "Healthcare", "Home Services", "Insurance", "Software & B2B"];
+const categoryOrder: SolutionCategory[] = ["Legal", "Healthcare", "Home Services", "Insurance"];
 
 const categoryCopy: Record<SolutionCategory, { eyebrow: string; heading: string }> = {
   Legal: {
