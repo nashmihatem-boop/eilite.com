@@ -5,6 +5,7 @@ import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceProblem } from "@/components/marketplace/MarketplaceProblem";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
@@ -108,6 +109,29 @@ export default function BuyWarmTransfersPage() {
           "Scale distribution across a vetted publisher network",
           "Protect call quality with real-time compliance screening",
           "Track every transfer with transparent, real-time reporting",
+        ]}
+      />
+      <SolutionHowItWorks
+        heading="From Live Caller to Connected Transfer"
+        subheading="A straightforward pipeline built around your team's capacity — you set the parameters, we screen and connect."
+        demoIndustry=""
+        steps={[
+          {
+            title: "Tell Us Your Capacity",
+            detail: "Set your industry, target volume, and the hours your team can actually take live calls.",
+          },
+          {
+            title: "We Screen for Real Interest",
+            detail: "Callers are pre-qualified for genuine interest and run through TCPA/DNC compliance checks before a transfer is ever attempted.",
+          },
+          {
+            title: "Live Connection, No Delay",
+            detail: "The moment a prospect confirms interest, the call transfers directly to your team while intent is highest.",
+          },
+          {
+            title: "Adjust Volume in Real Time",
+            detail: "Track every transfer's outcome from your dashboard and scale volume up or down as your team's bandwidth changes.",
+          },
         ]}
       />
       <MarketplaceBenefits

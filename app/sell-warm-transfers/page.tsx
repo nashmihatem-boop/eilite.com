@@ -4,6 +4,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
@@ -71,6 +72,29 @@ export default function SellWarmTransfersPage() {
           "Transparent reporting on every transfer",
           "Compliance handled so your traffic stays protected",
           "Dedicated affiliate support to improve transfer quality",
+        ]}
+      />
+      <SolutionHowItWorks
+        heading="From Live Caller to Paid Transfer"
+        subheading="A straightforward pipeline for your call traffic — you send it, we confirm and connect."
+        demoIndustry=""
+        steps={[
+          {
+            title: "Apply & Get Set Up",
+            detail: "Tell us your call volume and industry — we'll get your account and trackable numbers ready.",
+          },
+          {
+            title: "Route Live Calls to Us",
+            detail: "Send your qualified callers to our owned call center or wider buyer network the moment they're ready to talk.",
+          },
+          {
+            title: "We Confirm & Connect",
+            detail: "Genuine interest is confirmed before the call transfers live to a buyer paying for that conversation.",
+          },
+          {
+            title: "Get Paid for Real Conversations",
+            detail: "Payouts are based on tracked call duration and outcome, visible in your dashboard.",
+          },
         ]}
       />
       <MarketplaceBenefits

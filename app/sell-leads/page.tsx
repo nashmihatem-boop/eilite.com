@@ -4,6 +4,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
@@ -71,6 +72,29 @@ export default function SellLeadsPage() {
           "Transparent reporting, caps, and payout tracking",
           "Dedicated affiliate support and account management",
           "Compliance monitoring across every submission",
+        ]}
+      />
+      <SolutionHowItWorks
+        heading="From Submitted Lead to Paid Out"
+        subheading="A straightforward pipeline for your lead traffic — you send it, we route and pay."
+        demoIndustry=""
+        steps={[
+          {
+            title: "Apply & Get Onboarded",
+            detail: "Tell us your traffic source, industry, and volume — our team reviews your traffic and sets up your account.",
+          },
+          {
+            title: "Route Your Traffic",
+            detail: "Send leads via Ping/Post or a direct integration, so every submission reaches us the moment it's captured.",
+          },
+          {
+            title: "We Match You With a Buyer",
+            detail: "Each lead is matched to the buyer paying the most for that exact profile, in real time.",
+          },
+          {
+            title: "Get Paid on Schedule",
+            detail: "Payout schedules are set during onboarding and tracked in real time through your dashboard.",
+          },
         ]}
       />
       <MarketplaceBenefits

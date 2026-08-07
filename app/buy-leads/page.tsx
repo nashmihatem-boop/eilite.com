@@ -5,7 +5,9 @@ import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceProblem } from "@/components/marketplace/MarketplaceProblem";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
+import { BuyerAudienceToggle } from "@/components/marketplace/BuyerAudienceToggle";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -110,6 +112,29 @@ export default function BuyLeadsPage() {
           "Work with a network built for TCPA and DNC compliance",
         ]}
       />
+      <SolutionHowItWorks
+        heading="From Criteria to Delivered Lead"
+        subheading="A straightforward pipeline built around your buying criteria — you set the parameters, we do the sourcing and screening."
+        demoIndustry=""
+        steps={[
+          {
+            title: "Tell Us Your Criteria",
+            detail: "Give us your industry, target states, and lead type — legal, financial, home services, insurance, or healthcare — so every campaign is built around what you actually buy.",
+          },
+          {
+            title: "We Source & Validate",
+            detail: "Leads are captured from owned landing pages and vetted publishers, then screened for fraud, consent, and TCPA/DNC compliance before they ever count as a lead.",
+          },
+          {
+            title: "Delivered Exclusively to You",
+            detail: "Each lead is sold once, routed straight to your CRM or inbox in real time — never resold or shared with a competitor.",
+          },
+          {
+            title: "Scale With Transparent Reporting",
+            detail: "Track cost, volume, and quality from your dashboard, and adjust criteria or volume at any time as your capacity changes.",
+          },
+        ]}
+      />
       <MarketplaceBenefits
         eyebrow="Why Buy From Eilite"
         heading="Leads Built to"
@@ -138,6 +163,7 @@ export default function BuyLeadsPage() {
           },
         ]}
       />
+      <BuyerAudienceToggle />
       <MarketplaceFAQ faqs={faqs} />
       <FinalCTA
         heading="Ready to Start Buying Exclusive Leads?"

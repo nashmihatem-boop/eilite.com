@@ -5,6 +5,7 @@ import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceProblem } from "@/components/marketplace/MarketplaceProblem";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
@@ -108,6 +109,29 @@ export default function BuyInboundsPage() {
           "Scale distribution across a vetted publisher network",
           "Protect lead quality with real-time fraud and compliance screening",
           "Track every call with transparent, real-time reporting",
+        ]}
+      />
+      <SolutionHowItWorks
+        heading="From Dialed Number to Ringing Line"
+        subheading="A straightforward pipeline built around your call criteria — you tell us what you want, we screen and route."
+        demoIndustry=""
+        steps={[
+          {
+            title: "Tell Us Your Line & Criteria",
+            detail: "Give us the industry, geography, and call volume you want to receive — we route around your existing phone setup.",
+          },
+          {
+            title: "We Screen for Fraud & Compliance",
+            detail: "Every call runs through IPQualityScore-style fraud detection and DNC/TCPA screening before it's routed.",
+          },
+          {
+            title: "Calls Ring Your Line Live",
+            detail: "Genuine callers connect to your team the moment they dial in — no queue, no delay.",
+          },
+          {
+            title: "Pay for Engagement, Not Volume",
+            detail: "Billing is tied to real call duration and quality, tracked transparently in your dashboard.",
+          },
         ]}
       />
       <MarketplaceBenefits

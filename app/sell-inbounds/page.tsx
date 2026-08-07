@@ -4,6 +4,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
+import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
@@ -71,6 +72,29 @@ export default function SellInboundsPage() {
           "Transparent performance metrics and payout visibility",
           "Monitored compliance systems that protect your traffic",
           "Dedicated account support to help you grow call volume",
+        ]}
+      />
+      <SolutionHowItWorks
+        heading="From Dialed Call to Paid Out"
+        subheading="A straightforward pipeline for your call traffic — you route it, we match and pay."
+        demoIndustry=""
+        steps={[
+          {
+            title: "Apply & Get Your Numbers",
+            detail: "Tell us your sourcing channels and volume — get call-tracking numbers from your dashboard or connect your existing setup.",
+          },
+          {
+            title: "Route Your Call Traffic",
+            detail: "Point your campaigns at your Eilite tracking numbers or ping/post integration.",
+          },
+          {
+            title: "We Match Calls to Buyers",
+            detail: "Every call is screened for fraud and duplicate activity, then routed to the buyer paying the most for that call.",
+          },
+          {
+            title: "Track Payouts in Real Time",
+            detail: "Monitor call volume, quality, and payout as it happens from your dashboard.",
+          },
         ]}
       />
       <MarketplaceBenefits
