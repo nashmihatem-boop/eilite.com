@@ -81,7 +81,7 @@ export default async function CoverageIndustryPage({
 
       <CoverageSolutionCards industryLabel={industry.label} />
 
-      {industry.showLeadLifecycle && <CoverageHowItWorks industryLabel={industry.label} />}
+      <CoverageHowItWorks industryLabel={industry.label} />
 
       <ComplianceStrip />
 
