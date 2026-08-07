@@ -24,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/sell-warm-transfers",
     "/sell-inbounds",
     "/revenue-share",
+    "/lead-gen-alliance",
     "/coverage",
     "/solutions",
   ];
