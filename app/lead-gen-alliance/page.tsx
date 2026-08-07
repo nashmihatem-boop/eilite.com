@@ -9,6 +9,7 @@ import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/Marketpla
 import { AffiliateApplyForm } from "@/components/sections/AffiliateApplyForm";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { faqJsonLd } from "@/lib/structured-data";
+import { OfferSelectionProvider } from "@/lib/offer-selection-context";
 
 export const metadata: Metadata = {
   title: "Partner With Eilite — Lead Gen Alliance",
@@ -54,15 +55,17 @@ export default function LeadGenAlliancePage() {
         ctaHref="#apply"
       />
 
-      <CommunityPartnerPaths />
+      <OfferSelectionProvider>
+        <CommunityPartnerPaths />
 
-      <AffiliateRevenue />
+        <AffiliateRevenue />
 
-      <ComplianceStrip />
+        <ComplianceStrip />
 
-      <MarketplaceFAQ faqs={faqs} />
+        <MarketplaceFAQ faqs={faqs} />
 
-      <AffiliateApplyForm />
+        <AffiliateApplyForm />
+      </OfferSelectionProvider>
       <Footer />
     </>
   );

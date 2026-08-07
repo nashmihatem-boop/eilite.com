@@ -1,50 +1,82 @@
-import { FileCheck, PhoneCall, Phone, Percent, ArrowRight } from "lucide-react";
+"use client";
 
-const sellOffers = [
+import { FileCheck, PhoneCall, Phone, Percent, ArrowRight } from "lucide-react";
+import { useOfferSelection, type OfferSelection } from "@/lib/offer-selection-context";
+
+const sellOffers: (OfferSelection & { icon: typeof FileCheck; title: string; detail: string })[] = [
   {
     icon: FileCheck,
     title: "Sell Leads",
     detail: "Route your lead traffic to buyers who pay for it in real time.",
+    role: "Affiliate",
+    solution: "Web Form Leads",
   },
   {
     icon: PhoneCall,
     title: "Sell Warm Transfers",
     detail: "Get paid for live, qualified phone conversations you generate.",
+    role: "Affiliate",
+    solution: "Warm Transfers",
   },
   {
     icon: Phone,
     title: "Sell Inbounds",
     detail: "Monetize every inbound call you generate, from any sourcing channel.",
+    role: "Affiliate",
+    solution: "Inbound Calls",
   },
   {
     icon: Percent,
     title: "40% RevShare",
     detail: "Send us the leads you can't place — we work them and split the payout.",
+    role: "Affiliate",
+    solution: "40% RevShare",
   },
 ];
 
-const buyOffers = [
+const buyOffers: (OfferSelection & { icon: typeof FileCheck; title: string; detail: string })[] = [
   {
     icon: FileCheck,
     title: "Buy Leads",
     detail: "Exclusive, verified leads across every vertical we serve.",
+    role: "Advertiser",
+    solution: "Web Form Leads",
   },
   {
     icon: PhoneCall,
     title: "Buy Warm Transfers",
     detail: "Live, pre-qualified callers connected straight to your team.",
+    role: "Advertiser",
+    solution: "Warm Transfers",
   },
   {
     icon: Phone,
     title: "Buy Inbounds",
     detail: "Pay for engaged conversations, not clicks — calls route straight to your line.",
+    role: "Advertiser",
+    solution: "Inbound Calls",
   },
 ];
 
-function OfferCard({ icon: Icon, title, detail }: { icon: typeof FileCheck; title: string; detail: string }) {
+function OfferCard({
+  icon: Icon,
+  title,
+  detail,
+  role,
+  solution,
+}: {
+  icon: typeof FileCheck;
+  title: string;
+  detail: string;
+  role: OfferSelection["role"];
+  solution: string;
+}) {
+  const offerSelection = useOfferSelection();
+
   return (
     <a
       href="#apply"
+      onClick={() => offerSelection?.selectOffer({ role, solution })}
       className="group flex flex-col rounded-2xl border border-[var(--color-line)] bg-white p-6 shadow-sm transition-colors hover:border-[var(--color-brand)]/40"
     >
       <span className="flex h-11 w-11 items-center justify-center rounded-full bg-[var(--color-surface-tint)]">
@@ -72,8 +104,8 @@ export function CommunityPartnerPaths() {
             Buy, Sell, or <span className="text-[var(--color-brand)]">Both</span> — Pick What Fits
           </h2>
           <p className="mt-4 text-[var(--color-ink-soft)]">
-            Every card below leads to the same application — tell us which ones apply and our team will confirm
-            availability for your vertical and volume.
+            Pick a card and the application below will already be set up for it — tell us the rest and our team
+            will confirm availability for your vertical and volume.
           </p>
         </div>
 

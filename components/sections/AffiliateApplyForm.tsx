@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, type FormEvent } from "react";
+import { useState, useEffect, type FormEvent } from "react";
 import { MultiSelect } from "@/components/ui/MultiSelect";
 import { SOLUTIONS, COUNTRIES } from "@/lib/form-options";
+import { useOfferSelection } from "@/lib/offer-selection-context";
 
 const INDUSTRIES = ["Legal", "Financial", "Home Services", "Insurance", "Healthcare"];
 
@@ -26,6 +27,16 @@ export function AffiliateApplyForm() {
   const [hasEin, setHasEin] = useState<"Yes" | "No" | "">("");
   const [website, setWebsite] = useState(""); // honeypot — real users never see or fill this
   const [mountedAt] = useState(() => Date.now());
+
+  // Offer cards above this form (e.g. on /lead-gen-alliance) can prefill role + solution
+  // via OfferSelectionProvider — a no-op when the form is rendered without that provider,
+  // as it is on /affiliates.
+  const offerSelection = useOfferSelection();
+  useEffect(() => {
+    if (!offerSelection?.selection) return;
+    setRole(offerSelection.selection.role);
+    setSolution([offerSelection.selection.solution]);
+  }, [offerSelection?.selection]);
 
   async function handleSubmit(e: FormEvent) {
     e.preventDefault();
@@ -103,9 +114,9 @@ export function AffiliateApplyForm() {
                   <div className="grid grid-cols-3 gap-3">
                     {(
                       [
-                        { value: "Advertiser", detail: "I want to buy leads, transfers, or calls" },
-                        { value: "Affiliate", detail: "I want to sell my traffic" },
-                        { value: "Both", detail: "I want to buy and sell" },
+                        { value: "Advertiser", detail: "I want to buy" },
+                        { value: "Affiliate", detail: "I want to sell" },
+                        { value: "Both", detail: "I want to buy & sell" },
                       ] as const
                     ).map((option) => {
                       const isActive = role === option.value;
@@ -253,6 +264,11 @@ export function AffiliateApplyForm() {
                 >
                   {isSubmitting ? "Submitting…" : "Apply Now — Start Earning"}
                 </button>
+                <p className="text-center text-xs text-[var(--color-ink-soft)]">
+                  By submitting this form, you agree to receive promotional and personalized marketing text
+                  messages and phone calls from Eilite.com at the number used above. Msg and call frequency may
+                  vary. Msg and data rates may apply.
+                </p>
               </form>
             </>
           )}

@@ -1,4 +1,4 @@
-export const SOLUTIONS = ["Web Form Leads", "Warm Transfers", "Inbound Calls"];
+export const SOLUTIONS = ["Web Form Leads", "Warm Transfers", "Inbound Calls", "40% RevShare"];
 
 export const COUNTRIES = [
   "United States",
