@@ -319,6 +319,16 @@ import { competitorMatch16Articles } from "@/lib/articles/data/competitor-match-
 import { competitorMatch17Articles } from "@/lib/articles/data/competitor-match-17";
 import { competitorMatch18Articles } from "@/lib/articles/data/competitor-match-18";
 import { competitorMatch19Articles } from "@/lib/articles/data/competitor-match-19";
+import { competitorGapBatch1Articles } from "@/lib/articles/data/competitor-gap-batch-1";
+import { competitorGapBatch2Articles } from "@/lib/articles/data/competitor-gap-batch-2";
+import { competitorGapBatch3Articles } from "@/lib/articles/data/competitor-gap-batch-3";
+import { competitorGapBatch4Articles } from "@/lib/articles/data/competitor-gap-batch-4";
+import { competitorGapBatch5Articles } from "@/lib/articles/data/competitor-gap-batch-5";
+import { competitorGapBatch6Articles } from "@/lib/articles/data/competitor-gap-batch-6";
+import { competitorGapBatch7Articles } from "@/lib/articles/data/competitor-gap-batch-7";
+import { competitorGapBatch8Articles } from "@/lib/articles/data/competitor-gap-batch-8";
+import { competitorGapBatch9Articles } from "@/lib/articles/data/competitor-gap-batch-9";
+import { competitorGapBatch10Articles } from "@/lib/articles/data/competitor-gap-batch-10";
 
 export type { Article, ArticleBlock } from "@/lib/articles/types";
 
@@ -643,6 +653,16 @@ export const articles: Article[] = [
   ...longTailLeadsB4Articles,
   ...longTailLeadsB5Articles,
   ...longTailLeadsB6Articles,
+  ...competitorGapBatch1Articles,
+  ...competitorGapBatch2Articles,
+  ...competitorGapBatch3Articles,
+  ...competitorGapBatch4Articles,
+  ...competitorGapBatch5Articles,
+  ...competitorGapBatch6Articles,
+  ...competitorGapBatch7Articles,
+  ...competitorGapBatch8Articles,
+  ...competitorGapBatch9Articles,
+  ...competitorGapBatch10Articles,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
