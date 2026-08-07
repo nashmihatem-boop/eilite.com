@@ -125,6 +125,34 @@ export const coverageIndustries: CoverageIndustry[] = [
       { q: "How do I get started?", a: "Book a demo call and our team will confirm current availability for your service area and trade." },
     ],
   },
+  {
+    slug: "healthcare",
+    label: "Healthcare",
+    highlight: "state by state",
+    tagline: "Healthcare leads, transfers & calls,",
+    subheadline: "Medicare, final expense, and senior care shoppers ready to enroll or talk to an agent.",
+    searchChips: ["medicare advantage plans near me", "final expense insurance quote", "senior home care services"],
+    demoIndustry: "Healthcare",
+    articleCategories: ["Medicare Leads"],
+    sourcingParagraphs: [
+      "Healthcare demand across the country is captured on our owned-and-operated landing pages, sourced from a limited set of vetted top-tier publishers, or generated directly through paid-search campaigns targeting active healthcare intent — never aggregators or resold lists.",
+      "Every campaign is configured against your specific product line, licensing states, and target volume before a single lead is delivered.",
+    ],
+    sourcingBenefits: [
+      "Access verified, high-intent healthcare leads across Medicare, final expense, and senior care",
+      "Leads validated in real time before they ever reach your agents",
+      "Scale volume up or down around enrollment periods like AEP",
+      "Work with a network built for TCPA, DNC, and CMS marketing guideline compliance",
+    ],
+    faqs: [
+      { q: "Do you have healthcare coverage nationwide?", a: "Yes. We source healthcare leads, warm transfers, and inbound calls across all 50 states and DC, subject to current campaign availability and your licensing footprint." },
+      { q: "Are healthcare leads exclusive to me?", a: "Yes. Every lead we deliver is sold once, to a single buyer — never resold or shared with competitors." },
+      { q: "How fast is delivery?", a: "Web form leads are delivered in real time as they're generated. Warm transfers and inbound calls connect live, the moment a prospect is ready to talk." },
+      { q: "Can I target specific states or product lines?", a: "Yes. Campaigns are configured around your specific licensed states, product lines, and volume needs before launch." },
+      { q: "How are leads verified?", a: "Every lead runs through fraud detection, TCPA compliance checks, and real-time validation for phone, email, and address accuracy." },
+      { q: "How do I get started?", a: "Book a demo call and our team will confirm current availability for your licensed states and product lines." },
+    ],
+  },
 ];
 
 export function getCoverageIndustry(slug: string): CoverageIndustry | undefined {
