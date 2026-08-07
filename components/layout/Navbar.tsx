@@ -63,12 +63,6 @@ export function Navbar() {
         </nav>
 
         <div className="hidden items-center gap-3 md:flex lg:flex">
-          <a
-            href="tel:+13022447240"
-            className="text-sm font-semibold text-[var(--color-ink)] transition-colors hover:text-[var(--color-brand)]"
-          >
-            (302) 244-7240
-          </a>
           <DemoTriggerButton className="rounded-full bg-[var(--color-brand)] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-dark)]">
             Book a Demo Call
           </DemoTriggerButton>
@@ -151,12 +145,6 @@ export function Navbar() {
           </div>
 
           <div className="mt-4 flex flex-col gap-3 border-t border-[var(--color-line)] pt-4">
-            <a
-              href="tel:+13022447240"
-              className="text-sm font-semibold text-[var(--color-ink)] transition-colors hover:text-[var(--color-brand)]"
-            >
-              (302) 244-7240
-            </a>
             <DemoTriggerButton className="w-full rounded-full bg-[var(--color-brand)] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-dark)]">
               Book a Demo Call
             </DemoTriggerButton>
