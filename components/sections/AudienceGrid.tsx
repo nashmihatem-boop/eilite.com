@@ -1,4 +1,4 @@
-import { Scale, ShieldCheck, Landmark, Hammer, Megaphone, Network, ArrowRight } from "lucide-react";
+import { Scale, ShieldCheck, Landmark, Hammer, Stethoscope, Briefcase, Headset, Megaphone, Network, ArrowRight } from "lucide-react";
 import { DemoTriggerButton } from "@/components/ui/DemoTriggerButton";
 
 const audiences = [
@@ -29,6 +29,27 @@ const audiences = [
     title: "Home Service Contractors",
     detail: "Solar, roofing, and remodeling pros filling their pipeline with in-market homeowners.",
     industry: "Home Services",
+  },
+  {
+    tag: "Healthcare",
+    icon: Stethoscope,
+    title: "Healthcare & Medicare Agents",
+    detail: "Independent agents and FMOs connecting with beneficiaries actively comparing Medicare and final expense coverage.",
+    industry: "Healthcare",
+  },
+  {
+    tag: "Agencies",
+    icon: Briefcase,
+    title: "Advertising & Marketing Agencies",
+    detail: "Agencies managing lead generation for multiple clients across industries, from a single dashboard.",
+    industry: undefined,
+  },
+  {
+    tag: "Call Centers",
+    icon: Headset,
+    title: "Call Centers & Telesales Teams",
+    detail: "High-volume telesales operations that need a steady stream of dial-ready, verified leads to keep agents talking.",
+    industry: undefined,
   },
   {
     tag: "Traffic Sources",

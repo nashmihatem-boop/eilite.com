@@ -18,6 +18,7 @@ const ROLES = [
   "Law Firm",
   "Lawyer",
   "Advertising Agency",
+  "Call Center",
 ];
 
 const inputClass =
