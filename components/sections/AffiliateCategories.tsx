@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Scale, Landmark, Hammer, ShieldCheck } from "lucide-react";
+import { Scale, Landmark, Hammer, ShieldCheck, Stethoscope } from "lucide-react";
 
 const groups = [
   {
@@ -55,6 +55,20 @@ const groups = [
     industry: "Insurance",
     services: ["Auto Insurance", "Health Insurance", "Medicare", "Life Insurance", "Home Insurance", "Final Expense"],
   },
+  {
+    icon: Stethoscope,
+    industry: "Healthcare",
+    services: [
+      "Medicare",
+      "Medicare Advantage",
+      "Medicare Supplement",
+      "Final Expense",
+      "Senior Care",
+      "Home Health Care",
+      "Dental",
+      "Telehealth",
+    ],
+  },
 ];
 
 export function AffiliateCategories() {
@@ -70,7 +84,7 @@ export function AffiliateCategories() {
             Pay-Per-Call &amp; Form Categories, <span className="text-[var(--color-brand)]">Across Every Industry</span>
           </h2>
           <p className="mt-4 text-[var(--color-ink-soft)]">
-            We constantly expand our coverage across all four verticals we serve. We love affiliates that go
+            We constantly expand our coverage across all five verticals we serve. We love affiliates that go
             after long-tail traffic and help monetize everything you send.
           </p>
         </div>

@@ -6,7 +6,7 @@ import { useDemoModal } from "@/lib/demo-modal-context";
 import { MultiSelect } from "@/components/ui/MultiSelect";
 import { SOLUTIONS } from "@/lib/form-options";
 
-const INDUSTRIES = ["Legal", "Financial Services", "Home Services", "Insurance"];
+const INDUSTRIES = ["Legal", "Financial Services", "Home Services", "Insurance", "Healthcare"];
 const ROLES = [
   "Broker",
   "Contractor",

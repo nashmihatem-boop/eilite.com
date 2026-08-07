@@ -4,7 +4,7 @@ import { useState, type FormEvent } from "react";
 import { MultiSelect } from "@/components/ui/MultiSelect";
 import { SOLUTIONS, COUNTRIES } from "@/lib/form-options";
 
-const INDUSTRIES = ["Legal", "Financial", "Home Services", "Insurance"];
+const INDUSTRIES = ["Legal", "Financial", "Home Services", "Insurance", "Healthcare"];
 
 const inputClass =
   "w-full rounded-lg border border-[var(--color-line)] bg-white px-3.5 py-2.5 text-sm text-[var(--color-ink)] placeholder:text-[var(--color-muted)] focus:border-[var(--color-brand)] focus:outline-none";
