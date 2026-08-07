@@ -5,19 +5,19 @@ const paths = [
     icon: ShoppingCart,
     title: "Buying Leads",
     detail:
-      "Optimizing acquisition and need reliable volume? Buy exclusive, verified leads across legal, financial, home services, insurance, and healthcare — filtered to what you're already running campaigns for.",
+      "Need reliable volume that actually converts? Buy exclusive, verified leads across legal, financial, home services, insurance, and healthcare — so every dollar spent turns into closed business, not wasted ad spend.",
   },
   {
     icon: TrendingUp,
     title: "Selling Leads or Calls",
     detail:
-      "Generating more volume than you can place, or sitting on traffic you already trust? Route it to buyers actively bidding for it — real-time reporting, no long-term contract.",
+      "Generating more volume than you can place, or sitting on traffic you already trust? Turn it into a real, ongoing revenue stream — real-time reporting, no long-term contract.",
   },
   {
     icon: Shuffle,
     title: "Both",
     detail:
-      "Plenty of Alliance members do both — buying to fill gaps in one vertical while selling overflow in another, all from a single account.",
+      "Plenty of Alliance members do both — buying to fill gaps in one vertical while turning overflow into extra profit in another, all from a single account.",
   },
 ];
 
@@ -27,7 +27,7 @@ export function CommunityPartnerPaths() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <span className="text-xs font-bold uppercase tracking-[0.2em] text-[var(--color-brand)]">
-            How You Can Partner
+            How We Help You Profit
           </span>
           <h2 className="mt-3 font-heading text-3xl font-bold text-[var(--color-ink)] sm:text-4xl">
             Buy, Sell, or <span className="text-[var(--color-brand)]">Both</span> — However You Work
