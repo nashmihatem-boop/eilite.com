@@ -5,6 +5,7 @@ import { Footer } from "@/components/layout/Footer";
 import { MarketplaceHero } from "@/components/marketplace/MarketplaceHero";
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
 import { CoverageSolutionCards } from "@/components/coverage/CoverageSolutionCards";
+import { CoverageHowItWorks } from "@/components/coverage/CoverageHowItWorks";
 import { StateCoverageGrid } from "@/components/coverage/StateCoverageGrid";
 import { CoverageArticles } from "@/components/coverage/CoverageArticles";
 import { ComplianceStrip } from "@/components/sections/ComplianceStrip";
@@ -79,6 +80,8 @@ export default async function CoverageIndustryPage({
       />
 
       <CoverageSolutionCards industryLabel={industry.label} />
+
+      {industry.showLeadLifecycle && <CoverageHowItWorks industryLabel={industry.label} />}
 
       <ComplianceStrip />
 

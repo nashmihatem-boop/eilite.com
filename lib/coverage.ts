@@ -9,6 +9,7 @@ export type CoverageIndustry = {
   articleCategories: string[];
   sourcingParagraphs: string[];
   sourcingBenefits: string[];
+  showLeadLifecycle?: boolean;
   faqs: { q: string; a: string }[];
 };
 
@@ -134,6 +135,7 @@ export const coverageIndustries: CoverageIndustry[] = [
     searchChips: ["medicare advantage plans near me", "final expense insurance quote", "senior home care services"],
     demoIndustry: "Healthcare",
     articleCategories: ["Medicare Leads"],
+    showLeadLifecycle: true,
     sourcingParagraphs: [
       "Healthcare demand across the country is captured on our owned-and-operated landing pages, sourced from a limited set of vetted top-tier publishers, or generated directly through paid-search campaigns targeting active healthcare intent — never aggregators or resold lists.",
       "Every campaign is configured against your specific product line, licensing states, and target volume before a single lead is delivered.",
