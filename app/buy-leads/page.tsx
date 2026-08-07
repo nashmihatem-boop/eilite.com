@@ -7,7 +7,6 @@ import { MarketplaceProblem } from "@/components/marketplace/MarketplaceProblem"
 import { MarketplaceOverview } from "@/components/marketplace/MarketplaceOverview";
 import { SolutionHowItWorks } from "@/components/solutions/SolutionHowItWorks";
 import { MarketplaceBenefits } from "@/components/marketplace/MarketplaceBenefits";
-import { BuyerAudienceToggle } from "@/components/marketplace/BuyerAudienceToggle";
 import { MarketplaceFAQ, type FAQItem } from "@/components/marketplace/MarketplaceFAQ";
 import { FinalCTA } from "@/components/sections/FinalCTA";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -163,7 +162,6 @@ export default function BuyLeadsPage() {
           },
         ]}
       />
-      <BuyerAudienceToggle />
       <MarketplaceFAQ faqs={faqs} />
       <FinalCTA
         heading="Ready to Start Buying Exclusive Leads?"
